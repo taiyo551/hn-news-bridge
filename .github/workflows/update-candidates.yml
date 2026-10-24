@@ -1,0 +1,66 @@
+name: Update public HN candidates
+on:
+  workflow_dispatch:
+  schedule:
+    # Every hour at :35 UTC, including 06:35 JST before the 07:00 conversation.
+    - cron: '35 * * * *'
+  push:
+    branches: [main]
+    paths: ['bridge.py', 'publish.py', 'tests/**', '.github/workflows/update-candidates.yml']
+permissions:
+  contents: read
+concurrency:
+  group: public-hn-candidates
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: '3.12'
+      - name: Test local and public exporters
+        run: python -m unittest discover -s tests -v
+      - name: Get upstream DB version
+        id: upstream
+        shell: bash
+        run: |
+          python - <<'PY'
+          import os
+          import bridge
+          version = bridge.latest_source_version()['commit']
+          with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as out:
+              out.write('commit=' + version + '\n')
+          PY
+      - name: Restore this DB version
+        uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: |
+            data/source.sqlite
+            data/source-version.json
+          key: public-hn-db-v1-${{ steps.upstream.outputs.commit }}
+      - name: Generate the fixed public files
+        env:
+          HN_SOURCE_COMMIT: ${{ steps.upstream.outputs.commit }}
+        run: python publish.py --source-commit "$HN_SOURCE_COMMIT"
+      - name: Commit only the two public files
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import publish
+          publish.check_public_directory(Path('public'))
+          assert {p.name for p in Path('public').iterdir()} == publish.PUBLIC_FILES
+          PY
+          git add -- public/chatgpt-candidates.md public/candidates.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git -c core.hooksPath=/dev/null commit -m 'Update public HN candidates'
+          git push origin HEAD:main
