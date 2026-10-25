@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-25T06:41:56Z",
-  "source_data_as_of": "2026-10-25T04:49:49Z",
+  "generated_at": "2026-10-25T12:43:10Z",
+  "source_data_as_of": "2026-10-25T11:39:50Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-18T06:41:56Z",
-  "eligible_count_before_dedup": 432,
+  "window_start": "2026-10-18T12:43:10Z",
+  "eligible_count_before_dedup": 429,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "5cd940c7d0f8f9d46cab974d5145083e64933cb6"
+    "commit": "2419a078b26ad8f0ba64f15d638060b344abd722"
   },
   "articles": [
     {
@@ -44,7 +44,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50179857",
       "category": "AI",
       "posted_at": "2026-10-21T12:34:46Z",
-      "fetched_at": "2026-10-25T04:49:03Z",
+      "fetched_at": "2026-10-25T11:38:58Z",
       "score": 76,
       "comment_count": 47,
       "score_gain_24h_observed": null,
@@ -107,7 +107,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50167583",
       "category": "AI",
       "posted_at": "2026-10-20T15:09:29Z",
-      "fetched_at": "2026-10-25T04:49:03Z",
+      "fetched_at": "2026-10-25T11:38:58Z",
       "score": 53,
       "comment_count": 22,
       "score_gain_24h_observed": null,
@@ -129,7 +129,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50183253",
       "category": "AI",
       "posted_at": "2026-10-21T16:03:32Z",
-      "fetched_at": "2026-10-25T04:49:03Z",
+      "fetched_at": "2026-10-25T11:38:58Z",
       "score": 54,
       "comment_count": 6,
       "score_gain_24h_observed": null,
@@ -196,10 +196,10 @@
       "hn_url": "https://news.ycombinator.com/item?id=50218141",
       "category": "AI",
       "posted_at": "2026-10-24T03:32:47Z",
-      "fetched_at": "2026-10-25T04:49:03Z",
+      "fetched_at": "2026-10-25T11:38:58Z",
       "score": 10,
       "comment_count": 2,
-      "score_gain_24h_observed": 2,
+      "score_gain_24h_observed": 0,
       "comment_gain_24h_observed": 0,
       "keywords": [
         "open source",
@@ -225,7 +225,8 @@
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
-        "ai agent"
+        "ai agent",
+        "tell hn"
       ],
       "selection_hints": [
         "AI",
@@ -241,7 +242,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50191278",
       "category": "Other",
       "posted_at": "2026-10-22T04:46:34Z",
-      "fetched_at": "2026-10-25T04:49:03Z",
+      "fetched_at": "2026-10-25T11:38:58Z",
       "score": 7,
       "comment_count": 3,
       "score_gain_24h_observed": null,
@@ -450,8 +451,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50172041",
       "category": "Security",
       "posted_at": "2026-10-20T20:15:50Z",
-      "fetched_at": "2026-10-25T04:49:03Z",
-      "score": 1557,
+      "fetched_at": "2026-10-25T11:38:58Z",
+      "score": 1558,
       "comment_count": 659,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -493,9 +494,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50197313",
       "category": "AI",
       "posted_at": "2026-10-22T16:08:00Z",
-      "fetched_at": "2026-10-25T04:49:03Z",
-      "score": 648,
-      "comment_count": 623,
+      "fetched_at": "2026-10-25T11:38:58Z",
+      "score": 650,
+      "comment_count": 624,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -514,7 +515,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50182987",
       "category": "Security",
       "posted_at": "2026-10-21T15:48:56Z",
-      "fetched_at": "2026-10-25T04:49:03Z",
+      "fetched_at": "2026-10-25T11:38:58Z",
       "score": 813,
       "comment_count": 402,
       "score_gain_24h_observed": null,
@@ -533,11 +534,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50224463",
       "category": "AI",
       "posted_at": "2026-10-24T19:47:19Z",
-      "fetched_at": "2026-10-25T04:49:49Z",
-      "score": 516,
-      "comment_count": 531,
-      "score_gain_24h_observed": 330,
-      "comment_gain_24h_observed": 389,
+      "fetched_at": "2026-10-25T11:39:50Z",
+      "score": 559,
+      "comment_count": 595,
+      "score_gain_24h_observed": 373,
+      "comment_gain_24h_observed": 453,
       "keywords": [],
       "selection_hints": [
         "AI"
@@ -590,7 +591,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50188228",
       "category": "Security",
       "posted_at": "2026-10-21T21:58:03Z",
-      "fetched_at": "2026-10-25T04:49:03Z",
+      "fetched_at": "2026-10-25T11:38:58Z",
       "score": 602,
       "comment_count": 339,
       "score_gain_24h_observed": null,
@@ -598,25 +599,6 @@
       "keywords": [],
       "selection_hints": [
         "security"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50138531",
-      "hn_id": 50138531,
-      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "url": "https://api-docs.deepseek.com/guides/search/",
-      "hn_url": "https://news.ycombinator.com/item?id=50138531",
-      "category": "AI",
-      "posted_at": "2026-10-18T06:50:36Z",
-      "fetched_at": "2026-10-23T17:13:12Z",
-      "score": 604,
-      "comment_count": 281,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "search"
       ],
       "snippet": ""
     },
@@ -637,6 +619,25 @@
         "spend time",
         "like ai"
       ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50226419",
+      "hn_id": 50226419,
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "hn_url": "https://news.ycombinator.com/item?id=50226419",
+      "category": "Other",
+      "posted_at": "2026-10-24T23:11:54Z",
+      "fetched_at": "2026-10-25T11:39:50Z",
+      "score": 380,
+      "comment_count": 388,
+      "score_gain_24h_observed": 128,
+      "comment_gain_24h_observed": 127,
+      "keywords": [],
       "selection_hints": [
         "AI"
       ],
@@ -669,7 +670,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50198675",
       "category": "AI",
       "posted_at": "2026-10-22T17:44:06Z",
-      "fetched_at": "2026-10-25T04:49:03Z",
+      "fetched_at": "2026-10-25T11:38:58Z",
       "score": 499,
       "comment_count": 217,
       "score_gain_24h_observed": null,
@@ -690,7 +691,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50180836",
       "category": "AI",
       "posted_at": "2026-10-21T13:43:19Z",
-      "fetched_at": "2026-10-25T04:49:03Z",
+      "fetched_at": "2026-10-25T11:38:58Z",
       "score": 454,
       "comment_count": 185,
       "score_gain_24h_observed": null,
@@ -717,25 +718,6 @@
       "keywords": [],
       "selection_hints": [
         "LLM"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50226419",
-      "hn_id": 50226419,
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "hn_url": "https://news.ycombinator.com/item?id=50226419",
-      "category": "Other",
-      "posted_at": "2026-10-24T23:11:54Z",
-      "fetched_at": "2026-10-25T04:49:49Z",
-      "score": 252,
-      "comment_count": 261,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
       ],
       "snippet": ""
     },
@@ -778,6 +760,27 @@
       "snippet": ""
     },
     {
+      "id": "HN-50223647",
+      "hn_id": 50223647,
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "hn_url": "https://news.ycombinator.com/item?id=50223647",
+      "category": "AI",
+      "posted_at": "2026-10-24T18:04:57Z",
+      "fetched_at": "2026-10-25T11:39:50Z",
+      "score": 208,
+      "comment_count": 171,
+      "score_gain_24h_observed": 116,
+      "comment_gain_24h_observed": 92,
+      "keywords": [
+        "ai generated"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50179828",
       "hn_id": 50179828,
       "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
@@ -785,14 +788,33 @@
       "hn_url": "https://news.ycombinator.com/item?id=50179828",
       "category": "Security",
       "posted_at": "2026-10-21T12:31:28Z",
-      "fetched_at": "2026-10-25T04:49:03Z",
-      "score": 273,
+      "fetched_at": "2026-10-25T11:38:58Z",
+      "score": 274,
       "comment_count": 95,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "security"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50171379",
+      "hn_id": 50171379,
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50171379",
+      "category": "AI",
+      "posted_at": "2026-10-20T19:22:39Z",
+      "fetched_at": "2026-10-25T11:38:58Z",
+      "score": 274,
+      "comment_count": 90,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
       ],
       "snippet": ""
     },
@@ -812,25 +834,6 @@
       "keywords": [
         "ai safety"
       ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50171379",
-      "hn_id": 50171379,
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50171379",
-      "category": "AI",
-      "posted_at": "2026-10-20T19:22:39Z",
-      "fetched_at": "2026-10-25T04:49:03Z",
-      "score": 249,
-      "comment_count": 83,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
       "selection_hints": [
         "AI"
       ],
