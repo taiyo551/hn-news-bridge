@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-25T12:43:10Z",
-  "source_data_as_of": "2026-10-25T11:39:50Z",
+  "generated_at": "2026-10-25T17:11:21Z",
+  "source_data_as_of": "2026-10-25T16:29:28Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-18T12:43:10Z",
-  "eligible_count_before_dedup": 429,
+  "window_start": "2026-10-18T17:11:21Z",
+  "eligible_count_before_dedup": 418,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "2419a078b26ad8f0ba64f15d638060b344abd722"
+    "commit": "3bd6e9ab3436d0c514e7b1d80509663bdd6e3c3e"
   },
   "articles": [
     {
@@ -44,7 +44,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50179857",
       "category": "AI",
       "posted_at": "2026-10-21T12:34:46Z",
-      "fetched_at": "2026-10-25T11:38:58Z",
+      "fetched_at": "2026-10-25T16:28:37Z",
       "score": 76,
       "comment_count": 47,
       "score_gain_24h_observed": null,
@@ -107,7 +107,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50167583",
       "category": "AI",
       "posted_at": "2026-10-20T15:09:29Z",
-      "fetched_at": "2026-10-25T11:38:58Z",
+      "fetched_at": "2026-10-25T16:28:37Z",
       "score": 53,
       "comment_count": 22,
       "score_gain_24h_observed": null,
@@ -129,7 +129,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50183253",
       "category": "AI",
       "posted_at": "2026-10-21T16:03:32Z",
-      "fetched_at": "2026-10-25T11:38:58Z",
+      "fetched_at": "2026-10-25T16:28:37Z",
       "score": 54,
       "comment_count": 6,
       "score_gain_24h_observed": null,
@@ -196,11 +196,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50218141",
       "category": "AI",
       "posted_at": "2026-10-24T03:32:47Z",
-      "fetched_at": "2026-10-25T11:38:58Z",
+      "fetched_at": "2026-10-25T16:28:37Z",
       "score": 10,
       "comment_count": 2,
-      "score_gain_24h_observed": 0,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "open source",
         "ai assistant"
@@ -212,29 +212,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50142650",
-      "hn_id": 50142650,
-      "title": "Tell HN: I picked up knitting while waiting for my AI agent to complete",
-      "url": "https://news.ycombinator.com/item?id=50142650",
-      "hn_url": "https://news.ycombinator.com/item?id=50142650",
-      "category": "AI",
-      "posted_at": "2026-10-18T16:39:46Z",
-      "fetched_at": "2026-10-20T17:14:13Z",
-      "score": 9,
-      "comment_count": 2,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agent",
-        "tell hn"
-      ],
-      "selection_hints": [
-        "AI",
-        "agent"
-      ],
-      "snippet": "Any new hobbies you are willing to share that AI made you start?"
-    },
-    {
       "id": "HN-50191278",
       "hn_id": 50191278,
       "title": "Lemoncode, Free Coding Agent",
@@ -242,14 +219,12 @@
       "hn_url": "https://news.ycombinator.com/item?id=50191278",
       "category": "Other",
       "posted_at": "2026-10-22T04:46:34Z",
-      "fetched_at": "2026-10-25T11:38:58Z",
+      "fetched_at": "2026-10-25T16:28:37Z",
       "score": 7,
       "comment_count": 3,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
-      "keywords": [
-        "coding agent"
-      ],
+      "keywords": [],
       "selection_hints": [
         "agent",
         "coding"
@@ -333,28 +308,6 @@
       "selection_hints": [
         "security",
         "Python"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50141365",
-      "hn_id": 50141365,
-      "title": "Show HN: DocuMemory – Persistent memory and context for AI coding tools",
-      "url": "https://www.documemory.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=50141365",
-      "category": "AI",
-      "posted_at": "2026-10-18T14:22:54Z",
-      "fetched_at": "2026-10-20T21:40:58Z",
-      "score": 6,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai coding"
-      ],
-      "selection_hints": [
-        "AI",
-        "coding"
       ],
       "snippet": ""
     },
@@ -451,14 +404,12 @@
       "hn_url": "https://news.ycombinator.com/item?id=50172041",
       "category": "Security",
       "posted_at": "2026-10-20T20:15:50Z",
-      "fetched_at": "2026-10-25T11:38:58Z",
+      "fetched_at": "2026-10-25T16:28:37Z",
       "score": 1558,
       "comment_count": 659,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
-      "keywords": [
-        "code execution"
-      ],
+      "keywords": [],
       "selection_hints": [
         "security"
       ],
@@ -494,9 +445,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50197313",
       "category": "AI",
       "posted_at": "2026-10-22T16:08:00Z",
-      "fetched_at": "2026-10-25T11:38:58Z",
-      "score": 650,
-      "comment_count": 624,
+      "fetched_at": "2026-10-25T16:28:37Z",
+      "score": 652,
+      "comment_count": 628,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -515,8 +466,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50182987",
       "category": "Security",
       "posted_at": "2026-10-21T15:48:56Z",
-      "fetched_at": "2026-10-25T11:38:58Z",
-      "score": 813,
+      "fetched_at": "2026-10-25T16:28:37Z",
+      "score": 815,
       "comment_count": 402,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -534,11 +485,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50224463",
       "category": "AI",
       "posted_at": "2026-10-24T19:47:19Z",
-      "fetched_at": "2026-10-25T11:39:50Z",
-      "score": 559,
-      "comment_count": 595,
-      "score_gain_24h_observed": 373,
-      "comment_gain_24h_observed": 453,
+      "fetched_at": "2026-10-25T16:29:28Z",
+      "score": 588,
+      "comment_count": 625,
+      "score_gain_24h_observed": 402,
+      "comment_gain_24h_observed": 483,
       "keywords": [],
       "selection_hints": [
         "AI"
@@ -591,7 +542,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50188228",
       "category": "Security",
       "posted_at": "2026-10-21T21:58:03Z",
-      "fetched_at": "2026-10-25T11:38:58Z",
+      "fetched_at": "2026-10-25T16:28:37Z",
       "score": 602,
       "comment_count": 339,
       "score_gain_24h_observed": null,
@@ -599,6 +550,25 @@
       "keywords": [],
       "selection_hints": [
         "security"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50226419",
+      "hn_id": 50226419,
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "hn_url": "https://news.ycombinator.com/item?id=50226419",
+      "category": "Other",
+      "posted_at": "2026-10-24T23:11:54Z",
+      "fetched_at": "2026-10-25T16:29:28Z",
+      "score": 447,
+      "comment_count": 470,
+      "score_gain_24h_observed": 195,
+      "comment_gain_24h_observed": 209,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
       ],
       "snippet": ""
     },
@@ -619,25 +589,6 @@
         "spend time",
         "like ai"
       ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50226419",
-      "hn_id": 50226419,
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "hn_url": "https://news.ycombinator.com/item?id=50226419",
-      "category": "Other",
-      "posted_at": "2026-10-24T23:11:54Z",
-      "fetched_at": "2026-10-25T11:39:50Z",
-      "score": 380,
-      "comment_count": 388,
-      "score_gain_24h_observed": 128,
-      "comment_gain_24h_observed": 127,
-      "keywords": [],
       "selection_hints": [
         "AI"
       ],
@@ -670,8 +621,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50198675",
       "category": "AI",
       "posted_at": "2026-10-22T17:44:06Z",
-      "fetched_at": "2026-10-25T11:38:58Z",
-      "score": 499,
+      "fetched_at": "2026-10-25T16:28:37Z",
+      "score": 500,
       "comment_count": 217,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -691,7 +642,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50180836",
       "category": "AI",
       "posted_at": "2026-10-21T13:43:19Z",
-      "fetched_at": "2026-10-25T11:38:58Z",
+      "fetched_at": "2026-10-25T16:28:37Z",
       "score": 454,
       "comment_count": 185,
       "score_gain_24h_observed": null,
@@ -701,6 +652,25 @@
         "AI"
       ],
       "snippet": "https://www.php2shell.com/"
+    },
+    {
+      "id": "HN-50219177",
+      "hn_id": 50219177,
+      "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
+      "url": "https://broccoli2shell.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50219177",
+      "category": "Security",
+      "posted_at": "2026-10-24T08:06:39Z",
+      "fetched_at": "2026-10-25T16:28:37Z",
+      "score": 363,
+      "comment_count": 181,
+      "score_gain_24h_observed": 53,
+      "comment_gain_24h_observed": 17,
+      "keywords": [],
+      "selection_hints": [
+        "Python"
+      ],
+      "snippet": "https://www.aikido.dev/blog/python-packages-vulnerable-node2..."
     },
     {
       "id": "HN-50145507",
@@ -767,14 +737,54 @@
       "hn_url": "https://news.ycombinator.com/item?id=50223647",
       "category": "AI",
       "posted_at": "2026-10-24T18:04:57Z",
-      "fetched_at": "2026-10-25T11:39:50Z",
-      "score": 208,
-      "comment_count": 171,
-      "score_gain_24h_observed": 116,
-      "comment_gain_24h_observed": 92,
+      "fetched_at": "2026-10-25T16:29:28Z",
+      "score": 225,
+      "comment_count": 181,
+      "score_gain_24h_observed": 133,
+      "comment_gain_24h_observed": 102,
       "keywords": [
         "ai generated"
       ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50227356",
+      "hn_id": 50227356,
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "hn_url": "https://news.ycombinator.com/item?id=50227356",
+      "category": "AI",
+      "posted_at": "2026-10-25T01:33:49Z",
+      "fetched_at": "2026-10-25T16:29:28Z",
+      "score": 282,
+      "comment_count": 95,
+      "score_gain_24h_observed": 232,
+      "comment_gain_24h_observed": 79,
+      "keywords": [
+        "ai models"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50171379",
+      "hn_id": 50171379,
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50171379",
+      "category": "AI",
+      "posted_at": "2026-10-20T19:22:39Z",
+      "fetched_at": "2026-10-25T16:28:37Z",
+      "score": 281,
+      "comment_count": 93,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
       "selection_hints": [
         "AI"
       ],
@@ -788,7 +798,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50179828",
       "category": "Security",
       "posted_at": "2026-10-21T12:31:28Z",
-      "fetched_at": "2026-10-25T11:38:58Z",
+      "fetched_at": "2026-10-25T16:28:37Z",
       "score": 274,
       "comment_count": 95,
       "score_gain_24h_observed": null,
@@ -800,42 +810,23 @@
       "snippet": ""
     },
     {
-      "id": "HN-50171379",
-      "hn_id": 50171379,
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50171379",
+      "id": "HN-50176082",
+      "hn_id": 50176082,
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50176082",
       "category": "AI",
-      "posted_at": "2026-10-20T19:22:39Z",
-      "fetched_at": "2026-10-25T11:38:58Z",
-      "score": 274,
-      "comment_count": 90,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50141429",
-      "hn_id": 50141429,
-      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-      "hn_url": "https://news.ycombinator.com/item?id=50141429",
-      "category": "AI",
-      "posted_at": "2026-10-18T14:30:27Z",
-      "fetched_at": "2026-10-20T21:40:58Z",
-      "score": 172,
-      "comment_count": 167,
+      "posted_at": "2026-10-21T04:27:51Z",
+      "fetched_at": "2026-10-25T16:28:37Z",
+      "score": 226,
+      "comment_count": 103,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
-        "ai safety"
+        "bad idea"
       ],
       "selection_hints": [
-        "AI"
+        "LLM"
       ],
       "snippet": ""
     }
