@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-26T01:33:34Z",
-  "source_data_as_of": "2026-10-25T20:56:04Z",
+  "generated_at": "2026-10-26T06:53:45Z",
+  "source_data_as_of": "2026-10-26T04:55:00Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-19T01:33:34Z",
-  "eligible_count_before_dedup": 412,
+  "window_start": "2026-10-19T06:53:45Z",
+  "eligible_count_before_dedup": 424,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "5f34e1873db3a210b1dd00282495dce9dc9cc2e8"
+    "commit": "29f6ccbf8aef58527a5161017877a595ec978dbb"
   },
   "articles": [
     {
@@ -44,7 +44,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50179857",
       "category": "AI",
       "posted_at": "2026-10-21T12:34:46Z",
-      "fetched_at": "2026-10-25T20:55:15Z",
+      "fetched_at": "2026-10-26T04:54:10Z",
       "score": 76,
       "comment_count": 47,
       "score_gain_24h_observed": null,
@@ -107,7 +107,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50167583",
       "category": "AI",
       "posted_at": "2026-10-20T15:09:29Z",
-      "fetched_at": "2026-10-25T20:55:15Z",
+      "fetched_at": "2026-10-26T04:54:10Z",
       "score": 53,
       "comment_count": 22,
       "score_gain_24h_observed": null,
@@ -129,7 +129,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50183253",
       "category": "AI",
       "posted_at": "2026-10-21T16:03:32Z",
-      "fetched_at": "2026-10-25T20:55:15Z",
+      "fetched_at": "2026-10-26T04:54:10Z",
       "score": 54,
       "comment_count": 6,
       "score_gain_24h_observed": null,
@@ -196,14 +196,13 @@
       "hn_url": "https://news.ycombinator.com/item?id=50218141",
       "category": "AI",
       "posted_at": "2026-10-24T03:32:47Z",
-      "fetched_at": "2026-10-25T20:55:15Z",
+      "fetched_at": "2026-10-26T04:54:10Z",
       "score": 11,
       "comment_count": 2,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
-        "open source",
-        "ai assistant"
+        "open source"
       ],
       "selection_hints": [
         "AI",
@@ -224,9 +223,7 @@
       "comment_count": 3,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
-      "keywords": [
-        "coding agent"
-      ],
+      "keywords": [],
       "selection_hints": [
         "agent",
         "coding"
@@ -267,6 +264,50 @@
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
+      "selection_hints": [
+        "AI",
+        "security"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50237813",
+      "hn_id": 50237813,
+      "title": "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",
+      "url": "https://freehire.me/",
+      "hn_url": "https://news.ycombinator.com/item?id=50237813",
+      "category": "Security",
+      "posted_at": "2026-10-26T01:13:43Z",
+      "fetched_at": "2026-10-26T04:55:00Z",
+      "score": 7,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open source"
+      ],
+      "selection_hints": [
+        "search",
+        "open source"
+      ],
+      "snippet": "freehire is a filterable, job board aggregator, job tracker, and AI-assisted resume tailoring tool. Saving your skills and preferences changes which jobs appear and how your resume gets tailored. I've looked at a lot of these solutions over the years and found it really hard to find the right mix of tools in an open-source offering. I've contributed to a few issues now and worked closely with the maintainer. I've watched this evolve over the last few months. I feel it's ready for everyone to che"
+    },
+    {
+      "id": "HN-50235909",
+      "hn_id": 50235909,
+      "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
+      "url": "https://github.com/SRN0129/Agenttrust",
+      "hn_url": "https://news.ycombinator.com/item?id=50235909",
+      "category": "AI",
+      "posted_at": "2026-10-25T20:46:50Z",
+      "fetched_at": "2026-10-26T04:55:00Z",
+      "score": 7,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai agents"
+      ],
       "selection_hints": [
         "AI",
         "security"
@@ -406,7 +447,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50172041",
       "category": "Security",
       "posted_at": "2026-10-20T20:15:50Z",
-      "fetched_at": "2026-10-25T20:55:15Z",
+      "fetched_at": "2026-10-26T04:54:10Z",
       "score": 1559,
       "comment_count": 659,
       "score_gain_24h_observed": null,
@@ -449,9 +490,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50197313",
       "category": "AI",
       "posted_at": "2026-10-22T16:08:00Z",
-      "fetched_at": "2026-10-25T20:55:15Z",
-      "score": 655,
-      "comment_count": 632,
+      "fetched_at": "2026-10-26T04:54:10Z",
+      "score": 656,
+      "comment_count": 636,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -470,11 +511,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50224463",
       "category": "AI",
       "posted_at": "2026-10-24T19:47:19Z",
-      "fetched_at": "2026-10-25T20:55:15Z",
-      "score": 602,
-      "comment_count": 643,
-      "score_gain_24h_observed": 72,
-      "comment_gain_24h_observed": 94,
+      "fetched_at": "2026-10-26T04:54:10Z",
+      "score": 616,
+      "comment_count": 651,
+      "score_gain_24h_observed": 29,
+      "comment_gain_24h_observed": 30,
       "keywords": [],
       "selection_hints": [
         "AI"
@@ -489,9 +530,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50182987",
       "category": "Security",
       "posted_at": "2026-10-21T15:48:56Z",
-      "fetched_at": "2026-10-25T20:55:15Z",
+      "fetched_at": "2026-10-26T04:54:10Z",
       "score": 816,
-      "comment_count": 402,
+      "comment_count": 403,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -499,6 +540,25 @@
         "security"
       ],
       "snippet": "Related ongoing thread: PHP 8.2.35 - https://news.ycombinator.com/item?id=50180873 (links to more at https://news.ycombinator.com/item?id=50184935 )"
+    },
+    {
+      "id": "HN-50226419",
+      "hn_id": 50226419,
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "hn_url": "https://news.ycombinator.com/item?id=50226419",
+      "category": "Other",
+      "posted_at": "2026-10-24T23:11:54Z",
+      "fetched_at": "2026-10-26T04:54:10Z",
+      "score": 514,
+      "comment_count": 551,
+      "score_gain_24h_observed": 109,
+      "comment_gain_24h_observed": 135,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
     },
     {
       "id": "HN-50150750",
@@ -516,25 +576,6 @@
       "keywords": [],
       "selection_hints": [
         "agent"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50226419",
-      "hn_id": 50226419,
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "hn_url": "https://news.ycombinator.com/item?id=50226419",
-      "category": "Other",
-      "posted_at": "2026-10-24T23:11:54Z",
-      "fetched_at": "2026-10-25T20:56:04Z",
-      "score": 489,
-      "comment_count": 523,
-      "score_gain_24h_observed": 237,
-      "comment_gain_24h_observed": 262,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
       ],
       "snippet": ""
     },
@@ -565,9 +606,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50188228",
       "category": "Security",
       "posted_at": "2026-10-21T21:58:03Z",
-      "fetched_at": "2026-10-25T20:55:15Z",
+      "fetched_at": "2026-10-26T04:54:10Z",
       "score": 602,
-      "comment_count": 340,
+      "comment_count": 341,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -584,9 +625,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50198675",
       "category": "AI",
       "posted_at": "2026-10-22T17:44:06Z",
-      "fetched_at": "2026-10-25T20:55:15Z",
-      "score": 501,
-      "comment_count": 217,
+      "fetched_at": "2026-10-26T04:54:10Z",
+      "score": 502,
+      "comment_count": 218,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -605,7 +646,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50180836",
       "category": "AI",
       "posted_at": "2026-10-21T13:43:19Z",
-      "fetched_at": "2026-10-25T20:55:15Z",
+      "fetched_at": "2026-10-26T04:54:10Z",
       "score": 454,
       "comment_count": 185,
       "score_gain_24h_observed": null,
@@ -624,9 +665,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50219177",
       "category": "Security",
       "posted_at": "2026-10-24T08:06:39Z",
-      "fetched_at": "2026-10-25T20:55:15Z",
-      "score": 389,
-      "comment_count": 209,
+      "fetched_at": "2026-10-26T04:54:10Z",
+      "score": 393,
+      "comment_count": 211,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -636,6 +677,27 @@
       "snippet": "https://www.aikido.dev/blog/python-packages-vulnerable-node2..."
     },
     {
+      "id": "HN-50233304",
+      "hn_id": 50233304,
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50233304",
+      "category": "AI",
+      "posted_at": "2026-10-25T16:28:26Z",
+      "fetched_at": "2026-10-26T04:55:00Z",
+      "score": 210,
+      "comment_count": 306,
+      "score_gain_24h_observed": 68,
+      "comment_gain_24h_observed": 79,
+      "keywords": [
+        "ai use"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50227356",
       "hn_id": 50227356,
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
@@ -643,16 +705,37 @@
       "hn_url": "https://news.ycombinator.com/item?id=50227356",
       "category": "AI",
       "posted_at": "2026-10-25T01:33:49Z",
-      "fetched_at": "2026-10-25T20:56:04Z",
-      "score": 338,
-      "comment_count": 121,
-      "score_gain_24h_observed": 288,
-      "comment_gain_24h_observed": 105,
+      "fetched_at": "2026-10-26T04:54:10Z",
+      "score": 354,
+      "comment_count": 131,
+      "score_gain_24h_observed": 144,
+      "comment_gain_24h_observed": 57,
       "keywords": [
         "ai models"
       ],
       "selection_hints": [
         "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50236102",
+      "hn_id": 50236102,
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "hn_url": "https://news.ycombinator.com/item?id=50236102",
+      "category": "AI",
+      "posted_at": "2026-10-25T21:11:31Z",
+      "fetched_at": "2026-10-26T04:55:00Z",
+      "score": 216,
+      "comment_count": 246,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "openai anthropic"
+      ],
+      "selection_hints": [
+        "LLM"
       ],
       "snippet": ""
     },
@@ -683,11 +766,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50223647",
       "category": "AI",
       "posted_at": "2026-10-24T18:04:57Z",
-      "fetched_at": "2026-10-25T20:55:15Z",
-      "score": 238,
-      "comment_count": 194,
-      "score_gain_24h_observed": 54,
-      "comment_gain_24h_observed": 26,
+      "fetched_at": "2026-10-26T04:54:10Z",
+      "score": 243,
+      "comment_count": 197,
+      "score_gain_24h_observed": 17,
+      "comment_gain_24h_observed": 10,
       "keywords": [
         "ai generated"
       ],
@@ -723,8 +806,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50171379",
       "category": "AI",
       "posted_at": "2026-10-20T19:22:39Z",
-      "fetched_at": "2026-10-25T20:55:15Z",
-      "score": 282,
+      "fetched_at": "2026-10-26T04:54:10Z",
+      "score": 283,
       "comment_count": 94,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -742,7 +825,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50179828",
       "category": "Security",
       "posted_at": "2026-10-21T12:31:28Z",
-      "fetched_at": "2026-10-25T20:55:15Z",
+      "fetched_at": "2026-10-26T04:54:10Z",
       "score": 275,
       "comment_count": 95,
       "score_gain_24h_observed": null,
@@ -750,86 +833,6 @@
       "keywords": [],
       "selection_hints": [
         "security"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50233304",
-      "hn_id": 50233304,
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50233304",
-      "category": "AI",
-      "posted_at": "2026-10-25T16:28:26Z",
-      "fetched_at": "2026-10-25T20:56:04Z",
-      "score": 142,
-      "comment_count": 227,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai use"
-      ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50176082",
-      "hn_id": 50176082,
-      "title": "Using LLM for confidence scoring is a bad idea",
-      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50176082",
-      "category": "AI",
-      "posted_at": "2026-10-21T04:27:51Z",
-      "fetched_at": "2026-10-25T20:55:15Z",
-      "score": 226,
-      "comment_count": 103,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "bad idea"
-      ],
-      "selection_hints": [
-        "LLM"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50217903",
-      "hn_id": 50217903,
-      "title": "Apple Security Research Device",
-      "url": "https://security.apple.com/research-device/",
-      "hn_url": "https://news.ycombinator.com/item?id=50217903",
-      "category": "Security",
-      "posted_at": "2026-10-24T02:36:38Z",
-      "fetched_at": "2026-10-25T20:55:15Z",
-      "score": 187,
-      "comment_count": 134,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "security"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50205229",
-      "hn_id": 50205229,
-      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-      "url": "https://berget.ai/en/blog/per-request-co2-press-release",
-      "hn_url": "https://news.ycombinator.com/item?id=50205229",
-      "category": "AI",
-      "posted_at": "2026-10-23T06:41:11Z",
-      "fetched_at": "2026-10-25T20:55:15Z",
-      "score": 142,
-      "comment_count": 157,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
       ],
       "snippet": ""
     }
