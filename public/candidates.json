@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T16:49:38Z",
+  "generated_at": "2026-10-27T21:27:06Z",
   "source_data_as_of": "2026-10-27T12:20:23Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-20T16:49:38Z",
-  "eligible_count_before_dedup": 372,
+  "window_start": "2026-10-20T21:27:06Z",
+  "eligible_count_before_dedup": 357,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
@@ -359,25 +359,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50172041",
-      "hn_id": 50172041,
-      "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
-      "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
-      "hn_url": "https://news.ycombinator.com/item?id=50172041",
-      "category": "Security",
-      "posted_at": "2026-10-20T20:15:50Z",
-      "fetched_at": "2026-10-26T22:43:26Z",
-      "score": 1560,
-      "comment_count": 659,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "security"
-      ],
-      "snippet": "https://cert.europa.eu/publications/security-advisories/2026... https://news.ycombinator.com/item?id=50167754"
-    },
-    {
       "id": "HN-50224463",
       "hn_id": 50224463,
       "title": "No signs of AI payoff outside the tech sector",
@@ -661,25 +642,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50171379",
-      "hn_id": 50171379,
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50171379",
-      "category": "AI",
-      "posted_at": "2026-10-20T19:22:39Z",
-      "fetched_at": "2026-10-26T22:43:26Z",
-      "score": 284,
-      "comment_count": 94,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50179828",
       "hn_id": 50179828,
       "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
@@ -830,6 +792,44 @@
       "keywords": [
         "ai agents"
       ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50229827",
+      "hn_id": 50229827,
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50229827",
+      "category": "AI",
+      "posted_at": "2026-10-25T09:51:17Z",
+      "fetched_at": "2026-10-27T12:19:32Z",
+      "score": 144,
+      "comment_count": 87,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50199230",
+      "hn_id": 50199230,
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "url": "https://arxiv.org/abs/2610.27251",
+      "hn_url": "https://news.ycombinator.com/item?id=50199230",
+      "category": "AI",
+      "posted_at": "2026-10-22T18:28:16Z",
+      "fetched_at": "2026-10-27T12:19:32Z",
+      "score": 142,
+      "comment_count": 81,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
       "selection_hints": [
         "AI"
       ],
