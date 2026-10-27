@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-27T10:51:01Z",
-  "source_data_as_of": "2026-10-27T05:12:31Z",
+  "generated_at": "2026-10-27T16:49:38Z",
+  "source_data_as_of": "2026-10-27T12:20:23Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-20T10:51:01Z",
-  "eligible_count_before_dedup": 393,
+  "window_start": "2026-10-20T16:49:38Z",
+  "eligible_count_before_dedup": 372,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "9cb046436af38afafe70578e31c61a73b6e951fe"
+    "commit": "872a73460a697a35ab1457446a63ad233be4573d"
   },
   "articles": [
     {
@@ -57,28 +57,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50167583",
-      "hn_id": 50167583,
-      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-      "url": "https://news.ycombinator.com/item?id=50167583",
-      "hn_url": "https://news.ycombinator.com/item?id=50167583",
-      "category": "AI",
-      "posted_at": "2026-10-20T15:09:29Z",
-      "fetched_at": "2026-10-26T22:43:26Z",
-      "score": 53,
-      "comment_count": 23,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open source"
-      ],
-      "selection_hints": [
-        "AI",
-        "open source"
-      ],
-      "snippet": "Hey HN, this is Andy from Respan ( https://www.respan.ai ). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protocols (MCP, voice), modalities (images, videos), and gateway features (fallbacks, PII redaction, smart routing). Instead of packaging tons of providers and features into one gateway, Respan provides a small core and public interfaces that teams can use to assemble the AI infrastructure their applicatio"
-    },
-    {
       "id": "HN-50183253",
       "hn_id": 50183253,
       "title": "AI agent fixed the bug, but what else did it change?",
@@ -108,11 +86,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50237813",
       "category": "Security",
       "posted_at": "2026-10-26T01:13:43Z",
-      "fetched_at": "2026-10-27T05:11:48Z",
-      "score": 28,
+      "fetched_at": "2026-10-27T12:19:32Z",
+      "score": 31,
       "comment_count": 8,
-      "score_gain_24h_observed": 5,
-      "comment_gain_24h_observed": 5,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "open source"
       ],
@@ -175,7 +153,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50235909",
       "category": "AI",
       "posted_at": "2026-10-25T20:46:50Z",
-      "fetched_at": "2026-10-27T05:11:48Z",
+      "fetched_at": "2026-10-27T12:19:32Z",
       "score": 14,
       "comment_count": 1,
       "score_gain_24h_observed": null,
@@ -197,7 +175,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50218141",
       "category": "AI",
       "posted_at": "2026-10-24T03:32:47Z",
-      "fetched_at": "2026-10-27T05:11:48Z",
+      "fetched_at": "2026-10-27T12:19:32Z",
       "score": 11,
       "comment_count": 2,
       "score_gain_24h_observed": null,
@@ -300,7 +278,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50248652",
       "category": "AI",
       "posted_at": "2026-10-26T18:31:10Z",
-      "fetched_at": "2026-10-27T05:12:31Z",
+      "fetched_at": "2026-10-27T12:20:23Z",
       "score": 5,
       "comment_count": 0,
       "score_gain_24h_observed": 0,
@@ -407,8 +385,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50224463",
       "category": "AI",
       "posted_at": "2026-10-24T19:47:19Z",
-      "fetched_at": "2026-10-27T05:11:48Z",
-      "score": 638,
+      "fetched_at": "2026-10-27T12:19:32Z",
+      "score": 641,
       "comment_count": 668,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -426,9 +404,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50197313",
       "category": "AI",
       "posted_at": "2026-10-22T16:08:00Z",
-      "fetched_at": "2026-10-27T05:11:48Z",
-      "score": 661,
-      "comment_count": 642,
+      "fetched_at": "2026-10-27T12:19:32Z",
+      "score": 662,
+      "comment_count": 643,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -466,9 +444,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50226419",
       "category": "Other",
       "posted_at": "2026-10-24T23:11:54Z",
-      "fetched_at": "2026-10-27T05:11:48Z",
-      "score": 541,
-      "comment_count": 581,
+      "fetched_at": "2026-10-27T12:19:32Z",
+      "score": 542,
+      "comment_count": 583,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -504,9 +482,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50236102",
       "category": "AI",
       "posted_at": "2026-10-25T21:11:31Z",
-      "fetched_at": "2026-10-27T05:11:48Z",
-      "score": 422,
-      "comment_count": 428,
+      "fetched_at": "2026-10-27T12:19:32Z",
+      "score": 426,
+      "comment_count": 430,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -525,7 +503,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50198675",
       "category": "AI",
       "posted_at": "2026-10-22T17:44:06Z",
-      "fetched_at": "2026-10-27T05:11:48Z",
+      "fetched_at": "2026-10-27T12:19:32Z",
       "score": 504,
       "comment_count": 218,
       "score_gain_24h_observed": null,
@@ -565,9 +543,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50219177",
       "category": "Security",
       "posted_at": "2026-10-24T08:06:39Z",
-      "fetched_at": "2026-10-27T05:11:48Z",
-      "score": 400,
-      "comment_count": 215,
+      "fetched_at": "2026-10-27T12:19:32Z",
+      "score": 401,
+      "comment_count": 218,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -584,9 +562,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50233304",
       "category": "AI",
       "posted_at": "2026-10-25T16:28:26Z",
-      "fetched_at": "2026-10-27T05:11:48Z",
-      "score": 237,
-      "comment_count": 327,
+      "fetched_at": "2026-10-27T12:19:32Z",
+      "score": 238,
+      "comment_count": 328,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -605,9 +583,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50227356",
       "category": "AI",
       "posted_at": "2026-10-25T01:33:49Z",
-      "fetched_at": "2026-10-27T05:11:48Z",
-      "score": 364,
-      "comment_count": 141,
+      "fetched_at": "2026-10-27T12:19:32Z",
+      "score": 366,
+      "comment_count": 142,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -626,33 +604,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50223647",
       "category": "AI",
       "posted_at": "2026-10-24T18:04:57Z",
-      "fetched_at": "2026-10-27T05:11:48Z",
-      "score": 254,
-      "comment_count": 201,
+      "fetched_at": "2026-10-27T12:19:32Z",
+      "score": 255,
+      "comment_count": 202,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
         "ai generated"
       ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50168190",
-      "hn_id": 50168190,
-      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-      "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-      "hn_url": "https://news.ycombinator.com/item?id=50168190",
-      "category": "Other",
-      "posted_at": "2026-10-20T15:48:26Z",
-      "fetched_at": "2026-10-22T11:59:22Z",
-      "score": 183,
-      "comment_count": 229,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
       "selection_hints": [
         "AI"
       ],
@@ -666,14 +625,35 @@
       "hn_url": "https://news.ycombinator.com/item?id=50246658",
       "category": "AI",
       "posted_at": "2026-10-26T16:35:44Z",
-      "fetched_at": "2026-10-27T05:12:31Z",
-      "score": 281,
-      "comment_count": 113,
-      "score_gain_24h_observed": 50,
-      "comment_gain_24h_observed": 20,
+      "fetched_at": "2026-10-27T12:20:23Z",
+      "score": 308,
+      "comment_count": 121,
+      "score_gain_24h_observed": 77,
+      "comment_gain_24h_observed": 28,
       "keywords": [
         "open weight",
         "ai model"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50255298",
+      "hn_id": 50255298,
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=50255298",
+      "category": "AI",
+      "posted_at": "2026-10-27T06:25:37Z",
+      "fetched_at": "2026-10-27T12:20:23Z",
+      "score": 226,
+      "comment_count": 157,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "age ai"
       ],
       "selection_hints": [
         "AI"
@@ -726,11 +706,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50242843",
       "category": "AI",
       "posted_at": "2026-10-26T12:58:27Z",
-      "fetched_at": "2026-10-27T05:12:31Z",
-      "score": 177,
-      "comment_count": 170,
-      "score_gain_24h_observed": 7,
-      "comment_gain_24h_observed": 10,
+      "fetched_at": "2026-10-27T12:20:23Z",
+      "score": 179,
+      "comment_count": 171,
+      "score_gain_24h_observed": 9,
+      "comment_gain_24h_observed": 11,
       "keywords": [],
       "selection_hints": [
         "AI"
@@ -745,7 +725,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50217903",
       "category": "Security",
       "posted_at": "2026-10-24T02:36:38Z",
-      "fetched_at": "2026-10-27T05:11:48Z",
+      "fetched_at": "2026-10-27T12:19:32Z",
       "score": 191,
       "comment_count": 156,
       "score_gain_24h_observed": null,
@@ -785,11 +765,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50238739",
       "category": "Programming",
       "posted_at": "2026-10-26T03:29:05Z",
-      "fetched_at": "2026-10-27T05:11:48Z",
-      "score": 230,
-      "comment_count": 83,
-      "score_gain_24h_observed": 48,
-      "comment_gain_24h_observed": 15,
+      "fetched_at": "2026-10-27T12:19:32Z",
+      "score": 231,
+      "comment_count": 85,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "MCP"
@@ -823,7 +803,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50216791",
       "category": "Security",
       "posted_at": "2026-10-23T23:30:17Z",
-      "fetched_at": "2026-10-27T05:11:48Z",
+      "fetched_at": "2026-10-27T12:19:32Z",
       "score": 186,
       "comment_count": 95,
       "score_gain_24h_observed": null,
@@ -831,6 +811,27 @@
       "keywords": [],
       "selection_hints": [
         "Python"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50180752",
+      "hn_id": 50180752,
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "hn_url": "https://news.ycombinator.com/item?id=50180752",
+      "category": "AI",
+      "posted_at": "2026-10-21T13:37:00Z",
+      "fetched_at": "2026-10-26T22:43:26Z",
+      "score": 160,
+      "comment_count": 106,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai agents"
+      ],
+      "selection_hints": [
+        "AI"
       ],
       "snippet": ""
     }
