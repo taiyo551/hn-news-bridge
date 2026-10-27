@@ -1,41 +1,18 @@
 {
-  "generated_at": "2026-10-27T00:02:12Z",
-  "source_data_as_of": "2026-10-26T22:44:15Z",
+  "generated_at": "2026-10-27T05:29:06Z",
+  "source_data_as_of": "2026-10-27T05:12:31Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-20T00:02:12Z",
-  "eligible_count_before_dedup": 405,
+  "window_start": "2026-10-20T05:29:06Z",
+  "eligible_count_before_dedup": 401,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "b14e50891b0cc0aefd2e34a7ea6bcff566e90960"
+    "commit": "9cb046436af38afafe70578e31c61a73b6e951fe"
   },
   "articles": [
-    {
-      "id": "HN-50159710",
-      "hn_id": 50159710,
-      "title": "Show HN: OpenFlow – AI Agent Workflow Builder",
-      "url": "https://github.com/SeeRay11/OpenFlow",
-      "hn_url": "https://news.ycombinator.com/item?id=50159710",
-      "category": "AI",
-      "posted_at": "2026-10-20T00:12:44Z",
-      "fetched_at": "2026-10-22T04:55:50Z",
-      "score": 6,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agent"
-      ],
-      "selection_hints": [
-        "AI",
-        "agent",
-        "workflow"
-      ],
-      "snippet": ""
-    },
     {
       "id": "HN-50179857",
       "hn_id": 50179857,
@@ -131,11 +108,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50237813",
       "category": "Security",
       "posted_at": "2026-10-26T01:13:43Z",
-      "fetched_at": "2026-10-26T22:44:15Z",
-      "score": 27,
-      "comment_count": 7,
-      "score_gain_24h_observed": 20,
-      "comment_gain_24h_observed": 7,
+      "fetched_at": "2026-10-27T05:11:48Z",
+      "score": 28,
+      "comment_count": 8,
+      "score_gain_24h_observed": 5,
+      "comment_gain_24h_observed": 5,
       "keywords": [
         "open source"
       ],
@@ -198,11 +175,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50235909",
       "category": "AI",
       "posted_at": "2026-10-25T20:46:50Z",
-      "fetched_at": "2026-10-26T22:43:26Z",
-      "score": 13,
+      "fetched_at": "2026-10-27T05:11:48Z",
+      "score": 14,
       "comment_count": 1,
-      "score_gain_24h_observed": 4,
-      "comment_gain_24h_observed": 1,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "ai agents"
       ],
@@ -220,13 +197,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50218141",
       "category": "AI",
       "posted_at": "2026-10-24T03:32:47Z",
-      "fetched_at": "2026-10-26T22:43:26Z",
+      "fetched_at": "2026-10-27T05:11:48Z",
       "score": 11,
       "comment_count": 2,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
-        "open source"
+        "open source",
+        "artificial intelligence"
       ],
       "selection_hints": [
         "AI",
@@ -322,11 +300,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50248652",
       "category": "AI",
       "posted_at": "2026-10-26T18:31:10Z",
-      "fetched_at": "2026-10-26T22:44:15Z",
+      "fetched_at": "2026-10-27T05:12:31Z",
       "score": 5,
       "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "score_gain_24h_observed": 0,
+      "comment_gain_24h_observed": 0,
       "keywords": [
         "ai agents"
       ],
@@ -448,7 +426,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50224463",
       "category": "AI",
       "posted_at": "2026-10-24T19:47:19Z",
-      "fetched_at": "2026-10-26T22:43:26Z",
+      "fetched_at": "2026-10-27T05:11:48Z",
       "score": 638,
       "comment_count": 668,
       "score_gain_24h_observed": null,
@@ -467,9 +445,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50197313",
       "category": "AI",
       "posted_at": "2026-10-22T16:08:00Z",
-      "fetched_at": "2026-10-26T22:43:26Z",
-      "score": 660,
-      "comment_count": 641,
+      "fetched_at": "2026-10-27T05:11:48Z",
+      "score": 661,
+      "comment_count": 642,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -507,9 +485,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50226419",
       "category": "Other",
       "posted_at": "2026-10-24T23:11:54Z",
-      "fetched_at": "2026-10-26T22:43:26Z",
+      "fetched_at": "2026-10-27T05:11:48Z",
       "score": 541,
-      "comment_count": 578,
+      "comment_count": 581,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -545,11 +523,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50236102",
       "category": "AI",
       "posted_at": "2026-10-25T21:11:31Z",
-      "fetched_at": "2026-10-26T22:43:26Z",
-      "score": 410,
-      "comment_count": 416,
-      "score_gain_24h_observed": 155,
-      "comment_gain_24h_observed": 116,
+      "fetched_at": "2026-10-27T05:11:48Z",
+      "score": 422,
+      "comment_count": 428,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "openai anthropic"
       ],
@@ -566,7 +544,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50198675",
       "category": "AI",
       "posted_at": "2026-10-22T17:44:06Z",
-      "fetched_at": "2026-10-26T22:43:26Z",
+      "fetched_at": "2026-10-27T05:11:48Z",
       "score": 504,
       "comment_count": 218,
       "score_gain_24h_observed": null,
@@ -606,9 +584,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50219177",
       "category": "Security",
       "posted_at": "2026-10-24T08:06:39Z",
-      "fetched_at": "2026-10-26T22:43:26Z",
+      "fetched_at": "2026-10-27T05:11:48Z",
       "score": 400,
-      "comment_count": 214,
+      "comment_count": 215,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -625,11 +603,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50233304",
       "category": "AI",
       "posted_at": "2026-10-25T16:28:26Z",
-      "fetched_at": "2026-10-26T22:43:26Z",
-      "score": 235,
+      "fetched_at": "2026-10-27T05:11:48Z",
+      "score": 237,
       "comment_count": 327,
-      "score_gain_24h_observed": 12,
-      "comment_gain_24h_observed": 14,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "ai use"
       ],
@@ -646,7 +624,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50227356",
       "category": "AI",
       "posted_at": "2026-10-25T01:33:49Z",
-      "fetched_at": "2026-10-26T22:43:26Z",
+      "fetched_at": "2026-10-27T05:11:48Z",
       "score": 364,
       "comment_count": 141,
       "score_gain_24h_observed": null,
@@ -667,8 +645,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50223647",
       "category": "AI",
       "posted_at": "2026-10-24T18:04:57Z",
-      "fetched_at": "2026-10-26T22:43:26Z",
-      "score": 253,
+      "fetched_at": "2026-10-27T05:11:48Z",
+      "score": 254,
       "comment_count": 201,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -694,6 +672,28 @@
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50246658",
+      "hn_id": 50246658,
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "hn_url": "https://news.ycombinator.com/item?id=50246658",
+      "category": "AI",
+      "posted_at": "2026-10-26T16:35:44Z",
+      "fetched_at": "2026-10-27T05:12:31Z",
+      "score": 281,
+      "comment_count": 113,
+      "score_gain_24h_observed": 50,
+      "comment_gain_24h_observed": 20,
+      "keywords": [
+        "open weight",
+        "ai model"
+      ],
       "selection_hints": [
         "AI"
       ],
@@ -738,6 +738,25 @@
       "snippet": ""
     },
     {
+      "id": "HN-50242843",
+      "hn_id": 50242843,
+      "title": "Brown student maps the hidden global labor powering AI",
+      "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+      "hn_url": "https://news.ycombinator.com/item?id=50242843",
+      "category": "AI",
+      "posted_at": "2026-10-26T12:58:27Z",
+      "fetched_at": "2026-10-27T05:12:31Z",
+      "score": 177,
+      "comment_count": 170,
+      "score_gain_24h_observed": 7,
+      "comment_gain_24h_observed": 10,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50217903",
       "hn_id": 50217903,
       "title": "Apple Security Research Device",
@@ -745,9 +764,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50217903",
       "category": "Security",
       "posted_at": "2026-10-24T02:36:38Z",
-      "fetched_at": "2026-10-26T22:43:26Z",
+      "fetched_at": "2026-10-27T05:11:48Z",
       "score": 191,
-      "comment_count": 155,
+      "comment_count": 156,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -778,47 +797,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50242843",
-      "hn_id": 50242843,
-      "title": "Brown student maps the hidden global labor powering AI",
-      "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
-      "hn_url": "https://news.ycombinator.com/item?id=50242843",
-      "category": "AI",
-      "posted_at": "2026-10-26T12:58:27Z",
-      "fetched_at": "2026-10-26T22:44:15Z",
-      "score": 170,
-      "comment_count": 160,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50246658",
-      "hn_id": 50246658,
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "hn_url": "https://news.ycombinator.com/item?id=50246658",
-      "category": "AI",
-      "posted_at": "2026-10-26T16:35:44Z",
-      "fetched_at": "2026-10-26T22:44:15Z",
-      "score": 231,
-      "comment_count": 93,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open weight",
-        "ai model"
-      ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50238739",
       "hn_id": 50238739,
       "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
@@ -826,14 +804,33 @@
       "hn_url": "https://news.ycombinator.com/item?id=50238739",
       "category": "Programming",
       "posted_at": "2026-10-26T03:29:05Z",
-      "fetched_at": "2026-10-26T22:44:15Z",
-      "score": 226,
-      "comment_count": 81,
-      "score_gain_24h_observed": 199,
-      "comment_gain_24h_observed": 79,
+      "fetched_at": "2026-10-27T05:11:48Z",
+      "score": 230,
+      "comment_count": 83,
+      "score_gain_24h_observed": 48,
+      "comment_gain_24h_observed": 15,
       "keywords": [],
       "selection_hints": [
         "MCP"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50205229",
+      "hn_id": 50205229,
+      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+      "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+      "hn_url": "https://news.ycombinator.com/item?id=50205229",
+      "category": "AI",
+      "posted_at": "2026-10-23T06:41:11Z",
+      "fetched_at": "2026-10-25T20:55:15Z",
+      "score": 142,
+      "comment_count": 157,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
       ],
       "snippet": ""
     }
