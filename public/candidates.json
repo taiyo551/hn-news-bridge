@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-28T07:17:28Z",
-  "source_data_as_of": "2026-10-28T05:50:03Z",
+  "generated_at": "2026-10-28T14:22:44Z",
+  "source_data_as_of": "2026-10-28T13:03:42Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-21T07:17:28Z",
-  "eligible_count_before_dedup": 384,
+  "window_start": "2026-10-21T14:22:44Z",
+  "eligible_count_before_dedup": 370,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "2294fb9b5dc45c71d6233fe7a53eb2c5de88087e"
+    "commit": "011466033af0892ae10db56a641b3e549afb6d33"
   },
   "articles": [
     {
@@ -21,37 +21,15 @@
       "hn_url": "https://news.ycombinator.com/item?id=50264853",
       "category": "AI",
       "posted_at": "2026-10-27T19:55:06Z",
-      "fetched_at": "2026-10-28T05:50:03Z",
-      "score": 269,
-      "comment_count": 120,
-      "score_gain_24h_observed": 166,
-      "comment_gain_24h_observed": 55,
+      "fetched_at": "2026-10-28T13:03:42Z",
+      "score": 400,
+      "comment_count": 152,
+      "score_gain_24h_observed": 297,
+      "comment_gain_24h_observed": 87,
       "keywords": [],
       "selection_hints": [
         "AI",
         "LLM"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50179857",
-      "hn_id": 50179857,
-      "title": "LayerFS: A filesystem for AI coding agents",
-      "url": "https://layerfs.ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=50179857",
-      "category": "AI",
-      "posted_at": "2026-10-21T12:34:46Z",
-      "fetched_at": "2026-10-26T13:11:40Z",
-      "score": 76,
-      "comment_count": 47,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "coding agents"
-      ],
-      "selection_hints": [
-        "AI",
-        "coding"
       ],
       "snippet": ""
     },
@@ -105,8 +83,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50237813",
       "category": "Security",
       "posted_at": "2026-10-26T01:13:43Z",
-      "fetched_at": "2026-10-28T05:49:22Z",
-      "score": 36,
+      "fetched_at": "2026-10-28T13:02:53Z",
+      "score": 37,
       "comment_count": 9,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -143,28 +121,6 @@
       "snippet": "Earlier this year, my co-founder and I found ourselves frequently switching between different coding agents (Claude Code, Codex, Cursor) anytime we ran out of shaky usage limits or a newer, better model came out. We became increasingly frustrated with having to re-explain our tasks, workflows, common mistake patterns, etc. anytime we switched agents. We found no good free alternatives out there, so we built our own and fully open-sourced it! Beacon hooks into 20+ different agent harnesses, captu"
     },
     {
-      "id": "HN-50178218",
-      "hn_id": 50178218,
-      "title": "Show HN: Linkit – AI bookmark manager, 100% free and open source",
-      "url": "https://github.com/blue-idea/linkit",
-      "hn_url": "https://news.ycombinator.com/item?id=50178218",
-      "category": "AI",
-      "posted_at": "2026-10-21T09:51:41Z",
-      "fetched_at": "2026-10-23T04:57:57Z",
-      "score": 11,
-      "comment_count": 7,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open source"
-      ],
-      "selection_hints": [
-        "AI",
-        "open source"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50235909",
       "hn_id": 50235909,
       "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
@@ -172,7 +128,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50235909",
       "category": "AI",
       "posted_at": "2026-10-25T20:46:50Z",
-      "fetched_at": "2026-10-28T05:49:22Z",
+      "fetched_at": "2026-10-28T13:02:53Z",
       "score": 15,
       "comment_count": 1,
       "score_gain_24h_observed": null,
@@ -194,7 +150,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50218141",
       "category": "AI",
       "posted_at": "2026-10-24T03:32:47Z",
-      "fetched_at": "2026-10-28T05:49:22Z",
+      "fetched_at": "2026-10-28T13:02:53Z",
       "score": 11,
       "comment_count": 2,
       "score_gain_24h_observed": null,
@@ -250,26 +206,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50180804",
-      "hn_id": 50180804,
-      "title": "Perplexity to give away its AI security software",
-      "url": "https://www.semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software",
-      "hn_url": "https://news.ycombinator.com/item?id=50180804",
-      "category": "AI",
-      "posted_at": "2026-10-21T13:41:08Z",
-      "fetched_at": "2026-10-23T11:44:56Z",
-      "score": 7,
-      "comment_count": 1,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "security"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50262407",
       "hn_id": 50262407,
       "title": "Show HN: Agent-relay for multi-vendor coding sessions",
@@ -277,10 +213,10 @@
       "hn_url": "https://news.ycombinator.com/item?id=50262407",
       "category": "Other",
       "posted_at": "2026-10-27T17:14:54Z",
-      "fetched_at": "2026-10-28T05:50:03Z",
-      "score": 6,
+      "fetched_at": "2026-10-28T13:03:42Z",
+      "score": 7,
       "comment_count": 0,
-      "score_gain_24h_observed": 2,
+      "score_gain_24h_observed": 3,
       "comment_gain_24h_observed": 0,
       "keywords": [],
       "selection_hints": [
@@ -317,7 +253,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50248652",
       "category": "AI",
       "posted_at": "2026-10-26T18:31:10Z",
-      "fetched_at": "2026-10-28T05:49:22Z",
+      "fetched_at": "2026-10-28T13:02:53Z",
       "score": 5,
       "comment_count": 0,
       "score_gain_24h_observed": null,
@@ -405,9 +341,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50224463",
       "category": "AI",
       "posted_at": "2026-10-24T19:47:19Z",
-      "fetched_at": "2026-10-28T05:49:22Z",
-      "score": 642,
-      "comment_count": 672,
+      "fetched_at": "2026-10-28T13:02:53Z",
+      "score": 643,
+      "comment_count": 673,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -445,9 +381,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50257325",
       "category": "AI",
       "posted_at": "2026-10-27T11:08:14Z",
-      "fetched_at": "2026-10-28T05:50:03Z",
-      "score": 628,
-      "comment_count": 623,
+      "fetched_at": "2026-10-28T13:02:53Z",
+      "score": 649,
+      "comment_count": 643,
       "score_gain_24h_observed": 19,
       "comment_gain_24h_observed": 26,
       "keywords": [
@@ -485,8 +421,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50226419",
       "category": "Other",
       "posted_at": "2026-10-24T23:11:54Z",
-      "fetched_at": "2026-10-28T05:49:22Z",
-      "score": 543,
+      "fetched_at": "2026-10-28T13:02:53Z",
+      "score": 545,
       "comment_count": 586,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -523,9 +459,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50236102",
       "category": "AI",
       "posted_at": "2026-10-25T21:11:31Z",
-      "fetched_at": "2026-10-28T05:49:22Z",
-      "score": 434,
-      "comment_count": 434,
+      "fetched_at": "2026-10-28T13:02:53Z",
+      "score": 437,
+      "comment_count": 435,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -537,27 +473,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50255298",
-      "hn_id": 50255298,
-      "title": "The Mythical Man-Month in the Age of AI",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "hn_url": "https://news.ycombinator.com/item?id=50255298",
-      "category": "AI",
-      "posted_at": "2026-10-27T06:25:37Z",
-      "fetched_at": "2026-10-28T05:50:03Z",
-      "score": 449,
-      "comment_count": 313,
-      "score_gain_24h_observed": 223,
-      "comment_gain_24h_observed": 156,
-      "keywords": [
-        "age ai"
-      ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50257419",
       "hn_id": 50257419,
       "title": "Python's experimental JIT to be removed",
@@ -565,14 +480,35 @@
       "hn_url": "https://news.ycombinator.com/item?id=50257419",
       "category": "Programming",
       "posted_at": "2026-10-27T11:17:57Z",
-      "fetched_at": "2026-10-28T05:50:03Z",
-      "score": 473,
-      "comment_count": 254,
-      "score_gain_24h_observed": 437,
-      "comment_gain_24h_observed": 253,
+      "fetched_at": "2026-10-28T13:02:53Z",
+      "score": 536,
+      "comment_count": 292,
+      "score_gain_24h_observed": 67,
+      "comment_gain_24h_observed": 42,
       "keywords": [],
       "selection_hints": [
         "Python"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50255298",
+      "hn_id": 50255298,
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=50255298",
+      "category": "AI",
+      "posted_at": "2026-10-27T06:25:37Z",
+      "fetched_at": "2026-10-28T13:02:53Z",
+      "score": 461,
+      "comment_count": 332,
+      "score_gain_24h_observed": 30,
+      "comment_gain_24h_observed": 17,
+      "keywords": [
+        "age ai"
+      ],
+      "selection_hints": [
+        "AI"
       ],
       "snippet": ""
     },
@@ -605,11 +541,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50257326",
       "category": "Other",
       "posted_at": "2026-10-27T11:08:15Z",
-      "fetched_at": "2026-10-28T05:50:03Z",
-      "score": 469,
-      "comment_count": 214,
-      "score_gain_24h_observed": 427,
-      "comment_gain_24h_observed": 195,
+      "fetched_at": "2026-10-28T13:02:53Z",
+      "score": 484,
+      "comment_count": 219,
+      "score_gain_24h_observed": 60,
+      "comment_gain_24h_observed": 27,
       "keywords": [
         "ai generated"
       ],
@@ -626,35 +562,16 @@
       "hn_url": "https://news.ycombinator.com/item?id=50261819",
       "category": "AI",
       "posted_at": "2026-10-27T16:40:15Z",
-      "fetched_at": "2026-10-28T05:50:03Z",
-      "score": 366,
-      "comment_count": 279,
-      "score_gain_24h_observed": 59,
-      "comment_gain_24h_observed": 45,
+      "fetched_at": "2026-10-28T13:03:42Z",
+      "score": 377,
+      "comment_count": 296,
+      "score_gain_24h_observed": 70,
+      "comment_gain_24h_observed": 62,
       "keywords": [],
       "selection_hints": [
         "AI"
       ],
       "snippet": ""
-    },
-    {
-      "id": "HN-50180836",
-      "hn_id": 50180836,
-      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "hn_url": "https://news.ycombinator.com/item?id=50180836",
-      "category": "AI",
-      "posted_at": "2026-10-21T13:43:19Z",
-      "fetched_at": "2026-10-26T13:11:40Z",
-      "score": 454,
-      "comment_count": 185,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": "https://www.php2shell.com/"
     },
     {
       "id": "HN-50219177",
@@ -664,8 +581,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50219177",
       "category": "Security",
       "posted_at": "2026-10-24T08:06:39Z",
-      "fetched_at": "2026-10-28T05:49:22Z",
-      "score": 402,
+      "fetched_at": "2026-10-28T13:02:53Z",
+      "score": 404,
       "comment_count": 219,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -676,27 +593,6 @@
       "snippet": "https://www.aikido.dev/blog/python-packages-vulnerable-node2..."
     },
     {
-      "id": "HN-50233304",
-      "hn_id": 50233304,
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50233304",
-      "category": "AI",
-      "posted_at": "2026-10-25T16:28:26Z",
-      "fetched_at": "2026-10-28T05:49:22Z",
-      "score": 238,
-      "comment_count": 331,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai use"
-      ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50261589",
       "hn_id": 50261589,
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
@@ -704,12 +600,33 @@
       "hn_url": "https://news.ycombinator.com/item?id=50261589",
       "category": "AI",
       "posted_at": "2026-10-27T16:25:30Z",
-      "fetched_at": "2026-10-28T05:50:03Z",
-      "score": 298,
-      "comment_count": 227,
-      "score_gain_24h_observed": 127,
-      "comment_gain_24h_observed": 144,
+      "fetched_at": "2026-10-28T13:03:42Z",
+      "score": 330,
+      "comment_count": 258,
+      "score_gain_24h_observed": 159,
+      "comment_gain_24h_observed": 175,
       "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50233304",
+      "hn_id": 50233304,
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50233304",
+      "category": "AI",
+      "posted_at": "2026-10-25T16:28:26Z",
+      "fetched_at": "2026-10-28T13:02:53Z",
+      "score": 238,
+      "comment_count": 335,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai use"
+      ],
       "selection_hints": [
         "AI"
       ],
@@ -723,8 +640,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50227356",
       "category": "AI",
       "posted_at": "2026-10-25T01:33:49Z",
-      "fetched_at": "2026-10-28T05:49:22Z",
-      "score": 367,
+      "fetched_at": "2026-10-28T13:02:53Z",
+      "score": 368,
       "comment_count": 142,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -744,7 +661,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50223647",
       "category": "AI",
       "posted_at": "2026-10-24T18:04:57Z",
-      "fetched_at": "2026-10-28T05:49:22Z",
+      "fetched_at": "2026-10-28T13:02:53Z",
       "score": 256,
       "comment_count": 205,
       "score_gain_24h_observed": null,
@@ -765,9 +682,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50246658",
       "category": "AI",
       "posted_at": "2026-10-26T16:35:44Z",
-      "fetched_at": "2026-10-28T05:49:22Z",
-      "score": 326,
-      "comment_count": 127,
+      "fetched_at": "2026-10-28T13:02:53Z",
+      "score": 327,
+      "comment_count": 128,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -776,25 +693,6 @@
       ],
       "selection_hints": [
         "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50179828",
-      "hn_id": 50179828,
-      "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
-      "url": "https://www.ncsc.nl/actueel",
-      "hn_url": "https://news.ycombinator.com/item?id=50179828",
-      "category": "Security",
-      "posted_at": "2026-10-21T12:31:28Z",
-      "fetched_at": "2026-10-26T13:11:40Z",
-      "score": 275,
-      "comment_count": 95,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "security"
       ],
       "snippet": ""
     },
@@ -825,14 +723,111 @@
       "hn_url": "https://news.ycombinator.com/item?id=50217903",
       "category": "Security",
       "posted_at": "2026-10-24T02:36:38Z",
-      "fetched_at": "2026-10-28T05:49:22Z",
+      "fetched_at": "2026-10-28T13:02:53Z",
       "score": 191,
-      "comment_count": 158,
+      "comment_count": 162,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "security"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50238739",
+      "hn_id": 50238739,
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "hn_url": "https://news.ycombinator.com/item?id=50238739",
+      "category": "Programming",
+      "posted_at": "2026-10-26T03:29:05Z",
+      "fetched_at": "2026-10-28T13:02:53Z",
+      "score": 236,
+      "comment_count": 87,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "MCP"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50205229",
+      "hn_id": 50205229,
+      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+      "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+      "hn_url": "https://news.ycombinator.com/item?id=50205229",
+      "category": "AI",
+      "posted_at": "2026-10-23T06:41:11Z",
+      "fetched_at": "2026-10-25T20:55:15Z",
+      "score": 142,
+      "comment_count": 157,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50216791",
+      "hn_id": 50216791,
+      "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
+      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "hn_url": "https://news.ycombinator.com/item?id=50216791",
+      "category": "Security",
+      "posted_at": "2026-10-23T23:30:17Z",
+      "fetched_at": "2026-10-28T13:02:53Z",
+      "score": 186,
+      "comment_count": 95,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "Python"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50252159",
+      "hn_id": 50252159,
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "hn_url": "https://news.ycombinator.com/item?id=50252159",
+      "category": "AI",
+      "posted_at": "2026-10-26T22:41:48Z",
+      "fetched_at": "2026-10-28T13:02:53Z",
+      "score": 179,
+      "comment_count": 78,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai model"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50229827",
+      "hn_id": 50229827,
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50229827",
+      "category": "AI",
+      "posted_at": "2026-10-25T09:51:17Z",
+      "fetched_at": "2026-10-28T13:02:53Z",
+      "score": 144,
+      "comment_count": 88,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
       ],
       "snippet": ""
     }
