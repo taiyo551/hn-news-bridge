@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-28T14:22:44Z",
+  "generated_at": "2026-10-28T19:47:49Z",
   "source_data_as_of": "2026-10-28T13:03:42Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-21T14:22:44Z",
-  "eligible_count_before_dedup": 370,
+  "window_start": "2026-10-21T19:47:49Z",
+  "eligible_count_before_dedup": 333,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
@@ -54,28 +54,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50183253",
-      "hn_id": 50183253,
-      "title": "AI agent fixed the bug, but what else did it change?",
-      "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
-      "hn_url": "https://news.ycombinator.com/item?id=50183253",
-      "category": "AI",
-      "posted_at": "2026-10-21T16:03:32Z",
-      "fetched_at": "2026-10-26T13:11:40Z",
-      "score": 54,
-      "comment_count": 6,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agent"
-      ],
-      "selection_hints": [
-        "AI",
-        "agent"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50237813",
       "hn_id": 50237813,
       "title": "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",
@@ -96,29 +74,6 @@
         "open source"
       ],
       "snippet": "freehire is a filterable, job board aggregator, job tracker, and AI-assisted resume tailoring tool. Saving your skills and preferences changes which jobs appear and how your resume gets tailored. I've looked at a lot of these solutions over the years and found it really hard to find the right mix of tools in an open-source offering. I've contributed to a few issues now and worked closely with the maintainer. I've watched this evolve over the last few months. I feel it's ready for everyone to che"
-    },
-    {
-      "id": "HN-50182883",
-      "hn_id": 50182883,
-      "title": "Open-source, cross-harness memory for AI agents",
-      "url": "https://news.ycombinator.com/item?id=50182883",
-      "hn_url": "https://news.ycombinator.com/item?id=50182883",
-      "category": "AI",
-      "posted_at": "2026-10-21T15:42:38Z",
-      "fetched_at": "2026-10-23T11:44:56Z",
-      "score": 17,
-      "comment_count": 14,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open source",
-        "ai agents"
-      ],
-      "selection_hints": [
-        "AI",
-        "open source"
-      ],
-      "snippet": "Earlier this year, my co-founder and I found ourselves frequently switching between different coding agents (Claude Code, Codex, Cursor) anytime we ran out of shaky usage limits or a newer, better model came out. We became increasingly frustrated with having to re-explain our tasks, workflows, common mistake patterns, etc. anytime we switched agents. We found no good free alternatives out there, so we built our own and fully open-sourced it! Beacon hooks into 20+ different agent harnesses, captu"
     },
     {
       "id": "HN-50235909",
@@ -312,28 +267,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50185598",
-      "hn_id": 50185598,
-      "title": "A complete open-source FPGA replica of the Soviet-era Vector-06C home computer",
-      "url": "https://svofski.github.io/vector06cc/",
-      "hn_url": "https://news.ycombinator.com/item?id=50185598",
-      "category": "Security",
-      "posted_at": "2026-10-21T18:43:00Z",
-      "fetched_at": "2026-10-23T17:13:12Z",
-      "score": 4,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open source"
-      ],
-      "selection_hints": [
-        "vector",
-        "open source"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50224463",
       "hn_id": 50224463,
       "title": "No signs of AI payoff outside the tech sector",
@@ -393,25 +326,6 @@
         "AI"
       ],
       "snippet": ""
-    },
-    {
-      "id": "HN-50182987",
-      "hn_id": 50182987,
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "hn_url": "https://news.ycombinator.com/item?id=50182987",
-      "category": "Security",
-      "posted_at": "2026-10-21T15:48:56Z",
-      "fetched_at": "2026-10-26T22:43:26Z",
-      "score": 816,
-      "comment_count": 403,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "security"
-      ],
-      "snippet": "Related ongoing thread: PHP 8.2.35 - https://news.ycombinator.com/item?id=50180873 (links to more at https://news.ycombinator.com/item?id=50184935 )"
     },
     {
       "id": "HN-50226419",
@@ -830,6 +744,86 @@
         "AI"
       ],
       "snippet": ""
+    },
+    {
+      "id": "HN-50199230",
+      "hn_id": 50199230,
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "url": "https://arxiv.org/abs/2610.27251",
+      "hn_url": "https://news.ycombinator.com/item?id=50199230",
+      "category": "AI",
+      "posted_at": "2026-10-22T18:28:16Z",
+      "fetched_at": "2026-10-27T22:19:17Z",
+      "score": 142,
+      "comment_count": 81,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50231722",
+      "hn_id": 50231722,
+      "title": "R/open source bans all solo projects and projects using LLMs",
+      "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+      "hn_url": "https://news.ycombinator.com/item?id=50231722",
+      "category": "AI",
+      "posted_at": "2026-10-25T14:05:03Z",
+      "fetched_at": "2026-10-27T12:19:32Z",
+      "score": 90,
+      "comment_count": 129,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open source"
+      ],
+      "selection_hints": [
+        "open source"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50254836",
+      "hn_id": 50254836,
+      "title": "There are now 5 inference providers for abliterated DeepSeek",
+      "url": "https://allmodels.io/llm/abliterated",
+      "hn_url": "https://news.ycombinator.com/item?id=50254836",
+      "category": "AI",
+      "posted_at": "2026-10-27T04:53:52Z",
+      "fetched_at": "2026-10-28T13:02:53Z",
+      "score": 95,
+      "comment_count": 119,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "inference"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50246238",
+      "hn_id": 50246238,
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "url": "https://github.com/FrigadeHQ/hob",
+      "hn_url": "https://news.ycombinator.com/item?id=50246238",
+      "category": "AI",
+      "posted_at": "2026-10-26T16:12:29Z",
+      "fetched_at": "2026-10-28T13:02:53Z",
+      "score": 170,
+      "comment_count": 42,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open source"
+      ],
+      "selection_hints": [
+        "open source"
+      ],
+      "snippet": "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on your own computer. It uses open-weight models (currently Gemma 4 and gpt-oss). All your chats and files never leave your system. The only things that go online are web search (can be turned off in settings) and any MCP connectors y"
     }
   ],
   "candidate_count": 40
