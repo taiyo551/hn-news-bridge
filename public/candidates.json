@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-29T13:36:04Z",
+  "generated_at": "2026-10-29T19:48:08Z",
   "source_data_as_of": "2026-10-29T13:10:45Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-22T13:36:04Z",
-  "eligible_count_before_dedup": 335,
+  "window_start": "2026-10-22T19:48:08Z",
+  "eligible_count_before_dedup": 312,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
@@ -163,28 +163,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50196829",
-      "hn_id": 50196829,
-      "title": "Ask HN: Which AI Security tool do you use and why for your repositories?",
-      "url": "https://news.ycombinator.com/item?id=50196829",
-      "hn_url": "https://news.ycombinator.com/item?id=50196829",
-      "category": "AI",
-      "posted_at": "2026-10-22T15:32:17Z",
-      "fetched_at": "2026-10-24T11:08:49Z",
-      "score": 4,
-      "comment_count": 1,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ask hn"
-      ],
-      "selection_hints": [
-        "AI",
-        "security"
-      ],
-      "snippet": "Hello World! So I am new to the world of cybersecurity, and after some back and forth with AI, I chose to use a specific tool that was recommended for automated vulnerability detection & patching, but I think the issue I encountered is something common to all similar platforms that provide AI security fixes in 2026. It proposed a fix to an issue labeled 'critical'. I gave the specific file and the fix to Gemini, and, it disagreed strongly. My trust in the platform immediately degraded. It shows "
-    },
-    {
       "id": "HN-50257325",
       "hn_id": 50257325,
       "title": "AI promised less work. I've never worked more",
@@ -219,27 +197,6 @@
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50197313",
-      "hn_id": 50197313,
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "hn_url": "https://news.ycombinator.com/item?id=50197313",
-      "category": "AI",
-      "posted_at": "2026-10-22T16:08:00Z",
-      "fetched_at": "2026-10-27T22:19:17Z",
-      "score": 664,
-      "comment_count": 644,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai model"
-      ],
       "selection_hints": [
         "AI"
       ],
@@ -359,27 +316,6 @@
       "comment_gain_24h_observed": null,
       "keywords": [
         "ai generated"
-      ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50198675",
-      "hn_id": 50198675,
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "hn_url": "https://news.ycombinator.com/item?id=50198675",
-      "category": "AI",
-      "posted_at": "2026-10-22T17:44:06Z",
-      "fetched_at": "2026-10-27T22:19:17Z",
-      "score": 507,
-      "comment_count": 218,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agents"
       ],
       "selection_hints": [
         "AI"
@@ -765,25 +701,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50199230",
-      "hn_id": 50199230,
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "url": "https://arxiv.org/abs/2610.27251",
-      "hn_url": "https://news.ycombinator.com/item?id=50199230",
-      "category": "AI",
-      "posted_at": "2026-10-22T18:28:16Z",
-      "fetched_at": "2026-10-27T22:19:17Z",
-      "score": 142,
-      "comment_count": 81,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50231722",
       "hn_id": 50231722,
       "title": "R/open source bans all solo projects and projects using LLMs",
@@ -822,6 +739,84 @@
         "inference"
       ],
       "snippet": ""
+    },
+    {
+      "id": "HN-50246238",
+      "hn_id": 50246238,
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "url": "https://github.com/FrigadeHQ/hob",
+      "hn_url": "https://news.ycombinator.com/item?id=50246238",
+      "category": "AI",
+      "posted_at": "2026-10-26T16:12:29Z",
+      "fetched_at": "2026-10-29T13:09:51Z",
+      "score": 172,
+      "comment_count": 43,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open source"
+      ],
+      "selection_hints": [
+        "open source"
+      ],
+      "snippet": "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on your own computer. It uses open-weight models (currently Gemma 4 and gpt-oss). All your chats and files never leave your system. The only things that go online are web search (can be turned off in settings) and any MCP connectors y"
+    },
+    {
+      "id": "HN-50233347",
+      "hn_id": 50233347,
+      "title": "A mathematician reads the AI future",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "hn_url": "https://news.ycombinator.com/item?id=50233347",
+      "category": "AI",
+      "posted_at": "2026-10-25T16:31:21Z",
+      "fetched_at": "2026-10-29T13:09:51Z",
+      "score": 70,
+      "comment_count": 130,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50239027",
+      "hn_id": 50239027,
+      "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+      "hn_url": "https://news.ycombinator.com/item?id=50239027",
+      "category": "AI",
+      "posted_at": "2026-10-26T04:11:40Z",
+      "fetched_at": "2026-10-28T05:49:22Z",
+      "score": 81,
+      "comment_count": 117,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50214373",
+      "hn_id": 50214373,
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "url": "https://corgi.computer/",
+      "hn_url": "https://news.ycombinator.com/item?id=50214373",
+      "category": "Other",
+      "posted_at": "2026-10-23T19:46:38Z",
+      "fetched_at": "2026-10-28T22:39:13Z",
+      "score": 141,
+      "comment_count": 47,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "agent"
+      ],
+      "snippet": "Hey everyone, Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now. I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had: I show you what the agents are up to, along with a running feed of their activity. There's also a simple shortcut (F1) to go to the next unread agent. I use multiple accounts, so I've added unified launcher for Codex/Claude Code/Pi. Theres some careful ergonomics there: fast"
     }
   ],
   "candidate_count": 40
