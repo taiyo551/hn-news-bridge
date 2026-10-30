@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-30T18:47:13Z",
-  "source_data_as_of": "2026-10-30T13:02:44Z",
+  "generated_at": "2026-10-30T23:08:18Z",
+  "source_data_as_of": "2026-10-30T22:26:18Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-23T18:47:13Z",
-  "eligible_count_before_dedup": 349,
+  "window_start": "2026-10-23T23:08:18Z",
+  "eligible_count_before_dedup": 383,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "409cc8362ff6daab1a5614b777ce43a23126b934"
+    "commit": "35de34e07d44cfd1cba409d0d70a7592dc69355a"
   },
   "articles": [
     {
@@ -21,8 +21,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50264853",
       "category": "AI",
       "posted_at": "2026-10-27T19:55:06Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
-      "score": 538,
+      "fetched_at": "2026-10-30T22:25:30Z",
+      "score": 540,
       "comment_count": 203,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -41,11 +41,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50296486",
       "category": "AI",
       "posted_at": "2026-10-29T21:40:28Z",
-      "fetched_at": "2026-10-30T13:02:44Z",
-      "score": 324,
-      "comment_count": 126,
-      "score_gain_24h_observed": 268,
-      "comment_gain_24h_observed": 108,
+      "fetched_at": "2026-10-30T22:25:30Z",
+      "score": 391,
+      "comment_count": 162,
+      "score_gain_24h_observed": 85,
+      "comment_gain_24h_observed": 45,
       "keywords": [
         "ai agent"
       ],
@@ -63,9 +63,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50282865",
       "category": "AI",
       "posted_at": "2026-10-29T00:30:37Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
+      "fetched_at": "2026-10-30T22:25:30Z",
       "score": 57,
-      "comment_count": 74,
+      "comment_count": 79,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -83,8 +83,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50237813",
       "category": "Security",
       "posted_at": "2026-10-26T01:13:43Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
-      "score": 38,
+      "fetched_at": "2026-10-30T22:25:30Z",
+      "score": 39,
       "comment_count": 9,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -105,11 +105,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50286306",
       "category": "AI",
       "posted_at": "2026-10-29T09:06:12Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
-      "score": 30,
+      "fetched_at": "2026-10-30T22:25:30Z",
+      "score": 31,
       "comment_count": 3,
-      "score_gain_24h_observed": 3,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "claude code"
       ],
@@ -127,11 +127,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50293979",
       "category": "AI",
       "posted_at": "2026-10-29T18:47:56Z",
-      "fetched_at": "2026-10-30T13:02:44Z",
-      "score": 19,
+      "fetched_at": "2026-10-30T22:25:30Z",
+      "score": 20,
       "comment_count": 6,
-      "score_gain_24h_observed": 3,
-      "comment_gain_24h_observed": 1,
+      "score_gain_24h_observed": 0,
+      "comment_gain_24h_observed": 0,
       "keywords": [
         "ai agent"
       ],
@@ -171,11 +171,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50293361",
       "category": "AI",
       "posted_at": "2026-10-29T18:06:22Z",
-      "fetched_at": "2026-10-30T13:02:44Z",
+      "fetched_at": "2026-10-30T22:25:30Z",
       "score": 12,
       "comment_count": 4,
       "score_gain_24h_observed": 1,
-      "comment_gain_24h_observed": 1,
+      "comment_gain_24h_observed": 0,
       "keywords": [
         "ai agent"
       ],
@@ -209,6 +209,26 @@
       "snippet": ""
     },
     {
+      "id": "HN-50307137",
+      "hn_id": 50307137,
+      "title": "Reddit CEO admits Google's AI Mode is choking off its search traffic",
+      "url": "https://twitter.com/kouhxp/status/2116218737237840261",
+      "hn_url": "https://news.ycombinator.com/item?id=50307137",
+      "category": "AI",
+      "posted_at": "2026-10-30T17:22:21Z",
+      "fetched_at": "2026-10-30T22:26:18Z",
+      "score": 6,
+      "comment_count": 6,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI",
+        "search"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50293305",
       "hn_id": 50293305,
       "title": "Google admits AI search makes less money, but it's fixing that with more ads",
@@ -216,7 +236,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50293305",
       "category": "AI",
       "posted_at": "2026-10-29T18:02:07Z",
-      "fetched_at": "2026-10-30T13:02:44Z",
+      "fetched_at": "2026-10-30T22:25:30Z",
       "score": 8,
       "comment_count": 4,
       "score_gain_24h_observed": 0,
@@ -249,6 +269,26 @@
       "snippet": ""
     },
     {
+      "id": "HN-50309439",
+      "hn_id": 50309439,
+      "title": "PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden",
+      "url": "https://www.phoronix.com/news/PostgreSQL-19-Late",
+      "hn_url": "https://news.ycombinator.com/item?id=50309439",
+      "category": "AI",
+      "posted_at": "2026-10-30T20:06:12Z",
+      "fetched_at": "2026-10-30T22:26:18Z",
+      "score": 6,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI",
+        "LLM"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50296625",
       "hn_id": 50296625,
       "title": "Reddit will force users to log in as AI is killing search traffic",
@@ -256,7 +296,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50296625",
       "category": "AI",
       "posted_at": "2026-10-29T21:51:18Z",
-      "fetched_at": "2026-10-30T13:02:44Z",
+      "fetched_at": "2026-10-30T22:25:30Z",
       "score": 5,
       "comment_count": 1,
       "score_gain_24h_observed": 1,
@@ -298,7 +338,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50293643",
       "category": "AI",
       "posted_at": "2026-10-29T18:23:18Z",
-      "fetched_at": "2026-10-30T13:02:44Z",
+      "fetched_at": "2026-10-30T22:25:30Z",
       "score": 3,
       "comment_count": 0,
       "score_gain_24h_observed": 0,
@@ -379,9 +419,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50273396",
       "category": "AI",
       "posted_at": "2026-10-28T13:41:30Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
-      "score": 489,
-      "comment_count": 537,
+      "fetched_at": "2026-10-30T22:25:30Z",
+      "score": 491,
+      "comment_count": 544,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -398,14 +438,33 @@
       "hn_url": "https://news.ycombinator.com/item?id=50257419",
       "category": "Programming",
       "posted_at": "2026-10-27T11:17:57Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
-      "score": 576,
-      "comment_count": 335,
+      "fetched_at": "2026-10-30T22:25:30Z",
+      "score": 578,
+      "comment_count": 336,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "Python"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50290177",
+      "hn_id": 50290177,
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50290177",
+      "category": "AI",
+      "posted_at": "2026-10-29T14:57:55Z",
+      "fetched_at": "2026-10-30T22:25:30Z",
+      "score": 586,
+      "comment_count": 319,
+      "score_gain_24h_observed": 108,
+      "comment_gain_24h_observed": 58,
+      "keywords": [],
+      "selection_hints": [
+        "LLM"
       ],
       "snippet": ""
     },
@@ -417,7 +476,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50236102",
       "category": "AI",
       "posted_at": "2026-10-25T21:11:31Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
+      "fetched_at": "2026-10-30T22:25:30Z",
       "score": 442,
       "comment_count": 437,
       "score_gain_24h_observed": null,
@@ -438,9 +497,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50255298",
       "category": "AI",
       "posted_at": "2026-10-27T06:25:37Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
-      "score": 490,
-      "comment_count": 361,
+      "fetched_at": "2026-10-30T22:25:30Z",
+      "score": 492,
+      "comment_count": 362,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -459,9 +518,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50284255",
       "category": "AI",
       "posted_at": "2026-10-29T03:33:42Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
-      "score": 569,
-      "comment_count": 232,
+      "fetched_at": "2026-10-30T22:25:30Z",
+      "score": 577,
+      "comment_count": 235,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -473,25 +532,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50290177",
-      "hn_id": 50290177,
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50290177",
-      "category": "AI",
-      "posted_at": "2026-10-29T14:57:55Z",
-      "fetched_at": "2026-10-30T13:02:44Z",
-      "score": 514,
-      "comment_count": 270,
-      "score_gain_24h_observed": 215,
-      "comment_gain_24h_observed": 112,
-      "keywords": [],
-      "selection_hints": [
-        "LLM"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50291945",
       "hn_id": 50291945,
       "title": "Google Search is now less than half of Alphabet’s revenue",
@@ -499,16 +539,35 @@
       "hn_url": "https://news.ycombinator.com/item?id=50291945",
       "category": "Other",
       "posted_at": "2026-10-29T16:42:17Z",
-      "fetched_at": "2026-10-30T13:02:44Z",
-      "score": 416,
-      "comment_count": 349,
-      "score_gain_24h_observed": 40,
-      "comment_gain_24h_observed": 27,
+      "fetched_at": "2026-10-30T22:25:30Z",
+      "score": 425,
+      "comment_count": 355,
+      "score_gain_24h_observed": 10,
+      "comment_gain_24h_observed": 10,
       "keywords": [
         "google search"
       ],
       "selection_hints": [
         "search"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50305693",
+      "hn_id": 50305693,
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "hn_url": "https://news.ycombinator.com/item?id=50305693",
+      "category": "AI",
+      "posted_at": "2026-10-30T15:52:18Z",
+      "fetched_at": "2026-10-30T22:26:18Z",
+      "score": 446,
+      "comment_count": 330,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
       ],
       "snippet": ""
     },
@@ -520,33 +579,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50257326",
       "category": "Other",
       "posted_at": "2026-10-27T11:08:15Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
-      "score": 516,
-      "comment_count": 241,
+      "fetched_at": "2026-10-30T22:25:30Z",
+      "score": 518,
+      "comment_count": 243,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
         "ai generated"
       ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50261819",
-      "hn_id": 50261819,
-      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-      "hn_url": "https://news.ycombinator.com/item?id=50261819",
-      "category": "AI",
-      "posted_at": "2026-10-27T16:40:15Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
-      "score": 398,
-      "comment_count": 312,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
       "selection_hints": [
         "AI"
       ],
@@ -560,14 +600,33 @@
       "hn_url": "https://news.ycombinator.com/item?id=50280864",
       "category": "AI",
       "posted_at": "2026-10-28T21:03:24Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
-      "score": 433,
-      "comment_count": 265,
+      "fetched_at": "2026-10-30T22:25:30Z",
+      "score": 446,
+      "comment_count": 280,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "security"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50261819",
+      "hn_id": 50261819,
+      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "hn_url": "https://news.ycombinator.com/item?id=50261819",
+      "category": "AI",
+      "posted_at": "2026-10-27T16:40:15Z",
+      "fetched_at": "2026-10-30T22:25:30Z",
+      "score": 398,
+      "comment_count": 313,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
       ],
       "snippet": ""
     },
@@ -579,9 +638,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50261589",
       "category": "AI",
       "posted_at": "2026-10-27T16:25:30Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
+      "fetched_at": "2026-10-30T22:25:30Z",
       "score": 385,
-      "comment_count": 291,
+      "comment_count": 293,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -652,6 +711,25 @@
       "snippet": ""
     },
     {
+      "id": "HN-50306008",
+      "hn_id": 50306008,
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "hn_url": "https://news.ycombinator.com/item?id=50306008",
+      "category": "AI",
+      "posted_at": "2026-10-30T16:13:02Z",
+      "fetched_at": "2026-10-30T22:26:18Z",
+      "score": 226,
+      "comment_count": 251,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50246658",
       "hn_id": 50246658,
       "title": "Concerning behavior from a popular open-weight AI model",
@@ -659,8 +737,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50246658",
       "category": "AI",
       "posted_at": "2026-10-26T16:35:44Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
-      "score": 332,
+      "fetched_at": "2026-10-30T22:25:30Z",
+      "score": 334,
       "comment_count": 132,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -695,6 +773,25 @@
       "snippet": ""
     },
     {
+      "id": "HN-50307183",
+      "hn_id": 50307183,
+      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+      "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+      "hn_url": "https://news.ycombinator.com/item?id=50307183",
+      "category": "AI",
+      "posted_at": "2026-10-30T17:24:45Z",
+      "fetched_at": "2026-10-30T22:26:18Z",
+      "score": 244,
+      "comment_count": 201,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50275626",
       "hn_id": 50275626,
       "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
@@ -702,9 +799,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50275626",
       "category": "AI",
       "posted_at": "2026-10-28T15:46:30Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
-      "score": 258,
-      "comment_count": 173,
+      "fetched_at": "2026-10-30T22:25:30Z",
+      "score": 261,
+      "comment_count": 174,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -723,8 +820,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50282544",
       "category": "Security",
       "posted_at": "2026-10-28T23:45:46Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
-      "score": 253,
+      "fetched_at": "2026-10-30T22:25:30Z",
+      "score": 255,
       "comment_count": 122,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -733,101 +830,6 @@
       ],
       "selection_hints": [
         "security"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50242843",
-      "hn_id": 50242843,
-      "title": "Brown student maps the hidden global labor powering AI",
-      "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
-      "hn_url": "https://news.ycombinator.com/item?id=50242843",
-      "category": "AI",
-      "posted_at": "2026-10-26T12:58:27Z",
-      "fetched_at": "2026-10-28T05:49:22Z",
-      "score": 182,
-      "comment_count": 177,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50217903",
-      "hn_id": 50217903,
-      "title": "Apple Security Research Device",
-      "url": "https://security.apple.com/research-device/",
-      "hn_url": "https://news.ycombinator.com/item?id=50217903",
-      "category": "Security",
-      "posted_at": "2026-10-24T02:36:38Z",
-      "fetched_at": "2026-10-28T22:39:13Z",
-      "score": 191,
-      "comment_count": 162,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "security"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50238739",
-      "hn_id": 50238739,
-      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-      "hn_url": "https://news.ycombinator.com/item?id=50238739",
-      "category": "Programming",
-      "posted_at": "2026-10-26T03:29:05Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
-      "score": 236,
-      "comment_count": 88,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "MCP"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50216791",
-      "hn_id": 50216791,
-      "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
-      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-      "hn_url": "https://news.ycombinator.com/item?id=50216791",
-      "category": "Security",
-      "posted_at": "2026-10-23T23:30:17Z",
-      "fetched_at": "2026-10-28T22:39:13Z",
-      "score": 186,
-      "comment_count": 95,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "Python"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50273731",
-      "hn_id": 50273731,
-      "title": "The Agent SDK",
-      "url": "https://cursor.com/blog/agent-sdk",
-      "hn_url": "https://news.ycombinator.com/item?id=50273731",
-      "category": "Other",
-      "posted_at": "2026-10-28T14:02:20Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
-      "score": 142,
-      "comment_count": 132,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "agent"
       ],
       "snippet": ""
     }
