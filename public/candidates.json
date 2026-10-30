@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-29T19:48:08Z",
-  "source_data_as_of": "2026-10-29T13:10:45Z",
+  "generated_at": "2026-10-30T00:11:02Z",
+  "source_data_as_of": "2026-10-29T22:49:29Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-22T19:48:08Z",
-  "eligible_count_before_dedup": 312,
+  "window_start": "2026-10-23T00:11:02Z",
+  "eligible_count_before_dedup": 348,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "0c95d1a3e6122c0338485b43781c2eb1b3961951"
+    "commit": "bcb6047c86c01ff50e42f7379d77adaf85f0011a"
   },
   "articles": [
     {
@@ -21,9 +21,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50264853",
       "category": "AI",
       "posted_at": "2026-10-27T19:55:06Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
-      "score": 528,
-      "comment_count": 196,
+      "fetched_at": "2026-10-29T22:48:29Z",
+      "score": 537,
+      "comment_count": 202,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -41,15 +41,37 @@
       "hn_url": "https://news.ycombinator.com/item?id=50282865",
       "category": "AI",
       "posted_at": "2026-10-29T00:30:37Z",
-      "fetched_at": "2026-10-29T13:10:45Z",
-      "score": 52,
-      "comment_count": 70,
-      "score_gain_24h_observed": 3,
-      "comment_gain_24h_observed": 3,
+      "fetched_at": "2026-10-29T22:49:29Z",
+      "score": 55,
+      "comment_count": 73,
+      "score_gain_24h_observed": 6,
+      "comment_gain_24h_observed": 6,
       "keywords": [],
       "selection_hints": [
         "AI",
         "LLM"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50296486",
+      "hn_id": 50296486,
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50296486",
+      "category": "AI",
+      "posted_at": "2026-10-29T21:40:28Z",
+      "fetched_at": "2026-10-29T22:49:29Z",
+      "score": 56,
+      "comment_count": 18,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai agent"
+      ],
+      "selection_hints": [
+        "AI",
+        "agent"
       ],
       "snippet": ""
     },
@@ -61,7 +83,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50237813",
       "category": "Security",
       "posted_at": "2026-10-26T01:13:43Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
+      "fetched_at": "2026-10-29T22:48:29Z",
       "score": 38,
       "comment_count": 9,
       "score_gain_24h_observed": null,
@@ -76,6 +98,50 @@
       "snippet": "freehire is a filterable, job board aggregator, job tracker, and AI-assisted resume tailoring tool. Saving your skills and preferences changes which jobs appear and how your resume gets tailored. I've looked at a lot of these solutions over the years and found it really hard to find the right mix of tools in an open-source offering. I've contributed to a few issues now and worked closely with the maintainer. I've watched this evolve over the last few months. I feel it's ready for everyone to che"
     },
     {
+      "id": "HN-50286306",
+      "hn_id": 50286306,
+      "title": "Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites",
+      "url": "https://news.ycombinator.com/item?id=50286306",
+      "hn_url": "https://news.ycombinator.com/item?id=50286306",
+      "category": "AI",
+      "posted_at": "2026-10-29T09:06:12Z",
+      "fetched_at": "2026-10-29T22:49:29Z",
+      "score": 24,
+      "comment_count": 3,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "claude code"
+      ],
+      "selection_hints": [
+        "LLM",
+        "prompt"
+      ],
+      "snippet": "The prompt issue: https://github.com/anthropics/claude-code/issues/81138 The LLM sends it to websites: https://www.reddit.com/r/ClaudeCode/comments/1xhqvzn/opus_55_just_shared_my_email_address/"
+    },
+    {
+      "id": "HN-50293979",
+      "hn_id": 50293979,
+      "title": "A Defense Contractor Gave Their AI Agent Access to a Secure Pentagon System",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "hn_url": "https://news.ycombinator.com/item?id=50293979",
+      "category": "AI",
+      "posted_at": "2026-10-29T18:47:56Z",
+      "fetched_at": "2026-10-29T22:49:29Z",
+      "score": 16,
+      "comment_count": 5,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai agent"
+      ],
+      "selection_hints": [
+        "AI",
+        "agent"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50235909",
       "hn_id": 50235909,
       "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
@@ -83,8 +149,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50235909",
       "category": "AI",
       "posted_at": "2026-10-25T20:46:50Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
-      "score": 15,
+      "fetched_at": "2026-10-29T22:48:29Z",
+      "score": 16,
       "comment_count": 1,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -94,6 +160,28 @@
       "selection_hints": [
         "AI",
         "security"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50293361",
+      "hn_id": 50293361,
+      "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
+      "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
+      "hn_url": "https://news.ycombinator.com/item?id=50293361",
+      "category": "AI",
+      "posted_at": "2026-10-29T18:06:22Z",
+      "fetched_at": "2026-10-29T22:49:29Z",
+      "score": 11,
+      "comment_count": 3,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai agent"
+      ],
+      "selection_hints": [
+        "AI",
+        "agent"
       ],
       "snippet": ""
     },
@@ -121,6 +209,26 @@
       "snippet": ""
     },
     {
+      "id": "HN-50293305",
+      "hn_id": 50293305,
+      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+      "hn_url": "https://news.ycombinator.com/item?id=50293305",
+      "category": "AI",
+      "posted_at": "2026-10-29T18:02:07Z",
+      "fetched_at": "2026-10-29T22:49:29Z",
+      "score": 8,
+      "comment_count": 4,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI",
+        "search"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50262407",
       "hn_id": 50262407,
       "title": "Show HN: Agent-relay for multi-vendor coding sessions",
@@ -128,7 +236,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50262407",
       "category": "Other",
       "posted_at": "2026-10-27T17:14:54Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
+      "fetched_at": "2026-10-29T22:48:29Z",
       "score": 8,
       "comment_count": 1,
       "score_gain_24h_observed": null,
@@ -170,9 +278,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50257325",
       "category": "AI",
       "posted_at": "2026-10-27T11:08:14Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
-      "score": 674,
-      "comment_count": 658,
+      "fetched_at": "2026-10-29T22:48:29Z",
+      "score": 677,
+      "comment_count": 659,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -191,9 +299,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50224463",
       "category": "AI",
       "posted_at": "2026-10-24T19:47:19Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
+      "fetched_at": "2026-10-29T22:48:29Z",
       "score": 649,
-      "comment_count": 676,
+      "comment_count": 677,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -210,7 +318,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50226419",
       "category": "Other",
       "posted_at": "2026-10-24T23:11:54Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
+      "fetched_at": "2026-10-29T22:48:29Z",
       "score": 546,
       "comment_count": 589,
       "score_gain_24h_observed": null,
@@ -229,11 +337,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50273396",
       "category": "AI",
       "posted_at": "2026-10-28T13:41:30Z",
-      "fetched_at": "2026-10-29T13:10:45Z",
-      "score": 471,
-      "comment_count": 507,
-      "score_gain_24h_observed": 75,
-      "comment_gain_24h_observed": 69,
+      "fetched_at": "2026-10-29T22:48:29Z",
+      "score": 482,
+      "comment_count": 519,
+      "score_gain_24h_observed": 22,
+      "comment_gain_24h_observed": 11,
       "keywords": [],
       "selection_hints": [
         "AI"
@@ -248,9 +356,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50257419",
       "category": "Programming",
       "posted_at": "2026-10-27T11:17:57Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
-      "score": 570,
-      "comment_count": 330,
+      "fetched_at": "2026-10-29T22:48:29Z",
+      "score": 576,
+      "comment_count": 333,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -267,9 +375,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50236102",
       "category": "AI",
       "posted_at": "2026-10-25T21:11:31Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
+      "fetched_at": "2026-10-29T22:48:29Z",
       "score": 441,
-      "comment_count": 436,
+      "comment_count": 437,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -288,9 +396,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50255298",
       "category": "AI",
       "posted_at": "2026-10-27T06:25:37Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
-      "score": 482,
-      "comment_count": 355,
+      "fetched_at": "2026-10-29T22:48:29Z",
+      "score": 486,
+      "comment_count": 358,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -302,6 +410,27 @@
       "snippet": ""
     },
     {
+      "id": "HN-50284255",
+      "hn_id": 50284255,
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "hn_url": "https://news.ycombinator.com/item?id=50284255",
+      "category": "AI",
+      "posted_at": "2026-10-29T03:33:42Z",
+      "fetched_at": "2026-10-29T22:49:29Z",
+      "score": 557,
+      "comment_count": 224,
+      "score_gain_24h_observed": 367,
+      "comment_gain_24h_observed": 183,
+      "keywords": [
+        "claude code"
+      ],
+      "selection_hints": [
+        "agent"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50257326",
       "hn_id": 50257326,
       "title": "Wikipedia's Cleanup of AI-Generated Content",
@@ -309,9 +438,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50257326",
       "category": "Other",
       "posted_at": "2026-10-27T11:08:15Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
-      "score": 510,
-      "comment_count": 237,
+      "fetched_at": "2026-10-29T22:48:29Z",
+      "score": 513,
+      "comment_count": 241,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -330,14 +459,35 @@
       "hn_url": "https://news.ycombinator.com/item?id=50261819",
       "category": "AI",
       "posted_at": "2026-10-27T16:40:15Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
-      "score": 396,
+      "fetched_at": "2026-10-29T22:48:29Z",
+      "score": 397,
       "comment_count": 312,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50291945",
+      "hn_id": 50291945,
+      "title": "Google Search is now less than half of Alphabet’s revenue",
+      "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+      "hn_url": "https://news.ycombinator.com/item?id=50291945",
+      "category": "Other",
+      "posted_at": "2026-10-29T16:42:17Z",
+      "fetched_at": "2026-10-29T22:49:29Z",
+      "score": 376,
+      "comment_count": 322,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "google search"
+      ],
+      "selection_hints": [
+        "search"
       ],
       "snippet": ""
     },
@@ -349,9 +499,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50261589",
       "category": "AI",
       "posted_at": "2026-10-27T16:25:30Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
-      "score": 377,
-      "comment_count": 286,
+      "fetched_at": "2026-10-29T22:48:29Z",
+      "score": 381,
+      "comment_count": 291,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -361,23 +511,21 @@
       "snippet": ""
     },
     {
-      "id": "HN-50284255",
-      "hn_id": 50284255,
-      "title": "Claude Code regularly sends each background agent’s transcript to its model",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "hn_url": "https://news.ycombinator.com/item?id=50284255",
+      "id": "HN-50280864",
+      "hn_id": 50280864,
+      "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "hn_url": "https://news.ycombinator.com/item?id=50280864",
       "category": "AI",
-      "posted_at": "2026-10-29T03:33:42Z",
-      "fetched_at": "2026-10-29T13:10:45Z",
-      "score": 456,
-      "comment_count": 184,
-      "score_gain_24h_observed": 266,
-      "comment_gain_24h_observed": 143,
-      "keywords": [
-        "claude code"
-      ],
+      "posted_at": "2026-10-28T21:03:24Z",
+      "fetched_at": "2026-10-29T22:48:29Z",
+      "score": 399,
+      "comment_count": 248,
+      "score_gain_24h_observed": 21,
+      "comment_gain_24h_observed": 17,
+      "keywords": [],
       "selection_hints": [
-        "agent"
+        "security"
       ],
       "snippet": ""
     },
@@ -408,9 +556,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50233304",
       "category": "AI",
       "posted_at": "2026-10-25T16:28:26Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
-      "score": 239,
-      "comment_count": 340,
+      "fetched_at": "2026-10-29T22:48:29Z",
+      "score": 240,
+      "comment_count": 342,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -422,25 +570,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50280864",
-      "hn_id": 50280864,
-      "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-      "hn_url": "https://news.ycombinator.com/item?id=50280864",
-      "category": "AI",
-      "posted_at": "2026-10-28T21:03:24Z",
-      "fetched_at": "2026-10-29T13:10:45Z",
-      "score": 330,
-      "comment_count": 185,
-      "score_gain_24h_observed": 165,
-      "comment_gain_24h_observed": 129,
-      "keywords": [],
-      "selection_hints": [
-        "security"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50227356",
       "hn_id": 50227356,
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
@@ -448,34 +577,13 @@
       "hn_url": "https://news.ycombinator.com/item?id=50227356",
       "category": "AI",
       "posted_at": "2026-10-25T01:33:49Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
+      "fetched_at": "2026-10-29T22:48:29Z",
       "score": 368,
       "comment_count": 142,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
         "ai models"
-      ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50223647",
-      "hn_id": 50223647,
-      "title": "Why is AI generated language so hard to understand?",
-      "url": "https://arxiv.org/abs/2610.29162",
-      "hn_url": "https://news.ycombinator.com/item?id=50223647",
-      "category": "AI",
-      "posted_at": "2026-10-24T18:04:57Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
-      "score": 258,
-      "comment_count": 205,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai generated"
       ],
       "selection_hints": [
         "AI"
@@ -490,9 +598,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50246658",
       "category": "AI",
       "posted_at": "2026-10-26T16:35:44Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
-      "score": 330,
-      "comment_count": 130,
+      "fetched_at": "2026-10-29T22:48:29Z",
+      "score": 331,
+      "comment_count": 132,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -505,6 +613,46 @@
       "snippet": ""
     },
     {
+      "id": "HN-50223647",
+      "hn_id": 50223647,
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "hn_url": "https://news.ycombinator.com/item?id=50223647",
+      "category": "AI",
+      "posted_at": "2026-10-24T18:04:57Z",
+      "fetched_at": "2026-10-29T22:48:29Z",
+      "score": 258,
+      "comment_count": 205,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai generated"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50290177",
+      "hn_id": 50290177,
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50290177",
+      "category": "AI",
+      "posted_at": "2026-10-29T14:57:55Z",
+      "fetched_at": "2026-10-29T22:49:29Z",
+      "score": 299,
+      "comment_count": 158,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "LLM"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50275626",
       "hn_id": 50275626,
       "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
@@ -512,16 +660,37 @@
       "hn_url": "https://news.ycombinator.com/item?id=50275626",
       "category": "AI",
       "posted_at": "2026-10-28T15:46:30Z",
-      "fetched_at": "2026-10-29T13:10:45Z",
-      "score": 247,
-      "comment_count": 154,
-      "score_gain_24h_observed": 77,
-      "comment_gain_24h_observed": 53,
+      "fetched_at": "2026-10-29T22:48:29Z",
+      "score": 253,
+      "comment_count": 171,
+      "score_gain_24h_observed": 26,
+      "comment_gain_24h_observed": 11,
       "keywords": [
         "ai agents"
       ],
       "selection_hints": [
         "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50282544",
+      "hn_id": 50282544,
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50282544",
+      "category": "Security",
+      "posted_at": "2026-10-28T23:45:46Z",
+      "fetched_at": "2026-10-29T22:49:29Z",
+      "score": 247,
+      "comment_count": 120,
+      "score_gain_24h_observed": 112,
+      "comment_gain_24h_observed": 64,
+      "keywords": [
+        "cve 2026"
+      ],
+      "selection_hints": [
+        "security"
       ],
       "snippet": ""
     },
@@ -571,7 +740,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50238739",
       "category": "Programming",
       "posted_at": "2026-10-26T03:29:05Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
+      "fetched_at": "2026-10-29T22:48:29Z",
       "score": 236,
       "comment_count": 88,
       "score_gain_24h_observed": null,
@@ -602,27 +771,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50282544",
-      "hn_id": 50282544,
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50282544",
-      "category": "Security",
-      "posted_at": "2026-10-28T23:45:46Z",
-      "fetched_at": "2026-10-29T13:10:45Z",
-      "score": 202,
-      "comment_count": 96,
-      "score_gain_24h_observed": 67,
-      "comment_gain_24h_observed": 40,
-      "keywords": [
-        "cve 2026"
-      ],
-      "selection_hints": [
-        "security"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50216791",
       "hn_id": 50216791,
       "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
@@ -649,11 +797,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50273731",
       "category": "Other",
       "posted_at": "2026-10-28T14:02:20Z",
-      "fetched_at": "2026-10-29T13:10:45Z",
-      "score": 133,
-      "comment_count": 128,
-      "score_gain_24h_observed": 49,
-      "comment_gain_24h_observed": 27,
+      "fetched_at": "2026-10-29T22:48:29Z",
+      "score": 140,
+      "comment_count": 131,
+      "score_gain_24h_observed": 20,
+      "comment_gain_24h_observed": 11,
       "keywords": [],
       "selection_hints": [
         "agent"
@@ -668,7 +816,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50252159",
       "category": "AI",
       "posted_at": "2026-10-26T22:41:48Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
+      "fetched_at": "2026-10-29T22:48:29Z",
       "score": 181,
       "comment_count": 79,
       "score_gain_24h_observed": null,
@@ -680,143 +828,6 @@
         "AI"
       ],
       "snippet": ""
-    },
-    {
-      "id": "HN-50229827",
-      "hn_id": 50229827,
-      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50229827",
-      "category": "AI",
-      "posted_at": "2026-10-25T09:51:17Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
-      "score": 144,
-      "comment_count": 88,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50231722",
-      "hn_id": 50231722,
-      "title": "R/open source bans all solo projects and projects using LLMs",
-      "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
-      "hn_url": "https://news.ycombinator.com/item?id=50231722",
-      "category": "AI",
-      "posted_at": "2026-10-25T14:05:03Z",
-      "fetched_at": "2026-10-27T12:19:32Z",
-      "score": 90,
-      "comment_count": 129,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open source"
-      ],
-      "selection_hints": [
-        "open source"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50254836",
-      "hn_id": 50254836,
-      "title": "There are now 5 inference providers for abliterated DeepSeek",
-      "url": "https://allmodels.io/llm/abliterated",
-      "hn_url": "https://news.ycombinator.com/item?id=50254836",
-      "category": "AI",
-      "posted_at": "2026-10-27T04:53:52Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
-      "score": 97,
-      "comment_count": 120,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "inference"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50246238",
-      "hn_id": 50246238,
-      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-      "url": "https://github.com/FrigadeHQ/hob",
-      "hn_url": "https://news.ycombinator.com/item?id=50246238",
-      "category": "AI",
-      "posted_at": "2026-10-26T16:12:29Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
-      "score": 172,
-      "comment_count": 43,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open source"
-      ],
-      "selection_hints": [
-        "open source"
-      ],
-      "snippet": "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on your own computer. It uses open-weight models (currently Gemma 4 and gpt-oss). All your chats and files never leave your system. The only things that go online are web search (can be turned off in settings) and any MCP connectors y"
-    },
-    {
-      "id": "HN-50233347",
-      "hn_id": 50233347,
-      "title": "A mathematician reads the AI future",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-      "hn_url": "https://news.ycombinator.com/item?id=50233347",
-      "category": "AI",
-      "posted_at": "2026-10-25T16:31:21Z",
-      "fetched_at": "2026-10-29T13:09:51Z",
-      "score": 70,
-      "comment_count": 130,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50239027",
-      "hn_id": 50239027,
-      "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
-      "hn_url": "https://news.ycombinator.com/item?id=50239027",
-      "category": "AI",
-      "posted_at": "2026-10-26T04:11:40Z",
-      "fetched_at": "2026-10-28T05:49:22Z",
-      "score": 81,
-      "comment_count": 117,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50214373",
-      "hn_id": 50214373,
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "url": "https://corgi.computer/",
-      "hn_url": "https://news.ycombinator.com/item?id=50214373",
-      "category": "Other",
-      "posted_at": "2026-10-23T19:46:38Z",
-      "fetched_at": "2026-10-28T22:39:13Z",
-      "score": 141,
-      "comment_count": 47,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "agent"
-      ],
-      "snippet": "Hey everyone, Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now. I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had: I show you what the agents are up to, along with a running feed of their activity. There's also a simple shortcut (F1) to go to the next unread agent. I use multiple accounts, so I've added unified launcher for Codex/Claude Code/Pi. Theres some careful ergonomics there: fast"
     }
   ],
   "candidate_count": 40
