@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-01T14:27:03Z",
+  "generated_at": "2026-11-01T19:06:14Z",
   "source_data_as_of": "2026-11-01T13:36:29Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-25T14:27:03Z",
-  "eligible_count_before_dedup": 389,
+  "window_start": "2026-10-25T19:06:14Z",
+  "eligible_count_before_dedup": 380,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
@@ -628,27 +628,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50233304",
-      "hn_id": 50233304,
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50233304",
-      "category": "AI",
-      "posted_at": "2026-10-25T16:28:26Z",
-      "fetched_at": "2026-10-29T22:48:29Z",
-      "score": 240,
-      "comment_count": 342,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai use"
-      ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50306008",
       "hn_id": 50306008,
       "title": "US tech stocks see sharp falls over AI cost fears",
@@ -823,6 +802,25 @@
       "keywords": [],
       "selection_hints": [
         "MCP"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50289692",
+      "hn_id": 50289692,
+      "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+      "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+      "hn_url": "https://news.ycombinator.com/item?id=50289692",
+      "category": "AI",
+      "posted_at": "2026-10-29T14:29:06Z",
+      "fetched_at": "2026-10-31T12:40:35Z",
+      "score": 229,
+      "comment_count": 81,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
       ],
       "snippet": ""
     }
