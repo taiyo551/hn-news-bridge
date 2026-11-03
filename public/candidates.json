@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-03T03:39:30Z",
+  "generated_at": "2026-11-03T12:15:17Z",
   "source_data_as_of": "2026-11-03T01:02:35Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-27T03:39:30Z",
-  "eligible_count_before_dedup": 383,
+  "window_start": "2026-10-27T12:15:17Z",
+  "eligible_count_before_dedup": 367,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
@@ -130,8 +130,8 @@
       "fetched_at": "2026-11-03T01:01:50Z",
       "score": 60,
       "comment_count": 6,
-      "score_gain_24h_observed": 12,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "ai agent"
       ],
@@ -350,27 +350,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50257325",
-      "hn_id": 50257325,
-      "title": "AI promised less work. I've never worked more",
-      "url": "https://oioannou.com/blog/ai-promised-less-work/",
-      "hn_url": "https://news.ycombinator.com/item?id=50257325",
-      "category": "AI",
-      "posted_at": "2026-10-27T11:08:14Z",
-      "fetched_at": "2026-10-30T13:01:55Z",
-      "score": 678,
-      "comment_count": 660,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ve worked"
-      ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50305693",
       "hn_id": 50305693,
       "title": "AI isn't replacing SREs, it's deskilling them",
@@ -424,46 +403,6 @@
       "keywords": [],
       "selection_hints": [
         "LLM"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50257419",
-      "hn_id": 50257419,
-      "title": "Python's experimental JIT to be removed",
-      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-      "hn_url": "https://news.ycombinator.com/item?id=50257419",
-      "category": "Programming",
-      "posted_at": "2026-10-27T11:17:57Z",
-      "fetched_at": "2026-11-01T13:35:45Z",
-      "score": 580,
-      "comment_count": 338,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "Python"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50255298",
-      "hn_id": 50255298,
-      "title": "The Mythical Man-Month in the Age of AI",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "hn_url": "https://news.ycombinator.com/item?id=50255298",
-      "category": "AI",
-      "posted_at": "2026-10-27T06:25:37Z",
-      "fetched_at": "2026-11-01T13:35:45Z",
-      "score": 496,
-      "comment_count": 363,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "age ai"
-      ],
-      "selection_hints": [
-        "AI"
       ],
       "snippet": ""
     },
@@ -544,27 +483,6 @@
       "keywords": [],
       "selection_hints": [
         "security"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50257326",
-      "hn_id": 50257326,
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "hn_url": "https://news.ycombinator.com/item?id=50257326",
-      "category": "Other",
-      "posted_at": "2026-10-27T11:08:15Z",
-      "fetched_at": "2026-11-01T13:35:45Z",
-      "score": 519,
-      "comment_count": 243,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai generated"
-      ],
-      "selection_hints": [
-        "AI"
       ],
       "snippet": ""
     },
@@ -714,8 +632,8 @@
       "fetched_at": "2026-11-03T01:01:50Z",
       "score": 242,
       "comment_count": 252,
-      "score_gain_24h_observed": 24,
-      "comment_gain_24h_observed": 29,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI"
@@ -820,6 +738,84 @@
         "latency"
       ],
       "snippet": ""
+    },
+    {
+      "id": "HN-50315226",
+      "hn_id": 50315226,
+      "title": "Prospero: A new coding harness for a more civilized age",
+      "url": "https://nullprogram.com/blog/2026/10/31/",
+      "hn_url": "https://news.ycombinator.com/item?id=50315226",
+      "category": "Other",
+      "posted_at": "2026-10-31T11:54:59Z",
+      "fetched_at": "2026-11-03T01:01:50Z",
+      "score": 206,
+      "comment_count": 136,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "coding"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50289692",
+      "hn_id": 50289692,
+      "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+      "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+      "hn_url": "https://news.ycombinator.com/item?id=50289692",
+      "category": "AI",
+      "posted_at": "2026-10-29T14:29:06Z",
+      "fetched_at": "2026-10-31T12:40:35Z",
+      "score": 229,
+      "comment_count": 81,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50310687",
+      "hn_id": 50310687,
+      "title": "Linode Security Incident",
+      "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
+      "hn_url": "https://news.ycombinator.com/item?id=50310687",
+      "category": "Security",
+      "posted_at": "2026-10-30T21:57:40Z",
+      "fetched_at": "2026-11-03T01:01:50Z",
+      "score": 197,
+      "comment_count": 109,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "security"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50301479",
+      "hn_id": 50301479,
+      "title": "Ask HN: Are you tired too in this AI era?",
+      "url": "https://news.ycombinator.com/item?id=50301479",
+      "hn_url": "https://news.ycombinator.com/item?id=50301479",
+      "category": "AI",
+      "posted_at": "2026-10-30T09:17:43Z",
+      "fetched_at": "2026-11-01T06:14:39Z",
+      "score": 148,
+      "comment_count": 141,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ask hn"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": "Although AI lets us do much more, I feel considerably more tired than before. We need to keep track of many things happening in parallel and read enormous amounts of generated text. The constant guardrailing, decision making, and context switching overload me. I am pretty sure most of you are experiencing the same as me, but: Have you found ways of using AI without increasing mental overload? I would love to hear your tips, but still be relevant in this AI era, so my boss does not fire me."
     }
   ],
   "candidate_count": 40
