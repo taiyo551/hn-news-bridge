@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T07:56:05Z",
+  "generated_at": "2026-11-04T16:30:31Z",
   "source_data_as_of": "2026-11-04T06:33:53Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-28T07:56:05Z",
-  "eligible_count_before_dedup": 393,
+  "window_start": "2026-10-28T16:30:31Z",
+  "eligible_count_before_dedup": 365,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
@@ -174,8 +174,8 @@
       "fetched_at": "2026-11-04T06:32:52Z",
       "score": 27,
       "comment_count": 20,
-      "score_gain_24h_observed": 3,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "open source"
       ],
@@ -500,25 +500,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50273396",
-      "hn_id": 50273396,
-      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=50273396",
-      "category": "AI",
-      "posted_at": "2026-10-28T13:41:30Z",
-      "fetched_at": "2026-11-03T14:23:47Z",
-      "score": 493,
-      "comment_count": 556,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50290177",
       "hn_id": 50290177,
       "title": "LLM Voice",
@@ -812,21 +793,40 @@
       "snippet": ""
     },
     {
-      "id": "HN-50275626",
-      "hn_id": 50275626,
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "hn_url": "https://news.ycombinator.com/item?id=50275626",
-      "category": "AI",
-      "posted_at": "2026-10-28T15:46:30Z",
+      "id": "HN-50348962",
+      "hn_id": 50348962,
+      "title": "Nvidia – open-source auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "hn_url": "https://news.ycombinator.com/item?id=50348962",
+      "category": "Security",
+      "posted_at": "2026-11-03T07:04:50Z",
+      "fetched_at": "2026-11-04T06:33:53Z",
+      "score": 272,
+      "comment_count": 132,
+      "score_gain_24h_observed": 13,
+      "comment_gain_24h_observed": 13,
+      "keywords": [
+        "open source"
+      ],
+      "selection_hints": [
+        "open source"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50296730",
+      "hn_id": 50296730,
+      "title": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "hn_url": "https://news.ycombinator.com/item?id=50296730",
+      "category": "Other",
+      "posted_at": "2026-10-29T21:58:34Z",
       "fetched_at": "2026-11-04T06:32:52Z",
-      "score": 266,
-      "comment_count": 174,
+      "score": 194,
+      "comment_count": 202,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agents"
-      ],
+      "keywords": [],
       "selection_hints": [
         "AI"
       ],
