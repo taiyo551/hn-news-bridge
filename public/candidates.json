@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-04T16:30:31Z",
-  "source_data_as_of": "2026-11-04T06:33:53Z",
+  "generated_at": "2026-11-04T22:06:10Z",
+  "source_data_as_of": "2026-11-04T19:50:17Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-28T16:30:31Z",
-  "eligible_count_before_dedup": 365,
+  "window_start": "2026-10-28T22:06:10Z",
+  "eligible_count_before_dedup": 399,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "7fc43a5aad61b435c2060753f138b13fdbe88743"
+    "commit": "afa25e5544907a410ff495818b6875ef6811ef30"
   },
   "articles": [
     {
@@ -21,9 +21,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50353192",
       "category": "AI",
       "posted_at": "2026-11-03T15:25:47Z",
-      "fetched_at": "2026-11-04T06:33:53Z",
-      "score": 597,
-      "comment_count": 425,
+      "fetched_at": "2026-11-04T19:49:27Z",
+      "score": 653,
+      "comment_count": 458,
       "score_gain_24h_observed": 70,
       "comment_gain_24h_observed": 42,
       "keywords": [],
@@ -41,7 +41,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50296486",
       "category": "AI",
       "posted_at": "2026-10-29T21:40:28Z",
-      "fetched_at": "2026-11-04T06:32:52Z",
+      "fetched_at": "2026-11-04T19:49:27Z",
       "score": 422,
       "comment_count": 174,
       "score_gain_24h_observed": null,
@@ -63,9 +63,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50325662",
       "category": "AI",
       "posted_at": "2026-11-01T13:47:24Z",
-      "fetched_at": "2026-11-04T06:32:52Z",
+      "fetched_at": "2026-11-04T19:49:27Z",
       "score": 180,
-      "comment_count": 90,
+      "comment_count": 91,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -85,9 +85,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50336138",
       "category": "AI",
       "posted_at": "2026-11-02T12:50:59Z",
-      "fetched_at": "2026-11-04T06:32:52Z",
-      "score": 142,
-      "comment_count": 116,
+      "fetched_at": "2026-11-04T19:49:27Z",
+      "score": 143,
+      "comment_count": 117,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -127,9 +127,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50352898",
       "category": "AI",
       "posted_at": "2026-11-03T15:02:58Z",
-      "fetched_at": "2026-11-04T06:33:53Z",
-      "score": 53,
-      "comment_count": 36,
+      "fetched_at": "2026-11-04T19:49:27Z",
+      "score": 55,
+      "comment_count": 39,
       "score_gain_24h_observed": 2,
       "comment_gain_24h_observed": 2,
       "keywords": [
@@ -171,7 +171,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50347524",
       "category": "Security",
       "posted_at": "2026-11-03T03:06:53Z",
-      "fetched_at": "2026-11-04T06:32:52Z",
+      "fetched_at": "2026-11-04T19:49:27Z",
       "score": 27,
       "comment_count": 20,
       "score_gain_24h_observed": null,
@@ -199,7 +199,8 @@
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
-        "claude code"
+        "claude code",
+        "tell hn"
       ],
       "selection_hints": [
         "LLM",
@@ -230,6 +231,29 @@
       "snippet": ""
     },
     {
+      "id": "HN-50358388",
+      "hn_id": 50358388,
+      "title": "British fintech Revolut slashes AI coding costs 10x by going self-hosted",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+      "hn_url": "https://news.ycombinator.com/item?id=50358388",
+      "category": "AI",
+      "posted_at": "2026-11-03T21:23:42Z",
+      "fetched_at": "2026-11-04T19:50:17Z",
+      "score": 21,
+      "comment_count": 1,
+      "score_gain_24h_observed": 6,
+      "comment_gain_24h_observed": 0,
+      "keywords": [
+        "self hosted",
+        "ai coding"
+      ],
+      "selection_hints": [
+        "AI",
+        "coding"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50357893",
       "hn_id": 50357893,
       "title": "Google to cutoff Search Engine access to schools banning Gen. AI",
@@ -237,7 +261,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50357893",
       "category": "AI",
       "posted_at": "2026-11-03T20:42:44Z",
-      "fetched_at": "2026-11-04T06:33:53Z",
+      "fetched_at": "2026-11-04T19:50:17Z",
       "score": 19,
       "comment_count": 1,
       "score_gain_24h_observed": 3,
@@ -259,11 +283,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50361562",
       "category": "AI",
       "posted_at": "2026-11-04T04:40:06Z",
-      "fetched_at": "2026-11-04T06:33:53Z",
+      "fetched_at": "2026-11-04T19:50:17Z",
       "score": 15,
-      "comment_count": 2,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "comment_count": 3,
+      "score_gain_24h_observed": 0,
+      "comment_gain_24h_observed": 1,
       "keywords": [],
       "selection_hints": [
         "AI",
@@ -290,29 +314,6 @@
       "selection_hints": [
         "AI",
         "agent"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50358388",
-      "hn_id": 50358388,
-      "title": "British fintech Revolut slashes AI coding costs 10x by going self-hosted",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
-      "hn_url": "https://news.ycombinator.com/item?id=50358388",
-      "category": "AI",
-      "posted_at": "2026-11-03T21:23:42Z",
-      "fetched_at": "2026-11-04T06:33:53Z",
-      "score": 15,
-      "comment_count": 1,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "self hosted",
-        "ai coding"
-      ],
-      "selection_hints": [
-        "AI",
-        "coding"
       ],
       "snippet": ""
     },
@@ -357,6 +358,29 @@
       "snippet": ""
     },
     {
+      "id": "HN-50358078",
+      "hn_id": 50358078,
+      "title": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%",
+      "url": "https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=50358078",
+      "category": "AI",
+      "posted_at": "2026-11-03T20:57:15Z",
+      "fetched_at": "2026-11-04T19:50:17Z",
+      "score": 12,
+      "comment_count": 1,
+      "score_gain_24h_observed": 2,
+      "comment_gain_24h_observed": 0,
+      "keywords": [
+        "ai coding",
+        "open weight"
+      ],
+      "selection_hints": [
+        "AI",
+        "coding"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50293305",
       "hn_id": 50293305,
       "title": "Google admits AI search makes less money, but it's fixing that with more ads",
@@ -373,29 +397,6 @@
       "selection_hints": [
         "AI",
         "search"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50358078",
-      "hn_id": 50358078,
-      "title": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%",
-      "url": "https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=50358078",
-      "category": "AI",
-      "posted_at": "2026-11-03T20:57:15Z",
-      "fetched_at": "2026-11-04T06:33:53Z",
-      "score": 11,
-      "comment_count": 1,
-      "score_gain_24h_observed": 1,
-      "comment_gain_24h_observed": 0,
-      "keywords": [
-        "ai coding",
-        "open weight"
-      ],
-      "selection_hints": [
-        "AI",
-        "coding"
       ],
       "snippet": ""
     },
@@ -440,6 +441,26 @@
       "snippet": ""
     },
     {
+      "id": "HN-50361359",
+      "hn_id": 50361359,
+      "title": "GIMP 3.2.8 with Many Refinements, Numerous Security Fixes Due to AI Reports",
+      "url": "https://www.phoronix.com/news/GIMP-3.2.8-Released",
+      "hn_url": "https://news.ycombinator.com/item?id=50361359",
+      "category": "AI",
+      "posted_at": "2026-11-04T03:59:51Z",
+      "fetched_at": "2026-11-04T19:50:17Z",
+      "score": 5,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI",
+        "security"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50327937",
       "hn_id": 50327937,
       "title": "Show HN: Offline project memory for coding agents – no API key, no vector DB",
@@ -469,12 +490,33 @@
       "hn_url": "https://news.ycombinator.com/item?id=50354960",
       "category": "AI",
       "posted_at": "2026-11-03T17:22:37Z",
-      "fetched_at": "2026-11-04T06:33:53Z",
-      "score": 1171,
-      "comment_count": 383,
+      "fetched_at": "2026-11-04T19:49:27Z",
+      "score": 1462,
+      "comment_count": 477,
       "score_gain_24h_observed": 237,
       "comment_gain_24h_observed": 80,
       "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50364336",
+      "hn_id": 50364336,
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "hn_url": "https://news.ycombinator.com/item?id=50364336",
+      "category": "AI",
+      "posted_at": "2026-11-04T11:52:17Z",
+      "fetched_at": "2026-11-04T19:50:17Z",
+      "score": 845,
+      "comment_count": 505,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "40 years"
+      ],
       "selection_hints": [
         "AI"
       ],
@@ -488,14 +530,35 @@
       "hn_url": "https://news.ycombinator.com/item?id=50305693",
       "category": "AI",
       "posted_at": "2026-10-30T15:52:18Z",
-      "fetched_at": "2026-11-04T06:32:52Z",
-      "score": 683,
-      "comment_count": 505,
+      "fetched_at": "2026-11-04T19:49:27Z",
+      "score": 684,
+      "comment_count": 508,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50354358",
+      "hn_id": 50354358,
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50354358",
+      "category": "Security",
+      "posted_at": "2026-11-03T16:47:29Z",
+      "fetched_at": "2026-11-04T19:49:27Z",
+      "score": 774,
+      "comment_count": 229,
+      "score_gain_24h_observed": 199,
+      "comment_gain_24h_observed": 54,
+      "keywords": [
+        "open source"
+      ],
+      "selection_hints": [
+        "open source"
       ],
       "snippet": ""
     },
@@ -507,7 +570,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50290177",
       "category": "AI",
       "posted_at": "2026-10-29T14:57:55Z",
-      "fetched_at": "2026-11-04T06:32:52Z",
+      "fetched_at": "2026-11-04T19:49:27Z",
       "score": 610,
       "comment_count": 336,
       "score_gain_24h_observed": null,
@@ -526,9 +589,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50323088",
       "category": "AI",
       "posted_at": "2026-11-01T06:06:19Z",
-      "fetched_at": "2026-11-04T06:32:52Z",
-      "score": 474,
-      "comment_count": 394,
+      "fetched_at": "2026-11-04T19:49:27Z",
+      "score": 476,
+      "comment_count": 395,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -545,7 +608,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50284255",
       "category": "AI",
       "posted_at": "2026-10-29T03:33:42Z",
-      "fetched_at": "2026-11-04T06:32:52Z",
+      "fetched_at": "2026-11-04T19:49:27Z",
       "score": 589,
       "comment_count": 236,
       "score_gain_24h_observed": null,
@@ -580,21 +643,40 @@
       "snippet": ""
     },
     {
-      "id": "HN-50280864",
-      "hn_id": 50280864,
-      "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-      "hn_url": "https://news.ycombinator.com/item?id=50280864",
+      "id": "HN-50336918",
+      "hn_id": 50336918,
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "hn_url": "https://news.ycombinator.com/item?id=50336918",
       "category": "AI",
-      "posted_at": "2026-10-28T21:03:24Z",
-      "fetched_at": "2026-11-04T06:32:52Z",
-      "score": 473,
-      "comment_count": 305,
+      "posted_at": "2026-11-02T14:02:42Z",
+      "fetched_at": "2026-11-04T19:49:27Z",
+      "score": 524,
+      "comment_count": 225,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
-        "security"
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50362905",
+      "hn_id": 50362905,
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "hn_url": "https://news.ycombinator.com/item?id=50362905",
+      "category": "Security",
+      "posted_at": "2026-11-04T08:46:29Z",
+      "fetched_at": "2026-11-04T19:50:17Z",
+      "score": 514,
+      "comment_count": 230,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "inference"
       ],
       "snippet": ""
     },
@@ -606,35 +688,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50304122",
       "category": "AI",
       "posted_at": "2026-10-30T14:08:20Z",
-      "fetched_at": "2026-11-04T06:32:52Z",
+      "fetched_at": "2026-11-04T19:49:27Z",
       "score": 316,
-      "comment_count": 392,
+      "comment_count": 393,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50354358",
-      "hn_id": 50354358,
-      "title": "Stringman, an $800 open-source room scale gripper robot",
-      "url": "https://neufangled.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50354358",
-      "category": "Security",
-      "posted_at": "2026-11-03T16:47:29Z",
-      "fetched_at": "2026-11-04T06:33:53Z",
-      "score": 499,
-      "comment_count": 174,
-      "score_gain_24h_observed": 199,
-      "comment_gain_24h_observed": 54,
-      "keywords": [
-        "open source"
-      ],
-      "selection_hints": [
-        "open source"
       ],
       "snippet": ""
     },
@@ -646,33 +707,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50339494",
       "category": "AI",
       "posted_at": "2026-11-02T16:40:29Z",
-      "fetched_at": "2026-11-04T06:32:52Z",
-      "score": 351,
-      "comment_count": 269,
+      "fetched_at": "2026-11-04T19:49:27Z",
+      "score": 352,
+      "comment_count": 270,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
         "ai use"
       ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50336918",
-      "hn_id": 50336918,
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "hn_url": "https://news.ycombinator.com/item?id=50336918",
-      "category": "AI",
-      "posted_at": "2026-11-02T14:02:42Z",
-      "fetched_at": "2026-11-04T06:32:52Z",
-      "score": 435,
-      "comment_count": 182,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
       "selection_hints": [
         "AI"
       ],
@@ -698,6 +740,25 @@
       "snippet": ""
     },
     {
+      "id": "HN-50358422",
+      "hn_id": 50358422,
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "hn_url": "https://news.ycombinator.com/item?id=50358422",
+      "category": "AI",
+      "posted_at": "2026-11-03T21:26:44Z",
+      "fetched_at": "2026-11-04T19:50:17Z",
+      "score": 402,
+      "comment_count": 164,
+      "score_gain_24h_observed": 300,
+      "comment_gain_24h_observed": 130,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50322173",
       "hn_id": 50322173,
       "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
@@ -705,7 +766,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50322173",
       "category": "Policy",
       "posted_at": "2026-11-01T02:19:53Z",
-      "fetched_at": "2026-11-04T06:32:52Z",
+      "fetched_at": "2026-11-04T19:49:27Z",
       "score": 347,
       "comment_count": 218,
       "score_gain_24h_observed": null,
@@ -713,6 +774,25 @@
       "keywords": [],
       "selection_hints": [
         "prompt"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50363554",
+      "hn_id": 50363554,
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=50363554",
+      "category": "AI",
+      "posted_at": "2026-11-04T10:23:34Z",
+      "fetched_at": "2026-11-04T19:50:17Z",
+      "score": 282,
+      "comment_count": 275,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
       ],
       "snippet": ""
     },
@@ -736,97 +816,21 @@
       "snippet": ""
     },
     {
-      "id": "HN-50330456",
-      "hn_id": 50330456,
-      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "hn_url": "https://news.ycombinator.com/item?id=50330456",
+      "id": "HN-50355767",
+      "hn_id": 50355767,
+      "title": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "hn_url": "https://news.ycombinator.com/item?id=50355767",
       "category": "AI",
-      "posted_at": "2026-11-01T22:10:45Z",
-      "fetched_at": "2026-11-03T14:23:47Z",
-      "score": 243,
-      "comment_count": 254,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50358422",
-      "hn_id": 50358422,
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "hn_url": "https://news.ycombinator.com/item?id=50358422",
-      "category": "AI",
-      "posted_at": "2026-11-03T21:26:44Z",
-      "fetched_at": "2026-11-04T06:33:53Z",
-      "score": 324,
-      "comment_count": 140,
-      "score_gain_24h_observed": 222,
-      "comment_gain_24h_observed": 106,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50337454",
-      "hn_id": 50337454,
-      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
-      "hn_url": "https://news.ycombinator.com/item?id=50337454",
-      "category": "AI",
-      "posted_at": "2026-11-02T14:40:05Z",
-      "fetched_at": "2026-11-04T06:32:52Z",
-      "score": 188,
-      "comment_count": 256,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50348962",
-      "hn_id": 50348962,
-      "title": "Nvidia – open-source auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "hn_url": "https://news.ycombinator.com/item?id=50348962",
-      "category": "Security",
-      "posted_at": "2026-11-03T07:04:50Z",
-      "fetched_at": "2026-11-04T06:33:53Z",
-      "score": 272,
-      "comment_count": 132,
-      "score_gain_24h_observed": 13,
-      "comment_gain_24h_observed": 13,
+      "posted_at": "2026-11-03T18:11:11Z",
+      "fetched_at": "2026-11-04T19:49:27Z",
+      "score": 245,
+      "comment_count": 284,
+      "score_gain_24h_observed": 73,
+      "comment_gain_24h_observed": 57,
       "keywords": [
-        "open source"
+        "use ai"
       ],
-      "selection_hints": [
-        "open source"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50296730",
-      "hn_id": 50296730,
-      "title": "Building an AI-native engineering org",
-      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-      "hn_url": "https://news.ycombinator.com/item?id=50296730",
-      "category": "Other",
-      "posted_at": "2026-10-29T21:58:34Z",
-      "fetched_at": "2026-11-04T06:32:52Z",
-      "score": 194,
-      "comment_count": 202,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
       "selection_hints": [
         "AI"
       ],
