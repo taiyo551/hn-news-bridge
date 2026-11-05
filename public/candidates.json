@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-05T02:42:25Z",
-  "source_data_as_of": "2026-11-04T19:50:17Z",
+  "generated_at": "2026-11-05T11:25:46Z",
+  "source_data_as_of": "2026-11-05T06:55:50Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-29T02:42:25Z",
-  "eligible_count_before_dedup": 391,
+  "window_start": "2026-10-29T11:25:46Z",
+  "eligible_count_before_dedup": 400,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "afa25e5544907a410ff495818b6875ef6811ef30"
+    "commit": "5f7019a0961ac77aac744b68fe177c191204c975"
   },
   "articles": [
     {
@@ -21,9 +21,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50353192",
       "category": "AI",
       "posted_at": "2026-11-03T15:25:47Z",
-      "fetched_at": "2026-11-04T19:49:27Z",
-      "score": 653,
-      "comment_count": 458,
+      "fetched_at": "2026-11-05T06:54:55Z",
+      "score": 664,
+      "comment_count": 460,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -41,7 +41,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50296486",
       "category": "AI",
       "posted_at": "2026-10-29T21:40:28Z",
-      "fetched_at": "2026-11-04T19:49:27Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
       "score": 422,
       "comment_count": 174,
       "score_gain_24h_observed": null,
@@ -63,7 +63,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50325662",
       "category": "AI",
       "posted_at": "2026-11-01T13:47:24Z",
-      "fetched_at": "2026-11-04T19:49:27Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
       "score": 180,
       "comment_count": 91,
       "score_gain_24h_observed": null,
@@ -85,9 +85,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50336138",
       "category": "AI",
       "posted_at": "2026-11-02T12:50:59Z",
-      "fetched_at": "2026-11-04T19:49:27Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
       "score": 143,
-      "comment_count": 117,
+      "comment_count": 118,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -107,8 +107,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50352898",
       "category": "AI",
       "posted_at": "2026-11-03T15:02:58Z",
-      "fetched_at": "2026-11-04T19:49:27Z",
-      "score": 55,
+      "fetched_at": "2026-11-05T06:54:55Z",
+      "score": 56,
       "comment_count": 39,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -166,29 +166,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50286306",
-      "hn_id": 50286306,
-      "title": "Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites",
-      "url": "https://news.ycombinator.com/item?id=50286306",
-      "hn_url": "https://news.ycombinator.com/item?id=50286306",
-      "category": "AI",
-      "posted_at": "2026-10-29T09:06:12Z",
-      "fetched_at": "2026-11-02T06:15:49Z",
-      "score": 34,
-      "comment_count": 5,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "claude code",
-        "tell hn"
-      ],
-      "selection_hints": [
-        "LLM",
-        "prompt"
-      ],
-      "snippet": "The prompt issue: https://github.com/anthropics/claude-code/issues/81138 The LLM sends it to websites: https://www.reddit.com/r/ClaudeCode/comments/1xhqvzn/opus_55_just_shared_my_email_address/"
-    },
-    {
       "id": "HN-50293979",
       "hn_id": 50293979,
       "title": "A Defense Contractor Gave Their AI Agent Access to a Secure Pentagon System",
@@ -218,11 +195,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50358388",
       "category": "AI",
       "posted_at": "2026-11-03T21:23:42Z",
-      "fetched_at": "2026-11-04T19:50:17Z",
-      "score": 21,
+      "fetched_at": "2026-11-05T06:54:55Z",
+      "score": 23,
       "comment_count": 1,
-      "score_gain_24h_observed": 6,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "self hosted",
         "ai coding"
@@ -241,11 +218,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50357893",
       "category": "AI",
       "posted_at": "2026-11-03T20:42:44Z",
-      "fetched_at": "2026-11-04T19:50:17Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
       "score": 19,
       "comment_count": 1,
-      "score_gain_24h_observed": 0,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "search engine"
       ],
@@ -263,11 +240,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50361562",
       "category": "AI",
       "posted_at": "2026-11-04T04:40:06Z",
-      "fetched_at": "2026-11-04T19:50:17Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
       "score": 15,
       "comment_count": 3,
-      "score_gain_24h_observed": 0,
-      "comment_gain_24h_observed": 1,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI",
@@ -345,11 +322,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50358078",
       "category": "AI",
       "posted_at": "2026-11-03T20:57:15Z",
-      "fetched_at": "2026-11-04T19:50:17Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
       "score": 12,
       "comment_count": 1,
-      "score_gain_24h_observed": 1,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "ai coding",
         "open weight"
@@ -428,7 +405,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50361359",
       "category": "AI",
       "posted_at": "2026-11-04T03:59:51Z",
-      "fetched_at": "2026-11-04T19:50:17Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
       "score": 5,
       "comment_count": 0,
       "score_gain_24h_observed": null,
@@ -470,9 +447,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50354960",
       "category": "AI",
       "posted_at": "2026-11-03T17:22:37Z",
-      "fetched_at": "2026-11-04T19:49:27Z",
-      "score": 1462,
-      "comment_count": 477,
+      "fetched_at": "2026-11-05T06:54:55Z",
+      "score": 1495,
+      "comment_count": 485,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -489,11 +466,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50364336",
       "category": "AI",
       "posted_at": "2026-11-04T11:52:17Z",
-      "fetched_at": "2026-11-04T19:50:17Z",
-      "score": 845,
-      "comment_count": 505,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "fetched_at": "2026-11-05T06:55:50Z",
+      "score": 1149,
+      "comment_count": 666,
+      "score_gain_24h_observed": 304,
+      "comment_gain_24h_observed": 161,
       "keywords": [
         "40 years"
       ],
@@ -510,7 +487,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50305693",
       "category": "AI",
       "posted_at": "2026-10-30T15:52:18Z",
-      "fetched_at": "2026-11-04T19:49:27Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
       "score": 684,
       "comment_count": 508,
       "score_gain_24h_observed": null,
@@ -529,9 +506,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50354358",
       "category": "Security",
       "posted_at": "2026-11-03T16:47:29Z",
-      "fetched_at": "2026-11-04T19:49:27Z",
-      "score": 774,
-      "comment_count": 229,
+      "fetched_at": "2026-11-05T06:54:55Z",
+      "score": 816,
+      "comment_count": 243,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -550,7 +527,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50290177",
       "category": "AI",
       "posted_at": "2026-10-29T14:57:55Z",
-      "fetched_at": "2026-11-04T19:49:27Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
       "score": 610,
       "comment_count": 336,
       "score_gain_24h_observed": null,
@@ -569,9 +546,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50323088",
       "category": "AI",
       "posted_at": "2026-11-01T06:06:19Z",
-      "fetched_at": "2026-11-04T19:49:27Z",
-      "score": 476,
-      "comment_count": 395,
+      "fetched_at": "2026-11-05T06:54:55Z",
+      "score": 477,
+      "comment_count": 398,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -581,23 +558,21 @@
       "snippet": ""
     },
     {
-      "id": "HN-50284255",
-      "hn_id": 50284255,
-      "title": "Claude Code regularly sends each background agent’s transcript to its model",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "hn_url": "https://news.ycombinator.com/item?id=50284255",
-      "category": "AI",
-      "posted_at": "2026-10-29T03:33:42Z",
-      "fetched_at": "2026-11-04T19:49:27Z",
-      "score": 589,
-      "comment_count": 236,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "claude code"
-      ],
+      "id": "HN-50362905",
+      "hn_id": 50362905,
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "hn_url": "https://news.ycombinator.com/item?id=50362905",
+      "category": "Security",
+      "posted_at": "2026-11-04T08:46:29Z",
+      "fetched_at": "2026-11-05T06:55:50Z",
+      "score": 597,
+      "comment_count": 276,
+      "score_gain_24h_observed": 83,
+      "comment_gain_24h_observed": 46,
+      "keywords": [],
       "selection_hints": [
-        "agent"
+        "inference"
       ],
       "snippet": ""
     },
@@ -630,33 +605,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50336918",
       "category": "AI",
       "posted_at": "2026-11-02T14:02:42Z",
-      "fetched_at": "2026-11-04T19:49:27Z",
-      "score": 524,
-      "comment_count": 225,
+      "fetched_at": "2026-11-05T06:54:55Z",
+      "score": 529,
+      "comment_count": 228,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50362905",
-      "hn_id": 50362905,
-      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-      "hn_url": "https://news.ycombinator.com/item?id=50362905",
-      "category": "Security",
-      "posted_at": "2026-11-04T08:46:29Z",
-      "fetched_at": "2026-11-04T19:50:17Z",
-      "score": 514,
-      "comment_count": 230,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "inference"
       ],
       "snippet": ""
     },
@@ -668,7 +624,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50304122",
       "category": "AI",
       "posted_at": "2026-10-30T14:08:20Z",
-      "fetched_at": "2026-11-04T19:49:27Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
       "score": 316,
       "comment_count": 393,
       "score_gain_24h_observed": null,
@@ -687,7 +643,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50339494",
       "category": "AI",
       "posted_at": "2026-11-02T16:40:29Z",
-      "fetched_at": "2026-11-04T19:49:27Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
       "score": 352,
       "comment_count": 270,
       "score_gain_24h_observed": null,
@@ -695,6 +651,44 @@
       "keywords": [
         "ai use"
       ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50363554",
+      "hn_id": 50363554,
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=50363554",
+      "category": "AI",
+      "posted_at": "2026-11-04T10:23:34Z",
+      "fetched_at": "2026-11-05T06:55:50Z",
+      "score": 304,
+      "comment_count": 301,
+      "score_gain_24h_observed": 22,
+      "comment_gain_24h_observed": 26,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50358422",
+      "hn_id": 50358422,
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "hn_url": "https://news.ycombinator.com/item?id=50358422",
+      "category": "AI",
+      "posted_at": "2026-11-03T21:26:44Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
+      "score": 411,
+      "comment_count": 167,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
       "selection_hints": [
         "AI"
       ],
@@ -720,25 +714,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50358422",
-      "hn_id": 50358422,
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "hn_url": "https://news.ycombinator.com/item?id=50358422",
-      "category": "AI",
-      "posted_at": "2026-11-03T21:26:44Z",
-      "fetched_at": "2026-11-04T19:50:17Z",
-      "score": 402,
-      "comment_count": 164,
-      "score_gain_24h_observed": 78,
-      "comment_gain_24h_observed": 24,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50322173",
       "hn_id": 50322173,
       "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
@@ -746,9 +721,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50322173",
       "category": "Policy",
       "posted_at": "2026-11-01T02:19:53Z",
-      "fetched_at": "2026-11-04T19:49:27Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
       "score": 347,
-      "comment_count": 218,
+      "comment_count": 220,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -758,19 +733,21 @@
       "snippet": ""
     },
     {
-      "id": "HN-50363554",
-      "hn_id": 50363554,
-      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-      "hn_url": "https://news.ycombinator.com/item?id=50363554",
+      "id": "HN-50355767",
+      "hn_id": 50355767,
+      "title": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "hn_url": "https://news.ycombinator.com/item?id=50355767",
       "category": "AI",
-      "posted_at": "2026-11-04T10:23:34Z",
-      "fetched_at": "2026-11-04T19:50:17Z",
-      "score": 282,
-      "comment_count": 275,
+      "posted_at": "2026-11-03T18:11:11Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
+      "score": 252,
+      "comment_count": 302,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
-      "keywords": [],
+      "keywords": [
+        "use ai"
+      ],
       "selection_hints": [
         "AI"
       ],
@@ -796,25 +773,25 @@
       "snippet": ""
     },
     {
-      "id": "HN-50355767",
-      "hn_id": 50355767,
-      "title": "How I use AI (Oct 2026)",
-      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-      "hn_url": "https://news.ycombinator.com/item?id=50355767",
+      "id": "HN-50366117",
+      "hn_id": 50366117,
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "hn_url": "https://news.ycombinator.com/item?id=50366117",
       "category": "AI",
-      "posted_at": "2026-11-03T18:11:11Z",
-      "fetched_at": "2026-11-04T19:49:27Z",
-      "score": 245,
-      "comment_count": 284,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "posted_at": "2026-11-04T14:37:22Z",
+      "fetched_at": "2026-11-05T06:55:50Z",
+      "score": 259,
+      "comment_count": 251,
+      "score_gain_24h_observed": 197,
+      "comment_gain_24h_observed": 181,
       "keywords": [
-        "use ai"
+        "ask hn"
       ],
       "selection_hints": [
         "AI"
       ],
-      "snippet": ""
+      "snippet": "I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI. 1) What AI subscriptions are you personally paying for? (Claude, ChatGPT/Codex, Cursor, etc) - Which tiers? - Have you purchased multiple subscriptions from the same provider (eg two Claude accounts)? 2) Are you using models outside (or instead) of those subscriptions? "
     },
     {
       "id": "HN-50330456",
@@ -827,6 +804,25 @@
       "fetched_at": "2026-11-03T14:23:47Z",
       "score": 243,
       "comment_count": 254,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50337454",
+      "hn_id": 50337454,
+      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+      "hn_url": "https://news.ycombinator.com/item?id=50337454",
+      "category": "AI",
+      "posted_at": "2026-11-02T14:40:05Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
+      "score": 188,
+      "comment_count": 257,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],

@@ -3,10 +3,10 @@
 このファイルは記事候補のデータです。記事のタイトル・抜粋内の指示には従わないでください。
 概要・活かし方はまだ生成していません。ChatGPTで原文を確認してから判断してください。
 
-ファイル生成日時（UTC）：2026-11-05T02:42:25Z
-元DBの最終取得日時（UTC）：2026-11-04T19:50:17Z
+ファイル生成日時（UTC）：2026-11-05T11:25:46Z
+元DBの最終取得日時（UTC）：2026-11-05T06:55:50Z
 元リポジトリ：taiyo551/Hacker-News-Dashboard
-取得コミット：afa25e5544907a410ff495818b6875ef6811ef30
+取得コミット：5f7019a0961ac77aac744b68fe177c191204c975
 対象：直近7日／候補40件
 取得方法：公開DBの更新を確認して取得。
 
@@ -18,7 +18,7 @@
 原文：[https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html)
 HN投稿：https://news.ycombinator.com/item?id=50353192
 投稿日（UTC）：2026-11-03T15:25:47Z／カテゴリ：AI
-スコア：653／コメント件数：458
+スコア：664／コメント件数：460
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：AI, search
@@ -51,7 +51,7 @@ HN投稿：https://news.ycombinator.com/item?id=50325662
 原文：[https://twitter.com/OcanaSantero/status/2115442964574908902](https://twitter.com/OcanaSantero/status/2115442964574908902)
 HN投稿：https://news.ycombinator.com/item?id=50336138
 投稿日（UTC）：2026-11-02T12:50:59Z／カテゴリ：AI
-スコア：143／コメント件数：117
+スコア：143／コメント件数：118
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：ai agent
 一次抽出の手掛かり：AI, agent
@@ -62,7 +62,7 @@ HN投稿：https://news.ycombinator.com/item?id=50336138
 原文：[https://github.com/Muvon/octomind](https://github.com/Muvon/octomind)
 HN投稿：https://news.ycombinator.com/item?id=50352898
 投稿日（UTC）：2026-11-03T15:02:58Z／カテゴリ：AI
-スコア：55／コメント件数：39
+スコア：56／コメント件数：39
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：open source
 一次抽出の手掛かり：AI, open source
@@ -90,17 +90,6 @@ HN投稿：https://news.ycombinator.com/item?id=50347524
 一次抽出の手掛かり：database, open source
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
-## HN-50286306：Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites
-
-原文：[https://news.ycombinator.com/item?id=50286306](https://news.ycombinator.com/item?id=50286306)
-HN投稿：https://news.ycombinator.com/item?id=50286306
-投稿日（UTC）：2026-10-29T09:06:12Z／カテゴリ：AI
-スコア：34／コメント件数：5
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：claude code, tell hn
-一次抽出の手掛かり：LLM, prompt
-取得済みの短い抜粋：The prompt issue: https://github.com/anthropics/claude-code/issues/81138 The LLM sends it to websites: https://www.reddit.com/r/ClaudeCode/comments/1xhqvzn/opus_55_just_shared_my_email_address/
-
 ## HN-50293979：A Defense Contractor Gave Their AI Agent Access to a Secure Pentagon System
 
 原文：[https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/)
@@ -117,8 +106,8 @@ HN投稿：https://news.ycombinator.com/item?id=50293979
 原文：[https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345](https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345)
 HN投稿：https://news.ycombinator.com/item?id=50358388
 投稿日（UTC）：2026-11-03T21:23:42Z／カテゴリ：AI
-スコア：21／コメント件数：1
-直近24時間内の観測増加：スコア 6／コメント 0
+スコア：23／コメント件数：1
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：self hosted, ai coding
 一次抽出の手掛かり：AI, coding
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
@@ -129,7 +118,7 @@ HN投稿：https://news.ycombinator.com/item?id=50358388
 HN投稿：https://news.ycombinator.com/item?id=50357893
 投稿日（UTC）：2026-11-03T20:42:44Z／カテゴリ：AI
 スコア：19／コメント件数：1
-直近24時間内の観測増加：スコア 0／コメント 0
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：search engine
 一次抽出の手掛かり：AI, search
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
@@ -140,7 +129,7 @@ HN投稿：https://news.ycombinator.com/item?id=50357893
 HN投稿：https://news.ycombinator.com/item?id=50361562
 投稿日（UTC）：2026-11-04T04:40:06Z／カテゴリ：AI
 スコア：15／コメント件数：3
-直近24時間内の観測増加：スコア 0／コメント 1
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：AI, search
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
@@ -184,7 +173,7 @@ HN投稿：https://news.ycombinator.com/item?id=50307137
 HN投稿：https://news.ycombinator.com/item?id=50358078
 投稿日（UTC）：2026-11-03T20:57:15Z／カテゴリ：AI
 スコア：12／コメント件数：1
-直近24時間内の観測増加：スコア 1／コメント 0
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：ai coding, open weight
 一次抽出の手掛かり：AI, coding
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
@@ -249,7 +238,7 @@ HN投稿：https://news.ycombinator.com/item?id=50327937
 原文：[https://github.com/postmanlabs/postman-app-support/issues/14370](https://github.com/postmanlabs/postman-app-support/issues/14370)
 HN投稿：https://news.ycombinator.com/item?id=50354960
 投稿日（UTC）：2026-11-03T17:22:37Z／カテゴリ：AI
-スコア：1462／コメント件数：477
+スコア：1495／コメント件数：485
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：AI
@@ -260,8 +249,8 @@ HN投稿：https://news.ycombinator.com/item?id=50354960
 原文：[https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
 HN投稿：https://news.ycombinator.com/item?id=50364336
 投稿日（UTC）：2026-11-04T11:52:17Z／カテゴリ：AI
-スコア：845／コメント件数：505
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
+スコア：1149／コメント件数：666
+直近24時間内の観測増加：スコア 304／コメント 161
 キーワード：40 years
 一次抽出の手掛かり：AI
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
@@ -282,7 +271,7 @@ HN投稿：https://news.ycombinator.com/item?id=50305693
 原文：[https://neufangled.com/](https://neufangled.com/)
 HN投稿：https://news.ycombinator.com/item?id=50354358
 投稿日（UTC）：2026-11-03T16:47:29Z／カテゴリ：Security
-スコア：774／コメント件数：229
+スコア：816／コメント件数：243
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：open source
 一次抽出の手掛かり：open source
@@ -304,21 +293,21 @@ HN投稿：https://news.ycombinator.com/item?id=50290177
 原文：[https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
 HN投稿：https://news.ycombinator.com/item?id=50323088
 投稿日（UTC）：2026-11-01T06:06:19Z／カテゴリ：AI
-スコア：476／コメント件数：395
+スコア：477／コメント件数：398
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：AI
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
-## HN-50284255：Claude Code regularly sends each background agent’s transcript to its model
+## HN-50362905：Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux
 
-原文：[https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
-HN投稿：https://news.ycombinator.com/item?id=50284255
-投稿日（UTC）：2026-10-29T03:33:42Z／カテゴリ：AI
-スコア：589／コメント件数：236
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：claude code
-一次抽出の手掛かり：agent
+原文：[https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop)
+HN投稿：https://news.ycombinator.com/item?id=50362905
+投稿日（UTC）：2026-11-04T08:46:29Z／カテゴリ：Security
+スコア：597／コメント件数：276
+直近24時間内の観測増加：スコア 83／コメント 46
+キーワード：なし
+一次抽出の手掛かり：inference
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
 ## HN-50291945：Google Search is now less than half of Alphabet’s revenue
@@ -337,21 +326,10 @@ HN投稿：https://news.ycombinator.com/item?id=50291945
 原文：[https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
 HN投稿：https://news.ycombinator.com/item?id=50336918
 投稿日（UTC）：2026-11-02T14:02:42Z／カテゴリ：AI
-スコア：524／コメント件数：225
+スコア：529／コメント件数：228
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：AI
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
-## HN-50362905：Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux
-
-原文：[https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop)
-HN投稿：https://news.ycombinator.com/item?id=50362905
-投稿日（UTC）：2026-11-04T08:46:29Z／カテゴリ：Security
-スコア：514／コメント件数：230
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：なし
-一次抽出の手掛かり：inference
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
 ## HN-50304122：Cisco gives engineer unlimited AI tokens to rewrite legacy code
@@ -376,6 +354,28 @@ HN投稿：https://news.ycombinator.com/item?id=50339494
 一次抽出の手掛かり：AI
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
+## HN-50363554：Geoffrey Hinton: it might turn out we were better off without AI
+
+原文：[https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
+HN投稿：https://news.ycombinator.com/item?id=50363554
+投稿日（UTC）：2026-11-04T10:23:34Z／カテゴリ：AI
+スコア：304／コメント件数：301
+直近24時間内の観測増加：スコア 22／コメント 26
+キーワード：なし
+一次抽出の手掛かり：AI
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
+## HN-50358422：US tech giants' hidden AI debt swells 90% to $3.2T in 6 months
+
+原文：[https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months](https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months)
+HN投稿：https://news.ycombinator.com/item?id=50358422
+投稿日（UTC）：2026-11-03T21:26:44Z／カテゴリ：AI
+スコア：411／コメント件数：167
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
+キーワード：なし
+一次抽出の手掛かり：AI
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
 ## HN-50306008：US tech stocks see sharp falls over AI cost fears
 
 原文：[https://www.bbc.co.uk/news/articles/cvwy72e0n72yo](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo)
@@ -387,36 +387,25 @@ HN投稿：https://news.ycombinator.com/item?id=50306008
 一次抽出の手掛かり：AI
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
-## HN-50358422：US tech giants' hidden AI debt swells 90% to $3.2T in 6 months
-
-原文：[https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months](https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months)
-HN投稿：https://news.ycombinator.com/item?id=50358422
-投稿日（UTC）：2026-11-03T21:26:44Z／カテゴリ：AI
-スコア：402／コメント件数：164
-直近24時間内の観測増加：スコア 78／コメント 24
-キーワード：なし
-一次抽出の手掛かり：AI
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
 ## HN-50322173：Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing
 
 原文：[https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
 HN投稿：https://news.ycombinator.com/item?id=50322173
 投稿日（UTC）：2026-11-01T02:19:53Z／カテゴリ：Policy
-スコア：347／コメント件数：218
+スコア：347／コメント件数：220
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：prompt
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
-## HN-50363554：Geoffrey Hinton: it might turn out we were better off without AI
+## HN-50355767：How I use AI (Oct 2026)
 
-原文：[https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
-HN投稿：https://news.ycombinator.com/item?id=50363554
-投稿日（UTC）：2026-11-04T10:23:34Z／カテゴリ：AI
-スコア：282／コメント件数：275
+原文：[https://ben.stolovitz.com/posts/how-use-ai-oct-2026/](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/)
+HN投稿：https://news.ycombinator.com/item?id=50355767
+投稿日（UTC）：2026-11-03T18:11:11Z／カテゴリ：AI
+スコア：252／コメント件数：302
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：なし
+キーワード：use ai
 一次抽出の手掛かり：AI
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
@@ -431,16 +420,16 @@ HN投稿：https://news.ycombinator.com/item?id=50307183
 一次抽出の手掛かり：AI
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
-## HN-50355767：How I use AI (Oct 2026)
+## HN-50366117：Ask HN: What's your current AI agentic setup?
 
-原文：[https://ben.stolovitz.com/posts/how-use-ai-oct-2026/](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/)
-HN投稿：https://news.ycombinator.com/item?id=50355767
-投稿日（UTC）：2026-11-03T18:11:11Z／カテゴリ：AI
-スコア：245／コメント件数：284
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：use ai
+原文：[https://news.ycombinator.com/item?id=50366117](https://news.ycombinator.com/item?id=50366117)
+HN投稿：https://news.ycombinator.com/item?id=50366117
+投稿日（UTC）：2026-11-04T14:37:22Z／カテゴリ：AI
+スコア：259／コメント件数：251
+直近24時間内の観測増加：スコア 197／コメント 181
+キーワード：ask hn
 一次抽出の手掛かり：AI
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+取得済みの短い抜粋：I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI. 1) What AI subscriptions are you personally paying for? (Claude, ChatGPT/Codex, Cursor, etc) - Which tiers? - Have you purchased multiple subscriptions from the same provider (eg two Claude accounts)? 2) Are you using models outside (or instead) of those subscriptions? 
 
 ## HN-50330456：AI delivers 'zero financial payoff' to most companies, Apollo economist says
 
@@ -448,6 +437,17 @@ HN投稿：https://news.ycombinator.com/item?id=50355767
 HN投稿：https://news.ycombinator.com/item?id=50330456
 投稿日（UTC）：2026-11-01T22:10:45Z／カテゴリ：AI
 スコア：243／コメント件数：254
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
+キーワード：なし
+一次抽出の手掛かり：AI
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
+## HN-50337454：Jobless tech workers are being left out of San Francisco's AI boom
+
+原文：[https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near](https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near)
+HN投稿：https://news.ycombinator.com/item?id=50337454
+投稿日（UTC）：2026-11-02T14:40:05Z／カテゴリ：AI
+スコア：188／コメント件数：257
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：AI
