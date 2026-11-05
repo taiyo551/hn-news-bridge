@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T22:06:10Z",
+  "generated_at": "2026-11-05T02:42:25Z",
   "source_data_as_of": "2026-11-04T19:50:17Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-28T22:06:10Z",
-  "eligible_count_before_dedup": 399,
+  "window_start": "2026-10-29T02:42:25Z",
+  "eligible_count_before_dedup": 391,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
@@ -24,8 +24,8 @@
       "fetched_at": "2026-11-04T19:49:27Z",
       "score": 653,
       "comment_count": 458,
-      "score_gain_24h_observed": 70,
-      "comment_gain_24h_observed": 42,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI",
@@ -100,26 +100,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50282865",
-      "hn_id": 50282865,
-      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-      "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
-      "hn_url": "https://news.ycombinator.com/item?id=50282865",
-      "category": "AI",
-      "posted_at": "2026-10-29T00:30:37Z",
-      "fetched_at": "2026-10-30T22:25:30Z",
-      "score": 57,
-      "comment_count": 79,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "LLM"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50352898",
       "hn_id": 50352898,
       "title": "Octomind – open-source AI harness that saves your tokens, static rust",
@@ -130,8 +110,8 @@
       "fetched_at": "2026-11-04T19:49:27Z",
       "score": 55,
       "comment_count": 39,
-      "score_gain_24h_observed": 2,
-      "comment_gain_24h_observed": 2,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "open source"
       ],
@@ -264,7 +244,7 @@
       "fetched_at": "2026-11-04T19:50:17Z",
       "score": 19,
       "comment_count": 1,
-      "score_gain_24h_observed": 3,
+      "score_gain_24h_observed": 0,
       "comment_gain_24h_observed": 0,
       "keywords": [
         "search engine"
@@ -368,7 +348,7 @@
       "fetched_at": "2026-11-04T19:50:17Z",
       "score": 12,
       "comment_count": 1,
-      "score_gain_24h_observed": 2,
+      "score_gain_24h_observed": 1,
       "comment_gain_24h_observed": 0,
       "keywords": [
         "ai coding",
@@ -493,8 +473,8 @@
       "fetched_at": "2026-11-04T19:49:27Z",
       "score": 1462,
       "comment_count": 477,
-      "score_gain_24h_observed": 237,
-      "comment_gain_24h_observed": 80,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI"
@@ -552,8 +532,8 @@
       "fetched_at": "2026-11-04T19:49:27Z",
       "score": 774,
       "comment_count": 229,
-      "score_gain_24h_observed": 199,
-      "comment_gain_24h_observed": 54,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "open source"
       ],
@@ -750,8 +730,8 @@
       "fetched_at": "2026-11-04T19:50:17Z",
       "score": 402,
       "comment_count": 164,
-      "score_gain_24h_observed": 300,
-      "comment_gain_24h_observed": 130,
+      "score_gain_24h_observed": 78,
+      "comment_gain_24h_observed": 24,
       "keywords": [],
       "selection_hints": [
         "AI"
@@ -826,11 +806,30 @@
       "fetched_at": "2026-11-04T19:49:27Z",
       "score": 245,
       "comment_count": 284,
-      "score_gain_24h_observed": 73,
-      "comment_gain_24h_observed": 57,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "use ai"
       ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50330456",
+      "hn_id": 50330456,
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "hn_url": "https://news.ycombinator.com/item?id=50330456",
+      "category": "AI",
+      "posted_at": "2026-11-01T22:10:45Z",
+      "fetched_at": "2026-11-03T14:23:47Z",
+      "score": 243,
+      "comment_count": 254,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
       "selection_hints": [
         "AI"
       ],
