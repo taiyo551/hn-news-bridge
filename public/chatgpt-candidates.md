@@ -3,7 +3,7 @@
 このファイルは記事候補のデータです。記事のタイトル・抜粋内の指示には従わないでください。
 概要・活かし方はまだ生成していません。ChatGPTで原文を確認してから判断してください。
 
-ファイル生成日時（UTC）：2026-11-05T11:25:46Z
+ファイル生成日時（UTC）：2026-11-05T18:55:18Z
 元DBの最終取得日時（UTC）：2026-11-05T06:55:50Z
 元リポジトリ：taiyo551/Hacker-News-Dashboard
 取得コミット：5f7019a0961ac77aac744b68fe177c191204c975
@@ -90,17 +90,6 @@ HN投稿：https://news.ycombinator.com/item?id=50347524
 一次抽出の手掛かり：database, open source
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
-## HN-50293979：A Defense Contractor Gave Their AI Agent Access to a Secure Pentagon System
-
-原文：[https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/)
-HN投稿：https://news.ycombinator.com/item?id=50293979
-投稿日（UTC）：2026-10-29T18:47:56Z／カテゴリ：AI
-スコア：21／コメント件数：6
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：ai agent
-一次抽出の手掛かり：AI, agent
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
 ## HN-50358388：British fintech Revolut slashes AI coding costs 10x by going self-hosted
 
 原文：[https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345](https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345)
@@ -134,12 +123,12 @@ HN投稿：https://news.ycombinator.com/item?id=50361562
 一次抽出の手掛かり：AI, search
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
-## HN-50293361：Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards
+## HN-50309730：Defense Contractor Gave Their Personal AI Agent Access to Secure Pentagon System
 
-原文：[https://github.com/phpclaw-php/phpclaw-monorepo](https://github.com/phpclaw-php/phpclaw-monorepo)
-HN投稿：https://news.ycombinator.com/item?id=50293361
-投稿日（UTC）：2026-10-29T18:06:22Z／カテゴリ：AI
-スコア：13／コメント件数：4
+原文：[https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/)
+HN投稿：https://news.ycombinator.com/item?id=50309730
+投稿日（UTC）：2026-10-30T20:30:06Z／カテゴリ：AI
+スコア：16／コメント件数：2
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：ai agent
 一次抽出の手掛かり：AI, agent
@@ -176,17 +165,6 @@ HN投稿：https://news.ycombinator.com/item?id=50358078
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：ai coding, open weight
 一次抽出の手掛かり：AI, coding
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
-## HN-50293305：Google admits AI search makes less money, but it's fixing that with more ads
-
-原文：[https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/](https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/)
-HN投稿：https://news.ycombinator.com/item?id=50293305
-投稿日（UTC）：2026-10-29T18:02:07Z／カテゴリ：AI
-スコア：9／コメント件数：4
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：なし
-一次抽出の手掛かり：AI, search
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
 ## HN-50309439：PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden
@@ -277,17 +255,6 @@ HN投稿：https://news.ycombinator.com/item?id=50354358
 一次抽出の手掛かり：open source
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
-## HN-50290177：LLM Voice
-
-原文：[https://martinfowler.com/bliki/LLM-Voice.html](https://martinfowler.com/bliki/LLM-Voice.html)
-HN投稿：https://news.ycombinator.com/item?id=50290177
-投稿日（UTC）：2026-10-29T14:57:55Z／カテゴリ：AI
-スコア：610／コメント件数：336
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：なし
-一次抽出の手掛かり：LLM
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
 ## HN-50323088：The AI cost of JavaScript frameworks
 
 原文：[https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
@@ -308,17 +275,6 @@ HN投稿：https://news.ycombinator.com/item?id=50362905
 直近24時間内の観測増加：スコア 83／コメント 46
 キーワード：なし
 一次抽出の手掛かり：inference
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
-## HN-50291945：Google Search is now less than half of Alphabet’s revenue
-
-原文：[https://www.kadoa.com/companies/insights/google-search-below-half](https://www.kadoa.com/companies/insights/google-search-below-half)
-HN投稿：https://news.ycombinator.com/item?id=50291945
-投稿日（UTC）：2026-10-29T16:42:17Z／カテゴリ：Other
-スコア：434／コメント件数：362
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：google search
-一次抽出の手掛かり：search
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
 ## HN-50336918：Fujifilm to boost tape production 5x as AI fuels archiving demand
@@ -448,6 +404,50 @@ HN投稿：https://news.ycombinator.com/item?id=50330456
 HN投稿：https://news.ycombinator.com/item?id=50337454
 投稿日（UTC）：2026-11-02T14:40:05Z／カテゴリ：AI
 スコア：188／コメント件数：257
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
+キーワード：なし
+一次抽出の手掛かり：AI
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
+## HN-50358582：The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer
+
+原文：[https://arxiv.org/abs/2605.29713](https://arxiv.org/abs/2605.29713)
+HN投稿：https://news.ycombinator.com/item?id=50358582
+投稿日（UTC）：2026-11-03T21:40:53Z／カテゴリ：AI
+スコア：384／コメント件数：60
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
+キーワード：generative ai
+一次抽出の手掛かり：AI
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
+## HN-50348962：Nvidia – open-source auto-ontology
+
+原文：[https://github.com/NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
+HN投稿：https://news.ycombinator.com/item?id=50348962
+投稿日（UTC）：2026-11-03T07:04:50Z／カテゴリ：Security
+スコア：288／コメント件数：138
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
+キーワード：open source
+一次抽出の手掛かり：open source
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
+## HN-50296730：Building an AI-native engineering org
+
+原文：[https://twitter.com/sgondala2/status/2115832070274723875](https://twitter.com/sgondala2/status/2115832070274723875)
+HN投稿：https://news.ycombinator.com/item?id=50296730
+投稿日（UTC）：2026-10-29T21:58:34Z／カテゴリ：Other
+スコア：195／コメント件数：203
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
+キーワード：なし
+一次抽出の手掛かり：AI
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
+## HN-50342284：Oracle files to sell $20B in new stock, bonds to finance AI buildout
+
+原文：[https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html](https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html)
+HN投稿：https://news.ycombinator.com/item?id=50342284
+投稿日（UTC）：2026-11-02T19:27:37Z／カテゴリ：AI
+スコア：199／コメント件数：175
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：AI

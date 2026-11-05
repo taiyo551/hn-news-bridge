@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-05T11:25:46Z",
+  "generated_at": "2026-11-05T18:55:18Z",
   "source_data_as_of": "2026-11-05T06:55:50Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-29T11:25:46Z",
-  "eligible_count_before_dedup": 400,
+  "window_start": "2026-10-29T18:55:18Z",
+  "eligible_count_before_dedup": 370,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
@@ -166,28 +166,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50293979",
-      "hn_id": 50293979,
-      "title": "A Defense Contractor Gave Their AI Agent Access to a Secure Pentagon System",
-      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "hn_url": "https://news.ycombinator.com/item?id=50293979",
-      "category": "AI",
-      "posted_at": "2026-10-29T18:47:56Z",
-      "fetched_at": "2026-11-02T16:15:12Z",
-      "score": 21,
-      "comment_count": 6,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agent"
-      ],
-      "selection_hints": [
-        "AI",
-        "agent"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50358388",
       "hn_id": 50358388,
       "title": "British fintech Revolut slashes AI coding costs 10x by going self-hosted",
@@ -253,16 +231,16 @@
       "snippet": ""
     },
     {
-      "id": "HN-50293361",
-      "hn_id": 50293361,
-      "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
-      "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
-      "hn_url": "https://news.ycombinator.com/item?id=50293361",
+      "id": "HN-50309730",
+      "hn_id": 50309730,
+      "title": "Defense Contractor Gave Their Personal AI Agent Access to Secure Pentagon System",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "hn_url": "https://news.ycombinator.com/item?id=50309730",
       "category": "AI",
-      "posted_at": "2026-10-29T18:06:22Z",
+      "posted_at": "2026-10-30T20:30:06Z",
       "fetched_at": "2026-11-02T16:15:12Z",
-      "score": 13,
-      "comment_count": 4,
+      "score": 16,
+      "comment_count": 2,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -334,26 +312,6 @@
       "selection_hints": [
         "AI",
         "coding"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50293305",
-      "hn_id": 50293305,
-      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-      "hn_url": "https://news.ycombinator.com/item?id=50293305",
-      "category": "AI",
-      "posted_at": "2026-10-29T18:02:07Z",
-      "fetched_at": "2026-10-31T12:40:35Z",
-      "score": 9,
-      "comment_count": 4,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "search"
       ],
       "snippet": ""
     },
@@ -520,25 +478,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50290177",
-      "hn_id": 50290177,
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50290177",
-      "category": "AI",
-      "posted_at": "2026-10-29T14:57:55Z",
-      "fetched_at": "2026-11-05T06:54:55Z",
-      "score": 610,
-      "comment_count": 336,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "LLM"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50323088",
       "hn_id": 50323088,
       "title": "The AI cost of JavaScript frameworks",
@@ -573,27 +512,6 @@
       "keywords": [],
       "selection_hints": [
         "inference"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50291945",
-      "hn_id": 50291945,
-      "title": "Google Search is now less than half of Alphabet’s revenue",
-      "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
-      "hn_url": "https://news.ycombinator.com/item?id=50291945",
-      "category": "Other",
-      "posted_at": "2026-10-29T16:42:17Z",
-      "fetched_at": "2026-11-04T06:32:52Z",
-      "score": 434,
-      "comment_count": 362,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "google search"
-      ],
-      "selection_hints": [
-        "search"
       ],
       "snippet": ""
     },
@@ -823,6 +741,86 @@
       "fetched_at": "2026-11-05T06:54:55Z",
       "score": 188,
       "comment_count": 257,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50358582",
+      "hn_id": 50358582,
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "hn_url": "https://news.ycombinator.com/item?id=50358582",
+      "category": "AI",
+      "posted_at": "2026-11-03T21:40:53Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
+      "score": 384,
+      "comment_count": 60,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "generative ai"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50348962",
+      "hn_id": 50348962,
+      "title": "Nvidia – open-source auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "hn_url": "https://news.ycombinator.com/item?id=50348962",
+      "category": "Security",
+      "posted_at": "2026-11-03T07:04:50Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
+      "score": 288,
+      "comment_count": 138,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open source"
+      ],
+      "selection_hints": [
+        "open source"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50296730",
+      "hn_id": 50296730,
+      "title": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "hn_url": "https://news.ycombinator.com/item?id=50296730",
+      "category": "Other",
+      "posted_at": "2026-10-29T21:58:34Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
+      "score": 195,
+      "comment_count": 203,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50342284",
+      "hn_id": 50342284,
+      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50342284",
+      "category": "AI",
+      "posted_at": "2026-11-02T19:27:37Z",
+      "fetched_at": "2026-11-05T06:54:55Z",
+      "score": 199,
+      "comment_count": 175,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
