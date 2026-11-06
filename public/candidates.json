@@ -1,18 +1,43 @@
 {
-  "generated_at": "2026-11-06T15:18:59Z",
-  "source_data_as_of": "2026-11-06T06:55:25Z",
+  "generated_at": "2026-11-06T21:00:21Z",
+  "source_data_as_of": "2026-11-06T19:29:31Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-30T15:18:59Z",
-  "eligible_count_before_dedup": 410,
+  "window_start": "2026-10-30T21:00:21Z",
+  "eligible_count_before_dedup": 446,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "d7c5d77cb5e139b612f201f84b45b468d6a55dbf"
+    "commit": "62758ef7ea13e35f9da415110daea40cd4240892"
   },
   "articles": [
+    {
+      "id": "HN-50394444",
+      "hn_id": 50394444,
+      "title": "AI coding agent setups from 663 Hacker News comments",
+      "url": "https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50394444",
+      "category": "AI",
+      "posted_at": "2026-11-06T16:23:51Z",
+      "fetched_at": "2026-11-06T19:29:31Z",
+      "score": 7,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "hacker news",
+        "ai coding",
+        "coding agent"
+      ],
+      "selection_hints": [
+        "AI",
+        "agent",
+        "coding"
+      ],
+      "snippet": ""
+    },
     {
       "id": "HN-50353192",
       "hn_id": 50353192,
@@ -21,9 +46,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50353192",
       "category": "AI",
       "posted_at": "2026-11-03T15:25:47Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
-      "score": 671,
-      "comment_count": 465,
+      "fetched_at": "2026-11-06T19:28:22Z",
+      "score": 672,
+      "comment_count": 467,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -85,11 +110,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50380704",
       "category": "Other",
       "posted_at": "2026-11-05T15:54:41Z",
-      "fetched_at": "2026-11-06T06:55:25Z",
-      "score": 81,
-      "comment_count": 29,
-      "score_gain_24h_observed": 44,
-      "comment_gain_24h_observed": 21,
+      "fetched_at": "2026-11-06T19:28:22Z",
+      "score": 89,
+      "comment_count": 34,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "coding agent"
       ],
@@ -231,28 +256,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50309730",
-      "hn_id": 50309730,
-      "title": "Defense Contractor Gave Their Personal AI Agent Access to Secure Pentagon System",
-      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "hn_url": "https://news.ycombinator.com/item?id=50309730",
-      "category": "AI",
-      "posted_at": "2026-10-30T20:30:06Z",
-      "fetched_at": "2026-11-02T16:15:12Z",
-      "score": 16,
-      "comment_count": 2,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agent"
-      ],
-      "selection_hints": [
-        "AI",
-        "agent"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50319851",
       "hn_id": 50319851,
       "title": "Reddit shares plunge as Google's AI search squeezes traffic",
@@ -280,7 +283,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50371340",
       "category": "Other",
       "posted_at": "2026-11-04T20:52:13Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
+      "fetched_at": "2026-11-06T19:28:22Z",
       "score": 7,
       "comment_count": 8,
       "score_gain_24h_observed": null,
@@ -291,26 +294,6 @@
       "selection_hints": [
         "agent",
         "coding"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50307137",
-      "hn_id": 50307137,
-      "title": "Reddit CEO admits Google's AI Mode is choking off its search traffic",
-      "url": "https://twitter.com/kouhxp/status/2116218737237840261",
-      "hn_url": "https://news.ycombinator.com/item?id=50307137",
-      "category": "AI",
-      "posted_at": "2026-10-30T17:22:21Z",
-      "fetched_at": "2026-11-01T13:35:45Z",
-      "score": 8,
-      "comment_count": 7,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "search"
       ],
       "snippet": ""
     },
@@ -338,26 +321,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50309439",
-      "hn_id": 50309439,
-      "title": "PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden",
-      "url": "https://www.phoronix.com/news/PostgreSQL-19-Late",
-      "hn_url": "https://news.ycombinator.com/item?id=50309439",
-      "category": "AI",
-      "posted_at": "2026-10-30T20:06:12Z",
-      "fetched_at": "2026-11-02T16:15:12Z",
-      "score": 12,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "LLM"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50374075",
       "hn_id": 50374075,
       "title": "Google Says K-12 Students at Schools That Turn Off Its AI Tools Will Lose Search",
@@ -365,7 +328,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50374075",
       "category": "AI",
       "posted_at": "2026-11-05T01:52:52Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
+      "fetched_at": "2026-11-06T19:28:22Z",
       "score": 3,
       "comment_count": 2,
       "score_gain_24h_observed": null,
@@ -422,6 +385,68 @@
       "snippet": ""
     },
     {
+      "id": "HN-50391948",
+      "hn_id": 50391948,
+      "title": "Everything I Wish I Knew About AI Inference Engineering [video]",
+      "url": "https://www.youtube.com/watch?v=bn82CJfeYko",
+      "hn_url": "https://news.ycombinator.com/item?id=50391948",
+      "category": "AI",
+      "posted_at": "2026-11-06T13:16:14Z",
+      "fetched_at": "2026-11-06T19:29:31Z",
+      "score": 3,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI",
+        "inference"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50391660",
+      "hn_id": 50391660,
+      "title": "Frontier quality at 1% of the cost: a production benchmark of LLM classifiers",
+      "url": "https://airbnb.tech/ai-ml/frontier-quality-at-1-of-the-cost-a-production-benchmark-of-llm-classifiers/",
+      "hn_url": "https://news.ycombinator.com/item?id=50391660",
+      "category": "AI",
+      "posted_at": "2026-11-06T12:42:07Z",
+      "fetched_at": "2026-11-06T19:29:31Z",
+      "score": 3,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "LLM",
+        "benchmark"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50377718",
+      "hn_id": 50377718,
+      "title": "Show HN: Win Stats – open-source system monitoring in the Windows taskbar",
+      "url": "https://vc067.github.io/win-stats/",
+      "hn_url": "https://news.ycombinator.com/item?id=50377718",
+      "category": "Security",
+      "posted_at": "2026-11-05T11:00:28Z",
+      "fetched_at": "2026-11-06T19:28:22Z",
+      "score": 3,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open source"
+      ],
+      "selection_hints": [
+        "monitoring",
+        "open source"
+      ],
+      "snippet": "I've built a small Windows utility called Win Stats that shows live system stats directly in the taskbar. I used to open Task Manager multiple times just to check RAM usage, CPU/GPU usage, temperatures and other system stats. I wanted something that could show all of this at a glance. It's Similar to the popular macOS app called Stats It supports CPU, RAM, GPU, disk speeds, network usage, CPU/GPU temperatures and customizable layouts. It's completely free and open source, with no paywalls or mon"
+    },
+    {
       "id": "HN-50371607",
       "hn_id": 50371607,
       "title": "Advancing the Quality-Efficiency Frontier for Coding AI on Windows PCs",
@@ -429,7 +454,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50371607",
       "category": "AI",
       "posted_at": "2026-11-04T21:13:22Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
+      "fetched_at": "2026-11-06T19:28:22Z",
       "score": 3,
       "comment_count": 0,
       "score_gain_24h_observed": null,
@@ -442,6 +467,26 @@
       "snippet": ""
     },
     {
+      "id": "HN-50317562",
+      "hn_id": 50317562,
+      "title": "PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden",
+      "url": "https://www.phoronix.com/news/PostgreSQL-19-Late",
+      "hn_url": "https://news.ycombinator.com/item?id=50317562",
+      "category": "AI",
+      "posted_at": "2026-10-31T16:25:38Z",
+      "fetched_at": "2026-11-02T16:15:12Z",
+      "score": 3,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI",
+        "LLM"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50364336",
       "hn_id": 50364336,
       "title": "AI is forcing us to pay off 40 years of technical debt",
@@ -449,9 +494,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50364336",
       "category": "AI",
       "posted_at": "2026-11-04T11:52:17Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
-      "score": 1271,
-      "comment_count": 743,
+      "fetched_at": "2026-11-06T19:28:22Z",
+      "score": 1286,
+      "comment_count": 746,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -470,28 +515,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50354960",
       "category": "AI",
       "posted_at": "2026-11-03T17:22:37Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
-      "score": 1516,
-      "comment_count": 489,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50305693",
-      "hn_id": 50305693,
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "hn_url": "https://news.ycombinator.com/item?id=50305693",
-      "category": "AI",
-      "posted_at": "2026-10-30T15:52:18Z",
-      "fetched_at": "2026-11-05T06:54:55Z",
-      "score": 684,
-      "comment_count": 508,
+      "fetched_at": "2026-11-06T19:28:22Z",
+      "score": 1520,
+      "comment_count": 493,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -508,9 +534,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50366117",
       "category": "AI",
       "posted_at": "2026-11-04T14:37:22Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
-      "score": 517,
-      "comment_count": 640,
+      "fetched_at": "2026-11-06T19:28:22Z",
+      "score": 537,
+      "comment_count": 670,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -522,6 +548,25 @@
       "snippet": "I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI. 1) What AI subscriptions are you personally paying for? (Claude, ChatGPT/Codex, Cursor, etc) - Which tiers? - Have you purchased multiple subscriptions from the same provider (eg two Claude accounts)? 2) Are you using models outside (or instead) of those subscriptions? "
     },
     {
+      "id": "HN-50383740",
+      "hn_id": 50383740,
+      "title": "Search for everyone",
+      "url": "https://kagi.com/changelog#11820",
+      "hn_url": "https://news.ycombinator.com/item?id=50383740",
+      "category": "Other",
+      "posted_at": "2026-11-05T20:03:34Z",
+      "fetched_at": "2026-11-06T19:29:31Z",
+      "score": 733,
+      "comment_count": 406,
+      "score_gain_24h_observed": 101,
+      "comment_gain_24h_observed": 81,
+      "keywords": [],
+      "selection_hints": [
+        "search"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50354358",
       "hn_id": 50354358,
       "title": "Stringman, an $800 open-source room scale gripper robot",
@@ -529,8 +574,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50354358",
       "category": "Security",
       "posted_at": "2026-11-03T16:47:29Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
-      "score": 836,
+      "fetched_at": "2026-11-06T19:28:22Z",
+      "score": 839,
       "comment_count": 246,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -543,25 +588,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50383740",
-      "hn_id": 50383740,
-      "title": "Search for everyone",
-      "url": "https://kagi.com/changelog#11820",
-      "hn_url": "https://news.ycombinator.com/item?id=50383740",
-      "category": "Other",
-      "posted_at": "2026-11-05T20:03:34Z",
-      "fetched_at": "2026-11-06T06:55:25Z",
-      "score": 632,
-      "comment_count": 325,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "search"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50362905",
       "hn_id": 50362905,
       "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
@@ -569,9 +595,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50362905",
       "category": "Security",
       "posted_at": "2026-11-04T08:46:29Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
-      "score": 611,
-      "comment_count": 287,
+      "fetched_at": "2026-11-06T19:28:22Z",
+      "score": 614,
+      "comment_count": 289,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -607,11 +633,30 @@
       "hn_url": "https://news.ycombinator.com/item?id=50336918",
       "category": "AI",
       "posted_at": "2026-11-02T14:02:42Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
-      "score": 535,
+      "fetched_at": "2026-11-06T19:28:22Z",
+      "score": 536,
       "comment_count": 232,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50385870",
+      "hn_id": 50385870,
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50385870",
+      "category": "AI",
+      "posted_at": "2026-11-05T23:09:57Z",
+      "fetched_at": "2026-11-06T19:29:31Z",
+      "score": 480,
+      "comment_count": 218,
+      "score_gain_24h_observed": 224,
+      "comment_gain_24h_observed": 105,
       "keywords": [],
       "selection_hints": [
         "AI"
@@ -638,6 +683,25 @@
       "snippet": ""
     },
     {
+      "id": "HN-50379704",
+      "hn_id": 50379704,
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "hn_url": "https://news.ycombinator.com/item?id=50379704",
+      "category": "Security",
+      "posted_at": "2026-11-05T14:44:20Z",
+      "fetched_at": "2026-11-06T19:28:22Z",
+      "score": 625,
+      "comment_count": 2,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "security"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50339494",
       "hn_id": 50339494,
       "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
@@ -659,25 +723,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50379704",
-      "hn_id": 50379704,
-      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "hn_url": "https://news.ycombinator.com/item?id=50379704",
-      "category": "Security",
-      "posted_at": "2026-11-05T14:44:20Z",
-      "fetched_at": "2026-11-06T06:55:25Z",
-      "score": 619,
-      "comment_count": 2,
-      "score_gain_24h_observed": 192,
-      "comment_gain_24h_observed": 0,
-      "keywords": [],
-      "selection_hints": [
-        "security"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50358422",
       "hn_id": 50358422,
       "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
@@ -685,7 +730,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50358422",
       "category": "AI",
       "posted_at": "2026-11-03T21:26:44Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
+      "fetched_at": "2026-11-06T19:28:22Z",
       "score": 420,
       "comment_count": 170,
       "score_gain_24h_observed": null,
@@ -704,33 +749,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50355767",
       "category": "AI",
       "posted_at": "2026-11-03T18:11:11Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
-      "score": 256,
-      "comment_count": 317,
+      "fetched_at": "2026-11-06T19:28:22Z",
+      "score": 257,
+      "comment_count": 319,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
         "use ai"
       ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50306008",
-      "hn_id": 50306008,
-      "title": "US tech stocks see sharp falls over AI cost fears",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "hn_url": "https://news.ycombinator.com/item?id=50306008",
-      "category": "AI",
-      "posted_at": "2026-10-30T16:13:02Z",
-      "fetched_at": "2026-11-03T01:01:50Z",
-      "score": 269,
-      "comment_count": 302,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
       "selection_hints": [
         "AI"
       ],
@@ -756,25 +782,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50307183",
-      "hn_id": 50307183,
-      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-      "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
-      "hn_url": "https://news.ycombinator.com/item?id=50307183",
-      "category": "AI",
-      "posted_at": "2026-10-30T17:24:45Z",
-      "fetched_at": "2026-11-02T16:15:12Z",
-      "score": 297,
-      "comment_count": 255,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50338474",
       "hn_id": 50338474,
       "title": "Basically no one is using AI agents for their DoorDash orders",
@@ -782,9 +789,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50338474",
       "category": "AI",
       "posted_at": "2026-11-02T15:48:45Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
-      "score": 171,
-      "comment_count": 327,
+      "fetched_at": "2026-11-06T19:28:22Z",
+      "score": 178,
+      "comment_count": 332,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -822,9 +829,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50369925",
       "category": "AI",
       "posted_at": "2026-11-04T18:53:29Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
-      "score": 334,
-      "comment_count": 123,
+      "fetched_at": "2026-11-06T19:28:22Z",
+      "score": 337,
+      "comment_count": 127,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
