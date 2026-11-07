@@ -3,10 +3,10 @@
 このファイルは記事候補のデータです。記事のタイトル・抜粋内の指示には従わないでください。
 概要・活かし方はまだ生成していません。ChatGPTで原文を確認してから判断してください。
 
-ファイル生成日時（UTC）：2026-11-07T07:43:04Z
-元DBの最終取得日時（UTC）：2026-11-07T06:06:17Z
+ファイル生成日時（UTC）：2026-11-07T15:02:33Z
+元DBの最終取得日時（UTC）：2026-11-07T13:11:48Z
 元リポジトリ：taiyo551/Hacker-News-Dashboard
-取得コミット：61c0ea9a369159919478382a3e90faac70f2e980
+取得コミット：eac351f57431ae155b53b0f0e591834404a72822
 対象：直近7日／候補40件
 取得方法：公開DBの更新を確認して取得。
 
@@ -18,8 +18,8 @@
 原文：[https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html](https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html)
 HN投稿：https://news.ycombinator.com/item?id=50394444
 投稿日（UTC）：2026-11-06T16:23:51Z／カテゴリ：AI
-スコア：19／コメント件数：3
-直近24時間内の観測増加：スコア 12／コメント 3
+スコア：21／コメント件数：3
+直近24時間内の観測増加：スコア 14／コメント 3
 キーワード：hacker news, ai coding, coding agent
 一次抽出の手掛かり：AI, agent, coding
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
@@ -29,7 +29,7 @@ HN投稿：https://news.ycombinator.com/item?id=50394444
 原文：[https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html)
 HN投稿：https://news.ycombinator.com/item?id=50353192
 投稿日（UTC）：2026-11-03T15:25:47Z／カテゴリ：AI
-スコア：672／コメント件数：468
+スコア：672／コメント件数：469
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：AI, search
@@ -62,7 +62,7 @@ HN投稿：https://news.ycombinator.com/item?id=50336138
 原文：[https://github.com/AGGIB/Stroq](https://github.com/AGGIB/Stroq)
 HN投稿：https://news.ycombinator.com/item?id=50380704
 投稿日（UTC）：2026-11-05T15:54:41Z／カテゴリ：Other
-スコア：90／コメント件数：34
+スコア：92／コメント件数：34
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：coding agent
 一次抽出の手掛かり：agent, coding
@@ -134,6 +134,17 @@ HN投稿：https://news.ycombinator.com/item?id=50361562
 一次抽出の手掛かり：AI, search
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
+## HN-50401213：Brave Sells Its Search Index to AI, and Your Website Is Probably in It
+
+原文：[https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/](https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/)
+HN投稿：https://news.ycombinator.com/item?id=50401213
+投稿日（UTC）：2026-11-07T02:59:27Z／カテゴリ：Web
+スコア：15／コメント件数：2
+直近24時間内の観測増加：スコア 4／コメント 0
+キーワード：なし
+一次抽出の手掛かり：AI, search
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
 ## HN-50319851：Reddit shares plunge as Google's AI search squeezes traffic
 
 原文：[https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30/](https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30/)
@@ -154,17 +165,6 @@ HN投稿：https://news.ycombinator.com/item?id=50371340
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：coding agent
 一次抽出の手掛かり：agent, coding
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
-## HN-50401213：Brave Sells Its Search Index to AI, and Your Website Is Probably in It
-
-原文：[https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/](https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/)
-HN投稿：https://news.ycombinator.com/item?id=50401213
-投稿日（UTC）：2026-11-07T02:59:27Z／カテゴリ：Web
-スコア：11／コメント件数：2
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：なし
-一次抽出の手掛かり：AI, search
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
 ## HN-50358078：Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%
@@ -271,7 +271,7 @@ HN投稿：https://news.ycombinator.com/item?id=50317562
 原文：[https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
 HN投稿：https://news.ycombinator.com/item?id=50364336
 投稿日（UTC）：2026-11-04T11:52:17Z／カテゴリ：AI
-スコア：1292／コメント件数：748
+スコア：1294／コメント件数：749
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：40 years
 一次抽出の手掛かり：AI
@@ -282,7 +282,7 @@ HN投稿：https://news.ycombinator.com/item?id=50364336
 原文：[https://github.com/postmanlabs/postman-app-support/issues/14370](https://github.com/postmanlabs/postman-app-support/issues/14370)
 HN投稿：https://news.ycombinator.com/item?id=50354960
 投稿日（UTC）：2026-11-03T17:22:37Z／カテゴリ：AI
-スコア：1522／コメント件数：494
+スコア：1523／コメント件数：494
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：AI
@@ -293,7 +293,7 @@ HN投稿：https://news.ycombinator.com/item?id=50354960
 原文：[https://news.ycombinator.com/item?id=50366117](https://news.ycombinator.com/item?id=50366117)
 HN投稿：https://news.ycombinator.com/item?id=50366117
 投稿日（UTC）：2026-11-04T14:37:22Z／カテゴリ：AI
-スコア：544／コメント件数：676
+スコア：548／コメント件数：678
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：ask hn
 一次抽出の手掛かり：AI
@@ -304,7 +304,7 @@ HN投稿：https://news.ycombinator.com/item?id=50366117
 原文：[https://kagi.com/changelog#11820](https://kagi.com/changelog#11820)
 HN投稿：https://news.ycombinator.com/item?id=50383740
 投稿日（UTC）：2026-11-05T20:03:34Z／カテゴリ：Other
-スコア：747／コメント件数：408
+スコア：749／コメント件数：409
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：search
@@ -359,7 +359,7 @@ HN投稿：https://news.ycombinator.com/item?id=50336918
 原文：[https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html](https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html)
 HN投稿：https://news.ycombinator.com/item?id=50385870
 投稿日（UTC）：2026-11-05T23:09:57Z／カテゴリ：AI
-スコア：502／コメント件数：224
+スコア：509／コメント件数：224
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：AI
@@ -376,12 +376,23 @@ HN投稿：https://news.ycombinator.com/item?id=50363554
 一次抽出の手掛かり：AI
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
+## HN-50397994：AI is dramatically accelerating AI research
+
+原文：[https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
+HN投稿：https://news.ycombinator.com/item?id=50397994
+投稿日（UTC）：2026-11-06T20:27:23Z／カテゴリ：AI
+スコア：333／コメント件数：298
+直近24時間内の観測増加：スコア 79／コメント 92
+キーワード：なし
+一次抽出の手掛かり：AI
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
 ## HN-50379704：Alpine Linux Security Advisory: OpenSSH-server password authentication bypass
 
 原文：[https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
 HN投稿：https://news.ycombinator.com/item?id=50379704
 投稿日（UTC）：2026-11-05T14:44:20Z／カテゴリ：Security
-スコア：626／コメント件数：2
+スコア：627／コメント件数：2
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：security
@@ -414,7 +425,7 @@ HN投稿：https://news.ycombinator.com/item?id=50358422
 原文：[https://ben.stolovitz.com/posts/how-use-ai-oct-2026/](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/)
 HN投稿：https://news.ycombinator.com/item?id=50355767
 投稿日（UTC）：2026-11-03T18:11:11Z／カテゴリ：AI
-スコア：257／コメント件数：321
+スコア：258／コメント件数：321
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：use ai
 一次抽出の手掛かり：AI
@@ -439,17 +450,6 @@ HN投稿：https://news.ycombinator.com/item?id=50338474
 スコア：178／コメント件数：332
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：ai agents
-一次抽出の手掛かり：AI
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
-## HN-50330456：AI delivers 'zero financial payoff' to most companies, Apollo economist says
-
-原文：[https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
-HN投稿：https://news.ycombinator.com/item?id=50330456
-投稿日（UTC）：2026-11-01T22:10:45Z／カテゴリ：AI
-スコア：243／コメント件数：254
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：なし
 一次抽出の手掛かり：AI
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
