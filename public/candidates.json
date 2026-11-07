@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-06T21:00:21Z",
+  "generated_at": "2026-11-07T01:06:05Z",
   "source_data_as_of": "2026-11-06T19:29:31Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-30T21:00:21Z",
-  "eligible_count_before_dedup": 446,
+  "window_start": "2026-10-31T01:06:05Z",
+  "eligible_count_before_dedup": 435,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
