@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-07T22:57:14Z",
+  "generated_at": "2026-11-08T02:39:20Z",
   "source_data_as_of": "2026-11-07T21:56:55Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-10-31T22:57:14Z",
-  "eligible_count_before_dedup": 457,
+  "window_start": "2026-11-01T02:39:20Z",
+  "eligible_count_before_dedup": 447,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
@@ -762,25 +762,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50322173",
-      "hn_id": 50322173,
-      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "hn_url": "https://news.ycombinator.com/item?id=50322173",
-      "category": "Policy",
-      "posted_at": "2026-11-01T02:19:53Z",
-      "fetched_at": "2026-11-05T06:54:55Z",
-      "score": 347,
-      "comment_count": 220,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "prompt"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50338474",
       "hn_id": 50338474,
       "title": "Basically no one is using AI agents for their DoorDash orders",
@@ -836,6 +817,27 @@
       "keywords": [],
       "selection_hints": [
         "MCP"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50369925",
+      "hn_id": 50369925,
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "hn_url": "https://news.ycombinator.com/item?id=50369925",
+      "category": "AI",
+      "posted_at": "2026-11-04T18:53:29Z",
+      "fetched_at": "2026-11-07T21:55:45Z",
+      "score": 339,
+      "comment_count": 127,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open weight"
+      ],
+      "selection_hints": [
+        "coding"
       ],
       "snippet": ""
     }
