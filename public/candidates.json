@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-08T17:12:38Z",
+  "generated_at": "2026-11-08T21:19:52Z",
   "source_data_as_of": "2026-11-08T13:32:07Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-01T17:12:38Z",
-  "eligible_count_before_dedup": 453,
+  "window_start": "2026-11-01T21:19:52Z",
+  "eligible_count_before_dedup": 446,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
@@ -121,28 +121,6 @@
       "selection_hints": [
         "AI",
         "open source"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50328293",
-      "hn_id": 50328293,
-      "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
-      "url": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
-      "hn_url": "https://news.ycombinator.com/item?id=50328293",
-      "category": "AI",
-      "posted_at": "2026-11-01T18:33:02Z",
-      "fetched_at": "2026-11-04T06:32:52Z",
-      "score": 60,
-      "comment_count": 6,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agent"
-      ],
-      "selection_hints": [
-        "AI",
-        "agent"
       ],
       "snippet": ""
     },
@@ -357,28 +335,6 @@
       "selection_hints": [
         "LLM",
         "benchmark"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50327937",
-      "hn_id": 50327937,
-      "title": "Show HN: Offline project memory for coding agents – no API key, no vector DB",
-      "url": "https://github.com/krapcys1-maker/adaptive-agent-memory-research",
-      "hn_url": "https://news.ycombinator.com/item?id=50327937",
-      "category": "AI",
-      "posted_at": "2026-11-01T17:57:27Z",
-      "fetched_at": "2026-11-03T23:27:14Z",
-      "score": 4,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "coding agents"
-      ],
-      "selection_hints": [
-        "vector",
-        "coding"
       ],
       "snippet": ""
     },
@@ -834,6 +790,46 @@
       "comment_gain_24h_observed": null,
       "keywords": [
         "generative ai"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50337454",
+      "hn_id": 50337454,
+      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+      "hn_url": "https://news.ycombinator.com/item?id=50337454",
+      "category": "AI",
+      "posted_at": "2026-11-02T14:40:05Z",
+      "fetched_at": "2026-11-06T06:54:30Z",
+      "score": 188,
+      "comment_count": 257,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50388513",
+      "hn_id": 50388513,
+      "title": "I struggle to believe that AI R&D is ingenious",
+      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+      "hn_url": "https://news.ycombinator.com/item?id=50388513",
+      "category": "AI",
+      "posted_at": "2026-11-06T05:19:04Z",
+      "fetched_at": "2026-11-08T13:31:19Z",
+      "score": 220,
+      "comment_count": 219,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "believe ai"
       ],
       "selection_hints": [
         "AI"
