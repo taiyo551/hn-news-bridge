@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-08T02:39:20Z",
-  "source_data_as_of": "2026-11-07T21:56:55Z",
+  "generated_at": "2026-11-08T17:12:38Z",
+  "source_data_as_of": "2026-11-08T13:32:07Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-01T02:39:20Z",
-  "eligible_count_before_dedup": 447,
+  "window_start": "2026-11-01T17:12:38Z",
+  "eligible_count_before_dedup": 453,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "3eaa0c34f84e0dcbffbd04398e857c10f13fd858"
+    "commit": "832037c45ddef801fc7b718933809c2f116fa74f"
   },
   "articles": [
     {
@@ -21,11 +21,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50394444",
       "category": "AI",
       "posted_at": "2026-11-06T16:23:51Z",
-      "fetched_at": "2026-11-07T21:55:45Z",
-      "score": 28,
+      "fetched_at": "2026-11-08T13:31:19Z",
+      "score": 29,
       "comment_count": 4,
-      "score_gain_24h_observed": 2,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "hacker news",
         "ai coding",
@@ -46,7 +46,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50353192",
       "category": "AI",
       "posted_at": "2026-11-03T15:25:47Z",
-      "fetched_at": "2026-11-07T21:55:45Z",
+      "fetched_at": "2026-11-08T13:31:19Z",
       "score": 672,
       "comment_count": 470,
       "score_gain_24h_observed": null,
@@ -57,28 +57,6 @@
         "search"
       ],
       "snippet": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio..."
-    },
-    {
-      "id": "HN-50325662",
-      "hn_id": 50325662,
-      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-      "hn_url": "https://news.ycombinator.com/item?id=50325662",
-      "category": "AI",
-      "posted_at": "2026-11-01T13:47:24Z",
-      "fetched_at": "2026-11-05T06:54:55Z",
-      "score": 180,
-      "comment_count": 91,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agent"
-      ],
-      "selection_hints": [
-        "AI",
-        "agent"
-      ],
-      "snippet": ""
     },
     {
       "id": "HN-50336138",
@@ -110,7 +88,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50380704",
       "category": "Other",
       "posted_at": "2026-11-05T15:54:41Z",
-      "fetched_at": "2026-11-07T21:55:45Z",
+      "fetched_at": "2026-11-08T13:31:19Z",
       "score": 92,
       "comment_count": 34,
       "score_gain_24h_observed": null,
@@ -243,11 +221,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50401213",
       "category": "Web",
       "posted_at": "2026-11-07T02:59:27Z",
-      "fetched_at": "2026-11-07T21:56:55Z",
+      "fetched_at": "2026-11-08T13:31:19Z",
       "score": 15,
       "comment_count": 4,
-      "score_gain_24h_observed": 4,
-      "comment_gain_24h_observed": 2,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI",
@@ -363,6 +341,26 @@
       "snippet": ""
     },
     {
+      "id": "HN-50391660",
+      "hn_id": 50391660,
+      "title": "Frontier quality at 1% of the cost: a production benchmark of LLM classifiers",
+      "url": "https://airbnb.tech/ai-ml/frontier-quality-at-1-of-the-cost-a-production-benchmark-of-llm-classifiers/",
+      "hn_url": "https://news.ycombinator.com/item?id=50391660",
+      "category": "AI",
+      "posted_at": "2026-11-06T12:42:07Z",
+      "fetched_at": "2026-11-08T13:31:19Z",
+      "score": 4,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "LLM",
+        "benchmark"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50327937",
       "hn_id": 50327937,
       "title": "Show HN: Offline project memory for coding agents – no API key, no vector DB",
@@ -392,35 +390,15 @@
       "hn_url": "https://news.ycombinator.com/item?id=50391948",
       "category": "AI",
       "posted_at": "2026-11-06T13:16:14Z",
-      "fetched_at": "2026-11-07T21:55:45Z",
-      "score": 3,
-      "comment_count": 0,
-      "score_gain_24h_observed": 0,
-      "comment_gain_24h_observed": 0,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "inference"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50391660",
-      "hn_id": 50391660,
-      "title": "Frontier quality at 1% of the cost: a production benchmark of LLM classifiers",
-      "url": "https://airbnb.tech/ai-ml/frontier-quality-at-1-of-the-cost-a-production-benchmark-of-llm-classifiers/",
-      "hn_url": "https://news.ycombinator.com/item?id=50391660",
-      "category": "AI",
-      "posted_at": "2026-11-06T12:42:07Z",
-      "fetched_at": "2026-11-07T21:55:45Z",
+      "fetched_at": "2026-11-08T06:09:47Z",
       "score": 3,
       "comment_count": 0,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
-        "LLM",
-        "benchmark"
+        "AI",
+        "inference"
       ],
       "snippet": ""
     },
@@ -474,8 +452,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50364336",
       "category": "AI",
       "posted_at": "2026-11-04T11:52:17Z",
-      "fetched_at": "2026-11-07T21:55:45Z",
-      "score": 1294,
+      "fetched_at": "2026-11-08T13:31:19Z",
+      "score": 1299,
       "comment_count": 749,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -495,9 +473,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50354960",
       "category": "AI",
       "posted_at": "2026-11-03T17:22:37Z",
-      "fetched_at": "2026-11-07T21:55:45Z",
-      "score": 1524,
-      "comment_count": 495,
+      "fetched_at": "2026-11-08T13:31:19Z",
+      "score": 1525,
+      "comment_count": 496,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -514,9 +492,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50366117",
       "category": "AI",
       "posted_at": "2026-11-04T14:37:22Z",
-      "fetched_at": "2026-11-07T21:55:45Z",
-      "score": 553,
-      "comment_count": 682,
+      "fetched_at": "2026-11-08T13:31:19Z",
+      "score": 558,
+      "comment_count": 691,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -535,8 +513,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50383740",
       "category": "Other",
       "posted_at": "2026-11-05T20:03:34Z",
-      "fetched_at": "2026-11-07T21:55:45Z",
-      "score": 751,
+      "fetched_at": "2026-11-08T13:31:19Z",
+      "score": 752,
       "comment_count": 410,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -554,9 +532,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50354358",
       "category": "Security",
       "posted_at": "2026-11-03T16:47:29Z",
-      "fetched_at": "2026-11-07T21:55:45Z",
-      "score": 841,
-      "comment_count": 246,
+      "fetched_at": "2026-11-08T13:31:19Z",
+      "score": 842,
+      "comment_count": 247,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -575,33 +553,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50362905",
       "category": "Security",
       "posted_at": "2026-11-04T08:46:29Z",
-      "fetched_at": "2026-11-07T21:55:45Z",
-      "score": 615,
-      "comment_count": 289,
+      "fetched_at": "2026-11-08T13:31:19Z",
+      "score": 616,
+      "comment_count": 291,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "inference"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50323088",
-      "hn_id": 50323088,
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "hn_url": "https://news.ycombinator.com/item?id=50323088",
-      "category": "AI",
-      "posted_at": "2026-11-01T06:06:19Z",
-      "fetched_at": "2026-11-05T06:54:55Z",
-      "score": 477,
-      "comment_count": 398,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
       ],
       "snippet": ""
     },
@@ -625,6 +584,25 @@
       "snippet": ""
     },
     {
+      "id": "HN-50406563",
+      "hn_id": 50406563,
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "hn_url": "https://news.ycombinator.com/item?id=50406563",
+      "category": "AI",
+      "posted_at": "2026-11-07T18:02:17Z",
+      "fetched_at": "2026-11-08T13:32:07Z",
+      "score": 475,
+      "comment_count": 286,
+      "score_gain_24h_observed": 225,
+      "comment_gain_24h_observed": 143,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft..."
+    },
+    {
       "id": "HN-50385870",
       "hn_id": 50385870,
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
@@ -632,9 +610,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50385870",
       "category": "AI",
       "posted_at": "2026-11-05T23:09:57Z",
-      "fetched_at": "2026-11-07T21:55:45Z",
-      "score": 510,
-      "comment_count": 228,
+      "fetched_at": "2026-11-08T13:31:19Z",
+      "score": 515,
+      "comment_count": 229,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -651,11 +629,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50397994",
       "category": "AI",
       "posted_at": "2026-11-06T20:27:23Z",
-      "fetched_at": "2026-11-07T21:55:45Z",
-      "score": 358,
-      "comment_count": 333,
-      "score_gain_24h_observed": 79,
-      "comment_gain_24h_observed": 92,
+      "fetched_at": "2026-11-08T13:31:19Z",
+      "score": 370,
+      "comment_count": 349,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI"
@@ -729,7 +707,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50358422",
       "category": "AI",
       "posted_at": "2026-11-03T21:26:44Z",
-      "fetched_at": "2026-11-07T21:55:45Z",
+      "fetched_at": "2026-11-08T13:31:19Z",
       "score": 421,
       "comment_count": 170,
       "score_gain_24h_observed": null,
@@ -748,8 +726,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50355767",
       "category": "AI",
       "posted_at": "2026-11-03T18:11:11Z",
-      "fetched_at": "2026-11-07T21:55:45Z",
-      "score": 258,
+      "fetched_at": "2026-11-08T13:31:19Z",
+      "score": 259,
       "comment_count": 322,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -809,9 +787,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50379249",
       "category": "Other",
       "posted_at": "2026-11-05T14:08:35Z",
-      "fetched_at": "2026-11-07T21:55:45Z",
-      "score": 340,
-      "comment_count": 134,
+      "fetched_at": "2026-11-08T13:31:19Z",
+      "score": 343,
+      "comment_count": 135,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -828,8 +806,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50369925",
       "category": "AI",
       "posted_at": "2026-11-04T18:53:29Z",
-      "fetched_at": "2026-11-07T21:55:45Z",
-      "score": 339,
+      "fetched_at": "2026-11-08T13:31:19Z",
+      "score": 340,
       "comment_count": 127,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -838,6 +816,27 @@
       ],
       "selection_hints": [
         "coding"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50358582",
+      "hn_id": 50358582,
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "hn_url": "https://news.ycombinator.com/item?id=50358582",
+      "category": "AI",
+      "posted_at": "2026-11-03T21:40:53Z",
+      "fetched_at": "2026-11-08T13:31:19Z",
+      "score": 393,
+      "comment_count": 60,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "generative ai"
+      ],
+      "selection_hints": [
+        "AI"
       ],
       "snippet": ""
     }
