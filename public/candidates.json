@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-09T08:36:16Z",
+  "generated_at": "2026-11-09T19:58:36Z",
   "source_data_as_of": "2026-11-09T06:44:36Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-02T08:36:16Z",
-  "eligible_count_before_dedup": 464,
+  "window_start": "2026-11-02T19:58:36Z",
+  "eligible_count_before_dedup": 426,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
@@ -57,28 +57,6 @@
         "search"
       ],
       "snippet": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio..."
-    },
-    {
-      "id": "HN-50336138",
-      "hn_id": 50336138,
-      "title": "Last night an AI agent performed brain surgery on a mouse",
-      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-      "hn_url": "https://news.ycombinator.com/item?id=50336138",
-      "category": "AI",
-      "posted_at": "2026-11-02T12:50:59Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
-      "score": 143,
-      "comment_count": 118,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agent"
-      ],
-      "selection_hints": [
-        "AI",
-        "agent"
-      ],
-      "snippet": ""
     },
     {
       "id": "HN-50380704",
@@ -540,25 +518,6 @@
       "snippet": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft..."
     },
     {
-      "id": "HN-50336918",
-      "hn_id": 50336918,
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "hn_url": "https://news.ycombinator.com/item?id=50336918",
-      "category": "AI",
-      "posted_at": "2026-11-02T14:02:42Z",
-      "fetched_at": "2026-11-06T19:28:22Z",
-      "score": 536,
-      "comment_count": 232,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50385870",
       "hn_id": 50385870,
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
@@ -635,27 +594,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50339494",
-      "hn_id": 50339494,
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "hn_url": "https://news.ycombinator.com/item?id=50339494",
-      "category": "AI",
-      "posted_at": "2026-11-02T16:40:29Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
-      "score": 352,
-      "comment_count": 271,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai use"
-      ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50358422",
       "hn_id": 50358422,
       "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
@@ -689,27 +627,6 @@
       "comment_gain_24h_observed": null,
       "keywords": [
         "use ai"
-      ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50338474",
-      "hn_id": 50338474,
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "hn_url": "https://news.ycombinator.com/item?id=50338474",
-      "category": "AI",
-      "posted_at": "2026-11-02T15:48:45Z",
-      "fetched_at": "2026-11-06T19:28:22Z",
-      "score": 178,
-      "comment_count": 332,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agents"
       ],
       "selection_hints": [
         "AI"
@@ -799,25 +716,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50337454",
-      "hn_id": 50337454,
-      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
-      "hn_url": "https://news.ycombinator.com/item?id=50337454",
-      "category": "AI",
-      "posted_at": "2026-11-02T14:40:05Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
-      "score": 188,
-      "comment_count": 257,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50388513",
       "hn_id": 50388513,
       "title": "I struggle to believe that AI R&D is ingenious",
@@ -833,6 +731,105 @@
       "keywords": [
         "believe ai"
       ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50348962",
+      "hn_id": 50348962,
+      "title": "Nvidia – open-source auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "hn_url": "https://news.ycombinator.com/item?id=50348962",
+      "category": "Security",
+      "posted_at": "2026-11-03T07:04:50Z",
+      "fetched_at": "2026-11-07T13:10:49Z",
+      "score": 290,
+      "comment_count": 139,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open source"
+      ],
+      "selection_hints": [
+        "open source"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50416363",
+      "hn_id": 50416363,
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "hn_url": "https://news.ycombinator.com/item?id=50416363",
+      "category": "AI",
+      "posted_at": "2026-11-08T19:37:42Z",
+      "fetched_at": "2026-11-09T06:44:36Z",
+      "score": 210,
+      "comment_count": 161,
+      "score_gain_24h_observed": 112,
+      "comment_gain_24h_observed": 76,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50418975",
+      "hn_id": 50418975,
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "hn_url": "https://news.ycombinator.com/item?id=50418975",
+      "category": "AI",
+      "posted_at": "2026-11-08T23:44:36Z",
+      "fetched_at": "2026-11-09T06:44:36Z",
+      "score": 156,
+      "comment_count": 211,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai bubble"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50368626",
+      "hn_id": 50368626,
+      "title": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "hn_url": "https://news.ycombinator.com/item?id=50368626",
+      "category": "AI",
+      "posted_at": "2026-11-04T17:17:46Z",
+      "fetched_at": "2026-11-09T06:43:52Z",
+      "score": 240,
+      "comment_count": 122,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "inference"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50382179",
+      "hn_id": 50382179,
+      "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+      "hn_url": "https://news.ycombinator.com/item?id=50382179",
+      "category": "AI",
+      "posted_at": "2026-11-05T18:00:01Z",
+      "fetched_at": "2026-11-07T13:10:49Z",
+      "score": 163,
+      "comment_count": 191,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
       "selection_hints": [
         "AI"
       ],
