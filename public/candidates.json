@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-10T11:38:45Z",
-  "source_data_as_of": "2026-11-10T07:25:59Z",
+  "generated_at": "2026-11-10T19:57:10Z",
+  "source_data_as_of": "2026-11-10T19:48:30Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-03T11:38:45Z",
-  "eligible_count_before_dedup": 479,
+  "window_start": "2026-11-03T19:57:10Z",
+  "eligible_count_before_dedup": 459,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "37991fb9d7b089aec23e4c19a56327d0ca97930b"
+    "commit": "1e6459d13d1a790ae90f97957cd3128d3521f946"
   },
   "articles": [
     {
@@ -39,24 +39,48 @@
       "snippet": ""
     },
     {
-      "id": "HN-50353192",
-      "hn_id": 50353192,
-      "title": "Google will turn off search for schools that reject AI",
-      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50353192",
+      "id": "HN-50439141",
+      "hn_id": 50439141,
+      "title": "Show HN: Cosh – An open-source AI agent orchestrator",
+      "url": "https://github.com/DiegoZaluski/co-sh",
+      "hn_url": "https://news.ycombinator.com/item?id=50439141",
       "category": "AI",
-      "posted_at": "2026-11-03T15:25:47Z",
-      "fetched_at": "2026-11-08T22:11:29Z",
-      "score": 673,
-      "comment_count": 472,
+      "posted_at": "2026-11-10T12:05:13Z",
+      "fetched_at": "2026-11-10T19:48:30Z",
+      "score": 6,
+      "comment_count": 4,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open source",
+        "ai agent"
+      ],
+      "selection_hints": [
+        "AI",
+        "agent",
+        "open source"
+      ],
+      "snippet": "Cosh is an open-source AI agent built in Rust that brings together multiple agents like Codex and Goose in a unified environment for orchestration and collaboration."
+    },
+    {
+      "id": "HN-50437106",
+      "hn_id": 50437106,
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "hn_url": "https://news.ycombinator.com/item?id=50437106",
+      "category": "AI",
+      "posted_at": "2026-11-10T07:19:38Z",
+      "fetched_at": "2026-11-10T19:48:30Z",
+      "score": 149,
+      "comment_count": 55,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI",
-        "search"
+        "security"
       ],
-      "snippet": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio..."
+      "snippet": ""
     },
     {
       "id": "HN-50380704",
@@ -66,7 +90,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50380704",
       "category": "Other",
       "posted_at": "2026-11-05T15:54:41Z",
-      "fetched_at": "2026-11-10T07:25:15Z",
+      "fetched_at": "2026-11-10T19:47:43Z",
       "score": 95,
       "comment_count": 34,
       "score_gain_24h_observed": null,
@@ -81,26 +105,26 @@
       "snippet": ""
     },
     {
-      "id": "HN-50352898",
-      "hn_id": 50352898,
-      "title": "Octomind – open-source AI harness that saves your tokens, static rust",
-      "url": "https://github.com/Muvon/octomind",
-      "hn_url": "https://news.ycombinator.com/item?id=50352898",
-      "category": "AI",
-      "posted_at": "2026-11-03T15:02:58Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
-      "score": 56,
-      "comment_count": 39,
+      "id": "HN-50443812",
+      "hn_id": 50443812,
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "hn_url": "https://news.ycombinator.com/item?id=50443812",
+      "category": "Web",
+      "posted_at": "2026-11-10T18:01:15Z",
+      "fetched_at": "2026-11-10T19:48:30Z",
+      "score": 73,
+      "comment_count": 28,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
-        "open source"
+        "coding agent"
       ],
       "selection_hints": [
-        "AI",
-        "open source"
+        "agent",
+        "coding"
       ],
-      "snippet": ""
+      "snippet": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0]) Models know about some of these by name, but consistently won't default to using the platform-native solution and instead prefer the incumbent +JS based pattern. We starte"
     },
     {
       "id": "HN-50424199",
@@ -110,8 +134,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50424199",
       "category": "AI",
       "posted_at": "2026-11-09T11:36:55Z",
-      "fetched_at": "2026-11-10T07:25:59Z",
-      "score": 78,
+      "fetched_at": "2026-11-10T19:47:43Z",
+      "score": 79,
       "comment_count": 12,
       "score_gain_24h_observed": 6,
       "comment_gain_24h_observed": 0,
@@ -215,8 +239,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50428377",
       "category": "AI",
       "posted_at": "2026-11-09T17:09:56Z",
-      "fetched_at": "2026-11-10T07:25:59Z",
-      "score": 13,
+      "fetched_at": "2026-11-10T19:47:43Z",
+      "score": 14,
       "comment_count": 2,
       "score_gain_24h_observed": 0,
       "comment_gain_24h_observed": 1,
@@ -259,11 +283,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50432661",
       "category": "AI",
       "posted_at": "2026-11-09T21:42:46Z",
-      "fetched_at": "2026-11-10T07:25:59Z",
+      "fetched_at": "2026-11-10T19:48:30Z",
       "score": 11,
-      "comment_count": 2,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "comment_count": 3,
+      "score_gain_24h_observed": 0,
+      "comment_gain_24h_observed": 1,
       "keywords": [],
       "selection_hints": [
         "AI",
@@ -279,7 +303,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50423786",
       "category": "AI",
       "posted_at": "2026-11-09T10:41:40Z",
-      "fetched_at": "2026-11-10T07:25:59Z",
+      "fetched_at": "2026-11-10T19:47:43Z",
       "score": 13,
       "comment_count": 0,
       "score_gain_24h_observed": 0,
@@ -460,25 +484,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50354960",
-      "hn_id": 50354960,
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "hn_url": "https://news.ycombinator.com/item?id=50354960",
-      "category": "AI",
-      "posted_at": "2026-11-03T17:22:37Z",
-      "fetched_at": "2026-11-08T22:11:29Z",
-      "score": 1525,
-      "comment_count": 496,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50418975",
       "hn_id": 50418975,
       "title": "I'm not convinced the AI bubble exists",
@@ -486,9 +491,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50418975",
       "category": "AI",
       "posted_at": "2026-11-08T23:44:36Z",
-      "fetched_at": "2026-11-10T07:25:15Z",
-      "score": 550,
-      "comment_count": 943,
+      "fetched_at": "2026-11-10T19:47:43Z",
+      "score": 560,
+      "comment_count": 957,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -528,35 +533,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50383740",
       "category": "Other",
       "posted_at": "2026-11-05T20:03:34Z",
-      "fetched_at": "2026-11-10T07:25:15Z",
+      "fetched_at": "2026-11-10T19:47:43Z",
       "score": 756,
-      "comment_count": 412,
+      "comment_count": 413,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "search"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50354358",
-      "hn_id": 50354358,
-      "title": "Stringman, an $800 open-source room scale gripper robot",
-      "url": "https://neufangled.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50354358",
-      "category": "Security",
-      "posted_at": "2026-11-03T16:47:29Z",
-      "fetched_at": "2026-11-08T22:11:29Z",
-      "score": 843,
-      "comment_count": 247,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open source"
-      ],
-      "selection_hints": [
-        "open source"
       ],
       "snippet": ""
     },
@@ -568,9 +552,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50418176",
       "category": "Security",
       "posted_at": "2026-11-08T22:35:35Z",
-      "fetched_at": "2026-11-10T07:25:15Z",
-      "score": 737,
-      "comment_count": 226,
+      "fetched_at": "2026-11-10T19:47:43Z",
+      "score": 754,
+      "comment_count": 228,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -608,9 +592,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50406563",
       "category": "AI",
       "posted_at": "2026-11-07T18:02:17Z",
-      "fetched_at": "2026-11-10T07:25:15Z",
-      "score": 509,
-      "comment_count": 309,
+      "fetched_at": "2026-11-10T19:47:43Z",
+      "score": 510,
+      "comment_count": 310,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -627,8 +611,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50385870",
       "category": "AI",
       "posted_at": "2026-11-05T23:09:57Z",
-      "fetched_at": "2026-11-10T07:25:15Z",
-      "score": 521,
+      "fetched_at": "2026-11-10T19:47:43Z",
+      "score": 523,
       "comment_count": 233,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -646,9 +630,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50397994",
       "category": "AI",
       "posted_at": "2026-11-06T20:27:23Z",
-      "fetched_at": "2026-11-10T07:25:15Z",
-      "score": 375,
-      "comment_count": 359,
+      "fetched_at": "2026-11-10T19:47:43Z",
+      "score": 377,
+      "comment_count": 360,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -715,27 +699,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50355767",
-      "hn_id": 50355767,
-      "title": "How I use AI (Oct 2026)",
-      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-      "hn_url": "https://news.ycombinator.com/item?id=50355767",
-      "category": "AI",
-      "posted_at": "2026-11-03T18:11:11Z",
-      "fetched_at": "2026-11-08T22:11:29Z",
-      "score": 260,
-      "comment_count": 322,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "use ai"
-      ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50416363",
       "hn_id": 50416363,
       "title": "How I'm fighting the AI brain fry",
@@ -743,9 +706,28 @@
       "hn_url": "https://news.ycombinator.com/item?id=50416363",
       "category": "AI",
       "posted_at": "2026-11-08T19:37:42Z",
-      "fetched_at": "2026-11-10T07:25:15Z",
-      "score": 305,
-      "comment_count": 212,
+      "fetched_at": "2026-11-10T19:47:43Z",
+      "score": 308,
+      "comment_count": 213,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50438318",
+      "hn_id": 50438318,
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "hn_url": "https://news.ycombinator.com/item?id=50438318",
+      "category": "AI",
+      "posted_at": "2026-11-10T10:25:58Z",
+      "fetched_at": "2026-11-10T19:48:30Z",
+      "score": 221,
+      "comment_count": 275,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -762,9 +744,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50416053",
       "category": "Security",
       "posted_at": "2026-11-08T19:08:51Z",
-      "fetched_at": "2026-11-10T07:25:15Z",
-      "score": 340,
-      "comment_count": 143,
+      "fetched_at": "2026-11-10T19:47:43Z",
+      "score": 344,
+      "comment_count": 146,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -783,7 +765,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50379249",
       "category": "Other",
       "posted_at": "2026-11-05T14:08:35Z",
-      "fetched_at": "2026-11-10T07:25:15Z",
+      "fetched_at": "2026-11-10T19:47:43Z",
       "score": 347,
       "comment_count": 135,
       "score_gain_24h_observed": null,
@@ -830,6 +812,27 @@
       "comment_gain_24h_observed": null,
       "keywords": [
         "generative ai"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50388513",
+      "hn_id": 50388513,
+      "title": "I struggle to believe that AI R&D is ingenious",
+      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+      "hn_url": "https://news.ycombinator.com/item?id=50388513",
+      "category": "AI",
+      "posted_at": "2026-11-06T05:19:04Z",
+      "fetched_at": "2026-11-10T19:47:43Z",
+      "score": 221,
+      "comment_count": 225,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "believe ai"
       ],
       "selection_hints": [
         "AI"
