@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-10T02:52:17Z",
-  "source_data_as_of": "2026-11-09T22:26:53Z",
+  "generated_at": "2026-11-10T11:38:45Z",
+  "source_data_as_of": "2026-11-10T07:25:59Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-03T02:52:17Z",
-  "eligible_count_before_dedup": 461,
+  "window_start": "2026-11-03T11:38:45Z",
+  "eligible_count_before_dedup": 479,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "b5ef1dc72ac71b56ae5ffffdcccfc8290b54f6f5"
+    "commit": "37991fb9d7b089aec23e4c19a56327d0ca97930b"
   },
   "articles": [
     {
@@ -66,7 +66,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50380704",
       "category": "Other",
       "posted_at": "2026-11-05T15:54:41Z",
-      "fetched_at": "2026-11-09T22:26:03Z",
+      "fetched_at": "2026-11-10T07:25:15Z",
       "score": 95,
       "comment_count": 34,
       "score_gain_24h_observed": null,
@@ -110,37 +110,15 @@
       "hn_url": "https://news.ycombinator.com/item?id=50424199",
       "category": "AI",
       "posted_at": "2026-11-09T11:36:55Z",
-      "fetched_at": "2026-11-09T22:26:53Z",
-      "score": 72,
+      "fetched_at": "2026-11-10T07:25:59Z",
+      "score": 78,
       "comment_count": 12,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "score_gain_24h_observed": 6,
+      "comment_gain_24h_observed": 0,
       "keywords": [],
       "selection_hints": [
         "LLM",
         "inference"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50347524",
-      "hn_id": 50347524,
-      "title": "Show HN: Rustable is an open source database client built in Rust",
-      "url": "https://rustable.app",
-      "hn_url": "https://news.ycombinator.com/item?id=50347524",
-      "category": "Security",
-      "posted_at": "2026-11-03T03:06:53Z",
-      "fetched_at": "2026-11-04T19:49:27Z",
-      "score": 27,
-      "comment_count": 20,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open source"
-      ],
-      "selection_hints": [
-        "database",
-        "open source"
       ],
       "snippet": ""
     },
@@ -230,6 +208,28 @@
       "snippet": ""
     },
     {
+      "id": "HN-50428377",
+      "hn_id": 50428377,
+      "title": "Parents, teachers call Google's Search threat over AI blocks 'extortion'",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=50428377",
+      "category": "AI",
+      "posted_at": "2026-11-09T17:09:56Z",
+      "fetched_at": "2026-11-10T07:25:59Z",
+      "score": 13,
+      "comment_count": 2,
+      "score_gain_24h_observed": 0,
+      "comment_gain_24h_observed": 1,
+      "keywords": [
+        "google search"
+      ],
+      "selection_hints": [
+        "AI",
+        "search"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50371340",
       "hn_id": 50371340,
       "title": "We Tested Coding Agent Harnesses. Thinking Harder Beat All of Them",
@@ -252,24 +252,22 @@
       "snippet": ""
     },
     {
-      "id": "HN-50428377",
-      "hn_id": 50428377,
-      "title": "Parents, teachers call Google's Search threat over AI blocks 'extortion'",
-      "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
-      "hn_url": "https://news.ycombinator.com/item?id=50428377",
+      "id": "HN-50432661",
+      "hn_id": 50432661,
+      "title": "USB: A trust layer for AI skills and MCP servers",
+      "url": "https://github.com/PeepSick/usbplus",
+      "hn_url": "https://news.ycombinator.com/item?id=50432661",
       "category": "AI",
-      "posted_at": "2026-11-09T17:09:56Z",
-      "fetched_at": "2026-11-09T22:26:53Z",
-      "score": 13,
-      "comment_count": 1,
+      "posted_at": "2026-11-09T21:42:46Z",
+      "fetched_at": "2026-11-10T07:25:59Z",
+      "score": 11,
+      "comment_count": 2,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
-      "keywords": [
-        "google search"
-      ],
+      "keywords": [],
       "selection_hints": [
         "AI",
-        "search"
+        "MCP"
       ],
       "snippet": ""
     },
@@ -281,11 +279,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50423786",
       "category": "AI",
       "posted_at": "2026-11-09T10:41:40Z",
-      "fetched_at": "2026-11-09T22:26:53Z",
+      "fetched_at": "2026-11-10T07:25:59Z",
       "score": 13,
       "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "score_gain_24h_observed": 0,
+      "comment_gain_24h_observed": 0,
       "keywords": [],
       "selection_hints": [
         "AI",
@@ -488,11 +486,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50418975",
       "category": "AI",
       "posted_at": "2026-11-08T23:44:36Z",
-      "fetched_at": "2026-11-09T22:26:53Z",
-      "score": 536,
-      "comment_count": 922,
-      "score_gain_24h_observed": 380,
-      "comment_gain_24h_observed": 711,
+      "fetched_at": "2026-11-10T07:25:15Z",
+      "score": 550,
+      "comment_count": 943,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "ai bubble"
       ],
@@ -530,8 +528,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50383740",
       "category": "Other",
       "posted_at": "2026-11-05T20:03:34Z",
-      "fetched_at": "2026-11-09T22:26:03Z",
-      "score": 755,
+      "fetched_at": "2026-11-10T07:25:15Z",
+      "score": 756,
       "comment_count": 412,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -570,11 +568,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50418176",
       "category": "Security",
       "posted_at": "2026-11-08T22:35:35Z",
-      "fetched_at": "2026-11-09T22:26:53Z",
-      "score": 726,
-      "comment_count": 220,
-      "score_gain_24h_observed": 354,
-      "comment_gain_24h_observed": 121,
+      "fetched_at": "2026-11-10T07:25:15Z",
+      "score": 737,
+      "comment_count": 226,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "open source"
       ],
@@ -610,8 +608,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50406563",
       "category": "AI",
       "posted_at": "2026-11-07T18:02:17Z",
-      "fetched_at": "2026-11-09T22:26:03Z",
-      "score": 507,
+      "fetched_at": "2026-11-10T07:25:15Z",
+      "score": 509,
       "comment_count": 309,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -629,7 +627,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50385870",
       "category": "AI",
       "posted_at": "2026-11-05T23:09:57Z",
-      "fetched_at": "2026-11-09T22:26:03Z",
+      "fetched_at": "2026-11-10T07:25:15Z",
       "score": 521,
       "comment_count": 233,
       "score_gain_24h_observed": null,
@@ -648,9 +646,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50397994",
       "category": "AI",
       "posted_at": "2026-11-06T20:27:23Z",
-      "fetched_at": "2026-11-09T22:26:03Z",
+      "fetched_at": "2026-11-10T07:25:15Z",
       "score": 375,
-      "comment_count": 358,
+      "comment_count": 359,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -745,33 +743,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50416363",
       "category": "AI",
       "posted_at": "2026-11-08T19:37:42Z",
-      "fetched_at": "2026-11-09T22:26:03Z",
-      "score": 299,
-      "comment_count": 207,
+      "fetched_at": "2026-11-10T07:25:15Z",
+      "score": 305,
+      "comment_count": 212,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50379249",
-      "hn_id": 50379249,
-      "title": "MCP Explained",
-      "url": "https://mcp-explained.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50379249",
-      "category": "Other",
-      "posted_at": "2026-11-05T14:08:35Z",
-      "fetched_at": "2026-11-09T22:26:03Z",
-      "score": 347,
-      "comment_count": 135,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "MCP"
       ],
       "snippet": ""
     },
@@ -783,9 +762,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50416053",
       "category": "Security",
       "posted_at": "2026-11-08T19:08:51Z",
-      "fetched_at": "2026-11-09T22:26:03Z",
-      "score": 338,
-      "comment_count": 141,
+      "fetched_at": "2026-11-10T07:25:15Z",
+      "score": 340,
+      "comment_count": 143,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -793,6 +772,25 @@
       ],
       "selection_hints": [
         "open source"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50379249",
+      "hn_id": 50379249,
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50379249",
+      "category": "Other",
+      "posted_at": "2026-11-05T14:08:35Z",
+      "fetched_at": "2026-11-10T07:25:15Z",
+      "score": 347,
+      "comment_count": 135,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "MCP"
       ],
       "snippet": ""
     },
