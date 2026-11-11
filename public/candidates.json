@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-11T00:50:12Z",
-  "source_data_as_of": "2026-11-10T19:48:30Z",
+  "generated_at": "2026-11-11T08:14:55Z",
+  "source_data_as_of": "2026-11-11T06:35:11Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-04T00:50:12Z",
-  "eligible_count_before_dedup": 441,
+  "window_start": "2026-11-04T08:14:55Z",
+  "eligible_count_before_dedup": 464,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "1e6459d13d1a790ae90f97957cd3128d3521f946"
+    "commit": "103bd8287113aeed8f262b812e5c2d02519c55f8"
   },
   "articles": [
     {
@@ -46,11 +46,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50439141",
       "category": "AI",
       "posted_at": "2026-11-10T12:05:13Z",
-      "fetched_at": "2026-11-10T19:48:30Z",
-      "score": 6,
+      "fetched_at": "2026-11-11T06:35:11Z",
+      "score": 8,
       "comment_count": 4,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "score_gain_24h_observed": 2,
+      "comment_gain_24h_observed": 0,
       "keywords": [
         "open source",
         "ai agent"
@@ -63,6 +63,49 @@
       "snippet": "Cosh is an open-source AI agent built in Rust that brings together multiple agents like Codex and Goose in a unified environment for orchestration and collaboration."
     },
     {
+      "id": "HN-50447378",
+      "hn_id": 50447378,
+      "title": "LLM inference, visually explained: why a 13B model reads 26 GB per token",
+      "url": "https://www.youtube.com/watch?v=R3meYJU7wEg",
+      "hn_url": "https://news.ycombinator.com/item?id=50447378",
+      "category": "AI",
+      "posted_at": "2026-11-10T22:47:35Z",
+      "fetched_at": "2026-11-11T06:35:11Z",
+      "score": 4,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "LLM",
+        "inference",
+        "token"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50443812",
+      "hn_id": 50443812,
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "hn_url": "https://news.ycombinator.com/item?id=50443812",
+      "category": "Web",
+      "posted_at": "2026-11-10T18:01:15Z",
+      "fetched_at": "2026-11-11T06:35:11Z",
+      "score": 330,
+      "comment_count": 101,
+      "score_gain_24h_observed": 257,
+      "comment_gain_24h_observed": 73,
+      "keywords": [
+        "coding agent"
+      ],
+      "selection_hints": [
+        "agent",
+        "coding"
+      ],
+      "snippet": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0]) Models know about some of these by name, but consistently won't default to using the platform-native solution and instead prefer the incumbent +JS based pattern. We starte"
+    },
+    {
       "id": "HN-50437106",
       "hn_id": 50437106,
       "title": "Fireworks AI security breach impacts Notion and their customers",
@@ -70,11 +113,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50437106",
       "category": "AI",
       "posted_at": "2026-11-10T07:19:38Z",
-      "fetched_at": "2026-11-10T19:48:30Z",
-      "score": 149,
-      "comment_count": 55,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "fetched_at": "2026-11-11T06:35:11Z",
+      "score": 161,
+      "comment_count": 63,
+      "score_gain_24h_observed": 12,
+      "comment_gain_24h_observed": 8,
       "keywords": [],
       "selection_hints": [
         "AI",
@@ -90,8 +133,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50380704",
       "category": "Other",
       "posted_at": "2026-11-05T15:54:41Z",
-      "fetched_at": "2026-11-10T19:47:43Z",
-      "score": 95,
+      "fetched_at": "2026-11-11T06:34:14Z",
+      "score": 96,
       "comment_count": 34,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -105,28 +148,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50443812",
-      "hn_id": 50443812,
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance",
-      "hn_url": "https://news.ycombinator.com/item?id=50443812",
-      "category": "Web",
-      "posted_at": "2026-11-10T18:01:15Z",
-      "fetched_at": "2026-11-10T19:48:30Z",
-      "score": 73,
-      "comment_count": 28,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "coding agent"
-      ],
-      "selection_hints": [
-        "agent",
-        "coding"
-      ],
-      "snippet": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0]) Models know about some of these by name, but consistently won't default to using the platform-native solution and instead prefer the incumbent +JS based pattern. We starte"
-    },
-    {
       "id": "HN-50424199",
       "hn_id": 50424199,
       "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
@@ -134,7 +155,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50424199",
       "category": "AI",
       "posted_at": "2026-11-09T11:36:55Z",
-      "fetched_at": "2026-11-10T19:47:43Z",
+      "fetched_at": "2026-11-11T06:34:14Z",
       "score": 79,
       "comment_count": 12,
       "score_gain_24h_observed": null,
@@ -167,26 +188,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50361562",
-      "hn_id": 50361562,
-      "title": "Google will cut off search access for students at schools that reject AI",
-      "url": "https://apnews.com/article/ai-schools-classroom-students-google-7ba4219e505db1c11d672f6eefe7155a",
-      "hn_url": "https://news.ycombinator.com/item?id=50361562",
-      "category": "AI",
-      "posted_at": "2026-11-04T04:40:06Z",
-      "fetched_at": "2026-11-05T20:00:40Z",
-      "score": 15,
-      "comment_count": 3,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "search"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50428377",
       "hn_id": 50428377,
       "title": "Parents, teachers call Google's Search threat over AI blocks 'extortion'",
@@ -194,8 +195,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50428377",
       "category": "AI",
       "posted_at": "2026-11-09T17:09:56Z",
-      "fetched_at": "2026-11-10T19:47:43Z",
-      "score": 14,
+      "fetched_at": "2026-11-11T06:34:14Z",
+      "score": 15,
       "comment_count": 2,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -261,11 +262,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50432661",
       "category": "AI",
       "posted_at": "2026-11-09T21:42:46Z",
-      "fetched_at": "2026-11-10T19:48:30Z",
+      "fetched_at": "2026-11-11T06:34:14Z",
       "score": 11,
       "comment_count": 3,
-      "score_gain_24h_observed": 0,
-      "comment_gain_24h_observed": 1,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI",
@@ -281,7 +282,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50423786",
       "category": "AI",
       "posted_at": "2026-11-09T10:41:40Z",
-      "fetched_at": "2026-11-10T19:47:43Z",
+      "fetched_at": "2026-11-11T06:34:14Z",
       "score": 13,
       "comment_count": 0,
       "score_gain_24h_observed": null,
@@ -312,26 +313,6 @@
       "selection_hints": [
         "AI",
         "search"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50361359",
-      "hn_id": 50361359,
-      "title": "GIMP 3.2.8 with Many Refinements, Numerous Security Fixes Due to AI Reports",
-      "url": "https://www.phoronix.com/news/GIMP-3.2.8-Released",
-      "hn_url": "https://news.ycombinator.com/item?id=50361359",
-      "category": "AI",
-      "posted_at": "2026-11-04T03:59:51Z",
-      "fetched_at": "2026-11-05T20:00:40Z",
-      "score": 5,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "security"
       ],
       "snippet": ""
     },
@@ -446,9 +427,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50418975",
       "category": "AI",
       "posted_at": "2026-11-08T23:44:36Z",
-      "fetched_at": "2026-11-10T19:47:43Z",
-      "score": 560,
-      "comment_count": 957,
+      "fetched_at": "2026-11-11T06:34:14Z",
+      "score": 566,
+      "comment_count": 962,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -488,7 +469,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50383740",
       "category": "Other",
       "posted_at": "2026-11-05T20:03:34Z",
-      "fetched_at": "2026-11-10T19:47:43Z",
+      "fetched_at": "2026-11-11T06:34:14Z",
       "score": 756,
       "comment_count": 413,
       "score_gain_24h_observed": null,
@@ -507,9 +488,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50418176",
       "category": "Security",
       "posted_at": "2026-11-08T22:35:35Z",
-      "fetched_at": "2026-11-10T19:47:43Z",
-      "score": 754,
-      "comment_count": 228,
+      "fetched_at": "2026-11-11T06:34:14Z",
+      "score": 762,
+      "comment_count": 233,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -517,6 +498,25 @@
       ],
       "selection_hints": [
         "open source"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50438318",
+      "hn_id": 50438318,
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "hn_url": "https://news.ycombinator.com/item?id=50438318",
+      "category": "AI",
+      "posted_at": "2026-11-10T10:25:58Z",
+      "fetched_at": "2026-11-11T06:35:11Z",
+      "score": 472,
+      "comment_count": 459,
+      "score_gain_24h_observed": 251,
+      "comment_gain_24h_observed": 184,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
       ],
       "snippet": ""
     },
@@ -547,7 +547,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50406563",
       "category": "AI",
       "posted_at": "2026-11-07T18:02:17Z",
-      "fetched_at": "2026-11-10T19:47:43Z",
+      "fetched_at": "2026-11-11T06:34:14Z",
       "score": 510,
       "comment_count": 310,
       "score_gain_24h_observed": null,
@@ -566,7 +566,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50385870",
       "category": "AI",
       "posted_at": "2026-11-05T23:09:57Z",
-      "fetched_at": "2026-11-10T19:47:43Z",
+      "fetched_at": "2026-11-11T06:34:14Z",
       "score": 523,
       "comment_count": 233,
       "score_gain_24h_observed": null,
@@ -585,8 +585,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50397994",
       "category": "AI",
       "posted_at": "2026-11-06T20:27:23Z",
-      "fetched_at": "2026-11-10T19:47:43Z",
-      "score": 377,
+      "fetched_at": "2026-11-11T06:34:14Z",
+      "score": 378,
       "comment_count": 360,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -642,28 +642,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50416363",
       "category": "AI",
       "posted_at": "2026-11-08T19:37:42Z",
-      "fetched_at": "2026-11-10T19:47:43Z",
-      "score": 308,
-      "comment_count": 213,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50438318",
-      "hn_id": 50438318,
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "hn_url": "https://news.ycombinator.com/item?id=50438318",
-      "category": "AI",
-      "posted_at": "2026-11-10T10:25:58Z",
-      "fetched_at": "2026-11-10T19:48:30Z",
-      "score": 221,
-      "comment_count": 275,
+      "fetched_at": "2026-11-11T06:34:14Z",
+      "score": 311,
+      "comment_count": 215,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -680,8 +661,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50416053",
       "category": "Security",
       "posted_at": "2026-11-08T19:08:51Z",
-      "fetched_at": "2026-11-10T19:47:43Z",
-      "score": 344,
+      "fetched_at": "2026-11-11T06:34:14Z",
+      "score": 345,
       "comment_count": 146,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -701,7 +682,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50379249",
       "category": "Other",
       "posted_at": "2026-11-05T14:08:35Z",
-      "fetched_at": "2026-11-10T19:47:43Z",
+      "fetched_at": "2026-11-11T06:34:14Z",
       "score": 347,
       "comment_count": 135,
       "score_gain_24h_observed": null,
@@ -741,7 +722,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50388513",
       "category": "AI",
       "posted_at": "2026-11-06T05:19:04Z",
-      "fetched_at": "2026-11-10T19:47:43Z",
+      "fetched_at": "2026-11-11T06:34:14Z",
       "score": 221,
       "comment_count": 225,
       "score_gain_24h_observed": null,
@@ -762,11 +743,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50435660",
       "category": "AI",
       "posted_at": "2026-11-10T03:20:06Z",
-      "fetched_at": "2026-11-10T19:48:30Z",
-      "score": 190,
-      "comment_count": 179,
-      "score_gain_24h_observed": 79,
-      "comment_gain_24h_observed": 123,
+      "fetched_at": "2026-11-11T06:34:14Z",
+      "score": 193,
+      "comment_count": 189,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI"
@@ -831,6 +812,25 @@
         "AI"
       ],
       "snippet": ""
+    },
+    {
+      "id": "HN-50433079",
+      "hn_id": 50433079,
+      "title": "A year after the 100% AI mandate nobody understands our code",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+      "hn_url": "https://news.ycombinator.com/item?id=50433079",
+      "category": "AI",
+      "posted_at": "2026-11-09T22:19:12Z",
+      "fetched_at": "2026-11-11T06:34:14Z",
+      "score": 153,
+      "comment_count": 193,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_..."
     }
   ],
   "candidate_count": 40
