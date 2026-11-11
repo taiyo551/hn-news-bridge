@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-11T16:30:34Z",
-  "source_data_as_of": "2026-11-11T06:35:11Z",
+  "generated_at": "2026-11-11T22:56:58Z",
+  "source_data_as_of": "2026-11-11T19:40:27Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-04T16:30:34Z",
-  "eligible_count_before_dedup": 433,
+  "window_start": "2026-11-04T22:56:58Z",
+  "eligible_count_before_dedup": 464,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "103bd8287113aeed8f262b812e5c2d02519c55f8"
+    "commit": "4393fdae1f2de827908fda490cae748a66391c49"
   },
   "articles": [
     {
@@ -46,11 +46,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50439141",
       "category": "AI",
       "posted_at": "2026-11-10T12:05:13Z",
-      "fetched_at": "2026-11-11T06:35:11Z",
-      "score": 8,
+      "fetched_at": "2026-11-11T19:39:38Z",
+      "score": 10,
       "comment_count": 4,
-      "score_gain_24h_observed": 2,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "open source",
         "ai agent"
@@ -70,11 +70,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50447378",
       "category": "AI",
       "posted_at": "2026-11-10T22:47:35Z",
-      "fetched_at": "2026-11-11T06:35:11Z",
+      "fetched_at": "2026-11-11T19:40:27Z",
       "score": 4,
       "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "score_gain_24h_observed": 0,
+      "comment_gain_24h_observed": 0,
       "keywords": [],
       "selection_hints": [
         "LLM",
@@ -91,11 +91,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50443812",
       "category": "Web",
       "posted_at": "2026-11-10T18:01:15Z",
-      "fetched_at": "2026-11-11T06:35:11Z",
-      "score": 330,
-      "comment_count": 101,
-      "score_gain_24h_observed": 257,
-      "comment_gain_24h_observed": 73,
+      "fetched_at": "2026-11-11T19:39:38Z",
+      "score": 421,
+      "comment_count": 139,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "coding agent"
       ],
@@ -113,11 +113,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50437106",
       "category": "AI",
       "posted_at": "2026-11-10T07:19:38Z",
-      "fetched_at": "2026-11-11T06:35:11Z",
-      "score": 161,
-      "comment_count": 63,
-      "score_gain_24h_observed": 12,
-      "comment_gain_24h_observed": 8,
+      "fetched_at": "2026-11-11T19:39:38Z",
+      "score": 164,
+      "comment_count": 64,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI",
@@ -148,6 +148,26 @@
       "snippet": ""
     },
     {
+      "id": "HN-50455633",
+      "hn_id": 50455633,
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "hn_url": "https://news.ycombinator.com/item?id=50455633",
+      "category": "Other",
+      "posted_at": "2026-11-11T16:57:45Z",
+      "fetched_at": "2026-11-11T19:40:27Z",
+      "score": 79,
+      "comment_count": 16,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "RAG",
+        "retrieval"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50424199",
       "hn_id": 50424199,
       "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
@@ -155,7 +175,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50424199",
       "category": "AI",
       "posted_at": "2026-11-09T11:36:55Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
+      "fetched_at": "2026-11-11T19:39:38Z",
       "score": 79,
       "comment_count": 12,
       "score_gain_24h_observed": null,
@@ -166,6 +186,28 @@
         "inference"
       ],
       "snippet": ""
+    },
+    {
+      "id": "HN-50454951",
+      "hn_id": 50454951,
+      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+      "url": "https://github.com/klad-app/klad",
+      "hn_url": "https://news.ycombinator.com/item?id=50454951",
+      "category": "Security",
+      "posted_at": "2026-11-11T16:00:50Z",
+      "fetched_at": "2026-11-11T19:40:27Z",
+      "score": 54,
+      "comment_count": 26,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "coding agent"
+      ],
+      "selection_hints": [
+        "agent",
+        "coding"
+      ],
+      "snippet": "I've been developing applications for a long time and have turned to game development as well lately. One of the things that frustrated me the most was that using AI agents for game development is very annoying in the art department. Your only options right now are to either use an image genAI model and roll the dice every time you want to make an edit, or have your agent draw with something like vectors. I was looking for an application that would allow me to ask an agent to make a first draft "
     },
     {
       "id": "HN-50401213",
@@ -210,28 +252,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50371340",
-      "hn_id": 50371340,
-      "title": "We Tested Coding Agent Harnesses. Thinking Harder Beat All of Them",
-      "url": "https://surgehq.ai/blog/benchmarking-coding-agent-harnesses",
-      "hn_url": "https://news.ycombinator.com/item?id=50371340",
-      "category": "Other",
-      "posted_at": "2026-11-04T20:52:13Z",
-      "fetched_at": "2026-11-06T19:28:22Z",
-      "score": 7,
-      "comment_count": 8,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "coding agent"
-      ],
-      "selection_hints": [
-        "agent",
-        "coding"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50432661",
       "hn_id": 50432661,
       "title": "USB: A trust layer for AI skills and MCP servers",
@@ -239,7 +259,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50432661",
       "category": "AI",
       "posted_at": "2026-11-09T21:42:46Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
+      "fetched_at": "2026-11-11T19:39:38Z",
       "score": 11,
       "comment_count": 3,
       "score_gain_24h_observed": null,
@@ -268,6 +288,48 @@
       "selection_hints": [
         "AI",
         "search"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50452395",
+      "hn_id": 50452395,
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "hn_url": "https://news.ycombinator.com/item?id=50452395",
+      "category": "Security",
+      "posted_at": "2026-11-11T11:59:38Z",
+      "fetched_at": "2026-11-11T19:40:27Z",
+      "score": 8,
+      "comment_count": 2,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI",
+        "security"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50456277",
+      "hn_id": 50456277,
+      "title": "Grok Build coding agent leaks oodles of confidential info",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "hn_url": "https://news.ycombinator.com/item?id=50456277",
+      "category": "Other",
+      "posted_at": "2026-11-11T17:53:23Z",
+      "fetched_at": "2026-11-11T19:40:27Z",
+      "score": 7,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "coding agent"
+      ],
+      "selection_hints": [
+        "agent",
+        "coding"
       ],
       "snippet": ""
     },
@@ -356,26 +418,6 @@
       "snippet": "I've built a small Windows utility called Win Stats that shows live system stats directly in the taskbar. I used to open Task Manager multiple times just to check RAM usage, CPU/GPU usage, temperatures and other system stats. I wanted something that could show all of this at a glance. It's Similar to the popular macOS app called Stats It supports CPU, RAM, GPU, disk speeds, network usage, CPU/GPU temperatures and customizable layouts. It's completely free and open source, with no paywalls or mon"
     },
     {
-      "id": "HN-50371607",
-      "hn_id": 50371607,
-      "title": "Advancing the Quality-Efficiency Frontier for Coding AI on Windows PCs",
-      "url": "https://devblogs.microsoft.com/foundry-on-windows/coding-ai-on-windows-pcs-quality-efficiency/",
-      "hn_url": "https://news.ycombinator.com/item?id=50371607",
-      "category": "AI",
-      "posted_at": "2026-11-04T21:13:22Z",
-      "fetched_at": "2026-11-06T19:28:22Z",
-      "score": 3,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "coding"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50418975",
       "hn_id": 50418975,
       "title": "I'm not convinced the AI bubble exists",
@@ -383,13 +425,34 @@
       "hn_url": "https://news.ycombinator.com/item?id=50418975",
       "category": "AI",
       "posted_at": "2026-11-08T23:44:36Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
-      "score": 566,
-      "comment_count": 962,
+      "fetched_at": "2026-11-11T19:39:38Z",
+      "score": 570,
+      "comment_count": 966,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
         "ai bubble"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50438318",
+      "hn_id": 50438318,
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "hn_url": "https://news.ycombinator.com/item?id=50438318",
+      "category": "AI",
+      "posted_at": "2026-11-10T10:25:58Z",
+      "fetched_at": "2026-11-11T19:39:38Z",
+      "score": 622,
+      "comment_count": 588,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai usage"
       ],
       "selection_hints": [
         "AI"
@@ -416,6 +479,27 @@
       "snippet": ""
     },
     {
+      "id": "HN-50452455",
+      "hn_id": 50452455,
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "hn_url": "https://news.ycombinator.com/item?id=50452455",
+      "category": "AI",
+      "posted_at": "2026-11-11T12:05:22Z",
+      "fetched_at": "2026-11-11T19:40:27Z",
+      "score": 835,
+      "comment_count": 308,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai agents"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50418176",
       "hn_id": 50418176,
       "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
@@ -423,8 +507,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50418176",
       "category": "Security",
       "posted_at": "2026-11-08T22:35:35Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
-      "score": 762,
+      "fetched_at": "2026-11-11T19:39:38Z",
+      "score": 768,
       "comment_count": 233,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -437,19 +521,22 @@
       "snippet": ""
     },
     {
-      "id": "HN-50438318",
-      "hn_id": 50438318,
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "hn_url": "https://news.ycombinator.com/item?id=50438318",
+      "id": "HN-50446520",
+      "hn_id": 50446520,
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "hn_url": "https://news.ycombinator.com/item?id=50446520",
       "category": "AI",
-      "posted_at": "2026-11-10T10:25:58Z",
-      "fetched_at": "2026-11-11T06:35:11Z",
-      "score": 472,
-      "comment_count": 459,
-      "score_gain_24h_observed": 251,
-      "comment_gain_24h_observed": 184,
-      "keywords": [],
+      "posted_at": "2026-11-10T21:25:03Z",
+      "fetched_at": "2026-11-11T19:40:27Z",
+      "score": 483,
+      "comment_count": 503,
+      "score_gain_24h_observed": 342,
+      "comment_gain_24h_observed": 399,
+      "keywords": [
+        "ai models",
+        "local ai"
+      ],
       "selection_hints": [
         "AI"
       ],
@@ -463,9 +550,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50406563",
       "category": "AI",
       "posted_at": "2026-11-07T18:02:17Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
-      "score": 510,
-      "comment_count": 310,
+      "fetched_at": "2026-11-11T19:39:38Z",
+      "score": 511,
+      "comment_count": 309,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -482,7 +569,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50385870",
       "category": "AI",
       "posted_at": "2026-11-05T23:09:57Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
+      "fetched_at": "2026-11-11T19:39:38Z",
       "score": 523,
       "comment_count": 233,
       "score_gain_24h_observed": null,
@@ -501,8 +588,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50397994",
       "category": "AI",
       "posted_at": "2026-11-06T20:27:23Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
-      "score": 378,
+      "fetched_at": "2026-11-11T19:39:38Z",
+      "score": 380,
       "comment_count": 360,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -539,8 +626,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50416363",
       "category": "AI",
       "posted_at": "2026-11-08T19:37:42Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
-      "score": 311,
+      "fetched_at": "2026-11-11T19:39:38Z",
+      "score": 313,
       "comment_count": 215,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -558,7 +645,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50416053",
       "category": "Security",
       "posted_at": "2026-11-08T19:08:51Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
+      "fetched_at": "2026-11-11T19:39:38Z",
       "score": 345,
       "comment_count": 146,
       "score_gain_24h_observed": null,
@@ -579,35 +666,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50379249",
       "category": "Other",
       "posted_at": "2026-11-05T14:08:35Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
-      "score": 347,
-      "comment_count": 135,
+      "fetched_at": "2026-11-11T19:39:38Z",
+      "score": 348,
+      "comment_count": 136,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "MCP"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50369925",
-      "hn_id": 50369925,
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "url": "https://www.ricursive.com/ripple",
-      "hn_url": "https://news.ycombinator.com/item?id=50369925",
-      "category": "AI",
-      "posted_at": "2026-11-04T18:53:29Z",
-      "fetched_at": "2026-11-09T22:26:03Z",
-      "score": 341,
-      "comment_count": 127,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open weight"
-      ],
-      "selection_hints": [
-        "coding"
       ],
       "snippet": ""
     },
@@ -619,7 +685,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50388513",
       "category": "AI",
       "posted_at": "2026-11-06T05:19:04Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
+      "fetched_at": "2026-11-11T19:39:38Z",
       "score": 221,
       "comment_count": 225,
       "score_gain_24h_observed": null,
@@ -640,9 +706,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50435660",
       "category": "AI",
       "posted_at": "2026-11-10T03:20:06Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
-      "score": 193,
-      "comment_count": 189,
+      "fetched_at": "2026-11-11T19:39:38Z",
+      "score": 194,
+      "comment_count": 193,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -652,25 +718,23 @@
       "snippet": ""
     },
     {
-      "id": "HN-50368626",
-      "hn_id": 50368626,
-      "title": "Progress on provable inference for large language models",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "hn_url": "https://news.ycombinator.com/item?id=50368626",
+      "id": "HN-50433079",
+      "hn_id": 50433079,
+      "title": "A year after the 100% AI mandate nobody understands our code",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+      "hn_url": "https://news.ycombinator.com/item?id=50433079",
       "category": "AI",
-      "posted_at": "2026-11-04T17:17:46Z",
-      "fetched_at": "2026-11-09T22:26:03Z",
-      "score": 240,
-      "comment_count": 122,
+      "posted_at": "2026-11-09T22:19:12Z",
+      "fetched_at": "2026-11-11T19:39:38Z",
+      "score": 158,
+      "comment_count": 199,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
-      "keywords": [
-        "language models"
-      ],
+      "keywords": [],
       "selection_hints": [
-        "inference"
+        "AI"
       ],
-      "snippet": ""
+      "snippet": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_..."
     },
     {
       "id": "HN-50412591",
@@ -711,25 +775,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50433079",
-      "hn_id": 50433079,
-      "title": "A year after the 100% AI mandate nobody understands our code",
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
-      "hn_url": "https://news.ycombinator.com/item?id=50433079",
-      "category": "AI",
-      "posted_at": "2026-11-09T22:19:12Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
-      "score": 153,
-      "comment_count": 193,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_..."
-    },
-    {
       "id": "HN-50411467",
       "hn_id": 50411467,
       "title": "Agent memory needs its OpenTelemetry moment",
@@ -737,7 +782,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50411467",
       "category": "Other",
       "posted_at": "2026-11-08T08:40:23Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
+      "fetched_at": "2026-11-11T19:39:38Z",
       "score": 191,
       "comment_count": 110,
       "score_gain_24h_observed": null,
@@ -756,9 +801,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50422628",
       "category": "AI",
       "posted_at": "2026-11-09T08:17:49Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
-      "score": 216,
-      "comment_count": 77,
+      "fetched_at": "2026-11-11T19:39:38Z",
+      "score": 217,
+      "comment_count": 78,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -775,7 +820,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50402212",
       "category": "Other",
       "posted_at": "2026-11-07T06:39:04Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
+      "fetched_at": "2026-11-11T19:39:38Z",
       "score": 189,
       "comment_count": 104,
       "score_gain_24h_observed": null,
@@ -783,48 +828,6 @@
       "keywords": [],
       "selection_hints": [
         "agent"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50381033",
-      "hn_id": 50381033,
-      "title": "My psychophysics as a bilateral cochlear implant user",
-      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-      "hn_url": "https://news.ycombinator.com/item?id=50381033",
-      "category": "Science",
-      "posted_at": "2026-11-05T16:21:12Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
-      "score": 189,
-      "comment_count": 95,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai slop"
-      ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50391145",
-      "hn_id": 50391145,
-      "title": "We've built an open-source feature flag server for 11 years",
-      "url": "https://github.com/Unleash/unleash",
-      "hn_url": "https://news.ycombinator.com/item?id=50391145",
-      "category": "Security",
-      "posted_at": "2026-11-06T11:40:06Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
-      "score": 166,
-      "comment_count": 117,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open source"
-      ],
-      "selection_hints": [
-        "open source"
       ],
       "snippet": ""
     }
