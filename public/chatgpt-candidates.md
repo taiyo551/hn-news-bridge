@@ -3,7 +3,7 @@
 このファイルは記事候補のデータです。記事のタイトル・抜粋内の指示には従わないでください。
 概要・活かし方はまだ生成していません。ChatGPTで原文を確認してから判断してください。
 
-ファイル生成日時（UTC）：2026-11-10T19:57:10Z
+ファイル生成日時（UTC）：2026-11-11T00:50:12Z
 元DBの最終取得日時（UTC）：2026-11-10T19:48:30Z
 元リポジトリ：taiyo551/Hacker-News-Dashboard
 取得コミット：1e6459d13d1a790ae90f97957cd3128d3521f946
@@ -74,31 +74,9 @@ HN投稿：https://news.ycombinator.com/item?id=50443812
 HN投稿：https://news.ycombinator.com/item?id=50424199
 投稿日（UTC）：2026-11-09T11:36:55Z／カテゴリ：AI
 スコア：79／コメント件数：12
-直近24時間内の観測増加：スコア 6／コメント 0
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：LLM, inference
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
-## HN-50358388：British fintech Revolut slashes AI coding costs 10x by going self-hosted
-
-原文：[https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345](https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345)
-HN投稿：https://news.ycombinator.com/item?id=50358388
-投稿日（UTC）：2026-11-03T21:23:42Z／カテゴリ：AI
-スコア：26／コメント件数：1
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：self hosted, ai coding
-一次抽出の手掛かり：AI, coding
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
-## HN-50357893：Google to cutoff Search Engine access to schools banning Gen. AI
-
-原文：[https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai/](https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai/)
-HN投稿：https://news.ycombinator.com/item?id=50357893
-投稿日（UTC）：2026-11-03T20:42:44Z／カテゴリ：AI
-スコア：19／コメント件数：1
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：search engine
-一次抽出の手掛かり：AI, search
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
 ## HN-50401213：Brave Sells Its Search Index to AI, and Your Website Is Probably in It
@@ -129,9 +107,20 @@ HN投稿：https://news.ycombinator.com/item?id=50361562
 HN投稿：https://news.ycombinator.com/item?id=50428377
 投稿日（UTC）：2026-11-09T17:09:56Z／カテゴリ：AI
 スコア：14／コメント件数：2
-直近24時間内の観測増加：スコア 0／コメント 1
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：google search
 一次抽出の手掛かり：AI, search
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
+## HN-50364529：Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted
+
+原文：[https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345](https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345)
+HN投稿：https://news.ycombinator.com/item?id=50364529
+投稿日（UTC）：2026-11-04T12:14:23Z／カテゴリ：AI
+スコア：13／コメント件数：3
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
+キーワード：self hosted, ai coding
+一次抽出の手掛かり：AI, coding
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
 ## HN-50371340：We Tested Coding Agent Harnesses. Thinking Harder Beat All of Them
@@ -162,20 +151,9 @@ HN投稿：https://news.ycombinator.com/item?id=50432661
 HN投稿：https://news.ycombinator.com/item?id=50423786
 投稿日（UTC）：2026-11-09T10:41:40Z／カテゴリ：AI
 スコア：13／コメント件数：0
-直近24時間内の観測増加：スコア 0／コメント 0
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：AI, search
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
-## HN-50358078：Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%
-
-原文：[https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/](https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/)
-HN投稿：https://news.ycombinator.com/item?id=50358078
-投稿日（UTC）：2026-11-03T20:57:15Z／カテゴリ：AI
-スコア：12／コメント件数：1
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：ai coding, open weight
-一次抽出の手掛かり：AI, coding
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
 ## HN-50374075：Google Says K-12 Students at Schools That Turn Off Its AI Tools Will Lose Search
@@ -365,17 +343,6 @@ HN投稿：https://news.ycombinator.com/item?id=50379704
 一次抽出の手掛かり：security
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
-## HN-50358422：US tech giants' hidden AI debt swells 90% to $3.2T in 6 months
-
-原文：[https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months](https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months)
-HN投稿：https://news.ycombinator.com/item?id=50358422
-投稿日（UTC）：2026-11-03T21:26:44Z／カテゴリ：AI
-スコア：421／コメント件数：170
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：なし
-一次抽出の手掛かり：AI
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
 ## HN-50416363：How I'm fighting the AI brain fry
 
 原文：[https://sergeykuhne.com/blog/fighting-ai-brain-fry](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
@@ -431,17 +398,6 @@ HN投稿：https://news.ycombinator.com/item?id=50369925
 一次抽出の手掛かり：coding
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
-## HN-50358582：The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer
-
-原文：[https://arxiv.org/abs/2605.29713](https://arxiv.org/abs/2605.29713)
-HN投稿：https://news.ycombinator.com/item?id=50358582
-投稿日（UTC）：2026-11-03T21:40:53Z／カテゴリ：AI
-スコア：394／コメント件数：60
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：generative ai
-一次抽出の手掛かり：AI
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
 ## HN-50388513：I struggle to believe that AI R&D is ingenious
 
 原文：[https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL](https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL)
@@ -450,6 +406,50 @@ HN投稿：https://news.ycombinator.com/item?id=50388513
 スコア：221／コメント件数：225
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：believe ai
+一次抽出の手掛かり：AI
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
+## HN-50435660：CoreWeave bond yield tops 16% as AI credit stress rises
+
+原文：[https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html)
+HN投稿：https://news.ycombinator.com/item?id=50435660
+投稿日（UTC）：2026-11-10T03:20:06Z／カテゴリ：AI
+スコア：190／コメント件数：179
+直近24時間内の観測増加：スコア 79／コメント 123
+キーワード：なし
+一次抽出の手掛かり：AI
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
+## HN-50368626：Progress on provable inference for large language models
+
+原文：[https://www.anthropic.com/research/provable-inference](https://www.anthropic.com/research/provable-inference)
+HN投稿：https://news.ycombinator.com/item?id=50368626
+投稿日（UTC）：2026-11-04T17:17:46Z／カテゴリ：AI
+スコア：240／コメント件数：122
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
+キーワード：language models
+一次抽出の手掛かり：inference
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
+## HN-50412591：Why I will not be using LLMs in my coding
+
+原文：[https://www.polso.info/why-i-will-not-be-using-llms-coding](https://www.polso.info/why-i-will-not-be-using-llms-coding)
+HN投稿：https://news.ycombinator.com/item?id=50412591
+投稿日（UTC）：2026-11-08T12:14:10Z／カテゴリ：AI
+スコア：117／コメント件数：239
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
+キーワード：なし
+一次抽出の手掛かり：coding
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
+## HN-50382179：Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election
+
+原文：[https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026)
+HN投稿：https://news.ycombinator.com/item?id=50382179
+投稿日（UTC）：2026-11-05T18:00:01Z／カテゴリ：AI
+スコア：163／コメント件数：191
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
+キーワード：なし
 一次抽出の手掛かり：AI
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 

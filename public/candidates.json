@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-10T19:57:10Z",
+  "generated_at": "2026-11-11T00:50:12Z",
   "source_data_as_of": "2026-11-10T19:48:30Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-03T19:57:10Z",
-  "eligible_count_before_dedup": 459,
+  "window_start": "2026-11-04T00:50:12Z",
+  "eligible_count_before_dedup": 441,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
@@ -137,57 +137,12 @@
       "fetched_at": "2026-11-10T19:47:43Z",
       "score": 79,
       "comment_count": 12,
-      "score_gain_24h_observed": 6,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "LLM",
         "inference"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50358388",
-      "hn_id": 50358388,
-      "title": "British fintech Revolut slashes AI coding costs 10x by going self-hosted",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
-      "hn_url": "https://news.ycombinator.com/item?id=50358388",
-      "category": "AI",
-      "posted_at": "2026-11-03T21:23:42Z",
-      "fetched_at": "2026-11-06T06:54:30Z",
-      "score": 26,
-      "comment_count": 1,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "self hosted",
-        "ai coding"
-      ],
-      "selection_hints": [
-        "AI",
-        "coding"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50357893",
-      "hn_id": 50357893,
-      "title": "Google to cutoff Search Engine access to schools banning Gen. AI",
-      "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=50357893",
-      "category": "AI",
-      "posted_at": "2026-11-03T20:42:44Z",
-      "fetched_at": "2026-11-05T20:00:40Z",
-      "score": 19,
-      "comment_count": 1,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "search engine"
-      ],
-      "selection_hints": [
-        "AI",
-        "search"
       ],
       "snippet": ""
     },
@@ -242,14 +197,37 @@
       "fetched_at": "2026-11-10T19:47:43Z",
       "score": 14,
       "comment_count": 2,
-      "score_gain_24h_observed": 0,
-      "comment_gain_24h_observed": 1,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "google search"
       ],
       "selection_hints": [
         "AI",
         "search"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50364529",
+      "hn_id": 50364529,
+      "title": "Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+      "hn_url": "https://news.ycombinator.com/item?id=50364529",
+      "category": "AI",
+      "posted_at": "2026-11-04T12:14:23Z",
+      "fetched_at": "2026-11-06T06:54:30Z",
+      "score": 13,
+      "comment_count": 3,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "self hosted",
+        "ai coding"
+      ],
+      "selection_hints": [
+        "AI",
+        "coding"
       ],
       "snippet": ""
     },
@@ -306,35 +284,12 @@
       "fetched_at": "2026-11-10T19:47:43Z",
       "score": 13,
       "comment_count": 0,
-      "score_gain_24h_observed": 0,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI",
         "search"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50358078",
-      "hn_id": 50358078,
-      "title": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%",
-      "url": "https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=50358078",
-      "category": "AI",
-      "posted_at": "2026-11-03T20:57:15Z",
-      "fetched_at": "2026-11-05T20:00:40Z",
-      "score": 12,
-      "comment_count": 1,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai coding",
-        "open weight"
-      ],
-      "selection_hints": [
-        "AI",
-        "coding"
       ],
       "snippet": ""
     },
@@ -680,25 +635,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50358422",
-      "hn_id": 50358422,
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "hn_url": "https://news.ycombinator.com/item?id=50358422",
-      "category": "AI",
-      "posted_at": "2026-11-03T21:26:44Z",
-      "fetched_at": "2026-11-08T13:31:19Z",
-      "score": 421,
-      "comment_count": 170,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50416363",
       "hn_id": 50416363,
       "title": "How I'm fighting the AI brain fry",
@@ -798,27 +734,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50358582",
-      "hn_id": 50358582,
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "hn_url": "https://news.ycombinator.com/item?id=50358582",
-      "category": "AI",
-      "posted_at": "2026-11-03T21:40:53Z",
-      "fetched_at": "2026-11-08T22:11:29Z",
-      "score": 394,
-      "comment_count": 60,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "generative ai"
-      ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50388513",
       "hn_id": 50388513,
       "title": "I struggle to believe that AI R&D is ingenious",
@@ -834,6 +749,84 @@
       "keywords": [
         "believe ai"
       ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50435660",
+      "hn_id": 50435660,
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50435660",
+      "category": "AI",
+      "posted_at": "2026-11-10T03:20:06Z",
+      "fetched_at": "2026-11-10T19:48:30Z",
+      "score": 190,
+      "comment_count": 179,
+      "score_gain_24h_observed": 79,
+      "comment_gain_24h_observed": 123,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50368626",
+      "hn_id": 50368626,
+      "title": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "hn_url": "https://news.ycombinator.com/item?id=50368626",
+      "category": "AI",
+      "posted_at": "2026-11-04T17:17:46Z",
+      "fetched_at": "2026-11-09T22:26:03Z",
+      "score": 240,
+      "comment_count": 122,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "language models"
+      ],
+      "selection_hints": [
+        "inference"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50412591",
+      "hn_id": 50412591,
+      "title": "Why I will not be using LLMs in my coding",
+      "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+      "hn_url": "https://news.ycombinator.com/item?id=50412591",
+      "category": "AI",
+      "posted_at": "2026-11-08T12:14:10Z",
+      "fetched_at": "2026-11-10T07:25:15Z",
+      "score": 117,
+      "comment_count": 239,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "coding"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50382179",
+      "hn_id": 50382179,
+      "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+      "hn_url": "https://news.ycombinator.com/item?id=50382179",
+      "category": "AI",
+      "posted_at": "2026-11-05T18:00:01Z",
+      "fetched_at": "2026-11-07T13:10:49Z",
+      "score": 163,
+      "comment_count": 191,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
       "selection_hints": [
         "AI"
       ],
