@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-12T13:08:35Z",
-  "source_data_as_of": "2026-11-12T07:18:38Z",
+  "generated_at": "2026-11-12T21:02:06Z",
+  "source_data_as_of": "2026-11-12T20:00:26Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-05T13:08:35Z",
-  "eligible_count_before_dedup": 466,
+  "window_start": "2026-11-05T21:02:06Z",
+  "eligible_count_before_dedup": 461,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "5a5fe89ffacf96de2c6dc3ca212fc8ffb214dca7"
+    "commit": "c7af8b5ae6687758c69a62751a8bf763898fc229"
   },
   "articles": [
     {
@@ -46,7 +46,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50439141",
       "category": "AI",
       "posted_at": "2026-11-10T12:05:13Z",
-      "fetched_at": "2026-11-12T07:17:55Z",
+      "fetched_at": "2026-11-12T19:59:34Z",
       "score": 10,
       "comment_count": 4,
       "score_gain_24h_observed": null,
@@ -70,7 +70,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50447378",
       "category": "AI",
       "posted_at": "2026-11-10T22:47:35Z",
-      "fetched_at": "2026-11-12T07:17:55Z",
+      "fetched_at": "2026-11-12T19:59:34Z",
       "score": 4,
       "comment_count": 0,
       "score_gain_24h_observed": null,
@@ -91,9 +91,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50443812",
       "category": "Web",
       "posted_at": "2026-11-10T18:01:15Z",
-      "fetched_at": "2026-11-12T07:17:55Z",
-      "score": 429,
-      "comment_count": 142,
+      "fetched_at": "2026-11-12T19:59:34Z",
+      "score": 434,
+      "comment_count": 145,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -113,11 +113,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50455633",
       "category": "Other",
       "posted_at": "2026-11-11T16:57:45Z",
-      "fetched_at": "2026-11-12T07:18:38Z",
-      "score": 194,
-      "comment_count": 36,
-      "score_gain_24h_observed": 115,
-      "comment_gain_24h_observed": 20,
+      "fetched_at": "2026-11-12T19:59:34Z",
+      "score": 229,
+      "comment_count": 38,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "RAG",
@@ -133,37 +133,15 @@
       "hn_url": "https://news.ycombinator.com/item?id=50437106",
       "category": "AI",
       "posted_at": "2026-11-10T07:19:38Z",
-      "fetched_at": "2026-11-12T07:17:55Z",
+      "fetched_at": "2026-11-12T19:59:34Z",
       "score": 164,
-      "comment_count": 64,
+      "comment_count": 65,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI",
         "security"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50380704",
-      "hn_id": 50380704,
-      "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
-      "url": "https://github.com/AGGIB/Stroq",
-      "hn_url": "https://news.ycombinator.com/item?id=50380704",
-      "category": "Other",
-      "posted_at": "2026-11-05T15:54:41Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
-      "score": 96,
-      "comment_count": 34,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "coding agent"
-      ],
-      "selection_hints": [
-        "agent",
-        "coding"
       ],
       "snippet": ""
     },
@@ -175,11 +153,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50454951",
       "category": "Security",
       "posted_at": "2026-11-11T16:00:50Z",
-      "fetched_at": "2026-11-12T07:18:38Z",
-      "score": 79,
-      "comment_count": 31,
-      "score_gain_24h_observed": 25,
-      "comment_gain_24h_observed": 5,
+      "fetched_at": "2026-11-12T19:59:34Z",
+      "score": 82,
+      "comment_count": 32,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "coding agent"
       ],
@@ -217,11 +195,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50460398",
       "category": "Web",
       "posted_at": "2026-11-11T23:22:29Z",
-      "fetched_at": "2026-11-12T07:18:38Z",
-      "score": 31,
-      "comment_count": 7,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "fetched_at": "2026-11-12T20:00:26Z",
+      "score": 34,
+      "comment_count": 8,
+      "score_gain_24h_observed": 3,
+      "comment_gain_24h_observed": 1,
       "keywords": [
         "coding agent"
       ],
@@ -274,6 +252,28 @@
       "snippet": ""
     },
     {
+      "id": "HN-50469203",
+      "hn_id": 50469203,
+      "title": "Chicago schools tell Google they'd rather lose Search than be forced to use AI",
+      "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50469203",
+      "category": "AI",
+      "posted_at": "2026-11-12T15:40:37Z",
+      "fetched_at": "2026-11-12T20:00:26Z",
+      "score": 11,
+      "comment_count": 4,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "use ai"
+      ],
+      "selection_hints": [
+        "AI",
+        "search"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50432661",
       "hn_id": 50432661,
       "title": "USB: A trust layer for AI skills and MCP servers",
@@ -281,7 +281,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50432661",
       "category": "AI",
       "posted_at": "2026-11-09T21:42:46Z",
-      "fetched_at": "2026-11-12T07:17:55Z",
+      "fetched_at": "2026-11-12T19:59:34Z",
       "score": 11,
       "comment_count": 3,
       "score_gain_24h_observed": null,
@@ -290,6 +290,28 @@
       "selection_hints": [
         "AI",
         "MCP"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50456277",
+      "hn_id": 50456277,
+      "title": "Grok Build coding agent leaks oodles of confidential info",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "hn_url": "https://news.ycombinator.com/item?id=50456277",
+      "category": "Other",
+      "posted_at": "2026-11-11T17:53:23Z",
+      "fetched_at": "2026-11-12T19:59:34Z",
+      "score": 13,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "coding agent"
+      ],
+      "selection_hints": [
+        "agent",
+        "coding"
       ],
       "snippet": ""
     },
@@ -314,24 +336,24 @@
       "snippet": ""
     },
     {
-      "id": "HN-50456277",
-      "hn_id": 50456277,
-      "title": "Grok Build coding agent leaks oodles of confidential info",
-      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-      "hn_url": "https://news.ycombinator.com/item?id=50456277",
-      "category": "Other",
-      "posted_at": "2026-11-11T17:53:23Z",
-      "fetched_at": "2026-11-12T07:18:38Z",
-      "score": 11,
+      "id": "HN-50471673",
+      "hn_id": 50471673,
+      "title": "Hugging Face CEO vows to keep fighting for open-source AI",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "hn_url": "https://news.ycombinator.com/item?id=50471673",
+      "category": "AI",
+      "posted_at": "2026-11-12T18:17:29Z",
+      "fetched_at": "2026-11-12T20:00:26Z",
+      "score": 10,
       "comment_count": 0,
-      "score_gain_24h_observed": 4,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
-        "coding agent"
+        "open source"
       ],
       "selection_hints": [
-        "agent",
-        "coding"
+        "AI",
+        "open source"
       ],
       "snippet": ""
     },
@@ -343,15 +365,37 @@
       "hn_url": "https://news.ycombinator.com/item?id=50452395",
       "category": "Security",
       "posted_at": "2026-11-11T11:59:38Z",
-      "fetched_at": "2026-11-12T07:18:38Z",
+      "fetched_at": "2026-11-12T19:59:34Z",
       "score": 8,
       "comment_count": 2,
-      "score_gain_24h_observed": 0,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI",
         "security"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50464872",
+      "hn_id": 50464872,
+      "title": "Pi GPUI: A native GUI for the pi coding agent, built with Rust and GPUI.",
+      "url": "https://pi-gpui.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=50464872",
+      "category": "Programming",
+      "posted_at": "2026-11-12T09:18:45Z",
+      "fetched_at": "2026-11-12T20:00:26Z",
+      "score": 7,
+      "comment_count": 1,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "coding agent"
+      ],
+      "selection_hints": [
+        "agent",
+        "coding"
       ],
       "snippet": ""
     },
@@ -403,14 +447,12 @@
       "hn_url": "https://news.ycombinator.com/item?id=50418975",
       "category": "AI",
       "posted_at": "2026-11-08T23:44:36Z",
-      "fetched_at": "2026-11-12T07:17:55Z",
-      "score": 572,
-      "comment_count": 971,
+      "fetched_at": "2026-11-12T19:59:34Z",
+      "score": 573,
+      "comment_count": 972,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai bubble"
-      ],
+      "keywords": [],
       "selection_hints": [
         "AI"
       ],
@@ -424,11 +466,32 @@
       "hn_url": "https://news.ycombinator.com/item?id=50452455",
       "category": "AI",
       "posted_at": "2026-11-11T12:05:22Z",
-      "fetched_at": "2026-11-12T07:18:38Z",
-      "score": 969,
-      "comment_count": 354,
-      "score_gain_24h_observed": 134,
-      "comment_gain_24h_observed": 46,
+      "fetched_at": "2026-11-12T19:59:34Z",
+      "score": 1024,
+      "comment_count": 385,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai agents"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50458900",
+      "hn_id": 50458900,
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "hn_url": "https://news.ycombinator.com/item?id=50458900",
+      "category": "AI",
+      "posted_at": "2026-11-11T21:24:35Z",
+      "fetched_at": "2026-11-12T20:00:26Z",
+      "score": 651,
+      "comment_count": 679,
+      "score_gain_24h_observed": 137,
+      "comment_gain_24h_observed": 176,
       "keywords": [
         "ai agents"
       ],
@@ -445,9 +508,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50438318",
       "category": "AI",
       "posted_at": "2026-11-10T10:25:58Z",
-      "fetched_at": "2026-11-12T07:17:55Z",
-      "score": 633,
-      "comment_count": 611,
+      "fetched_at": "2026-11-12T19:59:34Z",
+      "score": 637,
+      "comment_count": 622,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -459,25 +522,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50383740",
-      "hn_id": 50383740,
-      "title": "Search for everyone",
-      "url": "https://kagi.com/changelog#11820",
-      "hn_url": "https://news.ycombinator.com/item?id=50383740",
-      "category": "Other",
-      "posted_at": "2026-11-05T20:03:34Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
-      "score": 756,
-      "comment_count": 413,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "search"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50446520",
       "hn_id": 50446520,
       "title": "Apple has new Mac app coming to make running local AI models easy",
@@ -485,35 +529,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50446520",
       "category": "AI",
       "posted_at": "2026-11-10T21:25:03Z",
-      "fetched_at": "2026-11-12T07:17:55Z",
-      "score": 528,
-      "comment_count": 535,
+      "fetched_at": "2026-11-12T19:59:34Z",
+      "score": 549,
+      "comment_count": 550,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
         "ai models",
         "local ai"
-      ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50458900",
-      "hn_id": 50458900,
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "hn_url": "https://news.ycombinator.com/item?id=50458900",
-      "category": "AI",
-      "posted_at": "2026-11-11T21:24:35Z",
-      "fetched_at": "2026-11-12T07:18:38Z",
-      "score": 514,
-      "comment_count": 503,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agents"
       ],
       "selection_hints": [
         "AI"
@@ -528,7 +551,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50418176",
       "category": "Security",
       "posted_at": "2026-11-08T22:35:35Z",
-      "fetched_at": "2026-11-12T07:17:55Z",
+      "fetched_at": "2026-11-12T19:59:34Z",
       "score": 769,
       "comment_count": 235,
       "score_gain_24h_observed": null,
@@ -549,8 +572,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50406563",
       "category": "AI",
       "posted_at": "2026-11-07T18:02:17Z",
-      "fetched_at": "2026-11-12T07:17:55Z",
-      "score": 512,
+      "fetched_at": "2026-11-12T19:59:34Z",
+      "score": 513,
       "comment_count": 309,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -599,16 +622,16 @@
       "snippet": ""
     },
     {
-      "id": "HN-50379704",
-      "hn_id": 50379704,
-      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "hn_url": "https://news.ycombinator.com/item?id=50379704",
+      "id": "HN-50463899",
+      "hn_id": 50463899,
+      "title": "\"Humble Bundle just killed most of their security through vibecoding\"",
+      "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+      "hn_url": "https://news.ycombinator.com/item?id=50463899",
       "category": "Security",
-      "posted_at": "2026-11-05T14:44:20Z",
-      "fetched_at": "2026-11-07T13:10:49Z",
-      "score": 627,
-      "comment_count": 2,
+      "posted_at": "2026-11-12T06:52:48Z",
+      "fetched_at": "2026-11-12T20:00:26Z",
+      "score": 343,
+      "comment_count": 207,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -625,7 +648,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50416363",
       "category": "AI",
       "posted_at": "2026-11-08T19:37:42Z",
-      "fetched_at": "2026-11-12T07:17:55Z",
+      "fetched_at": "2026-11-12T19:59:34Z",
       "score": 313,
       "comment_count": 215,
       "score_gain_24h_observed": null,
@@ -644,9 +667,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50416053",
       "category": "Security",
       "posted_at": "2026-11-08T19:08:51Z",
-      "fetched_at": "2026-11-12T07:17:55Z",
+      "fetched_at": "2026-11-12T19:59:34Z",
       "score": 345,
-      "comment_count": 146,
+      "comment_count": 149,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -654,25 +677,6 @@
       ],
       "selection_hints": [
         "open source"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50379249",
-      "hn_id": 50379249,
-      "title": "MCP Explained",
-      "url": "https://mcp-explained.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50379249",
-      "category": "Other",
-      "posted_at": "2026-11-05T14:08:35Z",
-      "fetched_at": "2026-11-11T19:39:38Z",
-      "score": 348,
-      "comment_count": 136,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "MCP"
       ],
       "snippet": ""
     },
@@ -689,13 +693,32 @@
       "comment_count": 225,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
-      "keywords": [
-        "believe ai"
-      ],
+      "keywords": [],
       "selection_hints": [
         "AI"
       ],
       "snippet": ""
+    },
+    {
+      "id": "HN-50454625",
+      "hn_id": 50454625,
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "hn_url": "https://news.ycombinator.com/item?id=50454625",
+      "category": "Security",
+      "posted_at": "2026-11-11T15:33:06Z",
+      "fetched_at": "2026-11-12T19:59:34Z",
+      "score": 282,
+      "comment_count": 108,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open source"
+      ],
+      "selection_hints": [
+        "open source"
+      ],
+      "snippet": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings. Here's a quick demo video: https://www.youtube.com/watch?v=BFfbXAwRq98 Similar to Granola, Yogurt runs in the background and does not join your calls. But unlike Granola, Yogurt is open-source, free to use, and private. Your meeting transcripts, call recordings, and summaries ne"
     },
     {
       "id": "HN-50435660",
@@ -705,9 +728,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50435660",
       "category": "AI",
       "posted_at": "2026-11-10T03:20:06Z",
-      "fetched_at": "2026-11-12T07:17:55Z",
-      "score": 195,
-      "comment_count": 191,
+      "fetched_at": "2026-11-12T19:59:34Z",
+      "score": 196,
+      "comment_count": 192,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -755,16 +778,16 @@
       "snippet": ""
     },
     {
-      "id": "HN-50382179",
-      "hn_id": 50382179,
-      "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
-      "hn_url": "https://news.ycombinator.com/item?id=50382179",
+      "id": "HN-50457164",
+      "hn_id": 50457164,
+      "title": "Retirement Savings Are Fueling the AI Bubble",
+      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+      "hn_url": "https://news.ycombinator.com/item?id=50457164",
       "category": "AI",
-      "posted_at": "2026-11-05T18:00:01Z",
-      "fetched_at": "2026-11-07T13:10:49Z",
-      "score": 163,
-      "comment_count": 191,
+      "posted_at": "2026-11-11T19:06:43Z",
+      "fetched_at": "2026-11-12T19:59:34Z",
+      "score": 165,
+      "comment_count": 187,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -774,44 +797,21 @@
       "snippet": ""
     },
     {
-      "id": "HN-50454625",
-      "hn_id": 50454625,
-      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "hn_url": "https://news.ycombinator.com/item?id=50454625",
-      "category": "Security",
-      "posted_at": "2026-11-11T15:33:06Z",
-      "fetched_at": "2026-11-12T07:18:38Z",
-      "score": 224,
-      "comment_count": 92,
-      "score_gain_24h_observed": 144,
-      "comment_gain_24h_observed": 55,
-      "keywords": [
-        "open source"
-      ],
+      "id": "HN-50453637",
+      "hn_id": 50453637,
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "url": "https://blog.atuin.sh/threads-agent-sessions/",
+      "hn_url": "https://news.ycombinator.com/item?id=50453637",
+      "category": "Other",
+      "posted_at": "2026-11-11T14:10:46Z",
+      "fetched_at": "2026-11-12T19:59:34Z",
+      "score": 229,
+      "comment_count": 83,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
       "selection_hints": [
-        "open source"
-      ],
-      "snippet": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings. Here's a quick demo video: https://www.youtube.com/watch?v=BFfbXAwRq98 Similar to Granola, Yogurt runs in the background and does not join your calls. But unlike Granola, Yogurt is open-source, free to use, and private. Your meeting transcripts, call recordings, and summaries ne"
-    },
-    {
-      "id": "HN-50457164",
-      "hn_id": 50457164,
-      "title": "Retirement Savings Are Fueling the AI Bubble",
-      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
-      "hn_url": "https://news.ycombinator.com/item?id=50457164",
-      "category": "AI",
-      "posted_at": "2026-11-11T19:06:43Z",
-      "fetched_at": "2026-11-12T07:18:38Z",
-      "score": 152,
-      "comment_count": 151,
-      "score_gain_24h_observed": 141,
-      "comment_gain_24h_observed": 148,
-      "keywords": [
-        "ai bubble"
-      ],
-      "selection_hints": [
-        "AI"
+        "agent"
       ],
       "snippet": ""
     },
@@ -823,7 +823,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50411467",
       "category": "Other",
       "posted_at": "2026-11-08T08:40:23Z",
-      "fetched_at": "2026-11-12T07:17:55Z",
+      "fetched_at": "2026-11-12T19:59:34Z",
       "score": 191,
       "comment_count": 110,
       "score_gain_24h_observed": null,
