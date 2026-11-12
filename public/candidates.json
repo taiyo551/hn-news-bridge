@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-11T22:56:58Z",
+  "generated_at": "2026-11-12T04:04:21Z",
   "source_data_as_of": "2026-11-11T19:40:27Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-04T22:56:58Z",
-  "eligible_count_before_dedup": 464,
+  "window_start": "2026-11-05T04:04:21Z",
+  "eligible_count_before_dedup": 451,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
@@ -330,28 +330,6 @@
       "selection_hints": [
         "agent",
         "coding"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50374075",
-      "hn_id": 50374075,
-      "title": "Google Says K-12 Students at Schools That Turn Off Its AI Tools Will Lose Search",
-      "url": "https://www.ghacks.net/2026/11/04/google-says-k-12-students-at-schools-that-turn-off-its-ai-tools-will-lose-google-search/",
-      "hn_url": "https://news.ycombinator.com/item?id=50374075",
-      "category": "AI",
-      "posted_at": "2026-11-05T01:52:52Z",
-      "fetched_at": "2026-11-06T19:28:22Z",
-      "score": 3,
-      "comment_count": 2,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai tools"
-      ],
-      "selection_hints": [
-        "AI",
-        "search"
       ],
       "snippet": ""
     },
@@ -828,6 +806,27 @@
       "keywords": [],
       "selection_hints": [
         "agent"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50381033",
+      "hn_id": 50381033,
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "hn_url": "https://news.ycombinator.com/item?id=50381033",
+      "category": "Science",
+      "posted_at": "2026-11-05T16:21:12Z",
+      "fetched_at": "2026-11-11T06:34:14Z",
+      "score": 189,
+      "comment_count": 95,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai slop"
+      ],
+      "selection_hints": [
+        "AI"
       ],
       "snippet": ""
     }
