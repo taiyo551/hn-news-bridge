@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-13T17:59:05Z",
-  "source_data_as_of": "2026-11-13T06:52:39Z",
+  "generated_at": "2026-11-13T23:47:57Z",
+  "source_data_as_of": "2026-11-13T19:48:17Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-06T17:59:05Z",
-  "eligible_count_before_dedup": 406,
+  "window_start": "2026-11-06T23:47:57Z",
+  "eligible_count_before_dedup": 419,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "fd97ca842e499f3389cc0ba2e5fcab24c365eeda"
+    "commit": "e45f741a267122a1f6e4c177553518eb036cc6d2"
   },
   "articles": [
     {
@@ -36,6 +36,27 @@
         "open source"
       ],
       "snippet": "Cosh is an open-source AI agent built in Rust that brings together multiple agents like Codex and Goose in a unified environment for orchestration and collaboration."
+    },
+    {
+      "id": "HN-50451943",
+      "hn_id": 50451943,
+      "title": "Show HN: Log every LLM call with tokens, cost, latency, and time to first token",
+      "url": "https://github.com/garritfra/llmtee",
+      "hn_url": "https://news.ycombinator.com/item?id=50451943",
+      "category": "AI",
+      "posted_at": "2026-11-11T10:55:46Z",
+      "fetched_at": "2026-11-13T19:47:14Z",
+      "score": 6,
+      "comment_count": 1,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "LLM",
+        "latency",
+        "token"
+      ],
+      "snippet": "Hi HN, Llmtee is a lightweight llm proxy. I built this project because I needed a simple way to log llm calls across my agents. Existing options require running Postgres, ClickHouse and Redis, or have me use an SDK. llmtree is just a single binary. You point your provider base url to llmtee, it will pass the traffic through chunk by chunk and log the usage to an SQLite database (or optionally Postgres). The container image is ~25 MB. Memory footprint is around ~40 MB and added latency is ~0.2 ms"
     },
     {
       "id": "HN-50447378",
@@ -66,9 +87,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50443812",
       "category": "Web",
       "posted_at": "2026-11-10T18:01:15Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
-      "score": 436,
-      "comment_count": 145,
+      "fetched_at": "2026-11-13T19:47:14Z",
+      "score": 442,
+      "comment_count": 146,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -88,15 +109,35 @@
       "hn_url": "https://news.ycombinator.com/item?id=50455633",
       "category": "Other",
       "posted_at": "2026-11-11T16:57:45Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
-      "score": 233,
-      "comment_count": 38,
+      "fetched_at": "2026-11-13T19:47:14Z",
+      "score": 237,
+      "comment_count": 39,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "RAG",
         "retrieval"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50484658",
+      "hn_id": 50484658,
+      "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "hn_url": "https://news.ycombinator.com/item?id=50484658",
+      "category": "AI",
+      "posted_at": "2026-11-13T15:08:44Z",
+      "fetched_at": "2026-11-13T19:48:17Z",
+      "score": 135,
+      "comment_count": 108,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI",
+        "coding"
       ],
       "snippet": ""
     },
@@ -108,8 +149,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50437106",
       "category": "AI",
       "posted_at": "2026-11-10T07:19:38Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
-      "score": 165,
+      "fetched_at": "2026-11-13T19:47:14Z",
+      "score": 166,
       "comment_count": 66,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -121,6 +162,26 @@
       "snippet": ""
     },
     {
+      "id": "HN-50484960",
+      "hn_id": 50484960,
+      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "url": "https://text.npr.org/nx-s1-6029408",
+      "hn_url": "https://news.ycombinator.com/item?id=50484960",
+      "category": "Other",
+      "posted_at": "2026-11-13T15:29:10Z",
+      "fetched_at": "2026-11-13T19:48:17Z",
+      "score": 111,
+      "comment_count": 107,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI",
+        "search"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50454951",
       "hn_id": 50454951,
       "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
@@ -128,9 +189,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50454951",
       "category": "Security",
       "posted_at": "2026-11-11T16:00:50Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
+      "fetched_at": "2026-11-13T19:47:14Z",
       "score": 83,
-      "comment_count": 32,
+      "comment_count": 34,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -150,11 +211,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50476586",
       "category": "AI",
       "posted_at": "2026-11-13T00:38:41Z",
-      "fetched_at": "2026-11-13T06:52:39Z",
-      "score": 71,
-      "comment_count": 22,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "fetched_at": "2026-11-13T19:48:17Z",
+      "score": 88,
+      "comment_count": 28,
+      "score_gain_24h_observed": 17,
+      "comment_gain_24h_observed": 6,
       "keywords": [],
       "selection_hints": [
         "AI",
@@ -190,7 +251,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50460398",
       "category": "Web",
       "posted_at": "2026-11-11T23:22:29Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
+      "fetched_at": "2026-11-13T19:47:14Z",
       "score": 34,
       "comment_count": 9,
       "score_gain_24h_observed": null,
@@ -212,8 +273,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50472738",
       "category": "Database",
       "posted_at": "2026-11-12T19:21:00Z",
-      "fetched_at": "2026-11-13T06:52:39Z",
-      "score": 21,
+      "fetched_at": "2026-11-13T19:47:14Z",
+      "score": 22,
       "comment_count": 9,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -232,11 +293,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50471673",
       "category": "AI",
       "posted_at": "2026-11-12T18:17:29Z",
-      "fetched_at": "2026-11-13T06:52:39Z",
+      "fetched_at": "2026-11-13T19:47:14Z",
       "score": 21,
       "comment_count": 2,
-      "score_gain_24h_observed": 11,
-      "comment_gain_24h_observed": 2,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "open source"
       ],
@@ -360,11 +421,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50464872",
       "category": "Programming",
       "posted_at": "2026-11-12T09:18:45Z",
-      "fetched_at": "2026-11-13T06:52:39Z",
+      "fetched_at": "2026-11-13T19:47:14Z",
       "score": 9,
       "comment_count": 1,
-      "score_gain_24h_observed": 2,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "coding agent"
       ],
@@ -402,9 +463,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50418975",
       "category": "AI",
       "posted_at": "2026-11-08T23:44:36Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
-      "score": 573,
-      "comment_count": 972,
+      "fetched_at": "2026-11-13T19:47:14Z",
+      "score": 574,
+      "comment_count": 974,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -423,9 +484,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50452455",
       "category": "AI",
       "posted_at": "2026-11-11T12:05:22Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
-      "score": 1030,
-      "comment_count": 391,
+      "fetched_at": "2026-11-13T19:47:14Z",
+      "score": 1033,
+      "comment_count": 392,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -444,9 +505,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50458900",
       "category": "AI",
       "posted_at": "2026-11-11T21:24:35Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
-      "score": 669,
-      "comment_count": 694,
+      "fetched_at": "2026-11-13T19:47:14Z",
+      "score": 676,
+      "comment_count": 698,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -465,9 +526,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50438318",
       "category": "AI",
       "posted_at": "2026-11-10T10:25:58Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
-      "score": 639,
-      "comment_count": 624,
+      "fetched_at": "2026-11-13T19:47:14Z",
+      "score": 641,
+      "comment_count": 625,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -486,9 +547,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50446520",
       "category": "AI",
       "posted_at": "2026-11-10T21:25:03Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
-      "score": 555,
-      "comment_count": 552,
+      "fetched_at": "2026-11-13T19:47:14Z",
+      "score": 561,
+      "comment_count": 557,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -508,9 +569,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50418176",
       "category": "Security",
       "posted_at": "2026-11-08T22:35:35Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
+      "fetched_at": "2026-11-13T19:47:14Z",
       "score": 769,
-      "comment_count": 236,
+      "comment_count": 237,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -522,6 +583,27 @@
       "snippet": ""
     },
     {
+      "id": "HN-50481187",
+      "hn_id": 50481187,
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "hn_url": "https://news.ycombinator.com/item?id=50481187",
+      "category": "AI",
+      "posted_at": "2026-11-13T10:18:13Z",
+      "fetched_at": "2026-11-13T19:48:17Z",
+      "score": 462,
+      "comment_count": 373,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "claude code"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50406563",
       "hn_id": 50406563,
       "title": "The end of Microsoft Research's AI Frontiers group",
@@ -529,7 +611,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50406563",
       "category": "AI",
       "posted_at": "2026-11-07T18:02:17Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
+      "fetched_at": "2026-11-13T19:47:14Z",
       "score": 513,
       "comment_count": 309,
       "score_gain_24h_observed": null,
@@ -541,25 +623,6 @@
       "snippet": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft..."
     },
     {
-      "id": "HN-50397994",
-      "hn_id": 50397994,
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "hn_url": "https://news.ycombinator.com/item?id=50397994",
-      "category": "AI",
-      "posted_at": "2026-11-06T20:27:23Z",
-      "fetched_at": "2026-11-11T19:39:38Z",
-      "score": 380,
-      "comment_count": 360,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50463899",
       "hn_id": 50463899,
       "title": "\"Humble Bundle just killed most of their security through vibecoding\"",
@@ -567,11 +630,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50463899",
       "category": "Security",
       "posted_at": "2026-11-12T06:52:48Z",
-      "fetched_at": "2026-11-13T06:52:39Z",
-      "score": 376,
-      "comment_count": 222,
-      "score_gain_24h_observed": 33,
-      "comment_gain_24h_observed": 15,
+      "fetched_at": "2026-11-13T19:47:14Z",
+      "score": 400,
+      "comment_count": 235,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "security"
@@ -586,9 +649,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50416363",
       "category": "AI",
       "posted_at": "2026-11-08T19:37:42Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
-      "score": 314,
-      "comment_count": 215,
+      "fetched_at": "2026-11-13T19:47:14Z",
+      "score": 315,
+      "comment_count": 216,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -605,8 +668,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50416053",
       "category": "Security",
       "posted_at": "2026-11-08T19:08:51Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
-      "score": 345,
+      "fetched_at": "2026-11-13T19:47:14Z",
+      "score": 346,
       "comment_count": 149,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -619,6 +682,87 @@
       "snippet": ""
     },
     {
+      "id": "HN-50474883",
+      "hn_id": 50474883,
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "hn_url": "https://news.ycombinator.com/item?id=50474883",
+      "category": "AI",
+      "posted_at": "2026-11-12T21:56:11Z",
+      "fetched_at": "2026-11-13T19:48:17Z",
+      "score": 349,
+      "comment_count": 145,
+      "score_gain_24h_observed": 92,
+      "comment_gain_24h_observed": 71,
+      "keywords": [
+        "ai models",
+        "frontier ai"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50475713",
+      "hn_id": 50475713,
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "hn_url": "https://news.ycombinator.com/item?id=50475713",
+      "category": "AI",
+      "posted_at": "2026-11-12T23:06:17Z",
+      "fetched_at": "2026-11-13T19:48:17Z",
+      "score": 331,
+      "comment_count": 100,
+      "score_gain_24h_observed": 142,
+      "comment_gain_24h_observed": 51,
+      "keywords": [
+        "frontier ai"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50474311",
+      "hn_id": 50474311,
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50474311",
+      "category": "AI",
+      "posted_at": "2026-11-12T21:09:49Z",
+      "fetched_at": "2026-11-13T19:48:17Z",
+      "score": 194,
+      "comment_count": 227,
+      "score_gain_24h_observed": 42,
+      "comment_gain_24h_observed": 80,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50481870",
+      "hn_id": 50481870,
+      "title": "AI is destroying the trust between writers and readers",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "hn_url": "https://news.ycombinator.com/item?id=50481870",
+      "category": "AI",
+      "posted_at": "2026-11-13T11:13:46Z",
+      "fetched_at": "2026-11-13T19:48:17Z",
+      "score": 263,
+      "comment_count": 157,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50454625",
       "hn_id": 50454625,
       "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
@@ -626,9 +770,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50454625",
       "category": "Security",
       "posted_at": "2026-11-11T15:33:06Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
-      "score": 290,
-      "comment_count": 111,
+      "fetched_at": "2026-11-13T19:47:14Z",
+      "score": 296,
+      "comment_count": 113,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -638,6 +782,25 @@
         "open source"
       ],
       "snippet": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings. Here's a quick demo video: https://www.youtube.com/watch?v=BFfbXAwRq98 Similar to Granola, Yogurt runs in the background and does not join your calls. But unlike Granola, Yogurt is open-source, free to use, and private. Your meeting transcripts, call recordings, and summaries ne"
+    },
+    {
+      "id": "HN-50477649",
+      "hn_id": 50477649,
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "hn_url": "https://news.ycombinator.com/item?id=50477649",
+      "category": "AI",
+      "posted_at": "2026-11-13T03:08:08Z",
+      "fetched_at": "2026-11-13T19:48:17Z",
+      "score": 250,
+      "comment_count": 140,
+      "score_gain_24h_observed": 201,
+      "comment_gain_24h_observed": 123,
+      "keywords": [],
+      "selection_hints": [
+        "search"
+      ],
+      "snippet": ""
     },
     {
       "id": "HN-50435660",
@@ -666,9 +829,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50457164",
       "category": "AI",
       "posted_at": "2026-11-11T19:06:43Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
+      "fetched_at": "2026-11-13T19:47:14Z",
       "score": 165,
-      "comment_count": 195,
+      "comment_count": 196,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -676,161 +839,6 @@
       ],
       "selection_hints": [
         "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50433079",
-      "hn_id": 50433079,
-      "title": "A year after the 100% AI mandate nobody understands our code",
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
-      "hn_url": "https://news.ycombinator.com/item?id=50433079",
-      "category": "AI",
-      "posted_at": "2026-11-09T22:19:12Z",
-      "fetched_at": "2026-11-11T19:39:38Z",
-      "score": 158,
-      "comment_count": 199,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_..."
-    },
-    {
-      "id": "HN-50412591",
-      "hn_id": 50412591,
-      "title": "Why I will not be using LLMs in my coding",
-      "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-      "hn_url": "https://news.ycombinator.com/item?id=50412591",
-      "category": "AI",
-      "posted_at": "2026-11-08T12:14:10Z",
-      "fetched_at": "2026-11-10T07:25:15Z",
-      "score": 117,
-      "comment_count": 239,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "coding"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50474883",
-      "hn_id": 50474883,
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "hn_url": "https://news.ycombinator.com/item?id=50474883",
-      "category": "AI",
-      "posted_at": "2026-11-12T21:56:11Z",
-      "fetched_at": "2026-11-13T06:52:39Z",
-      "score": 257,
-      "comment_count": 74,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai models",
-        "frontier ai"
-      ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50453637",
-      "hn_id": 50453637,
-      "title": "Atuin Threads: All your agent sessions on every machine",
-      "url": "https://blog.atuin.sh/threads-agent-sessions/",
-      "hn_url": "https://news.ycombinator.com/item?id=50453637",
-      "category": "Other",
-      "posted_at": "2026-11-11T14:10:46Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
-      "score": 234,
-      "comment_count": 84,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "agent"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50411467",
-      "hn_id": 50411467,
-      "title": "Agent memory needs its OpenTelemetry moment",
-      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
-      "hn_url": "https://news.ycombinator.com/item?id=50411467",
-      "category": "Other",
-      "posted_at": "2026-11-08T08:40:23Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
-      "score": 191,
-      "comment_count": 110,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "agent"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50474311",
-      "hn_id": 50474311,
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50474311",
-      "category": "AI",
-      "posted_at": "2026-11-12T21:09:49Z",
-      "fetched_at": "2026-11-13T06:52:39Z",
-      "score": 152,
-      "comment_count": 147,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50422628",
-      "hn_id": 50422628,
-      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-      "url": "https://news.ycombinator.com/item?id=50422628",
-      "hn_url": "https://news.ycombinator.com/item?id=50422628",
-      "category": "AI",
-      "posted_at": "2026-11-09T08:17:49Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
-      "score": 220,
-      "comment_count": 79,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "agent"
-      ],
-      "snippet": "The agent running on a remote machine can authenticate using your local SSH credentials. That means it can push to your private repos on GitHub, for example. Proof: https://github.com/openai/codex/pull/28131#discussion_r3410013180"
-    },
-    {
-      "id": "HN-50402212",
-      "hn_id": 50402212,
-      "title": "The Components of Agent Memory",
-      "url": "https://www.anthropic.com/research/components-of-agent-memory",
-      "hn_url": "https://news.ycombinator.com/item?id=50402212",
-      "category": "Other",
-      "posted_at": "2026-11-07T06:39:04Z",
-      "fetched_at": "2026-11-11T19:39:38Z",
-      "score": 189,
-      "comment_count": 104,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "agent"
       ],
       "snippet": ""
     }
