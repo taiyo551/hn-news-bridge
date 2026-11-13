@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-13T09:54:09Z",
+  "generated_at": "2026-11-13T17:59:05Z",
   "source_data_as_of": "2026-11-13T06:52:39Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-06T09:54:09Z",
-  "eligible_count_before_dedup": 462,
+  "window_start": "2026-11-06T17:59:05Z",
+  "eligible_count_before_dedup": 406,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
@@ -13,31 +13,6 @@
     "commit": "fd97ca842e499f3389cc0ba2e5fcab24c365eeda"
   },
   "articles": [
-    {
-      "id": "HN-50394444",
-      "hn_id": 50394444,
-      "title": "AI coding agent setups from 663 Hacker News comments",
-      "url": "https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50394444",
-      "category": "AI",
-      "posted_at": "2026-11-06T16:23:51Z",
-      "fetched_at": "2026-11-09T06:43:52Z",
-      "score": 29,
-      "comment_count": 4,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "hacker news",
-        "ai coding",
-        "coding agent"
-      ],
-      "selection_hints": [
-        "AI",
-        "agent",
-        "coding"
-      ],
-      "snippet": ""
-    },
     {
       "id": "HN-50439141",
       "hn_id": 50439141,
@@ -420,46 +395,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50391660",
-      "hn_id": 50391660,
-      "title": "Frontier quality at 1% of the cost: a production benchmark of LLM classifiers",
-      "url": "https://airbnb.tech/ai-ml/frontier-quality-at-1-of-the-cost-a-production-benchmark-of-llm-classifiers/",
-      "hn_url": "https://news.ycombinator.com/item?id=50391660",
-      "category": "AI",
-      "posted_at": "2026-11-06T12:42:07Z",
-      "fetched_at": "2026-11-09T06:43:52Z",
-      "score": 4,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "LLM",
-        "benchmark"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50391948",
-      "hn_id": 50391948,
-      "title": "Everything I Wish I Knew About AI Inference Engineering [video]",
-      "url": "https://www.youtube.com/watch?v=bn82CJfeYko",
-      "hn_url": "https://news.ycombinator.com/item?id=50391948",
-      "category": "AI",
-      "posted_at": "2026-11-06T13:16:14Z",
-      "fetched_at": "2026-11-08T06:09:47Z",
-      "score": 3,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "inference"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50418975",
       "hn_id": 50418975,
       "title": "I'm not convinced the AI bubble exists",
@@ -834,6 +769,63 @@
       "fetched_at": "2026-11-13T06:51:51Z",
       "score": 191,
       "comment_count": 110,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "agent"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50474311",
+      "hn_id": 50474311,
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50474311",
+      "category": "AI",
+      "posted_at": "2026-11-12T21:09:49Z",
+      "fetched_at": "2026-11-13T06:52:39Z",
+      "score": 152,
+      "comment_count": 147,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50422628",
+      "hn_id": 50422628,
+      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+      "url": "https://news.ycombinator.com/item?id=50422628",
+      "hn_url": "https://news.ycombinator.com/item?id=50422628",
+      "category": "AI",
+      "posted_at": "2026-11-09T08:17:49Z",
+      "fetched_at": "2026-11-13T06:51:51Z",
+      "score": 220,
+      "comment_count": 79,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "agent"
+      ],
+      "snippet": "The agent running on a remote machine can authenticate using your local SSH credentials. That means it can push to your private repos on GitHub, for example. Proof: https://github.com/openai/codex/pull/28131#discussion_r3410013180"
+    },
+    {
+      "id": "HN-50402212",
+      "hn_id": 50402212,
+      "title": "The Components of Agent Memory",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "hn_url": "https://news.ycombinator.com/item?id=50402212",
+      "category": "Other",
+      "posted_at": "2026-11-07T06:39:04Z",
+      "fetched_at": "2026-11-11T19:39:38Z",
+      "score": 189,
+      "comment_count": 104,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
