@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-13T02:03:44Z",
-  "source_data_as_of": "2026-11-12T20:00:26Z",
+  "generated_at": "2026-11-13T09:54:09Z",
+  "source_data_as_of": "2026-11-13T06:52:39Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-06T02:03:44Z",
-  "eligible_count_before_dedup": 453,
+  "window_start": "2026-11-06T09:54:09Z",
+  "eligible_count_before_dedup": 462,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "c7af8b5ae6687758c69a62751a8bf763898fc229"
+    "commit": "fd97ca842e499f3389cc0ba2e5fcab24c365eeda"
   },
   "articles": [
     {
@@ -91,8 +91,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50443812",
       "category": "Web",
       "posted_at": "2026-11-10T18:01:15Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
-      "score": 434,
+      "fetched_at": "2026-11-13T06:51:51Z",
+      "score": 436,
       "comment_count": 145,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -113,8 +113,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50455633",
       "category": "Other",
       "posted_at": "2026-11-11T16:57:45Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
-      "score": 229,
+      "fetched_at": "2026-11-13T06:51:51Z",
+      "score": 233,
       "comment_count": 38,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -133,9 +133,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50437106",
       "category": "AI",
       "posted_at": "2026-11-10T07:19:38Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
-      "score": 164,
-      "comment_count": 65,
+      "fetched_at": "2026-11-13T06:51:51Z",
+      "score": 165,
+      "comment_count": 66,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -153,8 +153,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50454951",
       "category": "Security",
       "posted_at": "2026-11-11T16:00:50Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
-      "score": 82,
+      "fetched_at": "2026-11-13T06:51:51Z",
+      "score": 83,
       "comment_count": 32,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -166,6 +166,26 @@
         "coding"
       ],
       "snippet": "I've been developing applications for a long time and have turned to game development as well lately. One of the things that frustrated me the most was that using AI agents for game development is very annoying in the art department. Your only options right now are to either use an image genAI model and roll the dice every time you want to make an edit, or have your agent draw with something like vectors. I was looking for an application that would allow me to ask an agent to make a first draft "
+    },
+    {
+      "id": "HN-50476586",
+      "hn_id": 50476586,
+      "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+      "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50476586",
+      "category": "AI",
+      "posted_at": "2026-11-13T00:38:41Z",
+      "fetched_at": "2026-11-13T06:52:39Z",
+      "score": 71,
+      "comment_count": 22,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI",
+        "search"
+      ],
+      "snippet": ""
     },
     {
       "id": "HN-50424199",
@@ -195,17 +215,59 @@
       "hn_url": "https://news.ycombinator.com/item?id=50460398",
       "category": "Web",
       "posted_at": "2026-11-11T23:22:29Z",
-      "fetched_at": "2026-11-12T20:00:26Z",
+      "fetched_at": "2026-11-13T06:51:51Z",
       "score": 34,
-      "comment_count": 8,
-      "score_gain_24h_observed": 3,
-      "comment_gain_24h_observed": 1,
+      "comment_count": 9,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "coding agent"
       ],
       "selection_hints": [
         "agent",
         "coding"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50472738",
+      "hn_id": 50472738,
+      "title": "Relate – the agent-native graph database",
+      "url": "https://relatedb.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=50472738",
+      "category": "Database",
+      "posted_at": "2026-11-12T19:21:00Z",
+      "fetched_at": "2026-11-13T06:52:39Z",
+      "score": 21,
+      "comment_count": 9,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "agent",
+        "database"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50471673",
+      "hn_id": 50471673,
+      "title": "Hugging Face CEO vows to keep fighting for open-source AI",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "hn_url": "https://news.ycombinator.com/item?id=50471673",
+      "category": "AI",
+      "posted_at": "2026-11-12T18:17:29Z",
+      "fetched_at": "2026-11-13T06:52:39Z",
+      "score": 21,
+      "comment_count": 2,
+      "score_gain_24h_observed": 11,
+      "comment_gain_24h_observed": 2,
+      "keywords": [
+        "open source"
+      ],
+      "selection_hints": [
+        "AI",
+        "open source"
       ],
       "snippet": ""
     },
@@ -252,28 +314,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50469203",
-      "hn_id": 50469203,
-      "title": "Chicago schools tell Google they'd rather lose Search than be forced to use AI",
-      "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50469203",
-      "category": "AI",
-      "posted_at": "2026-11-12T15:40:37Z",
-      "fetched_at": "2026-11-12T20:00:26Z",
-      "score": 11,
-      "comment_count": 4,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "use ai"
-      ],
-      "selection_hints": [
-        "AI",
-        "search"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50432661",
       "hn_id": 50432661,
       "title": "USB: A trust layer for AI skills and MCP servers",
@@ -301,7 +341,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50456277",
       "category": "Other",
       "posted_at": "2026-11-11T17:53:23Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
+      "fetched_at": "2026-11-13T06:51:51Z",
       "score": 13,
       "comment_count": 0,
       "score_gain_24h_observed": null,
@@ -328,52 +368,12 @@
       "comment_count": 0,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
-      "keywords": [],
+      "keywords": [
+        "ai search"
+      ],
       "selection_hints": [
         "AI",
         "search"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50471673",
-      "hn_id": 50471673,
-      "title": "Hugging Face CEO vows to keep fighting for open-source AI",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "hn_url": "https://news.ycombinator.com/item?id=50471673",
-      "category": "AI",
-      "posted_at": "2026-11-12T18:17:29Z",
-      "fetched_at": "2026-11-12T20:00:26Z",
-      "score": 10,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open source"
-      ],
-      "selection_hints": [
-        "AI",
-        "open source"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50452395",
-      "hn_id": 50452395,
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "hn_url": "https://news.ycombinator.com/item?id=50452395",
-      "category": "Security",
-      "posted_at": "2026-11-11T11:59:38Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
-      "score": 8,
-      "comment_count": 2,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "security"
       ],
       "snippet": ""
     },
@@ -385,17 +385,37 @@
       "hn_url": "https://news.ycombinator.com/item?id=50464872",
       "category": "Programming",
       "posted_at": "2026-11-12T09:18:45Z",
-      "fetched_at": "2026-11-12T20:00:26Z",
-      "score": 7,
+      "fetched_at": "2026-11-13T06:52:39Z",
+      "score": 9,
       "comment_count": 1,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "score_gain_24h_observed": 2,
+      "comment_gain_24h_observed": 0,
       "keywords": [
         "coding agent"
       ],
       "selection_hints": [
         "agent",
         "coding"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50452395",
+      "hn_id": 50452395,
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "hn_url": "https://news.ycombinator.com/item?id=50452395",
+      "category": "Security",
+      "posted_at": "2026-11-11T11:59:38Z",
+      "fetched_at": "2026-11-13T06:51:51Z",
+      "score": 8,
+      "comment_count": 2,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI",
+        "security"
       ],
       "snippet": ""
     },
@@ -447,12 +467,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50418975",
       "category": "AI",
       "posted_at": "2026-11-08T23:44:36Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
+      "fetched_at": "2026-11-13T06:51:51Z",
       "score": 573,
       "comment_count": 972,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
-      "keywords": [],
+      "keywords": [
+        "ai bubble"
+      ],
       "selection_hints": [
         "AI"
       ],
@@ -466,9 +488,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50452455",
       "category": "AI",
       "posted_at": "2026-11-11T12:05:22Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
-      "score": 1024,
-      "comment_count": 385,
+      "fetched_at": "2026-11-13T06:51:51Z",
+      "score": 1030,
+      "comment_count": 391,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -487,11 +509,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50458900",
       "category": "AI",
       "posted_at": "2026-11-11T21:24:35Z",
-      "fetched_at": "2026-11-12T20:00:26Z",
-      "score": 651,
-      "comment_count": 679,
-      "score_gain_24h_observed": 137,
-      "comment_gain_24h_observed": 176,
+      "fetched_at": "2026-11-13T06:51:51Z",
+      "score": 669,
+      "comment_count": 694,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "ai agents"
       ],
@@ -508,9 +530,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50438318",
       "category": "AI",
       "posted_at": "2026-11-10T10:25:58Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
-      "score": 637,
-      "comment_count": 622,
+      "fetched_at": "2026-11-13T06:51:51Z",
+      "score": 639,
+      "comment_count": 624,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -529,9 +551,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50446520",
       "category": "AI",
       "posted_at": "2026-11-10T21:25:03Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
-      "score": 549,
-      "comment_count": 550,
+      "fetched_at": "2026-11-13T06:51:51Z",
+      "score": 555,
+      "comment_count": 552,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -551,9 +573,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50418176",
       "category": "Security",
       "posted_at": "2026-11-08T22:35:35Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
+      "fetched_at": "2026-11-13T06:51:51Z",
       "score": 769,
-      "comment_count": 235,
+      "comment_count": 236,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -572,7 +594,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50406563",
       "category": "AI",
       "posted_at": "2026-11-07T18:02:17Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
+      "fetched_at": "2026-11-13T06:51:51Z",
       "score": 513,
       "comment_count": 309,
       "score_gain_24h_observed": null,
@@ -610,11 +632,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50463899",
       "category": "Security",
       "posted_at": "2026-11-12T06:52:48Z",
-      "fetched_at": "2026-11-12T20:00:26Z",
-      "score": 343,
-      "comment_count": 207,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "fetched_at": "2026-11-13T06:52:39Z",
+      "score": 376,
+      "comment_count": 222,
+      "score_gain_24h_observed": 33,
+      "comment_gain_24h_observed": 15,
       "keywords": [],
       "selection_hints": [
         "security"
@@ -629,8 +651,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50416363",
       "category": "AI",
       "posted_at": "2026-11-08T19:37:42Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
-      "score": 313,
+      "fetched_at": "2026-11-13T06:51:51Z",
+      "score": 314,
       "comment_count": 215,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -648,7 +670,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50416053",
       "category": "Security",
       "posted_at": "2026-11-08T19:08:51Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
+      "fetched_at": "2026-11-13T06:51:51Z",
       "score": 345,
       "comment_count": 149,
       "score_gain_24h_observed": null,
@@ -662,25 +684,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50388513",
-      "hn_id": 50388513,
-      "title": "I struggle to believe that AI R&D is ingenious",
-      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-      "hn_url": "https://news.ycombinator.com/item?id=50388513",
-      "category": "AI",
-      "posted_at": "2026-11-06T05:19:04Z",
-      "fetched_at": "2026-11-11T19:39:38Z",
-      "score": 221,
-      "comment_count": 225,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50454625",
       "hn_id": 50454625,
       "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
@@ -688,9 +691,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50454625",
       "category": "Security",
       "posted_at": "2026-11-11T15:33:06Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
-      "score": 282,
-      "comment_count": 108,
+      "fetched_at": "2026-11-13T06:51:51Z",
+      "score": 290,
+      "comment_count": 111,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -709,12 +712,33 @@
       "hn_url": "https://news.ycombinator.com/item?id=50435660",
       "category": "AI",
       "posted_at": "2026-11-10T03:20:06Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
+      "fetched_at": "2026-11-13T06:51:51Z",
       "score": 196,
       "comment_count": 192,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50457164",
+      "hn_id": 50457164,
+      "title": "Retirement Savings Are Fueling the AI Bubble",
+      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+      "hn_url": "https://news.ycombinator.com/item?id=50457164",
+      "category": "AI",
+      "posted_at": "2026-11-11T19:06:43Z",
+      "fetched_at": "2026-11-13T06:51:51Z",
+      "score": 165,
+      "comment_count": 195,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai bubble"
+      ],
       "selection_hints": [
         "AI"
       ],
@@ -759,19 +783,22 @@
       "snippet": ""
     },
     {
-      "id": "HN-50457164",
-      "hn_id": 50457164,
-      "title": "Retirement Savings Are Fueling the AI Bubble",
-      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
-      "hn_url": "https://news.ycombinator.com/item?id=50457164",
+      "id": "HN-50474883",
+      "hn_id": 50474883,
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "hn_url": "https://news.ycombinator.com/item?id=50474883",
       "category": "AI",
-      "posted_at": "2026-11-11T19:06:43Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
-      "score": 165,
-      "comment_count": 187,
+      "posted_at": "2026-11-12T21:56:11Z",
+      "fetched_at": "2026-11-13T06:52:39Z",
+      "score": 257,
+      "comment_count": 74,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
-      "keywords": [],
+      "keywords": [
+        "ai models",
+        "frontier ai"
+      ],
       "selection_hints": [
         "AI"
       ],
@@ -785,9 +812,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50453637",
       "category": "Other",
       "posted_at": "2026-11-11T14:10:46Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
-      "score": 229,
-      "comment_count": 83,
+      "fetched_at": "2026-11-13T06:51:51Z",
+      "score": 234,
+      "comment_count": 84,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -804,7 +831,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50411467",
       "category": "Other",
       "posted_at": "2026-11-08T08:40:23Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
+      "fetched_at": "2026-11-13T06:51:51Z",
       "score": 191,
       "comment_count": 110,
       "score_gain_24h_observed": null,
@@ -814,25 +841,6 @@
         "agent"
       ],
       "snippet": ""
-    },
-    {
-      "id": "HN-50422628",
-      "hn_id": 50422628,
-      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-      "url": "https://news.ycombinator.com/item?id=50422628",
-      "hn_url": "https://news.ycombinator.com/item?id=50422628",
-      "category": "AI",
-      "posted_at": "2026-11-09T08:17:49Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
-      "score": 219,
-      "comment_count": 79,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "agent"
-      ],
-      "snippet": "The agent running on a remote machine can authenticate using your local SSH credentials. That means it can push to your private repos on GitHub, for example. Proof: https://github.com/openai/codex/pull/28131#discussion_r3410013180"
     }
   ],
   "candidate_count": 40
