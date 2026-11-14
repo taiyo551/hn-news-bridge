@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-13T23:47:57Z",
-  "source_data_as_of": "2026-11-13T19:48:17Z",
+  "generated_at": "2026-11-14T06:55:54Z",
+  "source_data_as_of": "2026-11-14T06:33:58Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-06T23:47:57Z",
-  "eligible_count_before_dedup": 419,
+  "window_start": "2026-11-07T06:55:54Z",
+  "eligible_count_before_dedup": 447,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "e45f741a267122a1f6e4c177553518eb036cc6d2"
+    "commit": "5d95e3e21e2e0bad5d9610fb371cc693b7bce829"
   },
   "articles": [
     {
@@ -45,9 +45,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50451943",
       "category": "AI",
       "posted_at": "2026-11-11T10:55:46Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
-      "score": 6,
-      "comment_count": 1,
+      "fetched_at": "2026-11-14T06:33:10Z",
+      "score": 10,
+      "comment_count": 2,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -87,7 +87,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50443812",
       "category": "Web",
       "posted_at": "2026-11-10T18:01:15Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
+      "fetched_at": "2026-11-14T06:33:10Z",
       "score": 442,
       "comment_count": 146,
       "score_gain_24h_observed": null,
@@ -102,6 +102,46 @@
       "snippet": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0]) Models know about some of these by name, but consistently won't default to using the platform-native solution and instead prefer the incumbent +JS based pattern. We starte"
     },
     {
+      "id": "HN-50484658",
+      "hn_id": 50484658,
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "hn_url": "https://news.ycombinator.com/item?id=50484658",
+      "category": "AI",
+      "posted_at": "2026-11-13T15:08:44Z",
+      "fetched_at": "2026-11-14T06:33:58Z",
+      "score": 213,
+      "comment_count": 211,
+      "score_gain_24h_observed": 78,
+      "comment_gain_24h_observed": 103,
+      "keywords": [],
+      "selection_hints": [
+        "AI",
+        "coding"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50484960",
+      "hn_id": 50484960,
+      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "url": "https://text.npr.org/nx-s1-6029408",
+      "hn_url": "https://news.ycombinator.com/item?id=50484960",
+      "category": "Other",
+      "posted_at": "2026-11-13T15:29:10Z",
+      "fetched_at": "2026-11-14T06:33:58Z",
+      "score": 182,
+      "comment_count": 171,
+      "score_gain_24h_observed": 71,
+      "comment_gain_24h_observed": 64,
+      "keywords": [],
+      "selection_hints": [
+        "AI",
+        "search"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50455633",
       "hn_id": 50455633,
       "title": "Faster Retrieval for Better, More Efficient RAG",
@@ -109,8 +149,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50455633",
       "category": "Other",
       "posted_at": "2026-11-11T16:57:45Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
-      "score": 237,
+      "fetched_at": "2026-11-14T06:33:10Z",
+      "score": 239,
       "comment_count": 39,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -122,26 +162,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50484658",
-      "hn_id": 50484658,
-      "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "hn_url": "https://news.ycombinator.com/item?id=50484658",
-      "category": "AI",
-      "posted_at": "2026-11-13T15:08:44Z",
-      "fetched_at": "2026-11-13T19:48:17Z",
-      "score": 135,
-      "comment_count": 108,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "coding"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50437106",
       "hn_id": 50437106,
       "title": "Fireworks AI security breach impacts Notion and their customers",
@@ -149,7 +169,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50437106",
       "category": "AI",
       "posted_at": "2026-11-10T07:19:38Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
+      "fetched_at": "2026-11-14T06:33:10Z",
       "score": 166,
       "comment_count": 66,
       "score_gain_24h_observed": null,
@@ -162,16 +182,16 @@
       "snippet": ""
     },
     {
-      "id": "HN-50484960",
-      "hn_id": 50484960,
-      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-      "url": "https://text.npr.org/nx-s1-6029408",
-      "hn_url": "https://news.ycombinator.com/item?id=50484960",
-      "category": "Other",
-      "posted_at": "2026-11-13T15:29:10Z",
-      "fetched_at": "2026-11-13T19:48:17Z",
-      "score": 111,
-      "comment_count": 107,
+      "id": "HN-50476586",
+      "hn_id": 50476586,
+      "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+      "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50476586",
+      "category": "AI",
+      "posted_at": "2026-11-13T00:38:41Z",
+      "fetched_at": "2026-11-14T06:33:10Z",
+      "score": 89,
+      "comment_count": 29,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -189,7 +209,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50454951",
       "category": "Security",
       "posted_at": "2026-11-11T16:00:50Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
+      "fetched_at": "2026-11-14T06:33:10Z",
       "score": 83,
       "comment_count": 34,
       "score_gain_24h_observed": null,
@@ -202,26 +222,6 @@
         "coding"
       ],
       "snippet": "I've been developing applications for a long time and have turned to game development as well lately. One of the things that frustrated me the most was that using AI agents for game development is very annoying in the art department. Your only options right now are to either use an image genAI model and roll the dice every time you want to make an edit, or have your agent draw with something like vectors. I was looking for an application that would allow me to ask an agent to make a first draft "
-    },
-    {
-      "id": "HN-50476586",
-      "hn_id": 50476586,
-      "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-      "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50476586",
-      "category": "AI",
-      "posted_at": "2026-11-13T00:38:41Z",
-      "fetched_at": "2026-11-13T19:48:17Z",
-      "score": 88,
-      "comment_count": 28,
-      "score_gain_24h_observed": 17,
-      "comment_gain_24h_observed": 6,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "search"
-      ],
-      "snippet": ""
     },
     {
       "id": "HN-50424199",
@@ -273,7 +273,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50472738",
       "category": "Database",
       "posted_at": "2026-11-12T19:21:00Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
+      "fetched_at": "2026-11-14T06:33:10Z",
       "score": 22,
       "comment_count": 9,
       "score_gain_24h_observed": null,
@@ -293,7 +293,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50471673",
       "category": "AI",
       "posted_at": "2026-11-12T18:17:29Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
+      "fetched_at": "2026-11-14T06:33:10Z",
       "score": 21,
       "comment_count": 2,
       "score_gain_24h_observed": null,
@@ -304,26 +304,6 @@
       "selection_hints": [
         "AI",
         "open source"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50401213",
-      "hn_id": 50401213,
-      "title": "Brave Sells Its Search Index to AI, and Your Website Is Probably in It",
-      "url": "https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/",
-      "hn_url": "https://news.ycombinator.com/item?id=50401213",
-      "category": "Web",
-      "posted_at": "2026-11-07T02:59:27Z",
-      "fetched_at": "2026-11-09T06:43:52Z",
-      "score": 15,
-      "comment_count": 4,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "search"
       ],
       "snippet": ""
     },
@@ -421,7 +401,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50464872",
       "category": "Programming",
       "posted_at": "2026-11-12T09:18:45Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
+      "fetched_at": "2026-11-14T06:33:10Z",
       "score": 9,
       "comment_count": 1,
       "score_gain_24h_observed": null,
@@ -456,6 +436,28 @@
       "snippet": ""
     },
     {
+      "id": "HN-50493213",
+      "hn_id": 50493213,
+      "title": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
+      "url": "https://opencyclone.vercel.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50493213",
+      "category": "AI",
+      "posted_at": "2026-11-14T02:46:12Z",
+      "fetched_at": "2026-11-14T06:33:58Z",
+      "score": 4,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open source"
+      ],
+      "selection_hints": [
+        "AI",
+        "open source"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50418975",
       "hn_id": 50418975,
       "title": "I'm not convinced the AI bubble exists",
@@ -463,8 +465,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50418975",
       "category": "AI",
       "posted_at": "2026-11-08T23:44:36Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
-      "score": 574,
+      "fetched_at": "2026-11-14T06:33:10Z",
+      "score": 577,
       "comment_count": 974,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -484,8 +486,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50452455",
       "category": "AI",
       "posted_at": "2026-11-11T12:05:22Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
-      "score": 1033,
+      "fetched_at": "2026-11-14T06:33:10Z",
+      "score": 1035,
       "comment_count": 392,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -505,9 +507,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50458900",
       "category": "AI",
       "posted_at": "2026-11-11T21:24:35Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
-      "score": 676,
-      "comment_count": 698,
+      "fetched_at": "2026-11-14T06:33:10Z",
+      "score": 677,
+      "comment_count": 702,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -526,9 +528,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50438318",
       "category": "AI",
       "posted_at": "2026-11-10T10:25:58Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
+      "fetched_at": "2026-11-14T06:33:10Z",
       "score": 641,
-      "comment_count": 625,
+      "comment_count": 626,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -547,8 +549,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50446520",
       "category": "AI",
       "posted_at": "2026-11-10T21:25:03Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
-      "score": 561,
+      "fetched_at": "2026-11-14T06:33:10Z",
+      "score": 566,
       "comment_count": 557,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -569,9 +571,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50418176",
       "category": "Security",
       "posted_at": "2026-11-08T22:35:35Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
-      "score": 769,
-      "comment_count": 237,
+      "fetched_at": "2026-11-14T06:33:10Z",
+      "score": 770,
+      "comment_count": 238,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -590,11 +592,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50481187",
       "category": "AI",
       "posted_at": "2026-11-13T10:18:13Z",
-      "fetched_at": "2026-11-13T19:48:17Z",
-      "score": 462,
-      "comment_count": 373,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "fetched_at": "2026-11-14T06:33:58Z",
+      "score": 488,
+      "comment_count": 383,
+      "score_gain_24h_observed": 26,
+      "comment_gain_24h_observed": 10,
       "keywords": [
         "claude code"
       ],
@@ -611,8 +613,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50406563",
       "category": "AI",
       "posted_at": "2026-11-07T18:02:17Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
-      "score": 513,
+      "fetched_at": "2026-11-14T06:33:10Z",
+      "score": 514,
       "comment_count": 309,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -630,14 +632,33 @@
       "hn_url": "https://news.ycombinator.com/item?id=50463899",
       "category": "Security",
       "posted_at": "2026-11-12T06:52:48Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
-      "score": 400,
-      "comment_count": 235,
+      "fetched_at": "2026-11-14T06:33:10Z",
+      "score": 405,
+      "comment_count": 236,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "security"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50481870",
+      "hn_id": 50481870,
+      "title": "AI is destroying the trust between writers and readers",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "hn_url": "https://news.ycombinator.com/item?id=50481870",
+      "category": "AI",
+      "posted_at": "2026-11-13T11:13:46Z",
+      "fetched_at": "2026-11-14T06:33:58Z",
+      "score": 332,
+      "comment_count": 203,
+      "score_gain_24h_observed": 69,
+      "comment_gain_24h_observed": 46,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
       ],
       "snippet": ""
     },
@@ -661,27 +682,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50416053",
-      "hn_id": 50416053,
-      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-      "url": "https://duxlabs.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=50416053",
-      "category": "Security",
-      "posted_at": "2026-11-08T19:08:51Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
-      "score": 346,
-      "comment_count": 149,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open source"
-      ],
-      "selection_hints": [
-        "open source"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50474883",
       "hn_id": 50474883,
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
@@ -689,15 +689,75 @@
       "hn_url": "https://news.ycombinator.com/item?id=50474883",
       "category": "AI",
       "posted_at": "2026-11-12T21:56:11Z",
-      "fetched_at": "2026-11-13T19:48:17Z",
-      "score": 349,
-      "comment_count": 145,
-      "score_gain_24h_observed": 92,
-      "comment_gain_24h_observed": 71,
+      "fetched_at": "2026-11-14T06:33:10Z",
+      "score": 357,
+      "comment_count": 152,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "ai models",
         "frontier ai"
       ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50416053",
+      "hn_id": 50416053,
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "url": "https://duxlabs.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=50416053",
+      "category": "Security",
+      "posted_at": "2026-11-08T19:08:51Z",
+      "fetched_at": "2026-11-14T06:33:10Z",
+      "score": 346,
+      "comment_count": 150,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open source",
+        "free open"
+      ],
+      "selection_hints": [
+        "open source"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50493251",
+      "hn_id": 50493251,
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "hn_url": "https://news.ycombinator.com/item?id=50493251",
+      "category": "AI",
+      "posted_at": "2026-11-14T02:52:59Z",
+      "fetched_at": "2026-11-14T06:33:58Z",
+      "score": 311,
+      "comment_count": 156,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50486748",
+      "hn_id": 50486748,
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "hn_url": "https://news.ycombinator.com/item?id=50486748",
+      "category": "AI",
+      "posted_at": "2026-11-13T17:30:10Z",
+      "fetched_at": "2026-11-14T06:33:58Z",
+      "score": 369,
+      "comment_count": 96,
+      "score_gain_24h_observed": 189,
+      "comment_gain_24h_observed": 54,
+      "keywords": [],
       "selection_hints": [
         "AI"
       ],
@@ -711,11 +771,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50475713",
       "category": "AI",
       "posted_at": "2026-11-12T23:06:17Z",
-      "fetched_at": "2026-11-13T19:48:17Z",
-      "score": 331,
-      "comment_count": 100,
-      "score_gain_24h_observed": 142,
-      "comment_gain_24h_observed": 51,
+      "fetched_at": "2026-11-14T06:33:10Z",
+      "score": 344,
+      "comment_count": 104,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "frontier ai"
       ],
@@ -732,28 +792,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50474311",
       "category": "AI",
       "posted_at": "2026-11-12T21:09:49Z",
-      "fetched_at": "2026-11-13T19:48:17Z",
-      "score": 194,
-      "comment_count": 227,
-      "score_gain_24h_observed": 42,
-      "comment_gain_24h_observed": 80,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50481870",
-      "hn_id": 50481870,
-      "title": "AI is destroying the trust between writers and readers",
-      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-      "hn_url": "https://news.ycombinator.com/item?id=50481870",
-      "category": "AI",
-      "posted_at": "2026-11-13T11:13:46Z",
-      "fetched_at": "2026-11-13T19:48:17Z",
-      "score": 263,
-      "comment_count": 157,
+      "fetched_at": "2026-11-14T06:33:10Z",
+      "score": 197,
+      "comment_count": 232,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -770,9 +811,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50454625",
       "category": "Security",
       "posted_at": "2026-11-11T15:33:06Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
-      "score": 296,
-      "comment_count": 113,
+      "fetched_at": "2026-11-14T06:33:10Z",
+      "score": 298,
+      "comment_count": 114,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -791,54 +832,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50477649",
       "category": "AI",
       "posted_at": "2026-11-13T03:08:08Z",
-      "fetched_at": "2026-11-13T19:48:17Z",
-      "score": 250,
-      "comment_count": 140,
-      "score_gain_24h_observed": 201,
-      "comment_gain_24h_observed": 123,
+      "fetched_at": "2026-11-14T06:33:10Z",
+      "score": 259,
+      "comment_count": 150,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "search"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50435660",
-      "hn_id": 50435660,
-      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50435660",
-      "category": "AI",
-      "posted_at": "2026-11-10T03:20:06Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
-      "score": 196,
-      "comment_count": 192,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50457164",
-      "hn_id": 50457164,
-      "title": "Retirement Savings Are Fueling the AI Bubble",
-      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
-      "hn_url": "https://news.ycombinator.com/item?id=50457164",
-      "category": "AI",
-      "posted_at": "2026-11-11T19:06:43Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
-      "score": 165,
-      "comment_count": 196,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai bubble"
-      ],
-      "selection_hints": [
-        "AI"
       ],
       "snippet": ""
     }
