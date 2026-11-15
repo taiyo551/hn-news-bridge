@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-15T02:59:14Z",
-  "source_data_as_of": "2026-11-14T22:31:01Z",
+  "generated_at": "2026-11-15T11:25:32Z",
+  "source_data_as_of": "2026-11-15T06:41:36Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-08T02:59:14Z",
-  "eligible_count_before_dedup": 459,
+  "window_start": "2026-11-08T11:25:32Z",
+  "eligible_count_before_dedup": 464,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "bda7c49990d4f2e649faebe58a23e76a7ed83c62"
+    "commit": "56d8c5ad68fde578af72e6a3f34dcaca43144770"
   },
   "articles": [
     {
@@ -45,7 +45,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50451943",
       "category": "AI",
       "posted_at": "2026-11-11T10:55:46Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
+      "fetched_at": "2026-11-15T06:40:49Z",
       "score": 10,
       "comment_count": 2,
       "score_gain_24h_observed": null,
@@ -87,9 +87,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50484658",
       "category": "AI",
       "posted_at": "2026-11-13T15:08:44Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
-      "score": 451,
-      "comment_count": 651,
+      "fetched_at": "2026-11-15T06:40:49Z",
+      "score": 468,
+      "comment_count": 688,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -107,8 +107,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50443812",
       "category": "Web",
       "posted_at": "2026-11-10T18:01:15Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
-      "score": 443,
+      "fetched_at": "2026-11-15T06:40:49Z",
+      "score": 444,
       "comment_count": 146,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -129,9 +129,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50484960",
       "category": "Other",
       "posted_at": "2026-11-13T15:29:10Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
-      "score": 191,
-      "comment_count": 191,
+      "fetched_at": "2026-11-15T06:40:49Z",
+      "score": 193,
+      "comment_count": 193,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -149,8 +149,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50455633",
       "category": "Other",
       "posted_at": "2026-11-11T16:57:45Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
-      "score": 240,
+      "fetched_at": "2026-11-15T06:40:49Z",
+      "score": 241,
       "comment_count": 39,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -169,8 +169,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50437106",
       "category": "AI",
       "posted_at": "2026-11-10T07:19:38Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
-      "score": 166,
+      "fetched_at": "2026-11-15T06:40:49Z",
+      "score": 167,
       "comment_count": 65,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -209,7 +209,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50454951",
       "category": "Security",
       "posted_at": "2026-11-11T16:00:50Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
+      "fetched_at": "2026-11-15T06:40:49Z",
       "score": 83,
       "comment_count": 34,
       "score_gain_24h_observed": null,
@@ -286,6 +286,28 @@
       "snippet": ""
     },
     {
+      "id": "HN-50496590",
+      "hn_id": 50496590,
+      "title": "Open-source AI without Jensen",
+      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "hn_url": "https://news.ycombinator.com/item?id=50496590",
+      "category": "AI",
+      "posted_at": "2026-11-14T12:44:01Z",
+      "fetched_at": "2026-11-15T06:41:36Z",
+      "score": 22,
+      "comment_count": 6,
+      "score_gain_24h_observed": 16,
+      "comment_gain_24h_observed": 3,
+      "keywords": [
+        "open source"
+      ],
+      "selection_hints": [
+        "AI",
+        "open source"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50471673",
       "hn_id": 50471673,
       "title": "Hugging Face CEO vows to keep fighting for open-source AI",
@@ -308,6 +330,26 @@
       "snippet": ""
     },
     {
+      "id": "HN-50494244",
+      "hn_id": 50494244,
+      "title": "Transforming Ripgrep's Documentation with AI Automation and MkDocs",
+      "url": "https://entropicdrift.com/blog/mkdocs-drift-automation/",
+      "hn_url": "https://news.ycombinator.com/item?id=50494244",
+      "category": "AI",
+      "posted_at": "2026-11-14T05:19:51Z",
+      "fetched_at": "2026-11-15T06:40:49Z",
+      "score": 13,
+      "comment_count": 4,
+      "score_gain_24h_observed": 0,
+      "comment_gain_24h_observed": 0,
+      "keywords": [],
+      "selection_hints": [
+        "AI",
+        "automation"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50428377",
       "hn_id": 50428377,
       "title": "Parents, teachers call Google's Search threat over AI blocks 'extortion'",
@@ -326,48 +368,6 @@
       "selection_hints": [
         "AI",
         "search"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50496590",
-      "hn_id": 50496590,
-      "title": "Open-source AI without Jensen",
-      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
-      "hn_url": "https://news.ycombinator.com/item?id=50496590",
-      "category": "AI",
-      "posted_at": "2026-11-14T12:44:01Z",
-      "fetched_at": "2026-11-14T22:31:01Z",
-      "score": 12,
-      "comment_count": 4,
-      "score_gain_24h_observed": 6,
-      "comment_gain_24h_observed": 1,
-      "keywords": [
-        "open source"
-      ],
-      "selection_hints": [
-        "AI",
-        "open source"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50494244",
-      "hn_id": 50494244,
-      "title": "Transforming Ripgrep's Documentation with AI Automation and MkDocs",
-      "url": "https://entropicdrift.com/blog/mkdocs-drift-automation/",
-      "hn_url": "https://news.ycombinator.com/item?id=50494244",
-      "category": "AI",
-      "posted_at": "2026-11-14T05:19:51Z",
-      "fetched_at": "2026-11-14T22:31:01Z",
-      "score": 12,
-      "comment_count": 4,
-      "score_gain_24h_observed": 0,
-      "comment_gain_24h_observed": 0,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "automation"
       ],
       "snippet": ""
     },
@@ -443,7 +443,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50497161",
       "category": "AI",
       "posted_at": "2026-11-14T14:10:31Z",
-      "fetched_at": "2026-11-14T22:31:01Z",
+      "fetched_at": "2026-11-15T06:41:36Z",
       "score": 10,
       "comment_count": 1,
       "score_gain_24h_observed": 3,
@@ -507,17 +507,37 @@
       "hn_url": "https://news.ycombinator.com/item?id=50493213",
       "category": "AI",
       "posted_at": "2026-11-14T02:46:12Z",
-      "fetched_at": "2026-11-14T22:31:01Z",
+      "fetched_at": "2026-11-15T06:40:49Z",
       "score": 8,
       "comment_count": 1,
-      "score_gain_24h_observed": 4,
-      "comment_gain_24h_observed": 1,
+      "score_gain_24h_observed": 0,
+      "comment_gain_24h_observed": 0,
       "keywords": [
         "open source"
       ],
       "selection_hints": [
         "AI",
         "open source"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50503511",
+      "hn_id": 50503511,
+      "title": "ChatMate: Remote Prompt Execution on AI Assistants Through Sandbox Escaping [video]",
+      "url": "https://www.youtube.com/watch?v=MspRSCAb6uI",
+      "hn_url": "https://news.ycombinator.com/item?id=50503511",
+      "category": "AI",
+      "posted_at": "2026-11-15T02:49:18Z",
+      "fetched_at": "2026-11-15T06:41:36Z",
+      "score": 5,
+      "comment_count": 1,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI",
+        "prompt"
       ],
       "snippet": ""
     },
@@ -529,7 +549,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50490160",
       "category": "AI",
       "posted_at": "2026-11-13T21:37:07Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
+      "fetched_at": "2026-11-15T06:40:49Z",
       "score": 3,
       "comment_count": 1,
       "score_gain_24h_observed": null,
@@ -552,11 +572,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50493251",
       "category": "AI",
       "posted_at": "2026-11-14T02:52:59Z",
-      "fetched_at": "2026-11-14T22:31:01Z",
-      "score": 1010,
-      "comment_count": 608,
-      "score_gain_24h_observed": 699,
-      "comment_gain_24h_observed": 452,
+      "fetched_at": "2026-11-15T06:40:49Z",
+      "score": 1062,
+      "comment_count": 629,
+      "score_gain_24h_observed": 55,
+      "comment_gain_24h_observed": 31,
       "keywords": [],
       "selection_hints": [
         "AI"
@@ -571,7 +591,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50418975",
       "category": "AI",
       "posted_at": "2026-11-08T23:44:36Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
+      "fetched_at": "2026-11-15T06:40:49Z",
       "score": 578,
       "comment_count": 974,
       "score_gain_24h_observed": null,
@@ -592,7 +612,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50452455",
       "category": "AI",
       "posted_at": "2026-11-11T12:05:22Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
+      "fetched_at": "2026-11-15T06:40:49Z",
       "score": 1035,
       "comment_count": 392,
       "score_gain_24h_observed": null,
@@ -613,9 +633,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50458900",
       "category": "AI",
       "posted_at": "2026-11-11T21:24:35Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
+      "fetched_at": "2026-11-15T06:40:49Z",
       "score": 680,
-      "comment_count": 706,
+      "comment_count": 707,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -634,8 +654,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50438318",
       "category": "AI",
       "posted_at": "2026-11-10T10:25:58Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
-      "score": 642,
+      "fetched_at": "2026-11-15T06:40:49Z",
+      "score": 643,
       "comment_count": 626,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -655,9 +675,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50446520",
       "category": "AI",
       "posted_at": "2026-11-10T21:25:03Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
-      "score": 569,
-      "comment_count": 559,
+      "fetched_at": "2026-11-15T06:40:49Z",
+      "score": 570,
+      "comment_count": 560,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -677,7 +697,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50418176",
       "category": "Security",
       "posted_at": "2026-11-08T22:35:35Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
+      "fetched_at": "2026-11-15T06:40:49Z",
       "score": 770,
       "comment_count": 238,
       "score_gain_24h_observed": null,
@@ -698,7 +718,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50481187",
       "category": "AI",
       "posted_at": "2026-11-13T10:18:13Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
+      "fetched_at": "2026-11-15T06:40:49Z",
       "score": 493,
       "comment_count": 390,
       "score_gain_24h_observed": null,
@@ -719,8 +739,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50463899",
       "category": "Security",
       "posted_at": "2026-11-12T06:52:48Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
-      "score": 406,
+      "fetched_at": "2026-11-15T06:40:49Z",
+      "score": 409,
       "comment_count": 236,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -738,9 +758,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50481870",
       "category": "AI",
       "posted_at": "2026-11-13T11:13:46Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
-      "score": 363,
-      "comment_count": 230,
+      "fetched_at": "2026-11-15T06:40:49Z",
+      "score": 366,
+      "comment_count": 228,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -757,15 +777,33 @@
       "hn_url": "https://news.ycombinator.com/item?id=50474883",
       "category": "AI",
       "posted_at": "2026-11-12T21:56:11Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
-      "score": 371,
-      "comment_count": 160,
+      "fetched_at": "2026-11-15T06:40:49Z",
+      "score": 395,
+      "comment_count": 166,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
-        "ai models",
-        "frontier ai"
+        "ai models"
       ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": "https://twitter.com/willdepue/status/2120992457630326841"
+    },
+    {
+      "id": "HN-50486748",
+      "hn_id": 50486748,
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "hn_url": "https://news.ycombinator.com/item?id=50486748",
+      "category": "AI",
+      "posted_at": "2026-11-13T17:30:10Z",
+      "fetched_at": "2026-11-15T06:40:49Z",
+      "score": 427,
+      "comment_count": 108,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
       "selection_hints": [
         "AI"
       ],
@@ -782,25 +820,6 @@
       "fetched_at": "2026-11-13T19:47:14Z",
       "score": 315,
       "comment_count": 216,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50486748",
-      "hn_id": 50486748,
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "hn_url": "https://news.ycombinator.com/item?id=50486748",
-      "category": "AI",
-      "posted_at": "2026-11-13T17:30:10Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
-      "score": 421,
-      "comment_count": 107,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -828,27 +847,6 @@
       ],
       "selection_hints": [
         "open source"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50475713",
-      "hn_id": 50475713,
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "hn_url": "https://news.ycombinator.com/item?id=50475713",
-      "category": "AI",
-      "posted_at": "2026-11-12T23:06:17Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
-      "score": 351,
-      "comment_count": 105,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "frontier ai"
-      ],
-      "selection_hints": [
-        "AI"
       ],
       "snippet": ""
     }
