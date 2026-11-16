@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-16T02:58:26Z",
-  "source_data_as_of": "2026-11-15T18:55:50Z",
+  "generated_at": "2026-11-16T11:57:22Z",
+  "source_data_as_of": "2026-11-16T06:39:38Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-09T02:58:26Z",
-  "eligible_count_before_dedup": 449,
+  "window_start": "2026-11-09T11:57:22Z",
+  "eligible_count_before_dedup": 466,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "0c29e24587599a92c9413d8e1a6c6ea2a52456c2"
+    "commit": "db05b635cbc89b68eee91156c464ef6375954304"
   },
   "articles": [
     {
@@ -80,26 +80,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50484658",
-      "hn_id": 50484658,
-      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "hn_url": "https://news.ycombinator.com/item?id=50484658",
-      "category": "AI",
-      "posted_at": "2026-11-13T15:08:44Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
-      "score": 477,
-      "comment_count": 722,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "coding"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50507303",
       "hn_id": 50507303,
       "title": "All AI-generated code should be Open Source",
@@ -107,11 +87,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50507303",
       "category": "Security",
       "posted_at": "2026-11-15T14:46:58Z",
-      "fetched_at": "2026-11-15T18:55:50Z",
-      "score": 696,
-      "comment_count": 376,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "fetched_at": "2026-11-16T06:39:38Z",
+      "score": 1132,
+      "comment_count": 610,
+      "score_gain_24h_observed": 436,
+      "comment_gain_24h_observed": 234,
       "keywords": [
         "open source",
         "ai generated"
@@ -123,6 +103,26 @@
       "snippet": ""
     },
     {
+      "id": "HN-50484658",
+      "hn_id": 50484658,
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "hn_url": "https://news.ycombinator.com/item?id=50484658",
+      "category": "AI",
+      "posted_at": "2026-11-13T15:08:44Z",
+      "fetched_at": "2026-11-16T06:38:46Z",
+      "score": 483,
+      "comment_count": 727,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI",
+        "coding"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50443812",
       "hn_id": 50443812,
       "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
@@ -130,7 +130,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50443812",
       "category": "Web",
       "posted_at": "2026-11-10T18:01:15Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
+      "fetched_at": "2026-11-16T06:38:46Z",
       "score": 447,
       "comment_count": 146,
       "score_gain_24h_observed": null,
@@ -152,8 +152,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50484960",
       "category": "Other",
       "posted_at": "2026-11-13T15:29:10Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
-      "score": 195,
+      "fetched_at": "2026-11-16T06:38:46Z",
+      "score": 196,
       "comment_count": 196,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -172,7 +172,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50455633",
       "category": "Other",
       "posted_at": "2026-11-11T16:57:45Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
+      "fetched_at": "2026-11-16T06:38:46Z",
       "score": 241,
       "comment_count": 39,
       "score_gain_24h_observed": null,
@@ -192,7 +192,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50437106",
       "category": "AI",
       "posted_at": "2026-11-10T07:19:38Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
+      "fetched_at": "2026-11-16T06:38:46Z",
       "score": 167,
       "comment_count": 65,
       "score_gain_24h_observed": null,
@@ -232,7 +232,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50454951",
       "category": "Security",
       "posted_at": "2026-11-11T16:00:50Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
+      "fetched_at": "2026-11-16T06:38:46Z",
       "score": 84,
       "comment_count": 34,
       "score_gain_24h_observed": null,
@@ -247,22 +247,24 @@
       "snippet": "I've been developing applications for a long time and have turned to game development as well lately. One of the things that frustrated me the most was that using AI agents for game development is very annoying in the art department. Your only options right now are to either use an image genAI model and roll the dice every time you want to make an edit, or have your agent draw with something like vectors. I was looking for an application that would allow me to ask an agent to make a first draft "
     },
     {
-      "id": "HN-50424199",
-      "hn_id": 50424199,
-      "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-      "url": "https://github.com/samir-sarwar/samir-vllm",
-      "hn_url": "https://news.ycombinator.com/item?id=50424199",
+      "id": "HN-50506940",
+      "hn_id": 50506940,
+      "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+      "url": "https://github.com/db-branch/db-branch",
+      "hn_url": "https://news.ycombinator.com/item?id=50506940",
       "category": "AI",
-      "posted_at": "2026-11-09T11:36:55Z",
-      "fetched_at": "2026-11-12T07:17:55Z",
-      "score": 80,
-      "comment_count": 12,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
+      "posted_at": "2026-11-15T13:50:51Z",
+      "fetched_at": "2026-11-16T06:39:38Z",
+      "score": 40,
+      "comment_count": 10,
+      "score_gain_24h_observed": 29,
+      "comment_gain_24h_observed": 7,
+      "keywords": [
+        "ai agents"
+      ],
       "selection_hints": [
-        "LLM",
-        "inference"
+        "AI",
+        "database"
       ],
       "snippet": ""
     },
@@ -296,7 +298,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50496590",
       "category": "AI",
       "posted_at": "2026-11-14T12:44:01Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
+      "fetched_at": "2026-11-16T06:38:46Z",
       "score": 27,
       "comment_count": 7,
       "score_gain_24h_observed": null,
@@ -360,7 +362,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50494244",
       "category": "AI",
       "posted_at": "2026-11-14T05:19:51Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
+      "fetched_at": "2026-11-16T06:38:46Z",
       "score": 14,
       "comment_count": 4,
       "score_gain_24h_observed": null,
@@ -391,28 +393,6 @@
       "selection_hints": [
         "AI",
         "search"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50506940",
-      "hn_id": 50506940,
-      "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-      "url": "https://github.com/db-branch/db-branch",
-      "hn_url": "https://news.ycombinator.com/item?id=50506940",
-      "category": "AI",
-      "posted_at": "2026-11-15T13:50:51Z",
-      "fetched_at": "2026-11-15T18:55:50Z",
-      "score": 11,
-      "comment_count": 3,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agents"
-      ],
-      "selection_hints": [
-        "AI",
-        "database"
       ],
       "snippet": ""
     },
@@ -459,26 +439,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50423786",
-      "hn_id": 50423786,
-      "title": "We Opted Out of Google AI Search – Here's What Happened",
-      "url": "https://signal.zyppy.com/p/we-opted-out-of-google-ai-search",
-      "hn_url": "https://news.ycombinator.com/item?id=50423786",
-      "category": "AI",
-      "posted_at": "2026-11-09T10:41:40Z",
-      "fetched_at": "2026-11-11T06:34:14Z",
-      "score": 13,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "search"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50497161",
       "hn_id": 50497161,
       "title": "New 'Access to Justice' Benchmark: Leading AI Models Miss Critical Legal Details",
@@ -486,7 +446,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50497161",
       "category": "AI",
       "posted_at": "2026-11-14T14:10:31Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
+      "fetched_at": "2026-11-16T06:38:46Z",
       "score": 10,
       "comment_count": 1,
       "score_gain_24h_observed": null,
@@ -565,6 +525,48 @@
       "snippet": ""
     },
     {
+      "id": "HN-50512233",
+      "hn_id": 50512233,
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization",
+      "hn_url": "https://news.ycombinator.com/item?id=50512233",
+      "category": "AI",
+      "posted_at": "2026-11-15T23:55:50Z",
+      "fetched_at": "2026-11-16T06:39:38Z",
+      "score": 7,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "LLM",
+        "inference"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50512000",
+      "hn_id": 50512000,
+      "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
+      "url": "https://finance.biggo.com/news/71888475bad974d6",
+      "hn_url": "https://news.ycombinator.com/item?id=50512000",
+      "category": "AI",
+      "posted_at": "2026-11-15T23:27:34Z",
+      "fetched_at": "2026-11-16T06:39:38Z",
+      "score": 7,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai coding"
+      ],
+      "selection_hints": [
+        "AI",
+        "coding"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50503511",
       "hn_id": 50503511,
       "title": "ChatMate: Remote Prompt Execution on AI Assistants Through Sandbox Escaping [video]",
@@ -572,11 +574,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50503511",
       "category": "AI",
       "posted_at": "2026-11-15T02:49:18Z",
-      "fetched_at": "2026-11-15T18:55:50Z",
+      "fetched_at": "2026-11-16T06:38:46Z",
       "score": 5,
       "comment_count": 1,
-      "score_gain_24h_observed": 0,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI",
@@ -615,9 +617,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50493251",
       "category": "AI",
       "posted_at": "2026-11-14T02:52:59Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
-      "score": 1090,
-      "comment_count": 645,
+      "fetched_at": "2026-11-16T06:38:46Z",
+      "score": 1102,
+      "comment_count": 649,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -634,7 +636,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50452455",
       "category": "AI",
       "posted_at": "2026-11-11T12:05:22Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
+      "fetched_at": "2026-11-16T06:38:46Z",
       "score": 1036,
       "comment_count": 392,
       "score_gain_24h_observed": null,
@@ -655,9 +657,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50458900",
       "category": "AI",
       "posted_at": "2026-11-11T21:24:35Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
+      "fetched_at": "2026-11-16T06:38:46Z",
       "score": 681,
-      "comment_count": 707,
+      "comment_count": 709,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -676,7 +678,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50438318",
       "category": "AI",
       "posted_at": "2026-11-10T10:25:58Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
+      "fetched_at": "2026-11-16T06:38:46Z",
       "score": 645,
       "comment_count": 626,
       "score_gain_24h_observed": null,
@@ -697,8 +699,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50446520",
       "category": "AI",
       "posted_at": "2026-11-10T21:25:03Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
-      "score": 572,
+      "fetched_at": "2026-11-16T06:38:46Z",
+      "score": 575,
       "comment_count": 564,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -719,9 +721,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50481187",
       "category": "AI",
       "posted_at": "2026-11-13T10:18:13Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
+      "fetched_at": "2026-11-16T06:38:46Z",
       "score": 493,
-      "comment_count": 389,
+      "comment_count": 390,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -740,33 +742,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50463899",
       "category": "Security",
       "posted_at": "2026-11-12T06:52:48Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
-      "score": 413,
+      "fetched_at": "2026-11-16T06:38:46Z",
+      "score": 414,
       "comment_count": 236,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "security"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50481870",
-      "hn_id": 50481870,
-      "title": "AI is destroying the trust between writers and readers",
-      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-      "hn_url": "https://news.ycombinator.com/item?id=50481870",
-      "category": "AI",
-      "posted_at": "2026-11-13T11:13:46Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
-      "score": 369,
-      "comment_count": 234,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
       ],
       "snippet": ""
     },
@@ -778,9 +761,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50474883",
       "category": "AI",
       "posted_at": "2026-11-12T21:56:11Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
-      "score": 417,
-      "comment_count": 178,
+      "fetched_at": "2026-11-16T06:38:46Z",
+      "score": 438,
+      "comment_count": 185,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -792,6 +775,25 @@
       "snippet": "https://twitter.com/willdepue/status/2120992457630326841"
     },
     {
+      "id": "HN-50481870",
+      "hn_id": 50481870,
+      "title": "AI is destroying the trust between writers and readers",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "hn_url": "https://news.ycombinator.com/item?id=50481870",
+      "category": "AI",
+      "posted_at": "2026-11-13T11:13:46Z",
+      "fetched_at": "2026-11-16T06:38:46Z",
+      "score": 370,
+      "comment_count": 234,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50486748",
       "hn_id": 50486748,
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
@@ -799,8 +801,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50486748",
       "category": "AI",
       "posted_at": "2026-11-13T17:30:10Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
-      "score": 434,
+      "fetched_at": "2026-11-16T06:38:46Z",
+      "score": 438,
       "comment_count": 110,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -818,8 +820,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50475713",
       "category": "AI",
       "posted_at": "2026-11-12T23:06:17Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
-      "score": 355,
+      "fetched_at": "2026-11-16T06:38:46Z",
+      "score": 356,
       "comment_count": 105,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -837,7 +839,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50474311",
       "category": "AI",
       "posted_at": "2026-11-12T21:09:49Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
+      "fetched_at": "2026-11-16T06:38:46Z",
       "score": 199,
       "comment_count": 234,
       "score_gain_24h_observed": null,
