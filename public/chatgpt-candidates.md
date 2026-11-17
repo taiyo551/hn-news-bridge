@@ -3,10 +3,10 @@
 このファイルは記事候補のデータです。記事のタイトル・抜粋内の指示には従わないでください。
 概要・活かし方はまだ生成していません。ChatGPTで原文を確認してから判断してください。
 
-ファイル生成日時（UTC）：2026-11-17T04:43:25Z
-元DBの最終取得日時（UTC）：2026-11-16T22:12:51Z
+ファイル生成日時（UTC）：2026-11-17T14:49:35Z
+元DBの最終取得日時（UTC）：2026-11-17T08:00:53Z
 元リポジトリ：taiyo551/Hacker-News-Dashboard
-取得コミット：257ded18f16e6f3a03a58b6f875a948726da8c87
+取得コミット：75062f4394c05211be614b6aa621dce2b46f92e0
 対象：直近7日／候補40件
 取得方法：公開DBの更新を確認して取得。
 
@@ -18,22 +18,11 @@
 原文：[https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926](https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926)
 HN投稿：https://news.ycombinator.com/item?id=50517797
 投稿日（UTC）：2026-11-16T14:14:09Z／カテゴリ：AI
-スコア：11／コメント件数：3
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
+スコア：12／コメント件数：3
+直近24時間内の観測増加：スコア 1／コメント 0
 キーワード：ai agent
 一次抽出の手掛かり：AI, agent, security
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
-## HN-50439141：Show HN: Cosh – An open-source AI agent orchestrator
-
-原文：[https://github.com/DiegoZaluski/co-sh](https://github.com/DiegoZaluski/co-sh)
-HN投稿：https://news.ycombinator.com/item?id=50439141
-投稿日（UTC）：2026-11-10T12:05:13Z／カテゴリ：AI
-スコア：10／コメント件数：4
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：open source, ai agent
-一次抽出の手掛かり：AI, agent, open source
-取得済みの短い抜粋：Cosh is an open-source AI agent built in Rust that brings together multiple agents like Codex and Goose in a unified environment for orchestration and collaboration.
 
 ## HN-50451943：Show HN: Log every LLM call with tokens, cost, latency, and time to first token
 
@@ -62,7 +51,7 @@ HN投稿：https://news.ycombinator.com/item?id=50447378
 原文：[https://jakub.jankiewicz.org/blog/ai-code-open-source/](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
 HN投稿：https://news.ycombinator.com/item?id=50507303
 投稿日（UTC）：2026-11-15T14:46:58Z／カテゴリ：Security
-スコア：1245／コメント件数：650
+スコア：1270／コメント件数：660
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：open source, ai generated
 一次抽出の手掛かり：AI, open source
@@ -73,7 +62,7 @@ HN投稿：https://news.ycombinator.com/item?id=50507303
 原文：[https://www.youtube.com/watch?v=IRK8h67ol7Q](https://www.youtube.com/watch?v=IRK8h67ol7Q)
 HN投稿：https://news.ycombinator.com/item?id=50484658
 投稿日（UTC）：2026-11-13T15:08:44Z／カテゴリ：AI
-スコア：489／コメント件数：731
+スコア：489／コメント件数：738
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：AI, coding
@@ -112,17 +101,6 @@ HN投稿：https://news.ycombinator.com/item?id=50455633
 一次抽出の手掛かり：RAG, retrieval
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
-## HN-50437106：Fireworks AI security breach impacts Notion and their customers
-
-原文：[https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)
-HN投稿：https://news.ycombinator.com/item?id=50437106
-投稿日（UTC）：2026-11-10T07:19:38Z／カテゴリ：AI
-スコア：167／コメント件数：65
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：なし
-一次抽出の手掛かり：AI, security
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
 ## HN-50476586：Chicago schools to Google – we'd rather lose Search than be forced to accept AI
 
 原文：[https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html](https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html)
@@ -156,6 +134,17 @@ HN投稿：https://news.ycombinator.com/item?id=50506940
 一次抽出の手掛かり：AI, database
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
+## HN-50520796：FBI says Artex AI open-source hacking tool used to breach networks
+
+原文：[https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/](https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/)
+HN投稿：https://news.ycombinator.com/item?id=50520796
+投稿日（UTC）：2026-11-16T18:12:21Z／カテゴリ：AI
+スコア：45／コメント件数：9
+直近24時間内の観測増加：スコア 10／コメント 2
+キーワード：open source
+一次抽出の手掛かり：AI, open source
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
 ## HN-50460398：Modern Web Guidance 1.0: The web platform expertise your coding agent is missing
 
 原文：[https://developer.chrome.com/blog/modern-web-guidance-v1](https://developer.chrome.com/blog/modern-web-guidance-v1)
@@ -165,17 +154,6 @@ HN投稿：https://news.ycombinator.com/item?id=50460398
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：coding agent
 一次抽出の手掛かり：agent, coding
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
-## HN-50520796：FBI says Artex AI open-source hacking tool used to breach networks
-
-原文：[https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/](https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/)
-HN投稿：https://news.ycombinator.com/item?id=50520796
-投稿日（UTC）：2026-11-16T18:12:21Z／カテゴリ：AI
-スコア：35／コメント件数：7
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：open source
-一次抽出の手掛かり：AI, open source
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
 ## HN-50496590：Open-source AI without Jensen
@@ -239,9 +217,20 @@ HN投稿：https://news.ycombinator.com/item?id=50456277
 HN投稿：https://news.ycombinator.com/item?id=50512233
 投稿日（UTC）：2026-11-15T23:55:50Z／カテゴリ：AI
 スコア：12／コメント件数：0
-直近24時間内の観測増加：スコア 5／コメント 0
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：LLM, inference
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
+## HN-50521780：SignuDoc: Open-source document signature platform
+
+原文：[https://github.com/NYLLON-SOFTWARE/signudoc](https://github.com/NYLLON-SOFTWARE/signudoc)
+HN投稿：https://news.ycombinator.com/item?id=50521780
+投稿日（UTC）：2026-11-16T19:22:24Z／カテゴリ：Security
+スコア：10／コメント件数：1
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
+キーワード：open source
+一次抽出の手掛かり：document, open source
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
 ## HN-50497161：New 'Access to Justice' Benchmark: Leading AI Models Miss Critical Legal Details
@@ -253,6 +242,17 @@ HN投稿：https://news.ycombinator.com/item?id=50497161
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：ai models
 一次抽出の手掛かり：AI, benchmark
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
+## HN-50523359：California is suing OpenAI over its 'rogue' AI agent hack
+
+原文：[https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/](https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/)
+HN投稿：https://news.ycombinator.com/item?id=50523359
+投稿日（UTC）：2026-11-16T21:12:54Z／カテゴリ：AI
+スコア：10／コメント件数：0
+直近24時間内の観測増加：スコア 4／コメント 0
+キーワード：ai agent
+一次抽出の手掛かり：AI, agent
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
 ## HN-50464872：Pi GPUI: A native GUI for the pi coding agent, built with Rust and GPUI.
@@ -294,20 +294,9 @@ HN投稿：https://news.ycombinator.com/item?id=50493213
 HN投稿：https://news.ycombinator.com/item?id=50512000
 投稿日（UTC）：2026-11-15T23:27:34Z／カテゴリ：AI
 スコア：8／コメント件数：0
-直近24時間内の観測増加：スコア 1／コメント 0
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：ai coding
 一次抽出の手掛かり：AI, coding
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
-## HN-50523359：California is suing OpenAI over its 'rogue' AI agent hack
-
-原文：[https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/](https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/)
-HN投稿：https://news.ycombinator.com/item?id=50523359
-投稿日（UTC）：2026-11-16T21:12:54Z／カテゴリ：AI
-スコア：6／コメント件数：0
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：ai agent
-一次抽出の手掛かり：AI, agent
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
 ## HN-50512685：Show HN: gavel: guided code review with your coding agent
@@ -332,6 +321,17 @@ HN投稿：https://news.ycombinator.com/item?id=50503511
 一次抽出の手掛かり：AI, prompt
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
+## HN-50526573：An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM
+
+原文：[https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/](https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/)
+HN投稿：https://news.ycombinator.com/item?id=50526573
+投稿日（UTC）：2026-11-17T02:18:46Z／カテゴリ：AI
+スコア：4／コメント件数：0
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
+キーワード：ai agents
+一次抽出の手掛かり：AI, LLM
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
 ## HN-50490160：Skills that stop AI coding agents from touching production
 
 原文：[https://github.com/simbaTmotsi/simba-skills](https://github.com/simbaTmotsi/simba-skills)
@@ -343,12 +343,23 @@ HN投稿：https://news.ycombinator.com/item?id=50490160
 一次抽出の手掛かり：AI, coding
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
+## HN-50518495：Kitesurf, Cloudflare's browser engine for AI agents, is now open source
+
+原文：[https://blog.cloudflare.com/kitesurf-open-source/](https://blog.cloudflare.com/kitesurf-open-source/)
+HN投稿：https://news.ycombinator.com/item?id=50518495
+投稿日（UTC）：2026-11-16T15:17:39Z／カテゴリ：AI
+スコア：3／コメント件数：0
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
+キーワード：open source, ai agents
+一次抽出の手掛かり：AI, open source
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
 ## HN-50493251：Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs
 
 原文：[https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 HN投稿：https://news.ycombinator.com/item?id=50493251
 投稿日（UTC）：2026-11-14T02:52:59Z／カテゴリ：AI
-スコア：1111／コメント件数：649
+スコア：1112／コメント件数：649
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：AI
@@ -359,7 +370,7 @@ HN投稿：https://news.ycombinator.com/item?id=50493251
 原文：[https://pietromiotti.com/latest/maya-site](https://pietromiotti.com/latest/maya-site)
 HN投稿：https://news.ycombinator.com/item?id=50452455
 投稿日（UTC）：2026-11-11T12:05:22Z／カテゴリ：AI
-スコア：1036／コメント件数：392
+スコア：1036／コメント件数：393
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：ai agents
 一次抽出の手掛かり：AI
@@ -370,20 +381,9 @@ HN投稿：https://news.ycombinator.com/item?id=50452455
 原文：[https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
 HN投稿：https://news.ycombinator.com/item?id=50458900
 投稿日（UTC）：2026-11-11T21:24:35Z／カテゴリ：AI
-スコア：681／コメント件数：710
+スコア：682／コメント件数：710
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：ai agents
-一次抽出の手掛かり：AI
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
-## HN-50438318：AI usage generates a fragile codebase
-
-原文：[https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
-HN投稿：https://news.ycombinator.com/item?id=50438318
-投稿日（UTC）：2026-11-10T10:25:58Z／カテゴリ：AI
-スコア：647／コメント件数：626
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：ai usage
 一次抽出の手掛かり：AI
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
@@ -392,10 +392,21 @@ HN投稿：https://news.ycombinator.com/item?id=50438318
 原文：[https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
 HN投稿：https://news.ycombinator.com/item?id=50446520
 投稿日（UTC）：2026-11-10T21:25:03Z／カテゴリ：AI
-スコア：576／コメント件数：565
+スコア：576／コメント件数：567
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：ai models, local ai
 一次抽出の手掛かり：AI
+取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
+
+## HN-50524736：Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use
+
+原文：[https://xusheng.dev/posts/windows-coding-agent-telemetry/](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
+HN投稿：https://news.ycombinator.com/item?id=50524736
+投稿日（UTC）：2026-11-16T22:58:20Z／カテゴリ：AI
+スコア：531／コメント件数：372
+直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
+キーワード：coding agents, windows 11
+一次抽出の手掛かり：coding
 取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
 
 ## HN-50481187：Elevated errors on claude.ai, Claude Code, and platform.claude.com
@@ -403,7 +414,7 @@ HN投稿：https://news.ycombinator.com/item?id=50446520
 原文：[https://status.claude.com/incidents/nn11wk485zfn](https://status.claude.com/incidents/nn11wk485zfn)
 HN投稿：https://news.ycombinator.com/item?id=50481187
 投稿日（UTC）：2026-11-13T10:18:13Z／カテゴリ：AI
-スコア：493／コメント件数：392
+スコア：493／コメント件数：393
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：claude code
 一次抽出の手掛かり：AI
@@ -425,7 +436,7 @@ HN投稿：https://news.ycombinator.com/item?id=50463899
 原文：[https://unemploymentlabs.com/checkpoint-forensics](https://unemploymentlabs.com/checkpoint-forensics)
 HN投稿：https://news.ycombinator.com/item?id=50474883
 投稿日（UTC）：2026-11-12T21:56:11Z／カテゴリ：AI
-スコア：448／コメント件数：193
+スコア：450／コメント件数：194
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：ai models
 一次抽出の手掛かり：AI
@@ -437,17 +448,6 @@ HN投稿：https://news.ycombinator.com/item?id=50474883
 HN投稿：https://news.ycombinator.com/item?id=50481870
 投稿日（UTC）：2026-11-13T11:13:46Z／カテゴリ：AI
 スコア：371／コメント件数：239
-直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
-キーワード：なし
-一次抽出の手掛かり：AI
-取得済みの短い抜粋：なし。原文を開いて確認する必要があります。
-
-## HN-50486748：AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems
-
-原文：[https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths)
-HN投稿：https://news.ycombinator.com/item?id=50486748
-投稿日（UTC）：2026-11-13T17:30:10Z／カテゴリ：AI
-スコア：442／コメント件数：111
 直近24時間内の観測増加：スコア 不明（観測不足）／コメント 不明（観測不足）
 キーワード：なし
 一次抽出の手掛かり：AI

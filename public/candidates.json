@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-17T04:43:25Z",
-  "source_data_as_of": "2026-11-16T22:12:51Z",
+  "generated_at": "2026-11-17T14:49:35Z",
+  "source_data_as_of": "2026-11-17T08:00:53Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-10T04:43:25Z",
-  "eligible_count_before_dedup": 432,
+  "window_start": "2026-11-10T14:49:35Z",
+  "eligible_count_before_dedup": 451,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "257ded18f16e6f3a03a58b6f875a948726da8c87"
+    "commit": "75062f4394c05211be614b6aa621dce2b46f92e0"
   },
   "articles": [
     {
@@ -21,11 +21,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50517797",
       "category": "AI",
       "posted_at": "2026-11-16T14:14:09Z",
-      "fetched_at": "2026-11-16T22:12:51Z",
-      "score": 11,
+      "fetched_at": "2026-11-17T08:00:53Z",
+      "score": 12,
       "comment_count": 3,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "score_gain_24h_observed": 1,
+      "comment_gain_24h_observed": 0,
       "keywords": [
         "ai agent"
       ],
@@ -35,30 +35,6 @@
         "security"
       ],
       "snippet": ""
-    },
-    {
-      "id": "HN-50439141",
-      "hn_id": 50439141,
-      "title": "Show HN: Cosh – An open-source AI agent orchestrator",
-      "url": "https://github.com/DiegoZaluski/co-sh",
-      "hn_url": "https://news.ycombinator.com/item?id=50439141",
-      "category": "AI",
-      "posted_at": "2026-11-10T12:05:13Z",
-      "fetched_at": "2026-11-12T19:59:34Z",
-      "score": 10,
-      "comment_count": 4,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open source",
-        "ai agent"
-      ],
-      "selection_hints": [
-        "AI",
-        "agent",
-        "open source"
-      ],
-      "snippet": "Cosh is an open-source AI agent built in Rust that brings together multiple agents like Codex and Goose in a unified environment for orchestration and collaboration."
     },
     {
       "id": "HN-50451943",
@@ -110,9 +86,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50507303",
       "category": "Security",
       "posted_at": "2026-11-15T14:46:58Z",
-      "fetched_at": "2026-11-16T22:11:54Z",
-      "score": 1245,
-      "comment_count": 650,
+      "fetched_at": "2026-11-17T07:59:55Z",
+      "score": 1270,
+      "comment_count": 660,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -133,9 +109,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50484658",
       "category": "AI",
       "posted_at": "2026-11-13T15:08:44Z",
-      "fetched_at": "2026-11-16T22:11:54Z",
+      "fetched_at": "2026-11-17T07:59:55Z",
       "score": 489,
-      "comment_count": 731,
+      "comment_count": 738,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -175,7 +151,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50484960",
       "category": "Other",
       "posted_at": "2026-11-13T15:29:10Z",
-      "fetched_at": "2026-11-16T22:11:54Z",
+      "fetched_at": "2026-11-17T07:59:55Z",
       "score": 197,
       "comment_count": 197,
       "score_gain_24h_observed": null,
@@ -195,7 +171,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50455633",
       "category": "Other",
       "posted_at": "2026-11-11T16:57:45Z",
-      "fetched_at": "2026-11-16T22:11:54Z",
+      "fetched_at": "2026-11-17T07:59:55Z",
       "score": 241,
       "comment_count": 40,
       "score_gain_24h_observed": null,
@@ -204,26 +180,6 @@
       "selection_hints": [
         "RAG",
         "retrieval"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50437106",
-      "hn_id": 50437106,
-      "title": "Fireworks AI security breach impacts Notion and their customers",
-      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-      "hn_url": "https://news.ycombinator.com/item?id=50437106",
-      "category": "AI",
-      "posted_at": "2026-11-10T07:19:38Z",
-      "fetched_at": "2026-11-16T22:11:54Z",
-      "score": 167,
-      "comment_count": 65,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "security"
       ],
       "snippet": ""
     },
@@ -277,7 +233,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50506940",
       "category": "AI",
       "posted_at": "2026-11-15T13:50:51Z",
-      "fetched_at": "2026-11-16T22:11:54Z",
+      "fetched_at": "2026-11-17T07:59:55Z",
       "score": 45,
       "comment_count": 16,
       "score_gain_24h_observed": null,
@@ -288,6 +244,28 @@
       "selection_hints": [
         "AI",
         "database"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50520796",
+      "hn_id": 50520796,
+      "title": "FBI says Artex AI open-source hacking tool used to breach networks",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "hn_url": "https://news.ycombinator.com/item?id=50520796",
+      "category": "AI",
+      "posted_at": "2026-11-16T18:12:21Z",
+      "fetched_at": "2026-11-17T08:00:53Z",
+      "score": 45,
+      "comment_count": 9,
+      "score_gain_24h_observed": 10,
+      "comment_gain_24h_observed": 2,
+      "keywords": [
+        "open source"
+      ],
+      "selection_hints": [
+        "AI",
+        "open source"
       ],
       "snippet": ""
     },
@@ -314,28 +292,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50520796",
-      "hn_id": 50520796,
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks",
-      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-      "hn_url": "https://news.ycombinator.com/item?id=50520796",
-      "category": "AI",
-      "posted_at": "2026-11-16T18:12:21Z",
-      "fetched_at": "2026-11-16T22:12:51Z",
-      "score": 35,
-      "comment_count": 7,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open source"
-      ],
-      "selection_hints": [
-        "AI",
-        "open source"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50496590",
       "hn_id": 50496590,
       "title": "Open-source AI without Jensen",
@@ -343,7 +299,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50496590",
       "category": "AI",
       "posted_at": "2026-11-14T12:44:01Z",
-      "fetched_at": "2026-11-16T22:11:54Z",
+      "fetched_at": "2026-11-17T07:59:55Z",
       "score": 27,
       "comment_count": 7,
       "score_gain_24h_observed": null,
@@ -449,15 +405,37 @@
       "hn_url": "https://news.ycombinator.com/item?id=50512233",
       "category": "AI",
       "posted_at": "2026-11-15T23:55:50Z",
-      "fetched_at": "2026-11-16T22:12:51Z",
+      "fetched_at": "2026-11-17T07:59:55Z",
       "score": 12,
       "comment_count": 0,
-      "score_gain_24h_observed": 5,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "LLM",
         "inference"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50521780",
+      "hn_id": 50521780,
+      "title": "SignuDoc: Open-source document signature platform",
+      "url": "https://github.com/NYLLON-SOFTWARE/signudoc",
+      "hn_url": "https://news.ycombinator.com/item?id=50521780",
+      "category": "Security",
+      "posted_at": "2026-11-16T19:22:24Z",
+      "fetched_at": "2026-11-17T08:00:53Z",
+      "score": 10,
+      "comment_count": 1,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open source"
+      ],
+      "selection_hints": [
+        "document",
+        "open source"
       ],
       "snippet": ""
     },
@@ -480,6 +458,28 @@
       "selection_hints": [
         "AI",
         "benchmark"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50523359",
+      "hn_id": 50523359,
+      "title": "California is suing OpenAI over its 'rogue' AI agent hack",
+      "url": "https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/",
+      "hn_url": "https://news.ycombinator.com/item?id=50523359",
+      "category": "AI",
+      "posted_at": "2026-11-16T21:12:54Z",
+      "fetched_at": "2026-11-17T08:00:53Z",
+      "score": 10,
+      "comment_count": 0,
+      "score_gain_24h_observed": 4,
+      "comment_gain_24h_observed": 0,
+      "keywords": [
+        "ai agent"
+      ],
+      "selection_hints": [
+        "AI",
+        "agent"
       ],
       "snippet": ""
     },
@@ -555,39 +555,17 @@
       "hn_url": "https://news.ycombinator.com/item?id=50512000",
       "category": "AI",
       "posted_at": "2026-11-15T23:27:34Z",
-      "fetched_at": "2026-11-16T22:12:51Z",
+      "fetched_at": "2026-11-17T07:59:55Z",
       "score": 8,
       "comment_count": 0,
-      "score_gain_24h_observed": 1,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "ai coding"
       ],
       "selection_hints": [
         "AI",
         "coding"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50523359",
-      "hn_id": 50523359,
-      "title": "California is suing OpenAI over its 'rogue' AI agent hack",
-      "url": "https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/",
-      "hn_url": "https://news.ycombinator.com/item?id=50523359",
-      "category": "AI",
-      "posted_at": "2026-11-16T21:12:54Z",
-      "fetched_at": "2026-11-16T22:12:51Z",
-      "score": 6,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agent"
-      ],
-      "selection_hints": [
-        "AI",
-        "agent"
       ],
       "snippet": ""
     },
@@ -599,7 +577,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50512685",
       "category": "Other",
       "posted_at": "2026-11-16T00:52:02Z",
-      "fetched_at": "2026-11-16T22:12:51Z",
+      "fetched_at": "2026-11-17T07:59:55Z",
       "score": 4,
       "comment_count": 2,
       "score_gain_24h_observed": null,
@@ -635,6 +613,28 @@
       "snippet": ""
     },
     {
+      "id": "HN-50526573",
+      "hn_id": 50526573,
+      "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
+      "url": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
+      "hn_url": "https://news.ycombinator.com/item?id=50526573",
+      "category": "AI",
+      "posted_at": "2026-11-17T02:18:46Z",
+      "fetched_at": "2026-11-17T08:00:53Z",
+      "score": 4,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai agents"
+      ],
+      "selection_hints": [
+        "AI",
+        "LLM"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50490160",
       "hn_id": 50490160,
       "title": "Skills that stop AI coding agents from touching production",
@@ -658,6 +658,29 @@
       "snippet": ""
     },
     {
+      "id": "HN-50518495",
+      "hn_id": 50518495,
+      "title": "Kitesurf, Cloudflare's browser engine for AI agents, is now open source",
+      "url": "https://blog.cloudflare.com/kitesurf-open-source/",
+      "hn_url": "https://news.ycombinator.com/item?id=50518495",
+      "category": "AI",
+      "posted_at": "2026-11-16T15:17:39Z",
+      "fetched_at": "2026-11-17T08:00:53Z",
+      "score": 3,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open source",
+        "ai agents"
+      ],
+      "selection_hints": [
+        "AI",
+        "open source"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50493251",
       "hn_id": 50493251,
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
@@ -665,8 +688,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50493251",
       "category": "AI",
       "posted_at": "2026-11-14T02:52:59Z",
-      "fetched_at": "2026-11-16T22:11:54Z",
-      "score": 1111,
+      "fetched_at": "2026-11-17T07:59:55Z",
+      "score": 1112,
       "comment_count": 649,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -684,9 +707,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50452455",
       "category": "AI",
       "posted_at": "2026-11-11T12:05:22Z",
-      "fetched_at": "2026-11-16T22:11:54Z",
+      "fetched_at": "2026-11-17T07:59:55Z",
       "score": 1036,
-      "comment_count": 392,
+      "comment_count": 393,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -705,34 +728,13 @@
       "hn_url": "https://news.ycombinator.com/item?id=50458900",
       "category": "AI",
       "posted_at": "2026-11-11T21:24:35Z",
-      "fetched_at": "2026-11-16T22:11:54Z",
-      "score": 681,
+      "fetched_at": "2026-11-17T07:59:55Z",
+      "score": 682,
       "comment_count": 710,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
         "ai agents"
-      ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50438318",
-      "hn_id": 50438318,
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "hn_url": "https://news.ycombinator.com/item?id=50438318",
-      "category": "AI",
-      "posted_at": "2026-11-10T10:25:58Z",
-      "fetched_at": "2026-11-16T22:11:54Z",
-      "score": 647,
-      "comment_count": 626,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai usage"
       ],
       "selection_hints": [
         "AI"
@@ -747,9 +749,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50446520",
       "category": "AI",
       "posted_at": "2026-11-10T21:25:03Z",
-      "fetched_at": "2026-11-16T22:11:54Z",
+      "fetched_at": "2026-11-17T07:59:55Z",
       "score": 576,
-      "comment_count": 565,
+      "comment_count": 567,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -762,6 +764,28 @@
       "snippet": ""
     },
     {
+      "id": "HN-50524736",
+      "hn_id": 50524736,
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "hn_url": "https://news.ycombinator.com/item?id=50524736",
+      "category": "AI",
+      "posted_at": "2026-11-16T22:58:20Z",
+      "fetched_at": "2026-11-17T08:00:53Z",
+      "score": 531,
+      "comment_count": 372,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "coding agents",
+        "windows 11"
+      ],
+      "selection_hints": [
+        "coding"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50481187",
       "hn_id": 50481187,
       "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
@@ -769,9 +793,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50481187",
       "category": "AI",
       "posted_at": "2026-11-13T10:18:13Z",
-      "fetched_at": "2026-11-16T22:11:54Z",
+      "fetched_at": "2026-11-17T07:59:55Z",
       "score": 493,
-      "comment_count": 392,
+      "comment_count": 393,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -790,7 +814,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50463899",
       "category": "Security",
       "posted_at": "2026-11-12T06:52:48Z",
-      "fetched_at": "2026-11-16T22:11:54Z",
+      "fetched_at": "2026-11-17T07:59:55Z",
       "score": 415,
       "comment_count": 235,
       "score_gain_24h_observed": null,
@@ -809,9 +833,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50474883",
       "category": "AI",
       "posted_at": "2026-11-12T21:56:11Z",
-      "fetched_at": "2026-11-16T22:11:54Z",
-      "score": 448,
-      "comment_count": 193,
+      "fetched_at": "2026-11-17T07:59:55Z",
+      "score": 450,
+      "comment_count": 194,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -830,28 +854,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50481870",
       "category": "AI",
       "posted_at": "2026-11-13T11:13:46Z",
-      "fetched_at": "2026-11-16T22:11:54Z",
+      "fetched_at": "2026-11-17T07:59:55Z",
       "score": 371,
       "comment_count": 239,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50486748",
-      "hn_id": 50486748,
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "hn_url": "https://news.ycombinator.com/item?id=50486748",
-      "category": "AI",
-      "posted_at": "2026-11-13T17:30:10Z",
-      "fetched_at": "2026-11-16T22:11:54Z",
-      "score": 442,
-      "comment_count": 111,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
