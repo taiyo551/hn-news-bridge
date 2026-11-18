@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-18T04:39:49Z",
-  "source_data_as_of": "2026-11-17T21:00:44Z",
+  "generated_at": "2026-11-18T14:28:46Z",
+  "source_data_as_of": "2026-11-18T07:37:17Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-11T04:39:49Z",
-  "eligible_count_before_dedup": 444,
+  "window_start": "2026-11-11T14:28:46Z",
+  "eligible_count_before_dedup": 423,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "4df32bda1091486968e7bbc233045679605c522b"
+    "commit": "dcbcd44dc2f135847c797cfd1814c34465d96955"
   },
   "articles": [
     {
@@ -21,14 +21,13 @@
       "hn_url": "https://news.ycombinator.com/item?id=50533270",
       "category": "AI",
       "posted_at": "2026-11-17T16:01:04Z",
-      "fetched_at": "2026-11-17T21:00:44Z",
-      "score": 32,
-      "comment_count": 5,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "fetched_at": "2026-11-18T07:37:17Z",
+      "score": 48,
+      "comment_count": 7,
+      "score_gain_24h_observed": 16,
+      "comment_gain_24h_observed": 2,
       "keywords": [
-        "open source",
-        "inference engine"
+        "open source"
       ],
       "selection_hints": [
         "LLM",
@@ -45,7 +44,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50517797",
       "category": "AI",
       "posted_at": "2026-11-16T14:14:09Z",
-      "fetched_at": "2026-11-17T20:59:39Z",
+      "fetched_at": "2026-11-18T07:36:28Z",
       "score": 12,
       "comment_count": 3,
       "score_gain_24h_observed": null,
@@ -61,27 +60,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50451943",
-      "hn_id": 50451943,
-      "title": "Show HN: Log every LLM call with tokens, cost, latency, and time to first token",
-      "url": "https://github.com/garritfra/llmtee",
-      "hn_url": "https://news.ycombinator.com/item?id=50451943",
-      "category": "AI",
-      "posted_at": "2026-11-11T10:55:46Z",
-      "fetched_at": "2026-11-15T18:54:49Z",
-      "score": 10,
-      "comment_count": 2,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "LLM",
-        "latency",
-        "token"
-      ],
-      "snippet": "Hi HN, Llmtee is a lightweight llm proxy. I built this project because I needed a simple way to log llm calls across my agents. Existing options require running Postgres, ClickHouse and Redis, or have me use an SDK. llmtree is just a single binary. You point your provider base url to llmtee, it will pass the traffic through chunk by chunk and log the usage to an SQLite database (or optionally Postgres). The container image is ~25 MB. Memory footprint is around ~40 MB and added latency is ~0.2 ms"
-    },
-    {
       "id": "HN-50507303",
       "hn_id": 50507303,
       "title": "All AI-generated code should be Open Source",
@@ -89,9 +67,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50507303",
       "category": "Security",
       "posted_at": "2026-11-15T14:46:58Z",
-      "fetched_at": "2026-11-17T20:59:39Z",
-      "score": 1278,
-      "comment_count": 667,
+      "fetched_at": "2026-11-18T07:36:28Z",
+      "score": 1279,
+      "comment_count": 669,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -112,15 +90,35 @@
       "hn_url": "https://news.ycombinator.com/item?id=50484658",
       "category": "AI",
       "posted_at": "2026-11-13T15:08:44Z",
-      "fetched_at": "2026-11-17T20:59:39Z",
+      "fetched_at": "2026-11-18T07:36:28Z",
       "score": 494,
-      "comment_count": 746,
+      "comment_count": 750,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI",
         "coding"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50540178",
+      "hn_id": 50540178,
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "hn_url": "https://news.ycombinator.com/item?id=50540178",
+      "category": "AI",
+      "posted_at": "2026-11-18T00:17:58Z",
+      "fetched_at": "2026-11-18T07:37:17Z",
+      "score": 305,
+      "comment_count": 240,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI",
+        "search"
       ],
       "snippet": ""
     },
@@ -145,6 +143,30 @@
       "snippet": ""
     },
     {
+      "id": "HN-50538303",
+      "hn_id": 50538303,
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "hn_url": "https://news.ycombinator.com/item?id=50538303",
+      "category": "AI",
+      "posted_at": "2026-11-17T21:16:12Z",
+      "fetched_at": "2026-11-18T07:37:17Z",
+      "score": 157,
+      "comment_count": 201,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "code review",
+        "ai coding",
+        "coding agents"
+      ],
+      "selection_hints": [
+        "AI",
+        "coding"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50455633",
       "hn_id": 50455633,
       "title": "Faster Retrieval for Better, More Efficient RAG",
@@ -152,7 +174,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50455633",
       "category": "Other",
       "posted_at": "2026-11-11T16:57:45Z",
-      "fetched_at": "2026-11-17T20:59:39Z",
+      "fetched_at": "2026-11-18T07:36:28Z",
       "score": 242,
       "comment_count": 40,
       "score_gain_24h_observed": null,
@@ -214,9 +236,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50520796",
       "category": "AI",
       "posted_at": "2026-11-16T18:12:21Z",
-      "fetched_at": "2026-11-17T20:59:39Z",
-      "score": 48,
-      "comment_count": 14,
+      "fetched_at": "2026-11-18T07:36:28Z",
+      "score": 49,
+      "comment_count": 15,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -236,9 +258,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50506940",
       "category": "AI",
       "posted_at": "2026-11-15T13:50:51Z",
-      "fetched_at": "2026-11-17T20:59:39Z",
+      "fetched_at": "2026-11-18T07:36:28Z",
       "score": 45,
-      "comment_count": 16,
+      "comment_count": 17,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -344,7 +366,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50521780",
       "category": "Security",
       "posted_at": "2026-11-16T19:22:24Z",
-      "fetched_at": "2026-11-17T20:59:39Z",
+      "fetched_at": "2026-11-18T07:36:28Z",
       "score": 20,
       "comment_count": 1,
       "score_gain_24h_observed": null,
@@ -386,7 +408,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50512233",
       "category": "AI",
       "posted_at": "2026-11-15T23:55:50Z",
-      "fetched_at": "2026-11-17T20:59:39Z",
+      "fetched_at": "2026-11-18T07:36:28Z",
       "score": 13,
       "comment_count": 0,
       "score_gain_24h_observed": null,
@@ -428,11 +450,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50523359",
       "category": "AI",
       "posted_at": "2026-11-16T21:12:54Z",
-      "fetched_at": "2026-11-17T21:00:44Z",
+      "fetched_at": "2026-11-18T07:36:28Z",
       "score": 11,
       "comment_count": 0,
-      "score_gain_24h_observed": 1,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "ai agent"
       ],
@@ -487,26 +509,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50452395",
-      "hn_id": 50452395,
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "hn_url": "https://news.ycombinator.com/item?id=50452395",
-      "category": "Security",
-      "posted_at": "2026-11-11T11:59:38Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
-      "score": 8,
-      "comment_count": 2,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "security"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50493213",
       "hn_id": 50493213,
       "title": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
@@ -547,6 +549,28 @@
       "selection_hints": [
         "AI",
         "coding"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50537747",
+      "hn_id": 50537747,
+      "title": "A Man and His Muse AI Agent Sue Meta",
+      "url": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/",
+      "hn_url": "https://news.ycombinator.com/item?id=50537747",
+      "category": "AI",
+      "posted_at": "2026-11-17T20:31:00Z",
+      "fetched_at": "2026-11-18T07:37:17Z",
+      "score": 5,
+      "comment_count": 1,
+      "score_gain_24h_observed": 1,
+      "comment_gain_24h_observed": 0,
+      "keywords": [
+        "ai agent"
+      ],
+      "selection_hints": [
+        "AI",
+        "agent"
       ],
       "snippet": ""
     },
@@ -594,24 +618,22 @@
       "snippet": ""
     },
     {
-      "id": "HN-50537747",
-      "hn_id": 50537747,
-      "title": "A Man and His Muse AI Agent Sue Meta",
-      "url": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/",
-      "hn_url": "https://news.ycombinator.com/item?id=50537747",
+      "id": "HN-50536955",
+      "hn_id": 50536955,
+      "title": "Spaceship IDE – Realtime Steering with Cerebras Ultra-Low Latency LLM",
+      "url": "https://github.com/chuanqisun/spaceship",
+      "hn_url": "https://news.ycombinator.com/item?id=50536955",
       "category": "AI",
-      "posted_at": "2026-11-17T20:31:00Z",
-      "fetched_at": "2026-11-17T21:00:44Z",
-      "score": 4,
-      "comment_count": 1,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agent"
-      ],
+      "posted_at": "2026-11-17T19:35:33Z",
+      "fetched_at": "2026-11-18T07:37:17Z",
+      "score": 5,
+      "comment_count": 0,
+      "score_gain_24h_observed": 2,
+      "comment_gain_24h_observed": 0,
+      "keywords": [],
       "selection_hints": [
-        "AI",
-        "agent"
+        "LLM",
+        "latency"
       ],
       "snippet": ""
     },
@@ -623,11 +645,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50526573",
       "category": "AI",
       "posted_at": "2026-11-17T02:18:46Z",
-      "fetched_at": "2026-11-17T21:00:44Z",
+      "fetched_at": "2026-11-18T07:36:28Z",
       "score": 4,
       "comment_count": 0,
-      "score_gain_24h_observed": 0,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "ai agents"
       ],
@@ -645,7 +667,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50518495",
       "category": "AI",
       "posted_at": "2026-11-16T15:17:39Z",
-      "fetched_at": "2026-11-17T20:59:39Z",
+      "fetched_at": "2026-11-18T07:36:28Z",
       "score": 4,
       "comment_count": 0,
       "score_gain_24h_observed": null,
@@ -684,26 +706,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50536955",
-      "hn_id": 50536955,
-      "title": "Spaceship IDE – Realtime Steering with Cerebras Ultra-Low Latency LLM",
-      "url": "https://github.com/chuanqisun/spaceship",
-      "hn_url": "https://news.ycombinator.com/item?id=50536955",
-      "category": "AI",
-      "posted_at": "2026-11-17T19:35:33Z",
-      "fetched_at": "2026-11-17T21:00:44Z",
-      "score": 3,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "LLM",
-        "latency"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50493251",
       "hn_id": 50493251,
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
@@ -711,33 +713,12 @@
       "hn_url": "https://news.ycombinator.com/item?id=50493251",
       "category": "AI",
       "posted_at": "2026-11-14T02:52:59Z",
-      "fetched_at": "2026-11-17T20:59:39Z",
+      "fetched_at": "2026-11-18T07:36:28Z",
       "score": 1113,
       "comment_count": 650,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50452455",
-      "hn_id": 50452455,
-      "title": "My AI agents found an unmapped Maya site?",
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "hn_url": "https://news.ycombinator.com/item?id=50452455",
-      "category": "AI",
-      "posted_at": "2026-11-11T12:05:22Z",
-      "fetched_at": "2026-11-17T20:59:39Z",
-      "score": 1036,
-      "comment_count": 393,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agents"
-      ],
       "selection_hints": [
         "AI"
       ],
@@ -772,39 +753,17 @@
       "hn_url": "https://news.ycombinator.com/item?id=50524736",
       "category": "AI",
       "posted_at": "2026-11-16T22:58:20Z",
-      "fetched_at": "2026-11-17T21:00:44Z",
-      "score": 700,
-      "comment_count": 580,
-      "score_gain_24h_observed": 169,
-      "comment_gain_24h_observed": 208,
+      "fetched_at": "2026-11-18T07:36:28Z",
+      "score": 718,
+      "comment_count": 600,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "coding agents",
         "windows 11"
       ],
       "selection_hints": [
         "coding"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50481187",
-      "hn_id": 50481187,
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "url": "https://status.claude.com/incidents/nn11wk485zfn",
-      "hn_url": "https://news.ycombinator.com/item?id=50481187",
-      "category": "AI",
-      "posted_at": "2026-11-13T10:18:13Z",
-      "fetched_at": "2026-11-17T20:59:39Z",
-      "score": 494,
-      "comment_count": 394,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "claude code",
-        "claude com"
-      ],
-      "selection_hints": [
-        "AI"
       ],
       "snippet": ""
     },
@@ -816,11 +775,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50532849",
       "category": "Security",
       "posted_at": "2026-11-17T15:38:28Z",
-      "fetched_at": "2026-11-17T21:00:44Z",
-      "score": 279,
-      "comment_count": 446,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "fetched_at": "2026-11-18T07:37:17Z",
+      "score": 558,
+      "comment_count": 643,
+      "score_gain_24h_observed": 279,
+      "comment_gain_24h_observed": 197,
       "keywords": [
         "national security"
       ],
@@ -828,6 +787,27 @@
         "security"
       ],
       "snippet": "https://www.reuters.com/technology/highly-classified-us-nati..."
+    },
+    {
+      "id": "HN-50481187",
+      "hn_id": 50481187,
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "hn_url": "https://news.ycombinator.com/item?id=50481187",
+      "category": "AI",
+      "posted_at": "2026-11-13T10:18:13Z",
+      "fetched_at": "2026-11-18T07:36:28Z",
+      "score": 494,
+      "comment_count": 394,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "claude code"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
     },
     {
       "id": "HN-50463899",
@@ -856,7 +836,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50474883",
       "category": "AI",
       "posted_at": "2026-11-12T21:56:11Z",
-      "fetched_at": "2026-11-17T20:59:39Z",
+      "fetched_at": "2026-11-18T07:36:28Z",
       "score": 452,
       "comment_count": 197,
       "score_gain_24h_observed": null,
@@ -868,6 +848,25 @@
         "AI"
       ],
       "snippet": "https://twitter.com/willdepue/status/2120992457630326841"
+    },
+    {
+      "id": "HN-50481870",
+      "hn_id": 50481870,
+      "title": "AI is destroying the trust between writers and readers",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "hn_url": "https://news.ycombinator.com/item?id=50481870",
+      "category": "AI",
+      "posted_at": "2026-11-13T11:13:46Z",
+      "fetched_at": "2026-11-18T07:36:28Z",
+      "score": 372,
+      "comment_count": 239,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
     }
   ],
   "candidate_count": 40
