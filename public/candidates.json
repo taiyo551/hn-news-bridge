@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-18T14:28:46Z",
-  "source_data_as_of": "2026-11-18T07:37:17Z",
+  "generated_at": "2026-11-18T22:15:49Z",
+  "source_data_as_of": "2026-11-18T20:38:56Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-11T14:28:46Z",
-  "eligible_count_before_dedup": 423,
+  "window_start": "2026-11-11T22:15:49Z",
+  "eligible_count_before_dedup": 433,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "dcbcd44dc2f135847c797cfd1814c34465d96955"
+    "commit": "02ff60d7ddd4d9a0026aa4bc5b602cb314b7fc32"
   },
   "articles": [
     {
@@ -21,13 +21,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50533270",
       "category": "AI",
       "posted_at": "2026-11-17T16:01:04Z",
-      "fetched_at": "2026-11-18T07:37:17Z",
-      "score": 48,
+      "fetched_at": "2026-11-18T20:37:54Z",
+      "score": 54,
       "comment_count": 7,
-      "score_gain_24h_observed": 16,
-      "comment_gain_24h_observed": 2,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
-        "open source"
+        "open source",
+        "inference engine"
       ],
       "selection_hints": [
         "LLM",
@@ -50,7 +51,8 @@
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
-        "ai agent"
+        "ai agent",
+        "google ai"
       ],
       "selection_hints": [
         "AI",
@@ -67,9 +69,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50507303",
       "category": "Security",
       "posted_at": "2026-11-15T14:46:58Z",
-      "fetched_at": "2026-11-18T07:36:28Z",
-      "score": 1279,
-      "comment_count": 669,
+      "fetched_at": "2026-11-18T20:37:54Z",
+      "score": 1281,
+      "comment_count": 670,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -90,9 +92,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50484658",
       "category": "AI",
       "posted_at": "2026-11-13T15:08:44Z",
-      "fetched_at": "2026-11-18T07:36:28Z",
+      "fetched_at": "2026-11-18T20:37:54Z",
       "score": 494,
-      "comment_count": 750,
+      "comment_count": 751,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -110,15 +112,41 @@
       "hn_url": "https://news.ycombinator.com/item?id=50540178",
       "category": "AI",
       "posted_at": "2026-11-18T00:17:58Z",
-      "fetched_at": "2026-11-18T07:37:17Z",
-      "score": 305,
-      "comment_count": 240,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
+      "fetched_at": "2026-11-18T20:38:56Z",
+      "score": 674,
+      "comment_count": 524,
+      "score_gain_24h_observed": 369,
+      "comment_gain_24h_observed": 284,
+      "keywords": [
+        "google ai"
+      ],
       "selection_hints": [
         "AI",
         "search"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50538303",
+      "hn_id": 50538303,
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "hn_url": "https://news.ycombinator.com/item?id=50538303",
+      "category": "AI",
+      "posted_at": "2026-11-17T21:16:12Z",
+      "fetched_at": "2026-11-18T20:38:56Z",
+      "score": 309,
+      "comment_count": 418,
+      "score_gain_24h_observed": 152,
+      "comment_gain_24h_observed": 217,
+      "keywords": [
+        "code review",
+        "ai coding",
+        "coding agents"
+      ],
+      "selection_hints": [
+        "AI",
+        "coding"
       ],
       "snippet": ""
     },
@@ -143,50 +171,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50538303",
-      "hn_id": 50538303,
-      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-      "hn_url": "https://news.ycombinator.com/item?id=50538303",
-      "category": "AI",
-      "posted_at": "2026-11-17T21:16:12Z",
-      "fetched_at": "2026-11-18T07:37:17Z",
-      "score": 157,
-      "comment_count": 201,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "code review",
-        "ai coding",
-        "coding agents"
-      ],
-      "selection_hints": [
-        "AI",
-        "coding"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50455633",
-      "hn_id": 50455633,
-      "title": "Faster Retrieval for Better, More Efficient RAG",
-      "url": "https://machinelearning.apple.com/research/faster-retrieval",
-      "hn_url": "https://news.ycombinator.com/item?id=50455633",
-      "category": "Other",
-      "posted_at": "2026-11-11T16:57:45Z",
-      "fetched_at": "2026-11-18T07:36:28Z",
-      "score": 242,
-      "comment_count": 40,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "RAG",
-        "retrieval"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50476586",
       "hn_id": 50476586,
       "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
@@ -207,28 +191,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50454951",
-      "hn_id": 50454951,
-      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-      "url": "https://github.com/klad-app/klad",
-      "hn_url": "https://news.ycombinator.com/item?id=50454951",
-      "category": "Security",
-      "posted_at": "2026-11-11T16:00:50Z",
-      "fetched_at": "2026-11-16T06:38:46Z",
-      "score": 84,
-      "comment_count": 34,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "coding agent"
-      ],
-      "selection_hints": [
-        "agent",
-        "coding"
-      ],
-      "snippet": "I've been developing applications for a long time and have turned to game development as well lately. One of the things that frustrated me the most was that using AI agents for game development is very annoying in the art department. Your only options right now are to either use an image genAI model and roll the dice every time you want to make an edit, or have your agent draw with something like vectors. I was looking for an application that would allow me to ask an agent to make a first draft "
-    },
-    {
       "id": "HN-50520796",
       "hn_id": 50520796,
       "title": "FBI says Artex AI open-source hacking tool used to breach networks",
@@ -236,8 +198,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50520796",
       "category": "AI",
       "posted_at": "2026-11-16T18:12:21Z",
-      "fetched_at": "2026-11-18T07:36:28Z",
-      "score": 49,
+      "fetched_at": "2026-11-18T20:37:54Z",
+      "score": 50,
       "comment_count": 15,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -258,7 +220,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50506940",
       "category": "AI",
       "posted_at": "2026-11-15T13:50:51Z",
-      "fetched_at": "2026-11-18T07:36:28Z",
+      "fetched_at": "2026-11-18T20:37:54Z",
       "score": 45,
       "comment_count": 17,
       "score_gain_24h_observed": null,
@@ -291,6 +253,26 @@
       "selection_hints": [
         "agent",
         "coding"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50549438",
+      "hn_id": 50549438,
+      "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
+      "url": "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats",
+      "hn_url": "https://news.ycombinator.com/item?id=50549438",
+      "category": "Other",
+      "posted_at": "2026-11-18T17:41:48Z",
+      "fetched_at": "2026-11-18T20:38:56Z",
+      "score": 30,
+      "comment_count": 6,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "search",
+        "vector"
       ],
       "snippet": ""
     },
@@ -337,6 +319,28 @@
       "snippet": ""
     },
     {
+      "id": "HN-50521780",
+      "hn_id": 50521780,
+      "title": "SignuDoc: Open-source document signature platform",
+      "url": "https://github.com/NYLLON-SOFTWARE/signudoc",
+      "hn_url": "https://news.ycombinator.com/item?id=50521780",
+      "category": "Security",
+      "posted_at": "2026-11-16T19:22:24Z",
+      "fetched_at": "2026-11-18T20:37:54Z",
+      "score": 22,
+      "comment_count": 2,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open source"
+      ],
+      "selection_hints": [
+        "document",
+        "open source"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50471673",
       "hn_id": 50471673,
       "title": "Hugging Face CEO vows to keep fighting for open-source AI",
@@ -354,28 +358,6 @@
       ],
       "selection_hints": [
         "AI",
-        "open source"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50521780",
-      "hn_id": 50521780,
-      "title": "SignuDoc: Open-source document signature platform",
-      "url": "https://github.com/NYLLON-SOFTWARE/signudoc",
-      "hn_url": "https://news.ycombinator.com/item?id=50521780",
-      "category": "Security",
-      "posted_at": "2026-11-16T19:22:24Z",
-      "fetched_at": "2026-11-18T07:36:28Z",
-      "score": 20,
-      "comment_count": 1,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open source"
-      ],
-      "selection_hints": [
-        "document",
         "open source"
       ],
       "snippet": ""
@@ -421,28 +403,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50456277",
-      "hn_id": 50456277,
-      "title": "Grok Build coding agent leaks oodles of confidential info",
-      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-      "hn_url": "https://news.ycombinator.com/item?id=50456277",
-      "category": "Other",
-      "posted_at": "2026-11-11T17:53:23Z",
-      "fetched_at": "2026-11-13T06:51:51Z",
-      "score": 13,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "coding agent"
-      ],
-      "selection_hints": [
-        "agent",
-        "coding"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50523359",
       "hn_id": 50523359,
       "title": "California is suing OpenAI over its 'rogue' AI agent hack",
@@ -450,7 +410,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50523359",
       "category": "AI",
       "posted_at": "2026-11-16T21:12:54Z",
-      "fetched_at": "2026-11-18T07:36:28Z",
+      "fetched_at": "2026-11-18T20:37:54Z",
       "score": 11,
       "comment_count": 0,
       "score_gain_24h_observed": null,
@@ -553,6 +513,26 @@
       "snippet": ""
     },
     {
+      "id": "HN-50550351",
+      "hn_id": 50550351,
+      "title": "Microsoft's official Python agent framework hijacked to distribute malware",
+      "url": "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
+      "hn_url": "https://news.ycombinator.com/item?id=50550351",
+      "category": "Security",
+      "posted_at": "2026-11-18T18:45:23Z",
+      "fetched_at": "2026-11-18T20:38:56Z",
+      "score": 7,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "agent",
+        "Python"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50537747",
       "hn_id": 50537747,
       "title": "A Man and His Muse AI Agent Sue Meta",
@@ -560,11 +540,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50537747",
       "category": "AI",
       "posted_at": "2026-11-17T20:31:00Z",
-      "fetched_at": "2026-11-18T07:37:17Z",
+      "fetched_at": "2026-11-18T20:37:54Z",
       "score": 5,
       "comment_count": 1,
-      "score_gain_24h_observed": 1,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "ai agent"
       ],
@@ -625,11 +605,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50536955",
       "category": "AI",
       "posted_at": "2026-11-17T19:35:33Z",
-      "fetched_at": "2026-11-18T07:37:17Z",
+      "fetched_at": "2026-11-18T20:37:54Z",
       "score": 5,
       "comment_count": 0,
-      "score_gain_24h_observed": 2,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "LLM",
@@ -645,7 +625,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50526573",
       "category": "AI",
       "posted_at": "2026-11-17T02:18:46Z",
-      "fetched_at": "2026-11-18T07:36:28Z",
+      "fetched_at": "2026-11-18T20:37:54Z",
       "score": 4,
       "comment_count": 0,
       "score_gain_24h_observed": null,
@@ -713,7 +693,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50493251",
       "category": "AI",
       "posted_at": "2026-11-14T02:52:59Z",
-      "fetched_at": "2026-11-18T07:36:28Z",
+      "fetched_at": "2026-11-18T20:37:54Z",
       "score": 1113,
       "comment_count": 650,
       "score_gain_24h_observed": null,
@@ -725,21 +705,40 @@
       "snippet": ""
     },
     {
-      "id": "HN-50458900",
-      "hn_id": 50458900,
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "hn_url": "https://news.ycombinator.com/item?id=50458900",
-      "category": "AI",
-      "posted_at": "2026-11-11T21:24:35Z",
-      "fetched_at": "2026-11-17T07:59:55Z",
-      "score": 682,
-      "comment_count": 710,
+      "id": "HN-50532849",
+      "hn_id": 50532849,
+      "title": "Highly classified US national security communications network goes down",
+      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "hn_url": "https://news.ycombinator.com/item?id=50532849",
+      "category": "Security",
+      "posted_at": "2026-11-17T15:38:28Z",
+      "fetched_at": "2026-11-18T20:37:54Z",
+      "score": 659,
+      "comment_count": 741,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
-        "ai agents"
+        "national security"
       ],
+      "selection_hints": [
+        "security"
+      ],
+      "snippet": "https://www.reuters.com/technology/highly-classified-us-nati..."
+    },
+    {
+      "id": "HN-50542705",
+      "hn_id": 50542705,
+      "title": "AI is killing All About Berlin",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=50542705",
+      "category": "AI",
+      "posted_at": "2026-11-18T06:47:26Z",
+      "fetched_at": "2026-11-18T20:38:56Z",
+      "score": 726,
+      "comment_count": 663,
+      "score_gain_24h_observed": 701,
+      "comment_gain_24h_observed": 657,
+      "keywords": [],
       "selection_hints": [
         "AI"
       ],
@@ -753,9 +752,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50524736",
       "category": "AI",
       "posted_at": "2026-11-16T22:58:20Z",
-      "fetched_at": "2026-11-18T07:36:28Z",
-      "score": 718,
-      "comment_count": 600,
+      "fetched_at": "2026-11-18T20:37:54Z",
+      "score": 726,
+      "comment_count": 615,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -768,27 +767,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50532849",
-      "hn_id": 50532849,
-      "title": "Highly classified US national security communications network goes down",
-      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-      "hn_url": "https://news.ycombinator.com/item?id=50532849",
-      "category": "Security",
-      "posted_at": "2026-11-17T15:38:28Z",
-      "fetched_at": "2026-11-18T07:37:17Z",
-      "score": 558,
-      "comment_count": 643,
-      "score_gain_24h_observed": 279,
-      "comment_gain_24h_observed": 197,
-      "keywords": [
-        "national security"
-      ],
-      "selection_hints": [
-        "security"
-      ],
-      "snippet": "https://www.reuters.com/technology/highly-classified-us-nati..."
-    },
-    {
       "id": "HN-50481187",
       "hn_id": 50481187,
       "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
@@ -796,13 +774,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50481187",
       "category": "AI",
       "posted_at": "2026-11-13T10:18:13Z",
-      "fetched_at": "2026-11-18T07:36:28Z",
+      "fetched_at": "2026-11-18T20:37:54Z",
       "score": 494,
-      "comment_count": 394,
+      "comment_count": 395,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
-        "claude code"
+        "claude code",
+        "claude com"
       ],
       "selection_hints": [
         "AI"
@@ -836,7 +815,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50474883",
       "category": "AI",
       "posted_at": "2026-11-12T21:56:11Z",
-      "fetched_at": "2026-11-18T07:36:28Z",
+      "fetched_at": "2026-11-18T20:37:54Z",
       "score": 452,
       "comment_count": 197,
       "score_gain_24h_observed": null,
@@ -865,6 +844,29 @@
       "keywords": [],
       "selection_hints": [
         "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50532086",
+      "hn_id": 50532086,
+      "title": "We don't need more apps, we need better open source",
+      "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+      "hn_url": "https://news.ycombinator.com/item?id=50532086",
+      "category": "Security",
+      "posted_at": "2026-11-17T14:45:36Z",
+      "fetched_at": "2026-11-18T20:37:54Z",
+      "score": 353,
+      "comment_count": 255,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open source",
+        "don need",
+        "need better"
+      ],
+      "selection_hints": [
+        "open source"
       ],
       "snippet": ""
     }
