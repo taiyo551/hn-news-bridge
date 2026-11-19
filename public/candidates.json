@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-18T22:15:49Z",
-  "source_data_as_of": "2026-11-18T20:38:56Z",
+  "generated_at": "2026-11-19T13:46:53Z",
+  "source_data_as_of": "2026-11-19T07:32:31Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-11T22:15:49Z",
-  "eligible_count_before_dedup": 433,
+  "window_start": "2026-11-12T13:46:53Z",
+  "eligible_count_before_dedup": 444,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "02ff60d7ddd4d9a0026aa4bc5b602cb314b7fc32"
+    "commit": "fa5ec6ec3384c030d4b4589b39ba452492db5aa6"
   },
   "articles": [
     {
@@ -21,7 +21,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50533270",
       "category": "AI",
       "posted_at": "2026-11-17T16:01:04Z",
-      "fetched_at": "2026-11-18T20:37:54Z",
+      "fetched_at": "2026-11-19T07:31:40Z",
       "score": 54,
       "comment_count": 7,
       "score_gain_24h_observed": null,
@@ -36,6 +36,27 @@
         "open source"
       ],
       "snippet": "Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium. We started 3 weeks back, and currently we’re able to serve and run GLM 5.3 flash (FP8) on AWS trn2.48xlarge, and will bring more models support soon. It’s open to contributions :) What it does today: - Serves 2 instances of GLM-5.3 flash on a single box, 8 trn2 with a cache aware router. - Can process 3.57M TPM (tokens per minute) on SemiAnalysis's AgentX benchmarks"
+    },
+    {
+      "id": "HN-50554908",
+      "hn_id": 50554908,
+      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+      "url": "https://arxiv.org/abs/2607.29378",
+      "hn_url": "https://news.ycombinator.com/item?id=50554908",
+      "category": "AI",
+      "posted_at": "2026-11-19T01:27:02Z",
+      "fetched_at": "2026-11-19T07:32:31Z",
+      "score": 43,
+      "comment_count": 7,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "LLM",
+        "prompt",
+        "token"
+      ],
+      "snippet": ""
     },
     {
       "id": "HN-50517797",
@@ -62,6 +83,29 @@
       "snippet": ""
     },
     {
+      "id": "HN-50547214",
+      "hn_id": 50547214,
+      "title": "Show HN: Space-Core, a free browser MMO your own AI agent plays over MCP",
+      "url": "https://space-core.at/",
+      "hn_url": "https://news.ycombinator.com/item?id=50547214",
+      "category": "AI",
+      "posted_at": "2026-11-18T15:07:56Z",
+      "fetched_at": "2026-11-19T07:32:31Z",
+      "score": 3,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai agent"
+      ],
+      "selection_hints": [
+        "AI",
+        "agent",
+        "MCP"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50507303",
       "hn_id": 50507303,
       "title": "All AI-generated code should be Open Source",
@@ -69,9 +113,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50507303",
       "category": "Security",
       "posted_at": "2026-11-15T14:46:58Z",
-      "fetched_at": "2026-11-18T20:37:54Z",
+      "fetched_at": "2026-11-19T07:31:40Z",
       "score": 1281,
-      "comment_count": 670,
+      "comment_count": 671,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -92,9 +136,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50484658",
       "category": "AI",
       "posted_at": "2026-11-13T15:08:44Z",
-      "fetched_at": "2026-11-18T20:37:54Z",
-      "score": 494,
-      "comment_count": 751,
+      "fetched_at": "2026-11-19T07:31:40Z",
+      "score": 495,
+      "comment_count": 752,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -112,11 +156,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50540178",
       "category": "AI",
       "posted_at": "2026-11-18T00:17:58Z",
-      "fetched_at": "2026-11-18T20:38:56Z",
-      "score": 674,
-      "comment_count": 524,
-      "score_gain_24h_observed": 369,
-      "comment_gain_24h_observed": 284,
+      "fetched_at": "2026-11-19T07:31:40Z",
+      "score": 697,
+      "comment_count": 544,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "google ai"
       ],
@@ -134,11 +178,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50538303",
       "category": "AI",
       "posted_at": "2026-11-17T21:16:12Z",
-      "fetched_at": "2026-11-18T20:38:56Z",
-      "score": 309,
-      "comment_count": 418,
-      "score_gain_24h_observed": 152,
-      "comment_gain_24h_observed": 217,
+      "fetched_at": "2026-11-19T07:31:40Z",
+      "score": 320,
+      "comment_count": 441,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "code review",
         "ai coding",
@@ -220,7 +264,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50506940",
       "category": "AI",
       "posted_at": "2026-11-15T13:50:51Z",
-      "fetched_at": "2026-11-18T20:37:54Z",
+      "fetched_at": "2026-11-19T07:31:40Z",
       "score": 45,
       "comment_count": 17,
       "score_gain_24h_observed": null,
@@ -235,28 +279,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50460398",
-      "hn_id": 50460398,
-      "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
-      "url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
-      "hn_url": "https://news.ycombinator.com/item?id=50460398",
-      "category": "Web",
-      "posted_at": "2026-11-11T23:22:29Z",
-      "fetched_at": "2026-11-13T19:47:14Z",
-      "score": 34,
-      "comment_count": 9,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "coding agent"
-      ],
-      "selection_hints": [
-        "agent",
-        "coding"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50549438",
       "hn_id": 50549438,
       "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
@@ -264,11 +286,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50549438",
       "category": "Other",
       "posted_at": "2026-11-18T17:41:48Z",
-      "fetched_at": "2026-11-18T20:38:56Z",
-      "score": 30,
-      "comment_count": 6,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "fetched_at": "2026-11-19T07:32:31Z",
+      "score": 40,
+      "comment_count": 8,
+      "score_gain_24h_observed": 10,
+      "comment_gain_24h_observed": 2,
       "keywords": [],
       "selection_hints": [
         "search",
@@ -326,7 +348,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50521780",
       "category": "Security",
       "posted_at": "2026-11-16T19:22:24Z",
-      "fetched_at": "2026-11-18T20:37:54Z",
+      "fetched_at": "2026-11-19T07:31:40Z",
       "score": 22,
       "comment_count": 2,
       "score_gain_24h_observed": null,
@@ -379,6 +401,26 @@
       "selection_hints": [
         "AI",
         "automation"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50550351",
+      "hn_id": 50550351,
+      "title": "Microsoft's official Python agent framework hijacked to distribute malware",
+      "url": "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
+      "hn_url": "https://news.ycombinator.com/item?id=50550351",
+      "category": "Security",
+      "posted_at": "2026-11-18T18:45:23Z",
+      "fetched_at": "2026-11-19T07:32:31Z",
+      "score": 15,
+      "comment_count": 0,
+      "score_gain_24h_observed": 8,
+      "comment_gain_24h_observed": 0,
+      "keywords": [],
+      "selection_hints": [
+        "agent",
+        "Python"
       ],
       "snippet": ""
     },
@@ -447,28 +489,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50464872",
-      "hn_id": 50464872,
-      "title": "Pi GPUI: A native GUI for the pi coding agent, built with Rust and GPUI.",
-      "url": "https://pi-gpui.dev",
-      "hn_url": "https://news.ycombinator.com/item?id=50464872",
-      "category": "Programming",
-      "posted_at": "2026-11-12T09:18:45Z",
-      "fetched_at": "2026-11-14T06:33:10Z",
-      "score": 9,
-      "comment_count": 1,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "coding agent"
-      ],
-      "selection_hints": [
-        "agent",
-        "coding"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50493213",
       "hn_id": 50493213,
       "title": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
@@ -513,26 +533,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50550351",
-      "hn_id": 50550351,
-      "title": "Microsoft's official Python agent framework hijacked to distribute malware",
-      "url": "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
-      "hn_url": "https://news.ycombinator.com/item?id=50550351",
-      "category": "Security",
-      "posted_at": "2026-11-18T18:45:23Z",
-      "fetched_at": "2026-11-18T20:38:56Z",
-      "score": 7,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "agent",
-        "Python"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50537747",
       "hn_id": 50537747,
       "title": "A Man and His Muse AI Agent Sue Meta",
@@ -540,7 +540,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50537747",
       "category": "AI",
       "posted_at": "2026-11-17T20:31:00Z",
-      "fetched_at": "2026-11-18T20:37:54Z",
+      "fetched_at": "2026-11-19T07:31:40Z",
       "score": 5,
       "comment_count": 1,
       "score_gain_24h_observed": null,
@@ -605,7 +605,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50536955",
       "category": "AI",
       "posted_at": "2026-11-17T19:35:33Z",
-      "fetched_at": "2026-11-18T20:37:54Z",
+      "fetched_at": "2026-11-19T07:31:40Z",
       "score": 5,
       "comment_count": 0,
       "score_gain_24h_observed": null,
@@ -705,6 +705,25 @@
       "snippet": ""
     },
     {
+      "id": "HN-50542705",
+      "hn_id": 50542705,
+      "title": "AI is killing All About Berlin",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=50542705",
+      "category": "AI",
+      "posted_at": "2026-11-18T06:47:26Z",
+      "fetched_at": "2026-11-19T07:31:40Z",
+      "score": 777,
+      "comment_count": 692,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50532849",
       "hn_id": 50532849,
       "title": "Highly classified US national security communications network goes down",
@@ -712,9 +731,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50532849",
       "category": "Security",
       "posted_at": "2026-11-17T15:38:28Z",
-      "fetched_at": "2026-11-18T20:37:54Z",
-      "score": 659,
-      "comment_count": 741,
+      "fetched_at": "2026-11-19T07:31:40Z",
+      "score": 667,
+      "comment_count": 753,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -726,25 +745,6 @@
       "snippet": "https://www.reuters.com/technology/highly-classified-us-nati..."
     },
     {
-      "id": "HN-50542705",
-      "hn_id": 50542705,
-      "title": "AI is killing All About Berlin",
-      "url": "https://nicolasbouliane.com/blog/death-by-ai",
-      "hn_url": "https://news.ycombinator.com/item?id=50542705",
-      "category": "AI",
-      "posted_at": "2026-11-18T06:47:26Z",
-      "fetched_at": "2026-11-18T20:38:56Z",
-      "score": 726,
-      "comment_count": 663,
-      "score_gain_24h_observed": 701,
-      "comment_gain_24h_observed": 657,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50524736",
       "hn_id": 50524736,
       "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
@@ -752,9 +752,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50524736",
       "category": "AI",
       "posted_at": "2026-11-16T22:58:20Z",
-      "fetched_at": "2026-11-18T20:37:54Z",
-      "score": 726,
-      "comment_count": 615,
+      "fetched_at": "2026-11-19T07:31:40Z",
+      "score": 728,
+      "comment_count": 620,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -774,9 +774,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50481187",
       "category": "AI",
       "posted_at": "2026-11-13T10:18:13Z",
-      "fetched_at": "2026-11-18T20:37:54Z",
+      "fetched_at": "2026-11-19T07:31:40Z",
       "score": 494,
-      "comment_count": 395,
+      "comment_count": 396,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -789,25 +789,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50463899",
-      "hn_id": 50463899,
-      "title": "\"Humble Bundle just killed most of their security through vibecoding\"",
-      "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
-      "hn_url": "https://news.ycombinator.com/item?id=50463899",
-      "category": "Security",
-      "posted_at": "2026-11-12T06:52:48Z",
-      "fetched_at": "2026-11-17T07:59:55Z",
-      "score": 415,
-      "comment_count": 235,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "security"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50474883",
       "hn_id": 50474883,
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
@@ -815,8 +796,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50474883",
       "category": "AI",
       "posted_at": "2026-11-12T21:56:11Z",
-      "fetched_at": "2026-11-18T20:37:54Z",
-      "score": 452,
+      "fetched_at": "2026-11-19T07:31:40Z",
+      "score": 453,
       "comment_count": 197,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -827,6 +808,50 @@
         "AI"
       ],
       "snippet": "https://twitter.com/willdepue/status/2120992457630326841"
+    },
+    {
+      "id": "HN-50547777",
+      "hn_id": 50547777,
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "hn_url": "https://news.ycombinator.com/item?id=50547777",
+      "category": "AI",
+      "posted_at": "2026-11-18T15:49:34Z",
+      "fetched_at": "2026-11-19T07:32:31Z",
+      "score": 441,
+      "comment_count": 192,
+      "score_gain_24h_observed": 261,
+      "comment_gain_24h_observed": 99,
+      "keywords": [
+        "ai agents"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50532086",
+      "hn_id": 50532086,
+      "title": "We don't need more apps, we need better open source",
+      "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+      "hn_url": "https://news.ycombinator.com/item?id=50532086",
+      "category": "Security",
+      "posted_at": "2026-11-17T14:45:36Z",
+      "fetched_at": "2026-11-19T07:31:40Z",
+      "score": 353,
+      "comment_count": 258,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open source",
+        "don need",
+        "need better"
+      ],
+      "selection_hints": [
+        "open source"
+      ],
+      "snippet": ""
     },
     {
       "id": "HN-50481870",
@@ -844,29 +869,6 @@
       "keywords": [],
       "selection_hints": [
         "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50532086",
-      "hn_id": 50532086,
-      "title": "We don't need more apps, we need better open source",
-      "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
-      "hn_url": "https://news.ycombinator.com/item?id=50532086",
-      "category": "Security",
-      "posted_at": "2026-11-17T14:45:36Z",
-      "fetched_at": "2026-11-18T20:37:54Z",
-      "score": 353,
-      "comment_count": 255,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open source",
-        "don need",
-        "need better"
-      ],
-      "selection_hints": [
-        "open source"
       ],
       "snippet": ""
     }
