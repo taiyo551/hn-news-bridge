@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-19T22:23:29Z",
+  "generated_at": "2026-11-20T03:40:55Z",
   "source_data_as_of": "2026-11-19T20:44:20Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-12T22:23:29Z",
-  "eligible_count_before_dedup": 436,
+  "window_start": "2026-11-13T03:40:55Z",
+  "eligible_count_before_dedup": 425,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
@@ -205,26 +205,6 @@
       "fetched_at": "2026-11-17T20:59:39Z",
       "score": 198,
       "comment_count": 197,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "search"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50476586",
-      "hn_id": 50476586,
-      "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-      "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50476586",
-      "category": "AI",
-      "posted_at": "2026-11-13T00:38:41Z",
-      "fetched_at": "2026-11-14T22:29:56Z",
-      "score": 90,
-      "comment_count": 30,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -829,25 +809,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50475713",
-      "hn_id": 50475713,
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "hn_url": "https://news.ycombinator.com/item?id=50475713",
-      "category": "AI",
-      "posted_at": "2026-11-12T23:06:17Z",
-      "fetched_at": "2026-11-18T07:36:28Z",
-      "score": 357,
-      "comment_count": 105,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50531751",
       "hn_id": 50531751,
       "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
@@ -858,6 +819,44 @@
       "fetched_at": "2026-11-19T07:31:40Z",
       "score": 191,
       "comment_count": 257,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50497892",
+      "hn_id": 50497892,
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "hn_url": "https://news.ycombinator.com/item?id=50497892",
+      "category": "Security",
+      "posted_at": "2026-11-14T15:40:52Z",
+      "fetched_at": "2026-11-19T20:43:14Z",
+      "score": 280,
+      "comment_count": 132,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "security"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50562262",
+      "hn_id": 50562262,
+      "title": "Fuck Your AI Safeguards",
+      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+      "hn_url": "https://news.ycombinator.com/item?id=50562262",
+      "category": "AI",
+      "posted_at": "2026-11-19T16:30:18Z",
+      "fetched_at": "2026-11-19T20:44:20Z",
+      "score": 298,
+      "comment_count": 107,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
