@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T08:42:25Z",
+  "generated_at": "2026-11-22T17:19:27Z",
   "source_data_as_of": "2026-11-22T06:58:36Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-15T08:42:25Z",
-  "eligible_count_before_dedup": 402,
+  "window_start": "2026-11-15T17:19:27Z",
+  "eligible_count_before_dedup": 385,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
@@ -130,29 +130,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50507303",
-      "hn_id": 50507303,
-      "title": "All AI-generated code should be Open Source",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "hn_url": "https://news.ycombinator.com/item?id=50507303",
-      "category": "Security",
-      "posted_at": "2026-11-15T14:46:58Z",
-      "fetched_at": "2026-11-22T06:57:40Z",
-      "score": 1288,
-      "comment_count": 673,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open source",
-        "ai generated"
-      ],
-      "selection_hints": [
-        "AI",
-        "open source"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50540178",
       "hn_id": 50540178,
       "title": "Google's AI answers reducing search traffic by 40%",
@@ -261,28 +238,6 @@
       "selection_hints": [
         "AI",
         "open source"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50506940",
-      "hn_id": 50506940,
-      "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-      "url": "https://github.com/db-branch/db-branch",
-      "hn_url": "https://news.ycombinator.com/item?id=50506940",
-      "category": "AI",
-      "posted_at": "2026-11-15T13:50:51Z",
-      "fetched_at": "2026-11-19T07:31:40Z",
-      "score": 45,
-      "comment_count": 17,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agents"
-      ],
-      "selection_hints": [
-        "AI",
-        "database"
       ],
       "snippet": ""
     },
@@ -871,6 +826,51 @@
       "comment_gain_24h_observed": null,
       "keywords": [
         "ai agents"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50532086",
+      "hn_id": 50532086,
+      "title": "We don't need more apps, we need better open source",
+      "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+      "hn_url": "https://news.ycombinator.com/item?id=50532086",
+      "category": "Security",
+      "posted_at": "2026-11-17T14:45:36Z",
+      "fetched_at": "2026-11-20T20:27:12Z",
+      "score": 354,
+      "comment_count": 260,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open source",
+        "don need",
+        "need better"
+      ],
+      "selection_hints": [
+        "open source"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50561508",
+      "hn_id": 50561508,
+      "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/",
+      "hn_url": "https://news.ycombinator.com/item?id=50561508",
+      "category": "AI",
+      "posted_at": "2026-11-19T15:38:12Z",
+      "fetched_at": "2026-11-22T06:57:40Z",
+      "score": 272,
+      "comment_count": 248,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open models",
+        "local ai"
       ],
       "selection_hints": [
         "AI"
