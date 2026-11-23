@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-23T03:55:47Z",
-  "source_data_as_of": "2026-11-22T19:46:36Z",
+  "generated_at": "2026-11-23T15:13:58Z",
+  "source_data_as_of": "2026-11-23T07:47:36Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-16T03:55:47Z",
-  "eligible_count_before_dedup": 377,
+  "window_start": "2026-11-16T15:13:58Z",
+  "eligible_count_before_dedup": 385,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "d0e9808a0e2ef6e47bc40a11f2e5bbe22cb6ec31"
+    "commit": "8edd0b7d86bdc784d28fa5f3950d64c2f2d55088"
   },
   "articles": [
     {
@@ -21,8 +21,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50586292",
       "category": "AI",
       "posted_at": "2026-11-21T05:38:01Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
-      "score": 170,
+      "fetched_at": "2026-11-23T07:46:43Z",
+      "score": 175,
       "comment_count": 52,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -69,7 +69,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50554908",
       "category": "AI",
       "posted_at": "2026-11-19T01:27:02Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
+      "fetched_at": "2026-11-23T07:46:43Z",
       "score": 48,
       "comment_count": 10,
       "score_gain_24h_observed": null,
@@ -79,30 +79,6 @@
         "LLM",
         "prompt",
         "token"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50517797",
-      "hn_id": 50517797,
-      "title": "Google: AI agent turned a security patch into a exploit with no human help",
-      "url": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
-      "hn_url": "https://news.ycombinator.com/item?id=50517797",
-      "category": "AI",
-      "posted_at": "2026-11-16T14:14:09Z",
-      "fetched_at": "2026-11-18T07:36:28Z",
-      "score": 12,
-      "comment_count": 3,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agent",
-        "google ai"
-      ],
-      "selection_hints": [
-        "AI",
-        "agent",
-        "security"
       ],
       "snippet": ""
     },
@@ -137,7 +113,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50540178",
       "category": "AI",
       "posted_at": "2026-11-18T00:17:58Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
+      "fetched_at": "2026-11-23T07:46:43Z",
       "score": 713,
       "comment_count": 565,
       "score_gain_24h_observed": null,
@@ -159,9 +135,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50538303",
       "category": "AI",
       "posted_at": "2026-11-17T21:16:12Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
+      "fetched_at": "2026-11-23T07:46:43Z",
       "score": 331,
-      "comment_count": 465,
+      "comment_count": 467,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -183,17 +159,39 @@
       "hn_url": "https://news.ycombinator.com/item?id=50593481",
       "category": "AI",
       "posted_at": "2026-11-21T20:47:41Z",
-      "fetched_at": "2026-11-22T19:46:36Z",
-      "score": 135,
-      "comment_count": 31,
-      "score_gain_24h_observed": 71,
-      "comment_gain_24h_observed": 19,
+      "fetched_at": "2026-11-23T07:46:43Z",
+      "score": 140,
+      "comment_count": 33,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "ai agents"
       ],
       "selection_hints": [
         "AI",
         "MCP"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50596511",
+      "hn_id": 50596511,
+      "title": "AI Supply Chain Security: What Canary Tokens Found",
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "hn_url": "https://news.ycombinator.com/item?id=50596511",
+      "category": "AI",
+      "posted_at": "2026-11-22T05:11:43Z",
+      "fetched_at": "2026-11-23T07:46:43Z",
+      "score": 103,
+      "comment_count": 22,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "supply chain"
+      ],
+      "selection_hints": [
+        "AI",
+        "security"
       ],
       "snippet": ""
     },
@@ -205,7 +203,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50573681",
       "category": "AI",
       "posted_at": "2026-11-20T12:16:36Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
+      "fetched_at": "2026-11-23T07:46:43Z",
       "score": 58,
       "comment_count": 61,
       "score_gain_24h_observed": null,
@@ -220,28 +218,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50596511",
-      "hn_id": 50596511,
-      "title": "AI Supply Chain Security: What Canary Tokens Found",
-      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-      "hn_url": "https://news.ycombinator.com/item?id=50596511",
-      "category": "AI",
-      "posted_at": "2026-11-22T05:11:43Z",
-      "fetched_at": "2026-11-22T19:46:36Z",
-      "score": 95,
-      "comment_count": 21,
-      "score_gain_24h_observed": 90,
-      "comment_gain_24h_observed": 21,
-      "keywords": [
-        "supply chain"
-      ],
-      "selection_hints": [
-        "AI",
-        "security"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50597959",
       "hn_id": 50597959,
       "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
@@ -249,15 +225,37 @@
       "hn_url": "https://news.ycombinator.com/item?id=50597959",
       "category": "Programming",
       "posted_at": "2026-11-22T09:57:01Z",
-      "fetched_at": "2026-11-22T19:46:36Z",
-      "score": 57,
-      "comment_count": 9,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "fetched_at": "2026-11-23T07:47:36Z",
+      "score": 75,
+      "comment_count": 11,
+      "score_gain_24h_observed": 18,
+      "comment_gain_24h_observed": 2,
       "keywords": [],
       "selection_hints": [
         "AI",
         "Python"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50604540",
+      "hn_id": 50604540,
+      "title": "Localcode, open source agentic coding on your Mac with one command",
+      "url": "https://github.com/mjwsolo/localcode",
+      "hn_url": "https://news.ycombinator.com/item?id=50604540",
+      "category": "AI",
+      "posted_at": "2026-11-22T22:18:48Z",
+      "fetched_at": "2026-11-23T07:47:36Z",
+      "score": 54,
+      "comment_count": 13,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "open source"
+      ],
+      "selection_hints": [
+        "coding",
+        "open source"
       ],
       "snippet": ""
     },
@@ -291,11 +289,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50595816",
       "category": "Other",
       "posted_at": "2026-11-22T03:07:27Z",
-      "fetched_at": "2026-11-22T19:46:36Z",
-      "score": 43,
-      "comment_count": 10,
-      "score_gain_24h_observed": 24,
-      "comment_gain_24h_observed": 3,
+      "fetched_at": "2026-11-23T07:46:43Z",
+      "score": 48,
+      "comment_count": 11,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI",
@@ -331,7 +329,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50573166",
       "category": "AI",
       "posted_at": "2026-11-20T11:22:27Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
+      "fetched_at": "2026-11-23T07:46:43Z",
       "score": 19,
       "comment_count": 11,
       "score_gain_24h_observed": null,
@@ -375,8 +373,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50589235",
       "category": "AI",
       "posted_at": "2026-11-21T13:53:08Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
-      "score": 15,
+      "fetched_at": "2026-11-23T07:46:43Z",
+      "score": 16,
       "comment_count": 2,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -484,7 +482,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50587571",
       "category": "AI",
       "posted_at": "2026-11-21T09:40:06Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
+      "fetched_at": "2026-11-23T07:46:43Z",
       "score": 8,
       "comment_count": 1,
       "score_gain_24h_observed": null,
@@ -506,7 +504,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50591687",
       "category": "AI",
       "posted_at": "2026-11-21T17:45:41Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
+      "fetched_at": "2026-11-23T07:46:43Z",
       "score": 8,
       "comment_count": 0,
       "score_gain_24h_observed": null,
@@ -550,7 +548,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50587246",
       "category": "AI",
       "posted_at": "2026-11-21T08:39:42Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
+      "fetched_at": "2026-11-23T07:46:43Z",
       "score": 5,
       "comment_count": 0,
       "score_gain_24h_observed": null,
@@ -635,7 +633,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50542705",
       "category": "AI",
       "posted_at": "2026-11-18T06:47:26Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
+      "fetched_at": "2026-11-23T07:46:43Z",
       "score": 820,
       "comment_count": 713,
       "score_gain_24h_observed": null,
@@ -654,9 +652,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50574383",
       "category": "AI",
       "posted_at": "2026-11-20T13:29:59Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
-      "score": 525,
-      "comment_count": 918,
+      "fetched_at": "2026-11-23T07:46:43Z",
+      "score": 530,
+      "comment_count": 922,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -716,9 +714,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50572503",
       "category": "AI",
       "posted_at": "2026-11-20T10:01:41Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
-      "score": 675,
-      "comment_count": 362,
+      "fetched_at": "2026-11-23T07:46:43Z",
+      "score": 679,
+      "comment_count": 363,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -735,9 +733,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50572348",
       "category": "AI",
       "posted_at": "2026-11-20T09:42:16Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
-      "score": 577,
-      "comment_count": 346,
+      "fetched_at": "2026-11-23T07:46:43Z",
+      "score": 580,
+      "comment_count": 347,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -757,9 +755,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50562262",
       "category": "AI",
       "posted_at": "2026-11-19T16:30:18Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
-      "score": 616,
-      "comment_count": 249,
+      "fetched_at": "2026-11-23T07:46:43Z",
+      "score": 617,
+      "comment_count": 250,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -776,13 +774,53 @@
       "hn_url": "https://news.ycombinator.com/item?id=50547777",
       "category": "AI",
       "posted_at": "2026-11-18T15:49:34Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
-      "score": 499,
-      "comment_count": 264,
+      "fetched_at": "2026-11-23T07:46:43Z",
+      "score": 500,
+      "comment_count": 265,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
         "ai agents"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50595537",
+      "hn_id": 50595537,
+      "title": "The Mythology of Conscious AI",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=50595537",
+      "category": "AI",
+      "posted_at": "2026-11-22T02:10:02Z",
+      "fetched_at": "2026-11-23T07:46:43Z",
+      "score": 173,
+      "comment_count": 505,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50603845",
+      "hn_id": 50603845,
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "hn_url": "https://news.ycombinator.com/item?id=50603845",
+      "category": "AI",
+      "posted_at": "2026-11-22T21:01:16Z",
+      "fetched_at": "2026-11-23T07:47:36Z",
+      "score": 441,
+      "comment_count": 175,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "local ai"
       ],
       "selection_hints": [
         "AI"
@@ -813,25 +851,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50595537",
-      "hn_id": 50595537,
-      "title": "The Mythology of Conscious AI",
-      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=50595537",
-      "category": "AI",
-      "posted_at": "2026-11-22T02:10:02Z",
-      "fetched_at": "2026-11-22T19:46:36Z",
-      "score": 145,
-      "comment_count": 414,
-      "score_gain_24h_observed": 114,
-      "comment_gain_24h_observed": 348,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50561508",
       "hn_id": 50561508,
       "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
@@ -839,34 +858,13 @@
       "hn_url": "https://news.ycombinator.com/item?id=50561508",
       "category": "AI",
       "posted_at": "2026-11-19T15:38:12Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
-      "score": 272,
-      "comment_count": 251,
+      "fetched_at": "2026-11-23T07:46:43Z",
+      "score": 273,
+      "comment_count": 252,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
         "local ai"
-      ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50577901",
-      "hn_id": 50577901,
-      "title": "Google workers tell their employer not to punish schools that don't want AI",
-      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
-      "hn_url": "https://news.ycombinator.com/item?id=50577901",
-      "category": "AI",
-      "posted_at": "2026-11-20T16:59:27Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
-      "score": 283,
-      "comment_count": 229,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "don want"
       ],
       "selection_hints": [
         "AI"
