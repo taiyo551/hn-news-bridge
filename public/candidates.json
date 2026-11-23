@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T22:43:54Z",
+  "generated_at": "2026-11-23T03:55:47Z",
   "source_data_as_of": "2026-11-22T19:46:36Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-15T22:43:54Z",
-  "eligible_count_before_dedup": 395,
+  "window_start": "2026-11-16T03:55:47Z",
+  "eligible_count_before_dedup": 377,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
@@ -455,26 +455,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50512233",
-      "hn_id": 50512233,
-      "title": "The efficient frontier of LLM inference",
-      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization",
-      "hn_url": "https://news.ycombinator.com/item?id=50512233",
-      "category": "AI",
-      "posted_at": "2026-11-15T23:55:50Z",
-      "fetched_at": "2026-11-18T07:36:28Z",
-      "score": 13,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "LLM",
-        "inference"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50523359",
       "hn_id": 50523359,
       "title": "California is suing OpenAI over its 'rogue' AI agent hack",
@@ -541,28 +521,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50512000",
-      "hn_id": 50512000,
-      "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
-      "url": "https://finance.biggo.com/news/71888475bad974d6",
-      "hn_url": "https://news.ycombinator.com/item?id=50512000",
-      "category": "AI",
-      "posted_at": "2026-11-15T23:27:34Z",
-      "fetched_at": "2026-11-17T20:59:39Z",
-      "score": 8,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai coding"
-      ],
-      "selection_hints": [
-        "AI",
-        "coding"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50537747",
       "hn_id": 50537747,
       "title": "A Man and His Muse AI Agent Sue Meta",
@@ -583,29 +541,6 @@
         "agent"
       ],
       "snippet": ""
-    },
-    {
-      "id": "HN-50512685",
-      "hn_id": 50512685,
-      "title": "Show HN: gavel: guided code review with your coding agent",
-      "url": "https://photostructure.com/coding/gavel/",
-      "hn_url": "https://news.ycombinator.com/item?id=50512685",
-      "category": "Other",
-      "posted_at": "2026-11-16T00:52:02Z",
-      "fetched_at": "2026-11-17T20:59:39Z",
-      "score": 4,
-      "comment_count": 2,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "code review",
-        "coding agent"
-      ],
-      "selection_hints": [
-        "agent",
-        "coding"
-      ],
-      "snippet": "Howdy! I've been working on an open-source tool that helps lighten the burden of reviewing what your coding agents write. You still see all the lines of code, but the agents write a \"tour guide\" that links you through the local PR, and as you have questions or comments, you chat with your agent in the context of the code, in a threaded conversation. I called it \"gavel\" (you make your agents build a case that you judge). Hope you find it as useful as I do! https://github.com/photostructure/gavel"
     },
     {
       "id": "HN-50587246",
@@ -874,6 +809,67 @@
       ],
       "selection_hints": [
         "open source"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50595537",
+      "hn_id": 50595537,
+      "title": "The Mythology of Conscious AI",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=50595537",
+      "category": "AI",
+      "posted_at": "2026-11-22T02:10:02Z",
+      "fetched_at": "2026-11-22T19:46:36Z",
+      "score": 145,
+      "comment_count": 414,
+      "score_gain_24h_observed": 114,
+      "comment_gain_24h_observed": 348,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50561508",
+      "hn_id": 50561508,
+      "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/",
+      "hn_url": "https://news.ycombinator.com/item?id=50561508",
+      "category": "AI",
+      "posted_at": "2026-11-19T15:38:12Z",
+      "fetched_at": "2026-11-22T19:45:53Z",
+      "score": 272,
+      "comment_count": 251,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "local ai"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50577901",
+      "hn_id": 50577901,
+      "title": "Google workers tell their employer not to punish schools that don't want AI",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "hn_url": "https://news.ycombinator.com/item?id=50577901",
+      "category": "AI",
+      "posted_at": "2026-11-20T16:59:27Z",
+      "fetched_at": "2026-11-22T19:45:53Z",
+      "score": 283,
+      "comment_count": 229,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "don want"
+      ],
+      "selection_hints": [
+        "AI"
       ],
       "snippet": ""
     }
