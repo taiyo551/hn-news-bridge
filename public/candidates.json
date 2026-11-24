@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-24T12:51:31Z",
-  "source_data_as_of": "2026-11-24T10:00:17Z",
+  "generated_at": "2026-11-24T23:13:10Z",
+  "source_data_as_of": "2026-11-24T22:31:54Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-17T12:51:31Z",
-  "eligible_count_before_dedup": 378,
+  "window_start": "2026-11-17T23:13:10Z",
+  "eligible_count_before_dedup": 374,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "04890b1f2c71ad4bac9261989f3163b64a9cd0b3"
+    "commit": "a0c253d9fa22c20e0eaf5b11610c9240ce7b7a19"
   },
   "articles": [
     {
@@ -21,9 +21,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50586292",
       "category": "AI",
       "posted_at": "2026-11-21T05:38:01Z",
-      "fetched_at": "2026-11-24T09:59:29Z",
-      "score": 175,
-      "comment_count": 52,
+      "fetched_at": "2026-11-24T22:31:03Z",
+      "score": 176,
+      "comment_count": 53,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -36,30 +36,6 @@
         "coding"
       ],
       "snippet": ""
-    },
-    {
-      "id": "HN-50533270",
-      "hn_id": 50533270,
-      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
-      "url": "https://github.com/RunanywhereAI/trnrt",
-      "hn_url": "https://news.ycombinator.com/item?id=50533270",
-      "category": "AI",
-      "posted_at": "2026-11-17T16:01:04Z",
-      "fetched_at": "2026-11-22T06:57:40Z",
-      "score": 54,
-      "comment_count": 8,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open source",
-        "inference engine"
-      ],
-      "selection_hints": [
-        "LLM",
-        "inference",
-        "open source"
-      ],
-      "snippet": "Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium. We started 3 weeks back, and currently we’re able to serve and run GLM 5.3 flash (FP8) on AWS trn2.48xlarge, and will bring more models support soon. It’s open to contributions :) What it does today: - Serves 2 instances of GLM-5.3 flash on a single box, 8 trn2 with a cache aware router. - Can process 3.57M TPM (tokens per minute) on SemiAnalysis's AgentX benchmarks"
     },
     {
       "id": "HN-50554908",
@@ -128,30 +104,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50538303",
-      "hn_id": 50538303,
-      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-      "hn_url": "https://news.ycombinator.com/item?id=50538303",
-      "category": "AI",
-      "posted_at": "2026-11-17T21:16:12Z",
-      "fetched_at": "2026-11-24T09:59:29Z",
-      "score": 332,
-      "comment_count": 471,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "code review",
-        "ai coding",
-        "coding agents"
-      ],
-      "selection_hints": [
-        "AI",
-        "coding"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50593481",
       "hn_id": 50593481,
       "title": "Pandex – Official European Law for AI Agents, over MCP",
@@ -159,8 +111,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50593481",
       "category": "AI",
       "posted_at": "2026-11-21T20:47:41Z",
-      "fetched_at": "2026-11-24T09:59:29Z",
-      "score": 140,
+      "fetched_at": "2026-11-24T22:31:03Z",
+      "score": 141,
       "comment_count": 37,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -225,8 +177,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50604540",
       "category": "AI",
       "posted_at": "2026-11-22T22:18:48Z",
-      "fetched_at": "2026-11-24T09:59:29Z",
-      "score": 72,
+      "fetched_at": "2026-11-24T22:31:03Z",
+      "score": 75,
       "comment_count": 21,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -247,8 +199,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50597959",
       "category": "Programming",
       "posted_at": "2026-11-22T09:57:01Z",
-      "fetched_at": "2026-11-24T09:59:29Z",
-      "score": 79,
+      "fetched_at": "2026-11-24T22:31:03Z",
+      "score": 80,
       "comment_count": 12,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -267,7 +219,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50595816",
       "category": "Other",
       "posted_at": "2026-11-22T03:07:27Z",
-      "fetched_at": "2026-11-24T09:59:29Z",
+      "fetched_at": "2026-11-24T22:31:03Z",
       "score": 49,
       "comment_count": 11,
       "score_gain_24h_observed": null,
@@ -329,7 +281,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50589235",
       "category": "AI",
       "posted_at": "2026-11-21T13:53:08Z",
-      "fetched_at": "2026-11-24T09:59:29Z",
+      "fetched_at": "2026-11-24T22:31:03Z",
       "score": 16,
       "comment_count": 2,
       "score_gain_24h_observed": null,
@@ -386,6 +338,28 @@
       "snippet": ""
     },
     {
+      "id": "HN-50608604",
+      "hn_id": 50608604,
+      "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+      "url": "https://www.kradle.ai?1",
+      "hn_url": "https://news.ycombinator.com/item?id=50608604",
+      "category": "AI",
+      "posted_at": "2026-11-23T07:39:04Z",
+      "fetched_at": "2026-11-24T22:31:03Z",
+      "score": 12,
+      "comment_count": 3,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "multi agent"
+      ],
+      "selection_hints": [
+        "AI",
+        "agent"
+      ],
+      "snippet": "Hi HN - This is James and Kemal. In past lives we led Firebase and Tensorflow/JAX respectively. HN has been a particularly big part of my (James’) career and the trajectory I’ve taken would be meaningfully different without it. Thank you! Our team shipped a benchmark: KradleBench. We test AI in Minecraft Worlds. 1. The worlds are multi-agent. Humans and other AIs are in there too, often pursuing their own goals. Collaboration and conflict skills fall out of this property. 2. The world are dynami"
+    },
+    {
       "id": "HN-50568114",
       "hn_id": 50568114,
       "title": "On The Use of AI-Based Tools to Find Bugs in Open Source Software",
@@ -427,6 +401,26 @@
         "testing"
       ],
       "snippet": "Hi everyone, we love maps and doing some fun side quests exploring this domain. We were always surprised by the fact that products like ChatGpt recommends you places to go which have been shut down for years. Last March we built a benchmark measuring how often LLMs make mistakes when answering places-based queries (e.g. Recommend me a restaurant in Marina for a dinner). Even with the web grounding (which is a very expensive tool relative to the token price), the results were not good - 1 out 10 "
+    },
+    {
+      "id": "HN-50622623",
+      "hn_id": 50622623,
+      "title": "Show HN: Agent-first-browse – Web automation with delta snapshots and LangGraph",
+      "url": "https://github.com/SandeepAi369/Agent-first-browse",
+      "hn_url": "https://news.ycombinator.com/item?id=50622623",
+      "category": "Web",
+      "posted_at": "2026-11-24T02:06:09Z",
+      "fetched_at": "2026-11-24T22:31:54Z",
+      "score": 9,
+      "comment_count": 0,
+      "score_gain_24h_observed": 3,
+      "comment_gain_24h_observed": 0,
+      "keywords": [],
+      "selection_hints": [
+        "agent",
+        "automation"
+      ],
+      "snippet": ""
     },
     {
       "id": "HN-50587571",
@@ -473,48 +467,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50622623",
-      "hn_id": 50622623,
-      "title": "Show HN: Agent-first-browse – Web automation with delta snapshots and LangGraph",
-      "url": "https://github.com/SandeepAi369/Agent-first-browse",
-      "hn_url": "https://news.ycombinator.com/item?id=50622623",
-      "category": "Web",
-      "posted_at": "2026-11-24T02:06:09Z",
-      "fetched_at": "2026-11-24T10:00:17Z",
-      "score": 6,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "agent",
-        "automation"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50537747",
-      "hn_id": 50537747,
-      "title": "A Man and His Muse AI Agent Sue Meta",
-      "url": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/",
-      "hn_url": "https://news.ycombinator.com/item?id=50537747",
-      "category": "AI",
-      "posted_at": "2026-11-17T20:31:00Z",
-      "fetched_at": "2026-11-19T07:31:40Z",
-      "score": 5,
-      "comment_count": 1,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agent"
-      ],
-      "selection_hints": [
-        "AI",
-        "agent"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50587246",
       "hn_id": 50587246,
       "title": "Google rolls out new search homepage with AI chat history and no search button",
@@ -535,22 +487,21 @@
       "snippet": ""
     },
     {
-      "id": "HN-50536955",
-      "hn_id": 50536955,
-      "title": "Spaceship IDE – Realtime Steering with Cerebras Ultra-Low Latency LLM",
-      "url": "https://github.com/chuanqisun/spaceship",
-      "hn_url": "https://news.ycombinator.com/item?id=50536955",
-      "category": "AI",
-      "posted_at": "2026-11-17T19:35:33Z",
-      "fetched_at": "2026-11-19T07:31:40Z",
-      "score": 5,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "id": "HN-50609685",
+      "hn_id": 50609685,
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "hn_url": "https://news.ycombinator.com/item?id=50609685",
+      "category": "Other",
+      "posted_at": "2026-11-23T10:06:43Z",
+      "fetched_at": "2026-11-24T22:31:03Z",
+      "score": 1161,
+      "comment_count": 380,
+      "score_gain_24h_observed": 98,
+      "comment_gain_24h_observed": 32,
       "keywords": [],
       "selection_hints": [
-        "LLM",
-        "latency"
+        "coding"
       ],
       "snippet": ""
     },
@@ -574,25 +525,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50609685",
-      "hn_id": 50609685,
-      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-      "url": "https://z.ai/blog/glm-5.4",
-      "hn_url": "https://news.ycombinator.com/item?id=50609685",
-      "category": "Other",
-      "posted_at": "2026-11-23T10:06:43Z",
-      "fetched_at": "2026-11-24T10:00:17Z",
-      "score": 1122,
-      "comment_count": 366,
-      "score_gain_24h_observed": 98,
-      "comment_gain_24h_observed": 32,
-      "keywords": [],
-      "selection_hints": [
-        "coding"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50574383",
       "hn_id": 50574383,
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
@@ -600,9 +532,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50574383",
       "category": "AI",
       "posted_at": "2026-11-20T13:29:59Z",
-      "fetched_at": "2026-11-24T09:59:29Z",
+      "fetched_at": "2026-11-24T22:31:03Z",
       "score": 530,
-      "comment_count": 934,
+      "comment_count": 938,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -612,25 +544,23 @@
       "snippet": ""
     },
     {
-      "id": "HN-50532849",
-      "hn_id": 50532849,
-      "title": "Highly classified US national security communications network goes down",
-      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-      "hn_url": "https://news.ycombinator.com/item?id=50532849",
-      "category": "Security",
-      "posted_at": "2026-11-17T15:38:28Z",
-      "fetched_at": "2026-11-22T06:57:40Z",
-      "score": 671,
-      "comment_count": 767,
+      "id": "HN-50627340",
+      "hn_id": 50627340,
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "hn_url": "https://news.ycombinator.com/item?id=50627340",
+      "category": "AI",
+      "posted_at": "2026-11-24T12:40:15Z",
+      "fetched_at": "2026-11-24T22:31:54Z",
+      "score": 845,
+      "comment_count": 349,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
-      "keywords": [
-        "national security"
-      ],
+      "keywords": [],
       "selection_hints": [
-        "security"
+        "LLM"
       ],
-      "snippet": "https://www.reuters.com/technology/highly-classified-us-nati..."
+      "snippet": ""
     },
     {
       "id": "HN-50603845",
@@ -640,9 +570,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50603845",
       "category": "AI",
       "posted_at": "2026-11-22T21:01:16Z",
-      "fetched_at": "2026-11-24T09:59:29Z",
-      "score": 758,
-      "comment_count": 306,
+      "fetched_at": "2026-11-24T22:31:03Z",
+      "score": 769,
+      "comment_count": 313,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -661,9 +591,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50572503",
       "category": "AI",
       "posted_at": "2026-11-20T10:01:41Z",
-      "fetched_at": "2026-11-24T09:59:29Z",
-      "score": 684,
-      "comment_count": 366,
+      "fetched_at": "2026-11-24T22:31:03Z",
+      "score": 686,
+      "comment_count": 369,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -680,9 +610,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50572348",
       "category": "AI",
       "posted_at": "2026-11-20T09:42:16Z",
-      "fetched_at": "2026-11-24T09:59:29Z",
+      "fetched_at": "2026-11-24T22:31:03Z",
       "score": 583,
-      "comment_count": 349,
+      "comment_count": 350,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -710,6 +640,27 @@
       "keywords": [],
       "selection_hints": [
         "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50616933",
+      "hn_id": 50616933,
+      "title": "Apple removed my open-source app from EU App Stores after 9 years",
+      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+      "hn_url": "https://news.ycombinator.com/item?id=50616933",
+      "category": "Security",
+      "posted_at": "2026-11-23T18:48:10Z",
+      "fetched_at": "2026-11-24T22:31:03Z",
+      "score": 611,
+      "comment_count": 164,
+      "score_gain_24h_observed": 108,
+      "comment_gain_24h_observed": 43,
+      "keywords": [
+        "open source"
+      ],
+      "selection_hints": [
+        "open source"
       ],
       "snippet": ""
     },
@@ -742,9 +693,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50595537",
       "category": "AI",
       "posted_at": "2026-11-22T02:10:02Z",
-      "fetched_at": "2026-11-24T09:59:29Z",
+      "fetched_at": "2026-11-24T22:31:03Z",
       "score": 181,
-      "comment_count": 550,
+      "comment_count": 560,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -754,46 +705,23 @@
       "snippet": ""
     },
     {
-      "id": "HN-50616933",
-      "hn_id": 50616933,
-      "title": "Apple removed my open-source app from EU App Stores after 9 years",
-      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
-      "hn_url": "https://news.ycombinator.com/item?id=50616933",
-      "category": "Security",
-      "posted_at": "2026-11-23T18:48:10Z",
-      "fetched_at": "2026-11-24T10:00:17Z",
-      "score": 574,
-      "comment_count": 141,
-      "score_gain_24h_observed": 108,
-      "comment_gain_24h_observed": 43,
-      "keywords": [
-        "open source"
-      ],
-      "selection_hints": [
-        "open source"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50532086",
-      "hn_id": 50532086,
-      "title": "We don't need more apps, we need better open source",
-      "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
-      "hn_url": "https://news.ycombinator.com/item?id=50532086",
-      "category": "Security",
-      "posted_at": "2026-11-17T14:45:36Z",
-      "fetched_at": "2026-11-20T20:27:12Z",
-      "score": 354,
-      "comment_count": 260,
+      "id": "HN-50630309",
+      "hn_id": 50630309,
+      "title": "Tidal bans AI-generated music",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+      "hn_url": "https://news.ycombinator.com/item?id=50630309",
+      "category": "Other",
+      "posted_at": "2026-11-24T16:12:38Z",
+      "fetched_at": "2026-11-24T22:31:54Z",
+      "score": 309,
+      "comment_count": 292,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
-        "open source",
-        "don need",
-        "need better"
+        "ai generated"
       ],
       "selection_hints": [
-        "open source"
+        "AI"
       ],
       "snippet": ""
     },
@@ -805,11 +733,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50620822",
       "category": "Security",
       "posted_at": "2026-11-23T23:11:38Z",
-      "fetched_at": "2026-11-24T10:00:17Z",
-      "score": 301,
-      "comment_count": 234,
-      "score_gain_24h_observed": 289,
-      "comment_gain_24h_observed": 231,
+      "fetched_at": "2026-11-24T22:31:54Z",
+      "score": 337,
+      "comment_count": 256,
+      "score_gain_24h_observed": 325,
+      "comment_gain_24h_observed": 253,
       "keywords": [
         "national security"
       ],
@@ -847,7 +775,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50577901",
       "category": "AI",
       "posted_at": "2026-11-20T16:59:27Z",
-      "fetched_at": "2026-11-24T09:59:29Z",
+      "fetched_at": "2026-11-24T22:31:03Z",
       "score": 284,
       "comment_count": 229,
       "score_gain_24h_observed": null,
@@ -857,6 +785,63 @@
       ],
       "selection_hints": [
         "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50599762",
+      "hn_id": 50599762,
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "hn_url": "https://news.ycombinator.com/item?id=50599762",
+      "category": "AI",
+      "posted_at": "2026-11-22T13:56:58Z",
+      "fetched_at": "2026-11-24T22:31:03Z",
+      "score": 360,
+      "comment_count": 89,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "LLM"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50610334",
+      "hn_id": 50610334,
+      "title": "The next circle of security hell",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+      "hn_url": "https://news.ycombinator.com/item?id=50610334",
+      "category": "Security",
+      "posted_at": "2026-11-23T11:34:16Z",
+      "fetched_at": "2026-11-24T22:31:03Z",
+      "score": 260,
+      "comment_count": 162,
+      "score_gain_24h_observed": 16,
+      "comment_gain_24h_observed": 12,
+      "keywords": [],
+      "selection_hints": [
+        "security"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50581110",
+      "hn_id": 50581110,
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "hn_url": "https://news.ycombinator.com/item?id=50581110",
+      "category": "Other",
+      "posted_at": "2026-11-20T20:03:59Z",
+      "fetched_at": "2026-11-24T22:31:03Z",
+      "score": 289,
+      "comment_count": 124,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "coding"
       ],
       "snippet": ""
     }
