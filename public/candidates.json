@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-25T05:37:44Z",
-  "source_data_as_of": "2026-11-24T22:31:54Z",
+  "generated_at": "2026-11-25T17:32:37Z",
+  "source_data_as_of": "2026-11-25T08:44:28Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-18T05:37:44Z",
-  "eligible_count_before_dedup": 359,
+  "window_start": "2026-11-18T17:32:37Z",
+  "eligible_count_before_dedup": 348,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "a0c253d9fa22c20e0eaf5b11610c9240ce7b7a19"
+    "commit": "87a28ccd349aa9cdcc5e9ed322d27d261c5ac9e6"
   },
   "articles": [
     {
@@ -21,7 +21,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50586292",
       "category": "AI",
       "posted_at": "2026-11-21T05:38:01Z",
-      "fetched_at": "2026-11-24T22:31:03Z",
+      "fetched_at": "2026-11-25T08:43:33Z",
       "score": 176,
       "comment_count": 53,
       "score_gain_24h_observed": null,
@@ -59,29 +59,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50547214",
-      "hn_id": 50547214,
-      "title": "Show HN: Space-Core, a free browser MMO your own AI agent plays over MCP",
-      "url": "https://space-core.at/",
-      "hn_url": "https://news.ycombinator.com/item?id=50547214",
-      "category": "AI",
-      "posted_at": "2026-11-18T15:07:56Z",
-      "fetched_at": "2026-11-20T07:23:44Z",
-      "score": 3,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agent"
-      ],
-      "selection_hints": [
-        "AI",
-        "agent",
-        "MCP"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50593481",
       "hn_id": 50593481,
       "title": "Pandex – Official European Law for AI Agents, over MCP",
@@ -89,7 +66,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50593481",
       "category": "AI",
       "posted_at": "2026-11-21T20:47:41Z",
-      "fetched_at": "2026-11-24T22:31:03Z",
+      "fetched_at": "2026-11-25T08:43:33Z",
       "score": 141,
       "comment_count": 37,
       "score_gain_24h_observed": null,
@@ -100,6 +77,26 @@
       "selection_hints": [
         "AI",
         "MCP"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50638220",
+      "hn_id": 50638220,
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "hn_url": "https://news.ycombinator.com/item?id=50638220",
+      "category": "Programming",
+      "posted_at": "2026-11-25T03:47:42Z",
+      "fetched_at": "2026-11-25T08:44:28Z",
+      "score": 94,
+      "comment_count": 37,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI",
+        "search"
       ],
       "snippet": ""
     },
@@ -155,7 +152,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50604540",
       "category": "AI",
       "posted_at": "2026-11-22T22:18:48Z",
-      "fetched_at": "2026-11-24T22:31:03Z",
+      "fetched_at": "2026-11-25T08:43:33Z",
       "score": 75,
       "comment_count": 21,
       "score_gain_24h_observed": null,
@@ -177,7 +174,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50597959",
       "category": "Programming",
       "posted_at": "2026-11-22T09:57:01Z",
-      "fetched_at": "2026-11-24T22:31:03Z",
+      "fetched_at": "2026-11-25T08:43:33Z",
       "score": 80,
       "comment_count": 12,
       "score_gain_24h_observed": null,
@@ -197,7 +194,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50595816",
       "category": "Other",
       "posted_at": "2026-11-22T03:07:27Z",
-      "fetched_at": "2026-11-24T22:31:03Z",
+      "fetched_at": "2026-11-25T08:43:33Z",
       "score": 49,
       "comment_count": 11,
       "score_gain_24h_observed": null,
@@ -252,6 +249,28 @@
       "snippet": ""
     },
     {
+      "id": "HN-50608604",
+      "hn_id": 50608604,
+      "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+      "url": "https://www.kradle.ai?1",
+      "hn_url": "https://news.ycombinator.com/item?id=50608604",
+      "category": "AI",
+      "posted_at": "2026-11-23T07:39:04Z",
+      "fetched_at": "2026-11-25T08:43:33Z",
+      "score": 16,
+      "comment_count": 5,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "multi agent"
+      ],
+      "selection_hints": [
+        "AI",
+        "agent"
+      ],
+      "snippet": "Hi HN - This is James and Kemal. In past lives we led Firebase and Tensorflow/JAX respectively. HN has been a particularly big part of my (James’) career and the trajectory I’ve taken would be meaningfully different without it. Thank you! Our team shipped a benchmark: KradleBench. We test AI in Minecraft Worlds. 1. The worlds are multi-agent. Humans and other AIs are in there too, often pursuing their own goals. Collaboration and conflict skills fall out of this property. 2. The world are dynami"
+    },
+    {
       "id": "HN-50589235",
       "hn_id": 50589235,
       "title": "Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
@@ -259,7 +278,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50589235",
       "category": "AI",
       "posted_at": "2026-11-21T13:53:08Z",
-      "fetched_at": "2026-11-24T22:31:03Z",
+      "fetched_at": "2026-11-25T08:43:33Z",
       "score": 16,
       "comment_count": 2,
       "score_gain_24h_observed": null,
@@ -316,28 +335,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50608604",
-      "hn_id": 50608604,
-      "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
-      "url": "https://www.kradle.ai?1",
-      "hn_url": "https://news.ycombinator.com/item?id=50608604",
-      "category": "AI",
-      "posted_at": "2026-11-23T07:39:04Z",
-      "fetched_at": "2026-11-24T22:31:03Z",
-      "score": 12,
-      "comment_count": 3,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "multi agent"
-      ],
-      "selection_hints": [
-        "AI",
-        "agent"
-      ],
-      "snippet": "Hi HN - This is James and Kemal. In past lives we led Firebase and Tensorflow/JAX respectively. HN has been a particularly big part of my (James’) career and the trajectory I’ve taken would be meaningfully different without it. Thank you! Our team shipped a benchmark: KradleBench. We test AI in Minecraft Worlds. 1. The worlds are multi-agent. Humans and other AIs are in there too, often pursuing their own goals. Collaboration and conflict skills fall out of this property. 2. The world are dynami"
-    },
-    {
       "id": "HN-50568114",
       "hn_id": 50568114,
       "title": "On The Use of AI-Based Tools to Find Bugs in Open Source Software",
@@ -361,26 +358,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50548763",
-      "hn_id": 50548763,
-      "title": "Show HN: PlaceBench – Testing AI on opening and closing hours (and last trains)",
-      "url": "https://github.com/voygr-tech/placebench",
-      "hn_url": "https://news.ycombinator.com/item?id=50548763",
-      "category": "AI",
-      "posted_at": "2026-11-18T17:00:13Z",
-      "fetched_at": "2026-11-24T09:59:29Z",
-      "score": 10,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI",
-        "testing"
-      ],
-      "snippet": "Hi everyone, we love maps and doing some fun side quests exploring this domain. We were always surprised by the fact that products like ChatGpt recommends you places to go which have been shut down for years. Last March we built a benchmark measuring how often LLMs make mistakes when answering places-based queries (e.g. Recommend me a restaurant in Marina for a dinner). Even with the web grounding (which is a very expensive tool relative to the token price), the results were not good - 1 out 10 "
-    },
-    {
       "id": "HN-50622623",
       "hn_id": 50622623,
       "title": "Show HN: Agent-first-browse – Web automation with delta snapshots and LangGraph",
@@ -388,11 +365,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50622623",
       "category": "Web",
       "posted_at": "2026-11-24T02:06:09Z",
-      "fetched_at": "2026-11-24T22:31:54Z",
+      "fetched_at": "2026-11-25T08:43:33Z",
       "score": 9,
       "comment_count": 0,
-      "score_gain_24h_observed": 3,
-      "comment_gain_24h_observed": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "agent",
@@ -472,33 +449,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50609685",
       "category": "Other",
       "posted_at": "2026-11-23T10:06:43Z",
-      "fetched_at": "2026-11-24T22:31:03Z",
-      "score": 1161,
-      "comment_count": 380,
+      "fetched_at": "2026-11-25T08:43:33Z",
+      "score": 1173,
+      "comment_count": 382,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "coding"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50542705",
-      "hn_id": 50542705,
-      "title": "AI is killing All About Berlin",
-      "url": "https://nicolasbouliane.com/blog/death-by-ai",
-      "hn_url": "https://news.ycombinator.com/item?id=50542705",
-      "category": "AI",
-      "posted_at": "2026-11-18T06:47:26Z",
-      "fetched_at": "2026-11-24T09:59:29Z",
-      "score": 821,
-      "comment_count": 714,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "AI"
       ],
       "snippet": ""
     },
@@ -510,7 +468,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50574383",
       "category": "AI",
       "posted_at": "2026-11-20T13:29:59Z",
-      "fetched_at": "2026-11-24T22:31:03Z",
+      "fetched_at": "2026-11-25T08:43:33Z",
       "score": 530,
       "comment_count": 938,
       "score_gain_24h_observed": null,
@@ -529,11 +487,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50627340",
       "category": "AI",
       "posted_at": "2026-11-24T12:40:15Z",
-      "fetched_at": "2026-11-24T22:31:54Z",
-      "score": 845,
-      "comment_count": 349,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "fetched_at": "2026-11-25T08:44:28Z",
+      "score": 966,
+      "comment_count": 402,
+      "score_gain_24h_observed": 121,
+      "comment_gain_24h_observed": 53,
       "keywords": [],
       "selection_hints": [
         "LLM"
@@ -548,8 +506,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50603845",
       "category": "AI",
       "posted_at": "2026-11-22T21:01:16Z",
-      "fetched_at": "2026-11-24T22:31:03Z",
-      "score": 769,
+      "fetched_at": "2026-11-25T08:43:33Z",
+      "score": 773,
       "comment_count": 313,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -569,7 +527,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50572503",
       "category": "AI",
       "posted_at": "2026-11-20T10:01:41Z",
-      "fetched_at": "2026-11-24T22:31:03Z",
+      "fetched_at": "2026-11-25T08:43:33Z",
       "score": 686,
       "comment_count": 369,
       "score_gain_24h_observed": null,
@@ -588,8 +546,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50572348",
       "category": "AI",
       "posted_at": "2026-11-20T09:42:16Z",
-      "fetched_at": "2026-11-24T22:31:03Z",
-      "score": 583,
+      "fetched_at": "2026-11-25T08:43:33Z",
+      "score": 584,
       "comment_count": 350,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -629,9 +587,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50616933",
       "category": "Security",
       "posted_at": "2026-11-23T18:48:10Z",
-      "fetched_at": "2026-11-24T22:31:03Z",
-      "score": 611,
-      "comment_count": 164,
+      "fetched_at": "2026-11-25T08:43:33Z",
+      "score": 619,
+      "comment_count": 171,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -639,27 +597,6 @@
       ],
       "selection_hints": [
         "open source"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50547777",
-      "hn_id": 50547777,
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "hn_url": "https://news.ycombinator.com/item?id=50547777",
-      "category": "AI",
-      "posted_at": "2026-11-18T15:49:34Z",
-      "fetched_at": "2026-11-24T09:59:29Z",
-      "score": 502,
-      "comment_count": 267,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "ai agents"
-      ],
-      "selection_hints": [
-        "AI"
       ],
       "snippet": ""
     },
@@ -671,9 +608,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50595537",
       "category": "AI",
       "posted_at": "2026-11-22T02:10:02Z",
-      "fetched_at": "2026-11-24T22:31:03Z",
+      "fetched_at": "2026-11-25T08:43:33Z",
       "score": 181,
-      "comment_count": 560,
+      "comment_count": 561,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -690,11 +627,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50630309",
       "category": "Other",
       "posted_at": "2026-11-24T16:12:38Z",
-      "fetched_at": "2026-11-24T22:31:54Z",
-      "score": 309,
-      "comment_count": 292,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "fetched_at": "2026-11-25T08:44:28Z",
+      "score": 325,
+      "comment_count": 314,
+      "score_gain_24h_observed": 16,
+      "comment_gain_24h_observed": 22,
       "keywords": [
         "ai generated"
       ],
@@ -711,11 +648,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50620822",
       "category": "Security",
       "posted_at": "2026-11-23T23:11:38Z",
-      "fetched_at": "2026-11-24T22:31:54Z",
-      "score": 337,
-      "comment_count": 256,
-      "score_gain_24h_observed": 36,
-      "comment_gain_24h_observed": 22,
+      "fetched_at": "2026-11-25T08:43:33Z",
+      "score": 343,
+      "comment_count": 260,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "national security"
       ],
@@ -738,6 +675,7 @@
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
+        "open models",
         "local ai"
       ],
       "selection_hints": [
@@ -753,7 +691,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50577901",
       "category": "AI",
       "posted_at": "2026-11-20T16:59:27Z",
-      "fetched_at": "2026-11-24T22:31:03Z",
+      "fetched_at": "2026-11-25T08:43:33Z",
       "score": 284,
       "comment_count": 229,
       "score_gain_24h_observed": null,
@@ -774,7 +712,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50599762",
       "category": "AI",
       "posted_at": "2026-11-22T13:56:58Z",
-      "fetched_at": "2026-11-24T22:31:03Z",
+      "fetched_at": "2026-11-25T08:43:33Z",
       "score": 360,
       "comment_count": 89,
       "score_gain_24h_observed": null,
@@ -793,11 +731,30 @@
       "hn_url": "https://news.ycombinator.com/item?id=50610334",
       "category": "Security",
       "posted_at": "2026-11-23T11:34:16Z",
-      "fetched_at": "2026-11-24T22:31:03Z",
-      "score": 260,
-      "comment_count": 162,
+      "fetched_at": "2026-11-25T08:43:33Z",
+      "score": 263,
+      "comment_count": 165,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "security"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50630594",
+      "hn_id": 50630594,
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "hn_url": "https://news.ycombinator.com/item?id=50630594",
+      "category": "Security",
+      "posted_at": "2026-11-24T16:32:17Z",
+      "fetched_at": "2026-11-25T08:44:28Z",
+      "score": 282,
+      "comment_count": 140,
+      "score_gain_24h_observed": 46,
+      "comment_gain_24h_observed": 44,
       "keywords": [],
       "selection_hints": [
         "security"
@@ -812,14 +769,35 @@
       "hn_url": "https://news.ycombinator.com/item?id=50581110",
       "category": "Other",
       "posted_at": "2026-11-20T20:03:59Z",
-      "fetched_at": "2026-11-24T22:31:03Z",
-      "score": 289,
+      "fetched_at": "2026-11-25T08:43:33Z",
+      "score": 290,
       "comment_count": 124,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "coding"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50604988",
+      "hn_id": 50604988,
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "hn_url": "https://news.ycombinator.com/item?id=50604988",
+      "category": "Security",
+      "posted_at": "2026-11-22T23:06:37Z",
+      "fetched_at": "2026-11-25T08:43:33Z",
+      "score": 273,
+      "comment_count": 127,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "2026 11"
+      ],
+      "selection_hints": [
+        "security"
       ],
       "snippet": ""
     },
@@ -841,6 +819,25 @@
       ],
       "selection_hints": [
         "LLM"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50595554",
+      "hn_id": 50595554,
+      "title": "Data Processing Incidents on Inference Providers",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "hn_url": "https://news.ycombinator.com/item?id=50595554",
+      "category": "Other",
+      "posted_at": "2026-11-22T02:14:14Z",
+      "fetched_at": "2026-11-25T08:43:33Z",
+      "score": 294,
+      "comment_count": 99,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "inference"
       ],
       "snippet": ""
     }
