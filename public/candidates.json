@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-26T01:07:48Z",
-  "source_data_as_of": "2026-11-25T21:46:52Z",
+  "generated_at": "2026-11-26T09:58:50Z",
+  "source_data_as_of": "2026-11-26T08:29:02Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-19T01:07:48Z",
-  "eligible_count_before_dedup": 337,
+  "window_start": "2026-11-19T09:58:50Z",
+  "eligible_count_before_dedup": 351,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "bf31b208a95461ac1c09158c3b04920447e1251b"
+    "commit": "59088b70d8367d49aa7d549e09fb05920ed2d1d9"
   },
   "articles": [
     {
@@ -38,27 +38,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50554908",
-      "hn_id": 50554908,
-      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
-      "url": "https://arxiv.org/abs/2607.29378",
-      "hn_url": "https://news.ycombinator.com/item?id=50554908",
-      "category": "AI",
-      "posted_at": "2026-11-19T01:27:02Z",
-      "fetched_at": "2026-11-23T23:58:13Z",
-      "score": 48,
-      "comment_count": 10,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "LLM",
-        "prompt",
-        "token"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50635912",
       "hn_id": 50635912,
       "title": "Show HN: Rhebok – free local RAG for your coding agent",
@@ -66,7 +45,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50635912",
       "category": "Other",
       "posted_at": "2026-11-24T22:49:01Z",
-      "fetched_at": "2026-11-25T21:46:52Z",
+      "fetched_at": "2026-11-26T08:28:10Z",
       "score": 4,
       "comment_count": 0,
       "score_gain_24h_observed": null,
@@ -89,11 +68,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=50638220",
       "category": "Programming",
       "posted_at": "2026-11-25T03:47:42Z",
-      "fetched_at": "2026-11-25T21:46:52Z",
-      "score": 212,
-      "comment_count": 81,
-      "score_gain_24h_observed": 118,
-      "comment_gain_24h_observed": 44,
+      "fetched_at": "2026-11-26T08:28:10Z",
+      "score": 219,
+      "comment_count": 83,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI",
@@ -109,7 +88,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50593481",
       "category": "AI",
       "posted_at": "2026-11-21T20:47:41Z",
-      "fetched_at": "2026-11-25T21:45:59Z",
+      "fetched_at": "2026-11-26T08:28:10Z",
       "score": 141,
       "comment_count": 37,
       "score_gain_24h_observed": null,
@@ -175,7 +154,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50604540",
       "category": "AI",
       "posted_at": "2026-11-22T22:18:48Z",
-      "fetched_at": "2026-11-25T21:45:59Z",
+      "fetched_at": "2026-11-26T08:28:10Z",
       "score": 76,
       "comment_count": 21,
       "score_gain_24h_observed": null,
@@ -197,7 +176,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50597959",
       "category": "Programming",
       "posted_at": "2026-11-22T09:57:01Z",
-      "fetched_at": "2026-11-25T21:45:59Z",
+      "fetched_at": "2026-11-26T08:28:10Z",
       "score": 80,
       "comment_count": 12,
       "score_gain_24h_observed": null,
@@ -217,7 +196,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50595816",
       "category": "Other",
       "posted_at": "2026-11-22T03:07:27Z",
-      "fetched_at": "2026-11-25T21:45:59Z",
+      "fetched_at": "2026-11-26T08:28:10Z",
       "score": 49,
       "comment_count": 11,
       "score_gain_24h_observed": null,
@@ -259,14 +238,12 @@
       "hn_url": "https://news.ycombinator.com/item?id=50608604",
       "category": "AI",
       "posted_at": "2026-11-23T07:39:04Z",
-      "fetched_at": "2026-11-25T21:45:59Z",
+      "fetched_at": "2026-11-26T08:28:10Z",
       "score": 16,
       "comment_count": 6,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
-      "keywords": [
-        "multi agent"
-      ],
+      "keywords": [],
       "selection_hints": [
         "AI",
         "agent"
@@ -281,7 +258,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50589235",
       "category": "AI",
       "posted_at": "2026-11-21T13:53:08Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
+      "fetched_at": "2026-11-26T08:28:10Z",
       "score": 16,
       "comment_count": 2,
       "score_gain_24h_observed": null,
@@ -341,6 +318,29 @@
       "snippet": ""
     },
     {
+      "id": "HN-50646482",
+      "hn_id": 50646482,
+      "title": "Show HN: Rust agent with an Inkling 2 Mini inference engine for Apple Silicon",
+      "url": "https://github.com/onatm/rustling",
+      "hn_url": "https://news.ycombinator.com/item?id=50646482",
+      "category": "Programming",
+      "posted_at": "2026-11-25T19:42:36Z",
+      "fetched_at": "2026-11-26T08:29:02Z",
+      "score": 12,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "apple silicon",
+        "inference engine"
+      ],
+      "selection_hints": [
+        "agent",
+        "inference"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50622623",
       "hn_id": 50622623,
       "title": "Show HN: Agent-first-browse – Web automation with delta snapshots and LangGraph",
@@ -348,7 +348,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50622623",
       "category": "Web",
       "posted_at": "2026-11-24T02:06:09Z",
-      "fetched_at": "2026-11-25T21:45:59Z",
+      "fetched_at": "2026-11-26T08:28:10Z",
       "score": 9,
       "comment_count": 0,
       "score_gain_24h_observed": null,
@@ -425,6 +425,47 @@
       "snippet": ""
     },
     {
+      "id": "HN-50612145",
+      "hn_id": 50612145,
+      "title": "Show HN: Tilen – Scheduling API and MCP Server for AI Agents",
+      "url": "https://www.tilen.cc",
+      "hn_url": "https://news.ycombinator.com/item?id=50612145",
+      "category": "AI",
+      "posted_at": "2026-11-23T14:27:08Z",
+      "fetched_at": "2026-11-26T08:28:10Z",
+      "score": 3,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai agents"
+      ],
+      "selection_hints": [
+        "AI",
+        "MCP"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50644817",
+      "hn_id": 50644817,
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "hn_url": "https://news.ycombinator.com/item?id=50644817",
+      "category": "Security",
+      "posted_at": "2026-11-25T17:18:26Z",
+      "fetched_at": "2026-11-26T08:29:02Z",
+      "score": 1382,
+      "comment_count": 582,
+      "score_gain_24h_observed": 562,
+      "comment_gain_24h_observed": 241,
+      "keywords": [],
+      "selection_hints": [
+        "security"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50609685",
       "hn_id": 50609685,
       "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
@@ -432,9 +473,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50609685",
       "category": "Other",
       "posted_at": "2026-11-23T10:06:43Z",
-      "fetched_at": "2026-11-25T21:45:59Z",
-      "score": 1177,
-      "comment_count": 384,
+      "fetched_at": "2026-11-26T08:28:10Z",
+      "score": 1179,
+      "comment_count": 386,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -470,33 +511,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50627340",
       "category": "AI",
       "posted_at": "2026-11-24T12:40:15Z",
-      "fetched_at": "2026-11-25T21:45:59Z",
-      "score": 997,
+      "fetched_at": "2026-11-26T08:28:10Z",
+      "score": 1013,
       "comment_count": 410,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "LLM"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50644817",
-      "hn_id": 50644817,
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "hn_url": "https://news.ycombinator.com/item?id=50644817",
-      "category": "Security",
-      "posted_at": "2026-11-25T17:18:26Z",
-      "fetched_at": "2026-11-25T21:46:52Z",
-      "score": 820,
-      "comment_count": 341,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "security"
       ],
       "snippet": ""
     },
@@ -508,8 +530,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50603845",
       "category": "AI",
       "posted_at": "2026-11-22T21:01:16Z",
-      "fetched_at": "2026-11-25T21:45:59Z",
-      "score": 776,
+      "fetched_at": "2026-11-26T08:28:10Z",
+      "score": 777,
       "comment_count": 318,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -589,9 +611,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50616933",
       "category": "Security",
       "posted_at": "2026-11-23T18:48:10Z",
-      "fetched_at": "2026-11-25T21:45:59Z",
-      "score": 630,
-      "comment_count": 178,
+      "fetched_at": "2026-11-26T08:28:10Z",
+      "score": 631,
+      "comment_count": 179,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -610,9 +632,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50595537",
       "category": "AI",
       "posted_at": "2026-11-22T02:10:02Z",
-      "fetched_at": "2026-11-25T21:45:59Z",
+      "fetched_at": "2026-11-26T08:28:10Z",
       "score": 181,
-      "comment_count": 564,
+      "comment_count": 567,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -629,9 +651,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50630309",
       "category": "Other",
       "posted_at": "2026-11-24T16:12:38Z",
-      "fetched_at": "2026-11-25T21:45:59Z",
-      "score": 334,
-      "comment_count": 328,
+      "fetched_at": "2026-11-26T08:28:10Z",
+      "score": 336,
+      "comment_count": 333,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -650,16 +672,37 @@
       "hn_url": "https://news.ycombinator.com/item?id=50637686",
       "category": "AI",
       "posted_at": "2026-11-25T02:34:21Z",
-      "fetched_at": "2026-11-25T21:46:52Z",
-      "score": 427,
-      "comment_count": 186,
-      "score_gain_24h_observed": 226,
-      "comment_gain_24h_observed": 109,
+      "fetched_at": "2026-11-26T08:28:10Z",
+      "score": 457,
+      "comment_count": 198,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "inference"
       ],
       "snippet": ""
+    },
+    {
+      "id": "HN-50647673",
+      "hn_id": 50647673,
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "hn_url": "https://news.ycombinator.com/item?id=50647673",
+      "category": "AI",
+      "posted_at": "2026-11-25T21:18:02Z",
+      "fetched_at": "2026-11-26T08:29:02Z",
+      "score": 350,
+      "comment_count": 298,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "york times"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": "https://archive.ph/pcUgy"
     },
     {
       "id": "HN-50620822",
@@ -732,7 +775,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50599762",
       "category": "AI",
       "posted_at": "2026-11-22T13:56:58Z",
-      "fetched_at": "2026-11-25T21:45:59Z",
+      "fetched_at": "2026-11-26T08:28:10Z",
       "score": 360,
       "comment_count": 90,
       "score_gain_24h_observed": null,
@@ -751,7 +794,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50630594",
       "category": "Security",
       "posted_at": "2026-11-24T16:32:17Z",
-      "fetched_at": "2026-11-25T21:45:59Z",
+      "fetched_at": "2026-11-26T08:28:10Z",
       "score": 297,
       "comment_count": 152,
       "score_gain_24h_observed": null,
@@ -770,7 +813,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50610334",
       "category": "Security",
       "posted_at": "2026-11-23T11:34:16Z",
-      "fetched_at": "2026-11-25T21:45:59Z",
+      "fetched_at": "2026-11-26T08:28:10Z",
       "score": 264,
       "comment_count": 166,
       "score_gain_24h_observed": null,
@@ -797,47 +840,6 @@
       "keywords": [],
       "selection_hints": [
         "coding"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50604988",
-      "hn_id": 50604988,
-      "title": "GL.iNet Security Notice 2026-11-20",
-      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-      "hn_url": "https://news.ycombinator.com/item?id=50604988",
-      "category": "Security",
-      "posted_at": "2026-11-22T23:06:37Z",
-      "fetched_at": "2026-11-25T21:45:59Z",
-      "score": 274,
-      "comment_count": 127,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "2026 11",
-        "11 20"
-      ],
-      "selection_hints": [
-        "security"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50595554",
-      "hn_id": 50595554,
-      "title": "Data Processing Incidents on Inference Providers",
-      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-      "hn_url": "https://news.ycombinator.com/item?id=50595554",
-      "category": "Other",
-      "posted_at": "2026-11-22T02:14:14Z",
-      "fetched_at": "2026-11-25T21:45:59Z",
-      "score": 294,
-      "comment_count": 99,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "inference"
       ],
       "snippet": ""
     }
