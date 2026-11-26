@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-25T17:32:37Z",
-  "source_data_as_of": "2026-11-25T08:44:28Z",
+  "generated_at": "2026-11-26T01:07:48Z",
+  "source_data_as_of": "2026-11-25T21:46:52Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-18T17:32:37Z",
-  "eligible_count_before_dedup": 348,
+  "window_start": "2026-11-19T01:07:48Z",
+  "eligible_count_before_dedup": 337,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "87a28ccd349aa9cdcc5e9ed322d27d261c5ac9e6"
+    "commit": "bf31b208a95461ac1c09158c3b04920447e1251b"
   },
   "articles": [
     {
@@ -21,7 +21,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50586292",
       "category": "AI",
       "posted_at": "2026-11-21T05:38:01Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
+      "fetched_at": "2026-11-25T21:45:59Z",
       "score": 176,
       "comment_count": 53,
       "score_gain_24h_observed": null,
@@ -59,24 +59,25 @@
       "snippet": ""
     },
     {
-      "id": "HN-50593481",
-      "hn_id": 50593481,
-      "title": "Pandex – Official European Law for AI Agents, over MCP",
-      "url": "https://www.pandex.io",
-      "hn_url": "https://news.ycombinator.com/item?id=50593481",
-      "category": "AI",
-      "posted_at": "2026-11-21T20:47:41Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
-      "score": 141,
-      "comment_count": 37,
+      "id": "HN-50635912",
+      "hn_id": 50635912,
+      "title": "Show HN: Rhebok – free local RAG for your coding agent",
+      "url": "https://github.com/Stellenbosch-Technologies/rhebok",
+      "hn_url": "https://news.ycombinator.com/item?id=50635912",
+      "category": "Other",
+      "posted_at": "2026-11-24T22:49:01Z",
+      "fetched_at": "2026-11-25T21:46:52Z",
+      "score": 4,
+      "comment_count": 0,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
-        "ai agents"
+        "coding agent"
       ],
       "selection_hints": [
-        "AI",
-        "MCP"
+        "RAG",
+        "agent",
+        "coding"
       ],
       "snippet": ""
     },
@@ -88,15 +89,37 @@
       "hn_url": "https://news.ycombinator.com/item?id=50638220",
       "category": "Programming",
       "posted_at": "2026-11-25T03:47:42Z",
-      "fetched_at": "2026-11-25T08:44:28Z",
-      "score": 94,
-      "comment_count": 37,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
+      "fetched_at": "2026-11-25T21:46:52Z",
+      "score": 212,
+      "comment_count": 81,
+      "score_gain_24h_observed": 118,
+      "comment_gain_24h_observed": 44,
       "keywords": [],
       "selection_hints": [
         "AI",
         "search"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50593481",
+      "hn_id": 50593481,
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "url": "https://www.pandex.io",
+      "hn_url": "https://news.ycombinator.com/item?id=50593481",
+      "category": "AI",
+      "posted_at": "2026-11-21T20:47:41Z",
+      "fetched_at": "2026-11-25T21:45:59Z",
+      "score": 141,
+      "comment_count": 37,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai agents"
+      ],
+      "selection_hints": [
+        "AI",
+        "MCP"
       ],
       "snippet": ""
     },
@@ -152,8 +175,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50604540",
       "category": "AI",
       "posted_at": "2026-11-22T22:18:48Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
-      "score": 75,
+      "fetched_at": "2026-11-25T21:45:59Z",
+      "score": 76,
       "comment_count": 21,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -174,7 +197,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50597959",
       "category": "Programming",
       "posted_at": "2026-11-22T09:57:01Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
+      "fetched_at": "2026-11-25T21:45:59Z",
       "score": 80,
       "comment_count": 12,
       "score_gain_24h_observed": null,
@@ -194,7 +217,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50595816",
       "category": "Other",
       "posted_at": "2026-11-22T03:07:27Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
+      "fetched_at": "2026-11-25T21:45:59Z",
       "score": 49,
       "comment_count": 11,
       "score_gain_24h_observed": null,
@@ -203,26 +226,6 @@
       "selection_hints": [
         "AI",
         "prompt"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50549438",
-      "hn_id": 50549438,
-      "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
-      "url": "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats",
-      "hn_url": "https://news.ycombinator.com/item?id=50549438",
-      "category": "Other",
-      "posted_at": "2026-11-18T17:41:48Z",
-      "fetched_at": "2026-11-20T07:23:44Z",
-      "score": 41,
-      "comment_count": 8,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "search",
-        "vector"
       ],
       "snippet": ""
     },
@@ -256,9 +259,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50608604",
       "category": "AI",
       "posted_at": "2026-11-23T07:39:04Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
+      "fetched_at": "2026-11-25T21:45:59Z",
       "score": 16,
-      "comment_count": 5,
+      "comment_count": 6,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -289,26 +292,6 @@
       "selection_hints": [
         "search",
         "agent"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50550351",
-      "hn_id": 50550351,
-      "title": "Microsoft's official Python agent framework hijacked to distribute malware",
-      "url": "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
-      "hn_url": "https://news.ycombinator.com/item?id=50550351",
-      "category": "Security",
-      "posted_at": "2026-11-18T18:45:23Z",
-      "fetched_at": "2026-11-20T07:23:44Z",
-      "score": 17,
-      "comment_count": 0,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "agent",
-        "Python"
       ],
       "snippet": ""
     },
@@ -365,7 +348,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50622623",
       "category": "Web",
       "posted_at": "2026-11-24T02:06:09Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
+      "fetched_at": "2026-11-25T21:45:59Z",
       "score": 9,
       "comment_count": 0,
       "score_gain_24h_observed": null,
@@ -449,9 +432,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50609685",
       "category": "Other",
       "posted_at": "2026-11-23T10:06:43Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
-      "score": 1173,
-      "comment_count": 382,
+      "fetched_at": "2026-11-25T21:45:59Z",
+      "score": 1177,
+      "comment_count": 384,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -468,9 +451,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50574383",
       "category": "AI",
       "posted_at": "2026-11-20T13:29:59Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
+      "fetched_at": "2026-11-25T21:45:59Z",
       "score": 530,
-      "comment_count": 938,
+      "comment_count": 940,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -487,14 +470,33 @@
       "hn_url": "https://news.ycombinator.com/item?id=50627340",
       "category": "AI",
       "posted_at": "2026-11-24T12:40:15Z",
-      "fetched_at": "2026-11-25T08:44:28Z",
-      "score": 966,
-      "comment_count": 402,
-      "score_gain_24h_observed": 121,
-      "comment_gain_24h_observed": 53,
+      "fetched_at": "2026-11-25T21:45:59Z",
+      "score": 997,
+      "comment_count": 410,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "LLM"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50644817",
+      "hn_id": 50644817,
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "hn_url": "https://news.ycombinator.com/item?id=50644817",
+      "category": "Security",
+      "posted_at": "2026-11-25T17:18:26Z",
+      "fetched_at": "2026-11-25T21:46:52Z",
+      "score": 820,
+      "comment_count": 341,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "security"
       ],
       "snippet": ""
     },
@@ -506,9 +508,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50603845",
       "category": "AI",
       "posted_at": "2026-11-22T21:01:16Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
-      "score": 773,
-      "comment_count": 313,
+      "fetched_at": "2026-11-25T21:45:59Z",
+      "score": 776,
+      "comment_count": 318,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -527,9 +529,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50572503",
       "category": "AI",
       "posted_at": "2026-11-20T10:01:41Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
+      "fetched_at": "2026-11-25T21:45:59Z",
       "score": 686,
-      "comment_count": 369,
+      "comment_count": 370,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -546,7 +548,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50572348",
       "category": "AI",
       "posted_at": "2026-11-20T09:42:16Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
+      "fetched_at": "2026-11-25T21:45:59Z",
       "score": 584,
       "comment_count": 350,
       "score_gain_24h_observed": null,
@@ -587,9 +589,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50616933",
       "category": "Security",
       "posted_at": "2026-11-23T18:48:10Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
-      "score": 619,
-      "comment_count": 171,
+      "fetched_at": "2026-11-25T21:45:59Z",
+      "score": 630,
+      "comment_count": 178,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -608,9 +610,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50595537",
       "category": "AI",
       "posted_at": "2026-11-22T02:10:02Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
+      "fetched_at": "2026-11-25T21:45:59Z",
       "score": 181,
-      "comment_count": 561,
+      "comment_count": 564,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -627,16 +629,35 @@
       "hn_url": "https://news.ycombinator.com/item?id=50630309",
       "category": "Other",
       "posted_at": "2026-11-24T16:12:38Z",
-      "fetched_at": "2026-11-25T08:44:28Z",
-      "score": 325,
-      "comment_count": 314,
-      "score_gain_24h_observed": 16,
-      "comment_gain_24h_observed": 22,
+      "fetched_at": "2026-11-25T21:45:59Z",
+      "score": 334,
+      "comment_count": 328,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [
         "ai generated"
       ],
       "selection_hints": [
         "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50637686",
+      "hn_id": 50637686,
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "hn_url": "https://news.ycombinator.com/item?id=50637686",
+      "category": "AI",
+      "posted_at": "2026-11-25T02:34:21Z",
+      "fetched_at": "2026-11-25T21:46:52Z",
+      "score": 427,
+      "comment_count": 186,
+      "score_gain_24h_observed": 226,
+      "comment_gain_24h_observed": 109,
+      "keywords": [],
+      "selection_hints": [
+        "inference"
       ],
       "snippet": ""
     },
@@ -648,9 +669,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50620822",
       "category": "Security",
       "posted_at": "2026-11-23T23:11:38Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
-      "score": 343,
-      "comment_count": 260,
+      "fetched_at": "2026-11-25T21:45:59Z",
+      "score": 347,
+      "comment_count": 261,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -675,7 +696,6 @@
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
-        "open models",
         "local ai"
       ],
       "selection_hints": [
@@ -712,33 +732,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50599762",
       "category": "AI",
       "posted_at": "2026-11-22T13:56:58Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
+      "fetched_at": "2026-11-25T21:45:59Z",
       "score": 360,
-      "comment_count": 89,
+      "comment_count": 90,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "LLM"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50610334",
-      "hn_id": 50610334,
-      "title": "The next circle of security hell",
-      "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
-      "hn_url": "https://news.ycombinator.com/item?id=50610334",
-      "category": "Security",
-      "posted_at": "2026-11-23T11:34:16Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
-      "score": 263,
-      "comment_count": 165,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "security"
       ],
       "snippet": ""
     },
@@ -750,11 +751,30 @@
       "hn_url": "https://news.ycombinator.com/item?id=50630594",
       "category": "Security",
       "posted_at": "2026-11-24T16:32:17Z",
-      "fetched_at": "2026-11-25T08:44:28Z",
-      "score": 282,
-      "comment_count": 140,
-      "score_gain_24h_observed": 46,
-      "comment_gain_24h_observed": 44,
+      "fetched_at": "2026-11-25T21:45:59Z",
+      "score": 297,
+      "comment_count": 152,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "security"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50610334",
+      "hn_id": 50610334,
+      "title": "The next circle of security hell",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+      "hn_url": "https://news.ycombinator.com/item?id=50610334",
+      "category": "Security",
+      "posted_at": "2026-11-23T11:34:16Z",
+      "fetched_at": "2026-11-25T21:45:59Z",
+      "score": 264,
+      "comment_count": 166,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "security"
@@ -769,7 +789,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50581110",
       "category": "Other",
       "posted_at": "2026-11-20T20:03:59Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
+      "fetched_at": "2026-11-25T21:45:59Z",
       "score": 290,
       "comment_count": 124,
       "score_gain_24h_observed": null,
@@ -788,37 +808,17 @@
       "hn_url": "https://news.ycombinator.com/item?id=50604988",
       "category": "Security",
       "posted_at": "2026-11-22T23:06:37Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
-      "score": 273,
+      "fetched_at": "2026-11-25T21:45:59Z",
+      "score": 274,
       "comment_count": 127,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
-        "2026 11"
+        "2026 11",
+        "11 20"
       ],
       "selection_hints": [
         "security"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50553225",
-      "hn_id": 50553225,
-      "title": "LLM assisted reverse engineering",
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-      "hn_url": "https://news.ycombinator.com/item?id=50553225",
-      "category": "AI",
-      "posted_at": "2026-11-18T22:29:13Z",
-      "fetched_at": "2026-11-24T09:59:29Z",
-      "score": 316,
-      "comment_count": 83,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "reverse engineering"
-      ],
-      "selection_hints": [
-        "LLM"
       ],
       "snippet": ""
     },
@@ -830,7 +830,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50595554",
       "category": "Other",
       "posted_at": "2026-11-22T02:14:14Z",
-      "fetched_at": "2026-11-25T08:43:33Z",
+      "fetched_at": "2026-11-25T21:45:59Z",
       "score": 294,
       "comment_count": 99,
       "score_gain_24h_observed": null,
