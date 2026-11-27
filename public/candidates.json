@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-26T19:46:00Z",
-  "source_data_as_of": "2026-11-26T08:29:02Z",
+  "generated_at": "2026-11-27T03:09:14Z",
+  "source_data_as_of": "2026-11-26T21:40:01Z",
   "offline": false,
   "source_is_stale": false,
   "window_days": 7,
-  "window_start": "2026-11-19T19:46:00Z",
-  "eligible_count_before_dedup": 314,
+  "window_start": "2026-11-20T03:09:14Z",
+  "eligible_count_before_dedup": 325,
   "selection_method": "カテゴリとキーワードによる一次抽出。実務的価値の最終判断はChatGPTが原文を確認して行う。",
   "source": {
     "repository": "taiyo551/Hacker-News-Dashboard",
     "database_path": "data/hn_dashboard.sqlite",
-    "commit": "59088b70d8367d49aa7d549e09fb05920ed2d1d9"
+    "commit": "172fedab173d1456e0ac9515bdc9ccda17c86cf7"
   },
   "articles": [
     {
@@ -45,7 +45,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50635912",
       "category": "Other",
       "posted_at": "2026-11-24T22:49:01Z",
-      "fetched_at": "2026-11-26T08:28:10Z",
+      "fetched_at": "2026-11-26T21:39:02Z",
       "score": 4,
       "comment_count": 0,
       "score_gain_24h_observed": null,
@@ -61,6 +61,28 @@
       "snippet": ""
     },
     {
+      "id": "HN-50653477",
+      "hn_id": 50653477,
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "hn_url": "https://news.ycombinator.com/item?id=50653477",
+      "category": "AI",
+      "posted_at": "2026-11-26T09:44:23Z",
+      "fetched_at": "2026-11-26T21:40:01Z",
+      "score": 157,
+      "comment_count": 164,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai agents"
+      ],
+      "selection_hints": [
+        "AI",
+        "MCP"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50638220",
       "hn_id": 50638220,
       "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
@@ -68,9 +90,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50638220",
       "category": "Programming",
       "posted_at": "2026-11-25T03:47:42Z",
-      "fetched_at": "2026-11-26T08:28:10Z",
-      "score": 219,
-      "comment_count": 83,
+      "fetched_at": "2026-11-26T21:39:02Z",
+      "score": 223,
+      "comment_count": 85,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -88,7 +110,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50593481",
       "category": "AI",
       "posted_at": "2026-11-21T20:47:41Z",
-      "fetched_at": "2026-11-26T08:28:10Z",
+      "fetched_at": "2026-11-26T21:39:02Z",
       "score": 141,
       "comment_count": 37,
       "score_gain_24h_observed": null,
@@ -154,7 +176,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50604540",
       "category": "AI",
       "posted_at": "2026-11-22T22:18:48Z",
-      "fetched_at": "2026-11-26T08:28:10Z",
+      "fetched_at": "2026-11-26T21:39:02Z",
       "score": 76,
       "comment_count": 21,
       "score_gain_24h_observed": null,
@@ -176,7 +198,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50597959",
       "category": "Programming",
       "posted_at": "2026-11-22T09:57:01Z",
-      "fetched_at": "2026-11-26T08:28:10Z",
+      "fetched_at": "2026-11-26T21:39:02Z",
       "score": 80,
       "comment_count": 12,
       "score_gain_24h_observed": null,
@@ -196,7 +218,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50595816",
       "category": "Other",
       "posted_at": "2026-11-22T03:07:27Z",
-      "fetched_at": "2026-11-26T08:28:10Z",
+      "fetched_at": "2026-11-26T21:39:02Z",
       "score": 49,
       "comment_count": 11,
       "score_gain_24h_observed": null,
@@ -205,6 +227,46 @@
       "selection_hints": [
         "AI",
         "prompt"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50658093",
+      "hn_id": 50658093,
+      "title": "Notion's official MCP inject hidden upsell instructions into agent context",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/",
+      "hn_url": "https://news.ycombinator.com/item?id=50658093",
+      "category": "Other",
+      "posted_at": "2026-11-26T18:28:30Z",
+      "fetched_at": "2026-11-26T21:40:01Z",
+      "score": 28,
+      "comment_count": 11,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "agent",
+        "MCP"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50620120",
+      "hn_id": 50620120,
+      "title": "MCP Gateway: How Snap Checks Both the Person and the Agent",
+      "url": "https://eng.snap.com/mcp-gateway",
+      "hn_url": "https://news.ycombinator.com/item?id=50620120",
+      "category": "Other",
+      "posted_at": "2026-11-23T22:10:43Z",
+      "fetched_at": "2026-11-26T21:39:02Z",
+      "score": 22,
+      "comment_count": 10,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "agent",
+        "MCP"
       ],
       "snippet": ""
     },
@@ -238,7 +300,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50608604",
       "category": "AI",
       "posted_at": "2026-11-23T07:39:04Z",
-      "fetched_at": "2026-11-26T08:28:10Z",
+      "fetched_at": "2026-11-26T21:39:02Z",
       "score": 16,
       "comment_count": 6,
       "score_gain_24h_observed": null,
@@ -295,29 +357,6 @@
       "snippet": ""
     },
     {
-      "id": "HN-50568114",
-      "hn_id": 50568114,
-      "title": "On The Use of AI-Based Tools to Find Bugs in Open Source Software",
-      "url": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
-      "hn_url": "https://news.ycombinator.com/item?id=50568114",
-      "category": "Security",
-      "posted_at": "2026-11-19T23:34:03Z",
-      "fetched_at": "2026-11-22T19:45:53Z",
-      "score": 11,
-      "comment_count": 2,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "open source",
-        "use ai"
-      ],
-      "selection_hints": [
-        "AI",
-        "open source"
-      ],
-      "snippet": ""
-    },
-    {
       "id": "HN-50646482",
       "hn_id": 50646482,
       "title": "Show HN: Rust agent with an Inkling 2 Mini inference engine for Apple Silicon",
@@ -325,8 +364,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50646482",
       "category": "Programming",
       "posted_at": "2026-11-25T19:42:36Z",
-      "fetched_at": "2026-11-26T08:29:02Z",
-      "score": 12,
+      "fetched_at": "2026-11-26T21:39:02Z",
+      "score": 13,
       "comment_count": 0,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -348,7 +387,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50622623",
       "category": "Web",
       "posted_at": "2026-11-24T02:06:09Z",
-      "fetched_at": "2026-11-26T08:28:10Z",
+      "fetched_at": "2026-11-26T21:39:02Z",
       "score": 9,
       "comment_count": 0,
       "score_gain_24h_observed": null,
@@ -405,6 +444,29 @@
       "snippet": ""
     },
     {
+      "id": "HN-50657069",
+      "hn_id": 50657069,
+      "title": "Show HN: Dev-Mem – Local-first SQLite knowledge graph for AI coding agents",
+      "url": "https://github.com/HarsH-1877/Dev-Mem",
+      "hn_url": "https://news.ycombinator.com/item?id=50657069",
+      "category": "AI",
+      "posted_at": "2026-11-26T16:51:34Z",
+      "fetched_at": "2026-11-26T21:40:01Z",
+      "score": 6,
+      "comment_count": 0,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "ai coding",
+        "coding agents"
+      ],
+      "selection_hints": [
+        "AI",
+        "coding"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50587246",
       "hn_id": 50587246,
       "title": "Google rolls out new search homepage with AI chat history and no search button",
@@ -454,12 +516,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50644817",
       "category": "Security",
       "posted_at": "2026-11-25T17:18:26Z",
-      "fetched_at": "2026-11-26T08:29:02Z",
-      "score": 1382,
-      "comment_count": 582,
-      "score_gain_24h_observed": 562,
-      "comment_gain_24h_observed": 241,
-      "keywords": [],
+      "fetched_at": "2026-11-26T21:39:02Z",
+      "score": 1622,
+      "comment_count": 699,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "security incident"
+      ],
       "selection_hints": [
         "security"
       ],
@@ -473,8 +537,8 @@
       "hn_url": "https://news.ycombinator.com/item?id=50609685",
       "category": "Other",
       "posted_at": "2026-11-23T10:06:43Z",
-      "fetched_at": "2026-11-26T08:28:10Z",
-      "score": 1179,
+      "fetched_at": "2026-11-26T21:39:02Z",
+      "score": 1180,
       "comment_count": 386,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
@@ -511,9 +575,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50627340",
       "category": "AI",
       "posted_at": "2026-11-24T12:40:15Z",
-      "fetched_at": "2026-11-26T08:28:10Z",
-      "score": 1013,
-      "comment_count": 410,
+      "fetched_at": "2026-11-26T21:39:02Z",
+      "score": 1026,
+      "comment_count": 412,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
@@ -523,6 +587,27 @@
       "snippet": ""
     },
     {
+      "id": "HN-50647673",
+      "hn_id": 50647673,
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "hn_url": "https://news.ycombinator.com/item?id=50647673",
+      "category": "AI",
+      "posted_at": "2026-11-25T21:18:02Z",
+      "fetched_at": "2026-11-26T21:39:02Z",
+      "score": 636,
+      "comment_count": 510,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [
+        "york times"
+      ],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": "https://archive.ph/pcUgy"
+    },
+    {
       "id": "HN-50603845",
       "hn_id": 50603845,
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
@@ -530,9 +615,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50603845",
       "category": "AI",
       "posted_at": "2026-11-22T21:01:16Z",
-      "fetched_at": "2026-11-26T08:28:10Z",
-      "score": 777,
-      "comment_count": 318,
+      "fetched_at": "2026-11-26T21:39:02Z",
+      "score": 780,
+      "comment_count": 319,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -592,9 +677,9 @@
       "hn_url": "https://news.ycombinator.com/item?id=50616933",
       "category": "Security",
       "posted_at": "2026-11-23T18:48:10Z",
-      "fetched_at": "2026-11-26T08:28:10Z",
-      "score": 631,
-      "comment_count": 179,
+      "fetched_at": "2026-11-26T21:39:02Z",
+      "score": 633,
+      "comment_count": 180,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [
@@ -613,14 +698,33 @@
       "hn_url": "https://news.ycombinator.com/item?id=50595537",
       "category": "AI",
       "posted_at": "2026-11-22T02:10:02Z",
-      "fetched_at": "2026-11-26T08:28:10Z",
+      "fetched_at": "2026-11-26T21:39:02Z",
       "score": 181,
-      "comment_count": 567,
+      "comment_count": 568,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "AI"
+      ],
+      "snippet": ""
+    },
+    {
+      "id": "HN-50637686",
+      "hn_id": 50637686,
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "hn_url": "https://news.ycombinator.com/item?id=50637686",
+      "category": "AI",
+      "posted_at": "2026-11-25T02:34:21Z",
+      "fetched_at": "2026-11-26T21:39:02Z",
+      "score": 462,
+      "comment_count": 216,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "inference"
       ],
       "snippet": ""
     },
@@ -646,44 +750,23 @@
       "snippet": ""
     },
     {
-      "id": "HN-50637686",
-      "hn_id": 50637686,
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "hn_url": "https://news.ycombinator.com/item?id=50637686",
-      "category": "AI",
-      "posted_at": "2026-11-25T02:34:21Z",
-      "fetched_at": "2026-11-26T08:28:10Z",
-      "score": 457,
-      "comment_count": 198,
+      "id": "HN-50647181",
+      "hn_id": 50647181,
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "hn_url": "https://news.ycombinator.com/item?id=50647181",
+      "category": "Security",
+      "posted_at": "2026-11-25T20:38:00Z",
+      "fetched_at": "2026-11-26T21:39:02Z",
+      "score": 404,
+      "comment_count": 254,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
-        "inference"
+        "security"
       ],
       "snippet": ""
-    },
-    {
-      "id": "HN-50647673",
-      "hn_id": 50647673,
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "hn_url": "https://news.ycombinator.com/item?id=50647673",
-      "category": "AI",
-      "posted_at": "2026-11-25T21:18:02Z",
-      "fetched_at": "2026-11-26T08:29:02Z",
-      "score": 350,
-      "comment_count": 298,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "york times"
-      ],
-      "selection_hints": [
-        "AI"
-      ],
-      "snippet": "https://archive.ph/pcUgy"
     },
     {
       "id": "HN-50620822",
@@ -728,6 +811,25 @@
       "snippet": ""
     },
     {
+      "id": "HN-50657307",
+      "hn_id": 50657307,
+      "title": "Tracking Diseases Cured by AI",
+      "url": "https://diseasescuredbyai.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50657307",
+      "category": "AI",
+      "posted_at": "2026-11-26T17:16:41Z",
+      "fetched_at": "2026-11-26T21:40:01Z",
+      "score": 284,
+      "comment_count": 175,
+      "score_gain_24h_observed": null,
+      "comment_gain_24h_observed": null,
+      "keywords": [],
+      "selection_hints": [
+        "AI"
+      ],
+      "snippet": ""
+    },
+    {
       "id": "HN-50599762",
       "hn_id": 50599762,
       "title": "Show HN: I built a game where you are an LLM's subagent",
@@ -735,112 +837,14 @@
       "hn_url": "https://news.ycombinator.com/item?id=50599762",
       "category": "AI",
       "posted_at": "2026-11-22T13:56:58Z",
-      "fetched_at": "2026-11-26T08:28:10Z",
-      "score": 360,
+      "fetched_at": "2026-11-26T21:39:02Z",
+      "score": 362,
       "comment_count": 90,
       "score_gain_24h_observed": null,
       "comment_gain_24h_observed": null,
       "keywords": [],
       "selection_hints": [
         "LLM"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50630594",
-      "hn_id": 50630594,
-      "title": "Active intrusion campaign against Check Point security management servers",
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "hn_url": "https://news.ycombinator.com/item?id=50630594",
-      "category": "Security",
-      "posted_at": "2026-11-24T16:32:17Z",
-      "fetched_at": "2026-11-26T08:28:10Z",
-      "score": 297,
-      "comment_count": 152,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "security"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50610334",
-      "hn_id": 50610334,
-      "title": "The next circle of security hell",
-      "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
-      "hn_url": "https://news.ycombinator.com/item?id=50610334",
-      "category": "Security",
-      "posted_at": "2026-11-23T11:34:16Z",
-      "fetched_at": "2026-11-26T08:28:10Z",
-      "score": 264,
-      "comment_count": 166,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "security"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50581110",
-      "hn_id": 50581110,
-      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-      "hn_url": "https://news.ycombinator.com/item?id=50581110",
-      "category": "Other",
-      "posted_at": "2026-11-20T20:03:59Z",
-      "fetched_at": "2026-11-25T21:45:59Z",
-      "score": 290,
-      "comment_count": 124,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "coding"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50604988",
-      "hn_id": 50604988,
-      "title": "GL.iNet Security Notice 2026-11-20",
-      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-      "hn_url": "https://news.ycombinator.com/item?id=50604988",
-      "category": "Security",
-      "posted_at": "2026-11-22T23:06:37Z",
-      "fetched_at": "2026-11-26T08:28:10Z",
-      "score": 276,
-      "comment_count": 128,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [
-        "2026 11",
-        "11 20"
-      ],
-      "selection_hints": [
-        "security"
-      ],
-      "snippet": ""
-    },
-    {
-      "id": "HN-50647181",
-      "hn_id": 50647181,
-      "title": "Slow Ubuntu security response times",
-      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "hn_url": "https://news.ycombinator.com/item?id=50647181",
-      "category": "Security",
-      "posted_at": "2026-11-25T20:38:00Z",
-      "fetched_at": "2026-11-26T08:29:02Z",
-      "score": 275,
-      "comment_count": 122,
-      "score_gain_24h_observed": null,
-      "comment_gain_24h_observed": null,
-      "keywords": [],
-      "selection_hints": [
-        "security"
       ],
       "snippet": ""
     }
